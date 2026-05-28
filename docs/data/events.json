@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-05-28T18:18:12.953Z",
-  "totalEvents": 453,
+  "scrapedAt": "2026-05-28T19:02:26.977Z",
+  "totalEvents": 482,
   "errors": [],
   "events": [
     {
@@ -13,17 +13,6 @@
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41390"
-    },
-    {
-      "source": "nac",
-      "title": "SoundProof",
-      "subtitle": "Jukebox Lunch Concerts",
-      "date": "2026-05-28",
-      "rawDate": "2026-05-28",
-      "time": "12:10 p.m.",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "Jukebox Lunch Concerts",
-      "url": "https://nac-cna.ca/en/event/41123"
     },
     {
       "source": "nac",
@@ -247,6 +236,17 @@
     },
     {
       "source": "nac",
+      "title": "Mani reçoit Robert Lepage",
+      "subtitle": "Pre-show talk",
+      "date": "2026-06-05",
+      "rawDate": "2026-06-05",
+      "time": "6:15 p.m.",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "Pre-show talk",
+      "url": "https://nac-cna.ca/en/event/41586"
+    },
+    {
+      "source": "nac",
       "title": "Macbeth",
       "subtitle": "Shakespearean tragedy meets Robert Lepage",
       "date": "2026-06-05",
@@ -376,17 +376,6 @@
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40927"
-    },
-    {
-      "source": "nac",
-      "title": "Les lundis des tout-petits",
-      "subtitle": "French story time with Luana",
-      "date": "2026-06-08",
-      "rawDate": "2026-06-08",
-      "time": "10:00 a.m.",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "French story time with Luana",
-      "url": "https://nac-cna.ca/en/event/40565"
     },
     {
       "source": "nac",
@@ -4640,6 +4629,307 @@
       "venue": "Thirteen Strings",
       "description": null,
       "url": "https://thirteenstrings.ca/product/fundraising-reception-for-thirteen-strings/"
+    },
+    {
+      "source": "manual",
+      "title": "Test Event",
+      "date": "2026-05-28",
+      "rawDate": "2026-05-28",
+      "time": "19:00",
+      "venue": "City Hall",
+      "description": "A test event",
+      "category": "music",
+      "url": "https://ottawa.ca"
+    },
+    {
+      "source": "bronson",
+      "title": "JINJER",
+      "date": "2026-06-05",
+      "rawDate": "Friday, Jun 5, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jinjer/"
+    },
+    {
+      "source": "bronson",
+      "title": "Anubhav Singh Bassi",
+      "date": "2026-06-06",
+      "rawDate": "Saturday, Jun 6, Doors: 8pm",
+      "time": "20:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/anubhav-singh-bassi/"
+    },
+    {
+      "source": "bronson",
+      "title": "Illscarlett – Celebrating 20 Years of EPdemic",
+      "date": "2026-06-12",
+      "rawDate": "Friday, Jun 12, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/illscarlett-celebrating-20-years-of-epdemic/"
+    },
+    {
+      "source": "bronson",
+      "title": "OTTAWA GOES LATIN",
+      "date": "2026-06-13",
+      "rawDate": "Saturday, Jun 13, Doors: 9pm",
+      "time": "21:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/ottawa-goes-latin/"
+    },
+    {
+      "source": "bronson",
+      "title": "Tim Hicks",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, Jun 14, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/tim-hicks/"
+    },
+    {
+      "source": "bronson",
+      "title": "JESSI CRUICKSHANK DJ’s: EVENING CLUB – A Dance Party",
+      "date": "2026-06-19",
+      "rawDate": "Friday, Jun 19, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jessi-cruickshank-djs-evening-club-a-dance-party/"
+    },
+    {
+      "source": "bronson",
+      "title": "Wintersleep",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, Jun 20, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/wintersleep/"
+    },
+    {
+      "source": "bronson",
+      "title": "Taj Mahal & the Phantom Blues Band",
+      "date": "2026-07-03",
+      "rawDate": "Friday, Jul 3, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/taj-mahal-and-the-phantom-blues-band/"
+    },
+    {
+      "source": "bronson",
+      "title": "Time Fades Away: Neil Young @ 80",
+      "date": "2026-07-16",
+      "rawDate": "Thursday, Jul 16, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/time-fades-away-ny-80/"
+    },
+    {
+      "source": "bronson",
+      "title": "Magic Men – Canada Tour 2026",
+      "date": "2026-07-31",
+      "rawDate": "Friday, Jul 31, Doors: 7:30pm",
+      "time": "19:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/magic-men-canada-tour-2026/"
+    },
+    {
+      "source": "bronson",
+      "title": "DAAAM! The Hip Hop Party with Special Guests Tha Alkaholiks",
+      "date": "2026-08-07",
+      "rawDate": "Friday, Aug 7, Doors: 8pm",
+      "time": "20:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/daaam-the-hip-hop-party-with-special-guests-tha-alkaholiks/"
+    },
+    {
+      "source": "bronson",
+      "title": "Rock of the 80s w/ China Crisis, Big Country, The Icicle Works, The Vapors",
+      "date": "2026-08-19",
+      "rawDate": "Wednesday, Aug 19, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/rock-of-80s-w-china-crisis-big-country-the-icicle-works-the-vapors/"
+    },
+    {
+      "source": "bronson",
+      "title": "Swervedriver",
+      "date": "2026-08-20",
+      "rawDate": "Thursday, Aug 20, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/swervedriver/"
+    },
+    {
+      "source": "bronson",
+      "title": "PITBULL! PRIDE OTTAWA",
+      "date": "2026-08-29",
+      "rawDate": "Saturday, Aug 29, Doors: 10pm",
+      "time": "22:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/pitbull-pride-ottawa/"
+    },
+    {
+      "source": "bronson",
+      "title": "Michel Pagliaro – Deux Voix Une Capitale",
+      "date": "2026-09-05",
+      "rawDate": "Saturday, Sep 5, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/michel-pagliaro-deux-voix-une-capital/"
+    },
+    {
+      "source": "bronson",
+      "title": "Jon Spencer",
+      "date": "2026-09-09",
+      "rawDate": "Wednesday, Sep 9, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jon-spencer/"
+    },
+    {
+      "source": "bronson",
+      "title": "SUN KIL MOON (FKA/AKA: Mark Kozelek)",
+      "date": "2026-09-11",
+      "rawDate": "Friday, Sep 11, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/sun-kil-moon-fka-aka-mark-kozelek/"
+    },
+    {
+      "source": "bronson",
+      "title": "HATEBREED: SUMMER SLAUGHTER TOUR 2025",
+      "date": "2026-09-12",
+      "rawDate": "Saturday, Sep 12, Doors: 4:30pm",
+      "time": "16:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/hatebreed-summer-slaughter-tour-2025/"
+    },
+    {
+      "source": "bronson",
+      "title": "Tinariwen",
+      "date": "2026-09-16",
+      "rawDate": "Wednesday, Sep 16, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/tinariwen/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Story Of Nirvana w/El Niven",
+      "date": "2026-09-25",
+      "rawDate": "Friday, Sep 25, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-story-of-nirvana/"
+    },
+    {
+      "source": "bronson",
+      "title": "Daniel Lanois",
+      "date": "2026-09-27",
+      "rawDate": "Sunday, Sep 27, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/daniel-lanois-deux-voix-une-capitale/"
+    },
+    {
+      "source": "bronson",
+      "title": "DESPISED ICON",
+      "date": "2026-10-10",
+      "rawDate": "Saturday, Oct 10, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/despised-icon-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "Buffalo Traffic Jam",
+      "date": "2026-10-12",
+      "rawDate": "Monday, Oct 12, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/buffalo-traffic-jam/"
+    },
+    {
+      "source": "bronson",
+      "title": "Bob The Drag Queen",
+      "date": "2026-10-16",
+      "rawDate": "Friday, Oct 16, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/now-clap-bob-the-drag-queens-on-tour/"
+    },
+    {
+      "source": "bronson",
+      "title": "Joep Beving",
+      "date": "2026-10-17",
+      "rawDate": "Saturday, Oct 17, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/joep-beving/"
+    },
+    {
+      "source": "bronson",
+      "title": "AMBLE",
+      "date": "2026-11-03",
+      "rawDate": "Tuesday, Nov 3, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/amble/"
+    },
+    {
+      "source": "bronson",
+      "title": "MODI",
+      "date": "2026-11-19",
+      "rawDate": "Thursday, Nov 19, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/modi/"
+    },
+    {
+      "source": "bronson",
+      "title": "Akaash Singh",
+      "date": "2026-11-21",
+      "rawDate": "Saturday, Nov 21, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/akaash-singh/"
+    },
+    {
+      "source": "bronson",
+      "title": "THE BOUNCING SOULS with The Suicide Machines",
+      "date": "2026-12-06",
+      "rawDate": "Sunday, Dec 6, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-bouncing-souls-with-the-suicide-machines/"
     }
   ]
 }
