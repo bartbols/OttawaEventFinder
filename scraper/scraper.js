@@ -427,7 +427,7 @@ async function runScraper() {
   console.log("========================");
   console.log(`Started: ${new Date().toLocaleString("en-CA")}\n`);
 
-  const scrapers = [scrapeNAC, scrapeNationalGallery, scrapeBluesFest, scrapeJazzFest, scrapeOttawaGigs, scrapeRedBird, scrapeIrenesPub, scrapeGladstone, scrapeGCTC, scrapeBlackSheep, scrapeOttawaPops, scrapeOrkidstra, scrapeThirteenStrings];
+  const scrapers = [scrapeNAC, scrapeNationalGallery, scrapeBluesFest, scrapeJazzFest, scrapeOttawaGigs, scrapeRedBird, scrapeIrenesPub, scrapeGladstone, scrapeGCTC, scrapeBlackSheep, scrapeOttawaPops, scrapeOrkidstra, scrapeThirteenStrings, scrapeGoogleSheet];
   const allEvents = [];
   const errors = [];
 
@@ -896,5 +896,64 @@ async function scrapeThirteenStrings() {
     console.log("    Thirteen Strings unreachable:", e.message);
   }
   console.log(`    Found ${events.length} Thirteen Strings events`);
+  return events;
+}
+
+
+
+async function scrapeGoogleSheet() {
+  // Public Google Sheet — read-only CSV export, no API key needed
+  // Columns: title, date, time, venue, url, description, category
+  console.log("  Scraping Google Sheet (manual events)...");
+  const events = [];
+  const SHEET_ID = "1hqa-QdXf3EABAZbrPQKpEyyHKI2YcNB0DPRRfXsNlGg";
+  const CSV_URL = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=0`;
+
+  try {
+    const res = await fetch(CSV_URL, { headers: HEADERS });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const text = await res.text();
+
+    const lines = text.trim().split("\n");
+    if (lines.length < 2) { console.log("    No manual events in sheet"); return []; }
+
+    // Parse header row to find column indices (case-insensitive)
+    const headers = lines[0].split(",").map(h => h.trim().toLowerCase().replace(/^"|"$/g, ""));
+    const col = name => headers.indexOf(name);
+
+    for (let i = 1; i < lines.length; i++) {
+      // Handle quoted CSV fields
+      const row = lines[i].match(/("(?:[^"]|"")*"|[^,]*),?/g)
+        ?.map(f => f.replace(/,$/, "").replace(/^"|"$/g, "").replace(/""/g, '"').trim()) || [];
+
+      const title = row[col("title")] || "";
+      const date  = row[col("date")]  || "";
+      const time  = row[col("time")]  || null;
+      const venue = row[col("venue")] || null;
+      const url   = row[col("url")]   || "https://docs.google.com/spreadsheets/d/" + SHEET_ID;
+      const desc  = row[col("description")] || null;
+      const cat   = row[col("category")]?.toLowerCase() || null;
+
+      if (!title || !date) continue;
+      // Basic date validation — must look like YYYY-MM-DD
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) continue;
+
+      events.push({
+        source: "manual",
+        title,
+        date,
+        rawDate: date,
+        time: time || null,
+        venue: venue || null,
+        description: desc?.slice(0, 200) || null,
+        category: cat || null,
+        url,
+      });
+    }
+  } catch(e) {
+    console.log("    Google Sheet unreachable:", e.message);
+  }
+
+  console.log(`    Found ${events.length} manual events`);
   return events;
 }
