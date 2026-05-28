@@ -353,8 +353,10 @@
 
   function fmtTime(t) {
     if (!t) return "";
-    const [h, m] = t.split(":").map(Number);
-    if (isNaN(h)) return t;
+    const parts = t.split(":");
+    const h = parseInt(parts[0], 10);
+    const m = parseInt(parts[1], 10) || 0;
+    if (isNaN(h)) return "";
     const suffix = h >= 12 ? "pm" : "am";
     const hour = h % 12 || 12;
     return m === 0 ? `${hour}${suffix}` : `${hour}:${String(m).padStart(2,"0")}${suffix}`;
@@ -389,7 +391,7 @@
         <div class="event-time">${esc(time)}</div>
         <div class="event-body">
           <div class="event-title">${esc(ev.title)}</div>
-          <div class="event-venue">${esc(src.name)}${ev.venue && ev.venue !== src.name ? " · " + esc(ev.venue) : ""}</div>
+          <div class="event-venue">${esc(src.name)}${ev.venue && ev.venue !== src.name && !ev.venue.startsWith("http") ? " · " + esc(ev.venue) : ""}</div>
         </div>
         <div class="event-arrow">↗</div>
       </a>`;
