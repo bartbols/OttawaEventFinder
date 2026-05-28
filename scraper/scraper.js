@@ -427,7 +427,7 @@ async function runScraper() {
   console.log("========================");
   console.log(`Started: ${new Date().toLocaleString("en-CA")}\n`);
 
-  const scrapers = [scrapeNAC, scrapeNationalGallery, scrapeBluesFest, scrapeJazzFest, scrapeOttawaGigs, scrapeRedBird, scrapeIrenesPub, scrapeGladstone, scrapeGCTC, scrapeBlackSheep, scrapeOttawaPops, scrapeOrkidstra, scrapeThirteenStrings, scrapeGoogleSheet];
+  const scrapers = [scrapeNAC, scrapeNationalGallery, scrapeBluesFest, scrapeJazzFest, scrapeOttawaGigs, scrapeRedBird, scrapeIrenesPub, scrapeGladstone, scrapeGCTC, scrapeBlackSheep, scrapeOttawaPops, scrapeOrkidstra, scrapeThirteenStrings, scrapeGoogleSheet, scrapeBronson];
   const allEvents = [];
   const errors = [];
 
@@ -955,5 +955,85 @@ async function scrapeGoogleSheet() {
   }
 
   console.log(`    Found ${events.length} manual events`);
+  return events;
+}
+
+async function scrapeBronson() {
+  // Custom WordPress theme — events at /events/ with pagination
+  // Structure: article.event-item > header.event-date + div.event-title > a
+  console.log("  Scraping The Bronson...");
+  const events = [];
+  const BASE = "https://bronsoncentremusictheatre.com";
+  const seen = new Set();
+
+  const MONTH_MAP = {
+    Jan:"01",Feb:"02",Mar:"03",Apr:"04",May:"05",Jun:"06",
+    Jul:"07",Aug:"08",Sep:"09",Oct:"10",Nov:"11",Dec:"12"
+  };
+
+  function parseBronsonDate(raw) {
+    // "Friday, Jun 5, Doors: 6pm" or "Thursday, Jul 16, Doors: 7pm"
+    const m = raw.match(/(\w{3})\s+(\d{1,2})/);
+    if (!m) return { date: null, time: null };
+    const month = MONTH_MAP[m[1]];
+    if (!month) return { date: null, time: null };
+    const day = m[2].padStart(2,"0");
+    const year = new Date().getFullYear();
+    // If month is earlier than current month, it's next year
+    const curMonth = new Date().getMonth() + 1;
+    const eventYear = parseInt(month) < curMonth ? year + 1 : year;
+    const date = `${eventYear}-${month}-${day}`;
+    // Extract time: "Doors: 6pm" → "18:00"
+    const tm = raw.match(/Doors:\s*(\d{1,2})(?::(\d{2}))?\s*(am|pm)/i);
+    let time = null;
+    if (tm) {
+      let h = parseInt(tm[1]);
+      const mins = tm[2] || "00";
+      if (tm[3].toLowerCase() === "pm" && h !== 12) h += 12;
+      if (tm[3].toLowerCase() === "am" && h === 12) h = 0;
+      time = `${String(h).padStart(2,"0")}:${mins}`;
+    }
+    return { date, time };
+  }
+
+  try {
+    let page = 1;
+    while (page <= 5) {
+      const url = page === 1 ? `${BASE}/events/` : `${BASE}/events/page/${page}/`;
+      const html = await fetchHTML(url);
+      const $ = cheerio.load(html);
+      const items = $("article.event-item");
+      if (items.length === 0) break;
+
+      items.each((_, el) => {
+        const rawDate = $(el).find("header.event-date").text().trim();
+        const titleEl = $(el).find("div.event-title a");
+        const title = titleEl.text().trim();
+        const href = titleEl.attr("href") || "";
+        if (!title || !href || seen.has(href)) return;
+        seen.add(href);
+        const { date, time } = parseBronsonDate(rawDate);
+        if (!date) return;
+        events.push({
+          source: "bronson",
+          title,
+          date,
+          rawDate,
+          time,
+          venue: "The Bronson",
+          description: null,
+          url: href,
+        });
+      });
+
+      // Check if there's a next page
+      if ($("a[href*='/events/page/']").length === 0 && page > 1) break;
+      page++;
+    }
+  } catch(e) {
+    console.log("    Bronson unreachable:", e.message);
+  }
+
+  console.log(`    Found ${events.length} Bronson events`);
   return events;
 }
