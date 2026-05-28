@@ -1,0 +1,5 @@
+node_modules/
+scraper/data/
+.env
+*.env
+Entertain Ottawa Listings.docx

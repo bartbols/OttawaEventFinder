@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ottawa Events</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f5f4f0;
+      --surface: #ffffff;
+      --border: #e4e2dc;
+      --text: #1a1917;
+      --muted: #6b6762;
+      --hint: #a09d99;
+      --music: #2563eb;
+      --theatre: #7c3aed;
+      --art: #059669;
+      --other: #6b6762;
+      --radius: 10px;
+    }
+
+    body {
+      font-family: "Inter", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      font-size: 15px;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 0.5px solid var(--border);
+      padding: 1.5rem 2rem 0;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .header-top {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      margin-bottom: 1.25rem;
+    }
+
+    .site-title {
+      font-size: 22px;
+      font-weight: 500;
+      color: var(--text);
+      letter-spacing: -0.02em;
+    }
+
+    .site-sub {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+
+    .search-row {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+
+    input[type="date"] {
+      border: 0.5px solid var(--border);
+      border-radius: var(--radius);
+      padding: 8px 12px;
+      font-size: 14px;
+      font-family: inherit;
+      color: var(--text);
+      background: var(--bg);
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    input[type="date"]:focus { border-color: var(--text); }
+
+    .search-btn {
+      background: var(--text);
+      color: var(--surface);
+      border: none;
+      border-radius: var(--radius);
+      padding: 8px 18px;
+      font-size: 14px;
+      font-family: inherit;
+      font-weight: 500;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: opacity 0.15s;
+    }
+    .search-btn:hover { opacity: 0.85; }
+    .search-btn:disabled { opacity: 0.4; cursor: default; }
+
+    /* ── Category tabs ── */
+    .cat-tabs {
+      display: flex;
+      gap: 0;
+      border-bottom: 0.5px solid var(--border);
+    }
+
+    .cat-tab {
+      font-size: 13px;
+      font-family: inherit;
+      padding: 8px 16px;
+      color: var(--muted);
+      cursor: pointer;
+      border: none;
+      background: none;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -0.5px;
+      transition: color 0.15s;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .cat-tab:hover { color: var(--text); }
+    .cat-tab.active { color: var(--text); border-bottom-color: var(--text); font-weight: 500; }
+
+    .cat-count {
+      font-size: 11px;
+      background: var(--bg);
+      border-radius: 99px;
+      padding: 1px 7px;
+      color: var(--muted);
+    }
+    .cat-tab.active .cat-count { background: var(--text); color: var(--surface); }
+
+    /* ── Main ── */
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 1.5rem 1.5rem;
+    }
+
+    /* ── Status ── */
+    #status {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+
+    /* ── Event list ── */
+    .event-row {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      padding: 11px 0;
+      border-bottom: 0.5px solid var(--border);
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+    }
+    .event-row:first-child { border-top: 0.5px solid var(--border); }
+    .event-row:hover .event-title { color: var(--muted); }
+
+    .event-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      margin-top: 6px;
+    }
+    .dot-music    { background: var(--music); }
+    .dot-theatre  { background: var(--theatre); }
+    .dot-art      { background: var(--art); }
+    .dot-other    { background: var(--hint); }
+
+    .event-time {
+      font-size: 13px;
+      color: var(--muted);
+      min-width: 46px;
+      flex-shrink: 0;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .event-body { flex: 1; min-width: 0; }
+
+    .event-title {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      transition: color 0.1s;
+    }
+
+    .event-venue {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 1px;
+    }
+
+    .event-arrow {
+      font-size: 13px;
+      color: var(--hint);
+      flex-shrink: 0;
+    }
+
+    /* ── Empty / loading ── */
+    .empty-state {
+      text-align: center;
+      padding: 4rem 1rem;
+      color: var(--muted);
+    }
+    .empty-state .icon { font-size: 2rem; margin-bottom: 0.75rem; }
+    .empty-state p { font-size: 14px; }
+
+    /* ── Legend ── */
+    .legend {
+      display: flex;
+      gap: 1.25rem;
+      padding: 0.75rem 0;
+      border-top: 0.5px solid var(--border);
+      margin-top: 0.5rem;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .legend-dot {
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 12px;
+      color: var(--hint);
+      border-top: 0.5px solid var(--border);
+      margin-top: 2rem;
+    }
+
+    @media (max-width: 600px) {
+      header { padding: 1.25rem 1rem 0; }
+      main { padding: 1rem; }
+      .search-row { flex-wrap: wrap; }
+      input[type="date"] { flex: 1; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-top">
+    <div>
+      <div class="site-title">Ottawa events</div>
+      <div class="site-sub">Cultural events from local venues</div>
+    </div>
+  </div>
+  <div class="search-row">
+    <input type="date" id="date-input" />
+    <button class="search-btn" id="search-btn" onclick="searchEvents()">Search</button>
+  </div>
+  <div class="cat-tabs" id="cat-tabs">
+    <button class="cat-tab active" data-cat="all" onclick="setTab(this)">All <span class="cat-count" id="count-all">0</span></button>
+    <button class="cat-tab" data-cat="music" onclick="setTab(this)">Music <span class="cat-count" id="count-music">0</span></button>
+    <button class="cat-tab" data-cat="theatre" onclick="setTab(this)">Theatre <span class="cat-count" id="count-theatre">0</span></button>
+    <button class="cat-tab" data-cat="art" onclick="setTab(this)">Art <span class="cat-count" id="count-art">0</span></button>
+    <button class="cat-tab" data-cat="other" onclick="setTab(this)">Other <span class="cat-count" id="count-other">0</span></button>
+  </div>
+</header>
+
+<main>
+  <div id="status"></div>
+  <div id="events-container">
+    <div class="empty-state">
+      <div class="icon">🎭</div>
+      <p>Select a date to discover what's on in Ottawa.</p>
+    </div>
+  </div>
+</main>
+
+<footer>
+  Data scraped nightly from Ottawa venue websites.
+</footer>
+
+<script>
+  const DATA_URL = "./data/events.json";
+
+  const SOURCES = {
+    nac:             { name: "National Arts Centre",  url: "https://nac-cna.ca/en/" },
+    gallery:         { name: "National Gallery",      url: "https://www.gallery.ca" },
+    blues:           { name: "Blues Fest Ottawa",     url: "https://ottawabluesfest.ca" },
+    jazz:            { name: "Ottawa Jazz Festival",  url: "https://ottawajazzfestival.com" },
+    gigs:            { name: "Ottawa Gigs",           url: "https://ottawagigs.ca/" },
+    redbird:         { name: "Red Bird Live",         url: "https://www.redbirdlive.ca/shows" },
+    irenes:          { name: "Irene's Pub",           url: "https://irenespub.ca/events" },
+    gladstone:       { name: "The Gladstone",         url: "https://thegladstone.ca/upcoming-shows/" },
+    gctc:            { name: "GCTC",                  url: "https://www.gctc.ca/buy-tickets" },
+    blacksheep:      { name: "Black Sheep Inn",       url: "https://www.theblacksheep.ca/shows" },
+    ottawapops:      { name: "Ottawa Pops Orchestra", url: "https://www.ottawapopsorchestra.ca/events" },
+    orkidstra:       { name: "Orkidstra",             url: "https://orkidstra.ca/events" },
+    thirteenstrings: { name: "Thirteen Strings",      url: "https://thirteenstrings.ca/events" },
+    manual:          { name: "Community",             url: "#" },
+  };
+
+  // ── Category classification ──────────────────────────────────────────
+  const SOURCE_CAT = {
+    irenes: "music", redbird: "music", blues: "music", jazz: "music",
+    gigs: "music", ottawapops: "music", thirteenstrings: "music", orkidstra: "music",
+    gladstone: "theatre", gctc: "theatre",
+    gallery: "art",
+    nac: null, blacksheep: "music", manual: null,
+  };
+
+  const MUSIC_WORDS   = /\b(concert|jazz|blues|folk|rock|band|music|orchestra|symphony|choir|sing|song|perform|duo|trio|quartet|quintet|festival|fest|open\s*mic|acoustic|set|gig|show|tour|album|vinyl|dj|live)\b/i;
+  const THEATRE_WORDS = /\b(play|theatre|theater|show|comedy|improv|stand.?up|cabaret|musical|drama|monologue|storytell|reading|spoken\s*word|burlesque|magic|circus|dance|ballet|opera|puppet)\b/i;
+  const ART_WORDS     = /\b(exhibit|gallery|art|paint|sculpt|photo|film|screen|cinema|movie|lecture|talk|panel|workshop|install|visual|curate|opening|vernissage)\b/i;
+
+  function classify(ev) {
+    if (ev.category) return ev.category;
+    const base = SOURCE_CAT[ev.source];
+    if (base) return base;
+    const text = (ev.title + " " + (ev.description || "")).toLowerCase();
+    if (MUSIC_WORDS.test(text))   return "music";
+    if (THEATRE_WORDS.test(text)) return "theatre";
+    if (ART_WORDS.test(text))     return "art";
+    return "other";
+  }
+
+  // ── State ────────────────────────────────────────────────────────────
+  let allEvents = [];
+  let activeTab = "all";
+
+  function setTab(btn) {
+    document.querySelectorAll(".cat-tab").forEach(t => t.classList.remove("active"));
+    btn.classList.add("active");
+    activeTab = btn.dataset.cat;
+    renderList();
+  }
+
+  function updateCounts(events) {
+    const counts = { all: events.length, music: 0, theatre: 0, art: 0, other: 0 };
+    events.forEach(e => counts[e._cat] = (counts[e._cat] || 0) + 1);
+    Object.keys(counts).forEach(k => {
+      const el = document.getElementById("count-" + k);
+      if (el) el.textContent = counts[k];
+    });
+  }
+
+  function fmtTime(t) {
+    if (!t) return "";
+    const [h, m] = t.split(":").map(Number);
+    if (isNaN(h)) return t;
+    const suffix = h >= 12 ? "pm" : "am";
+    const hour = h % 12 || 12;
+    return m === 0 ? `${hour}${suffix}` : `${hour}:${String(m).padStart(2,"0")}${suffix}`;
+  }
+
+  function renderList() {
+    const c = document.getElementById("events-container");
+    const filtered = activeTab === "all" ? allEvents : allEvents.filter(e => e._cat === activeTab);
+
+    if (!filtered.length) {
+      c.innerHTML = `<div class="empty-state"><p>No ${activeTab === "all" ? "" : activeTab + " "}events found for this date.</p></div>`;
+      return;
+    }
+
+    // Sort: timed events first, then by time, then untimed alphabetically
+    filtered.sort((a, b) => {
+      if (a.time && b.time) return a.time.localeCompare(b.time);
+      if (a.time) return -1;
+      if (b.time) return 1;
+      return (a.title || "").localeCompare(b.title || "");
+    });
+
+    const dotClass = { music: "dot-music", theatre: "dot-theatre", art: "dot-art", other: "dot-other" };
+
+    c.innerHTML = filtered.map(ev => {
+      const src = SOURCES[ev.source] || { name: ev.source, url: "#" };
+      const dot = dotClass[ev._cat] || "dot-other";
+      const time = fmtTime(ev.time);
+      const url = ev.url || src.url;
+      return `<a class="event-row" href="${esc(url)}" target="_blank" rel="noopener">
+        <div class="event-dot ${dot}"></div>
+        <div class="event-time">${esc(time)}</div>
+        <div class="event-body">
+          <div class="event-title">${esc(ev.title)}</div>
+          <div class="event-venue">${esc(src.name)}${ev.venue && ev.venue !== src.name ? " · " + esc(ev.venue) : ""}</div>
+        </div>
+        <div class="event-arrow">↗</div>
+      </a>`;
+    }).join("") + `<div class="legend">
+      <div class="legend-item"><div class="legend-dot" style="background:var(--music)"></div>Music</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--theatre)"></div>Theatre</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--art)"></div>Art</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--hint)"></div>Other</div>
+    </div>`;
+  }
+
+  function esc(s) {
+    return (s || "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+  }
+
+  async function searchEvents() {
+    const dateVal = document.getElementById("date-input").value;
+    if (!dateVal) return;
+
+    const btn = document.getElementById("search-btn");
+    btn.disabled = true;
+    btn.textContent = "…";
+
+    const displayDate = new Date(dateVal + "T12:00:00").toLocaleDateString("en-CA", {
+      weekday: "long", year: "numeric", month: "long", day: "numeric"
+    });
+
+    try {
+      const resp = await fetch(DATA_URL);
+      if (!resp.ok) throw new Error("Could not load events.json");
+      const data = await resp.json();
+
+      allEvents = (data.events || [])
+        .filter(e => e.date === dateVal)
+        .map(e => ({ ...e, _cat: classify(e) }));
+
+      updateCounts(allEvents);
+      renderList();
+
+      const scrapedMsg = data.scrapedAt
+        ? " · updated " + new Date(data.scrapedAt).toLocaleDateString("en-CA")
+        : "";
+      document.getElementById("status").textContent =
+        allEvents.length > 0
+          ? `${allEvents.length} event${allEvents.length !== 1 ? "s" : ""} on ${displayDate}${scrapedMsg}`
+          : `No events found for ${displayDate} — try another date`;
+
+    } catch(err) {
+      document.getElementById("status").textContent = "⚠️ " + err.message;
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Search";
+    }
+  }
+
+  document.getElementById("date-input").value = new Date().toISOString().split("T")[0];
+  document.getElementById("date-input").addEventListener("keydown", e => { if (e.key === "Enter") searchEvents(); });
+</script>
+</body>
+</html>
