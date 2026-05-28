@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-05-28T19:25:57.973Z",
-  "totalEvents": 536,
+  "scrapedAt": "2026-05-28T19:32:08.776Z",
+  "totalEvents": 542,
   "errors": [],
   "events": [
     {
@@ -1872,6 +1872,16 @@
     },
     {
       "source": "irenes",
+      "title": "Small Fish - A Comedy & Variety Show",
+      "date": "2026-05-27",
+      "rawDate": "May 27",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "Small Fish Show Tickets",
+      "url": "https://irenespub.ca/events/small-fish-a-comedy-variety-show-4"
+    },
+    {
+      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Mark Crissinger",
       "date": "2026-05-28",
       "rawDate": "May 28",
@@ -2482,16 +2492,6 @@
     },
     {
       "source": "irenes",
-      "title": "Small Fish - A Comedy & Variety Show",
-      "date": "2026-05-27",
-      "rawDate": "May 27",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Small Fish Show Tickets",
-      "url": "https://irenespub.ca/events/small-fish-a-comedy-variety-show-4"
-    },
-    {
-      "source": "irenes",
       "title": "Trivia Tuesday",
       "date": "2026-05-26",
       "rawDate": "May 26",
@@ -2779,6 +2779,16 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-04-26",
+      "rawDate": "Apr 26",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue Sarah Osborne",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt"
     },
     {
       "source": "gladstone",
@@ -5470,6 +5480,56 @@
       "venue": "Chamberfest",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/community-in-c-free-outdoor-festival-finale/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "ALabama Shakes",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "CAmeron Whitcomb",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "CArson Cameron",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "ANgus & Julia Stone",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "ALice Cooper",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
     }
   ]
 }

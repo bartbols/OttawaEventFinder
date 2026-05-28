@@ -427,7 +427,7 @@ async function runScraper() {
   console.log("========================");
   console.log(`Started: ${new Date().toLocaleString("en-CA")}\n`);
 
-  const scrapers = [scrapeNAC, scrapeNationalGallery, scrapeBluesFest, scrapeJazzFest, scrapeOttawaGigs, scrapeRedBird, scrapeIrenesPub, scrapeGladstone, scrapeGCTC, scrapeBlackSheep, scrapeOttawaPops, scrapeOrkidstra, scrapeThirteenStrings, scrapeGoogleSheet, scrapeBronson, scrapeChamberfest];
+  const scrapers = [scrapeNAC, scrapeNationalGallery, scrapeBluesFest, scrapeJazzFest, scrapeOttawaGigs, scrapeRedBird, scrapeIrenesPub, scrapeGladstone, scrapeGCTC, scrapeBlackSheep, scrapeOttawaPops, scrapeOrkidstra, scrapeThirteenStrings, scrapeGoogleSheet, scrapeBronson, scrapeChamberfest, scrapeCityFolk];
   const allEvents = [];
   const errors = [];
 
@@ -1084,5 +1084,56 @@ async function scrapeChamberfest() {
   }
 
   console.log(`    Found ${events.length} Chamberfest events`);
+  return events;
+}
+
+async function scrapeCityFolk() {
+  // WordPress site — schedule page has h2 day headings + h3 artist names
+  console.log("  Scraping CityFolk Festival...");
+  const events = [];
+  const BASE = "https://cityfolkfestival.com";
+
+  // Known dates for 2026 festival — Sep 16-20
+  const DAY_DATES = {
+    "wed, sep 16": "2026-09-16",
+    "thu, sep 17": "2026-09-17",
+    "fri, sep 18": "2026-09-18",
+    "sat, sep 19": "2026-09-19",
+    "sun, sep 20": "2026-09-20",
+  };
+
+  try {
+    const html = await fetchHTML(`${BASE}/schedule/`);
+    const $ = cheerio.load(html);
+    let currentDate = null;
+
+    // Walk through h2 (day headings) and h3 (artist names)
+    $("h2, h3").each((_, el) => {
+      const text = $(el).text().trim();
+      if (el.name === "h2") {
+        const key = text.toLowerCase();
+        currentDate = DAY_DATES[key] || null;
+      } else if (el.name === "h3" && currentDate && text.length > 1) {
+        // Skip "Share" and other UI labels
+        if (text.toLowerCase() === "share" || text.length < 2) return;
+        const title = text.charAt(0) + text.slice(1).toLowerCase()
+          .replace(/\b\w/g, c => c.toUpperCase()); // Title case
+        events.push({
+          source: "cityfolk",
+          title,
+          date: currentDate,
+          rawDate: currentDate,
+          time: null,
+          venue: "CityFolk Festival",
+          description: null,
+          url: `${BASE}/schedule/`,
+        });
+      }
+    });
+  } catch(e) {
+    console.log("    CityFolk unreachable:", e.message);
+  }
+
+  console.log(`    Found ${events.length} CityFolk events`);
   return events;
 }
