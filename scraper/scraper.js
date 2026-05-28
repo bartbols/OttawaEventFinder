@@ -427,7 +427,7 @@ async function runScraper() {
   console.log("========================");
   console.log(`Started: ${new Date().toLocaleString("en-CA")}\n`);
 
-  const scrapers = [scrapeNAC, scrapeNationalGallery, scrapeBluesFest, scrapeJazzFest, scrapeOttawaGigs, scrapeRedBird, scrapeIrenesPub, scrapeGladstone, scrapeGCTC, scrapeBlackSheep, scrapeOttawaPops, scrapeOrkidstra, scrapeThirteenStrings, scrapeGoogleSheet, scrapeBronson];
+  const scrapers = [scrapeNAC, scrapeNationalGallery, scrapeBluesFest, scrapeJazzFest, scrapeOttawaGigs, scrapeRedBird, scrapeIrenesPub, scrapeGladstone, scrapeGCTC, scrapeBlackSheep, scrapeOttawaPops, scrapeOrkidstra, scrapeThirteenStrings, scrapeGoogleSheet, scrapeBronson, scrapeChamberfest];
   const allEvents = [];
   const errors = [];
 
@@ -1035,5 +1035,54 @@ async function scrapeBronson() {
   }
 
   console.log(`    Found ${events.length} Bronson events`);
+  return events;
+}
+
+async function scrapeChamberfest() {
+  // WordPress site — events listed as plain links: "Sun Jul 5 2026 Event Title"
+  console.log("  Scraping Chamberfest...");
+  const events = [];
+  const BASE = "https://www.chamberfest.com";
+
+  const MONTH_MAP = {
+    Jan:"01",Feb:"02",Mar:"03",Apr:"04",May:"05",Jun:"06",
+    Jul:"07",Aug:"08",Sep:"09",Oct:"10",Nov:"11",Dec:"12"
+  };
+
+  try {
+    const html = await fetchHTML(`${BASE}/events/`);
+    const $ = cheerio.load(html);
+    const seen = new Set();
+
+    // Events are anchor tags with text like "Sun Jul 5 2026 Event Title"
+    $("a[href*='/event/']").each((_, el) => {
+      const href = $(el).attr("href");
+      if (!href || seen.has(href)) return;
+      const fullText = $(el).text().trim();
+      // Match date prefix: "Sun Jul 5 2026 " or "Thu Jul 23 2026 "
+      const dm = fullText.match(/^(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})\s+(\d{4})\s+(.+)$/i);
+      if (!dm) return;
+      seen.add(href);
+      const month = MONTH_MAP[dm[1]];
+      const day = dm[2].padStart(2, "0");
+      const year = dm[3];
+      const title = dm[4].trim();
+      if (!title || !month) return;
+      events.push({
+        source: "chamberfest",
+        title,
+        date: `${year}-${month}-${day}`,
+        rawDate: `${dm[1]} ${dm[2]} ${year}`,
+        time: null,
+        venue: "Chamberfest",
+        description: null,
+        url: href,
+      });
+    });
+  } catch(e) {
+    console.log("    Chamberfest unreachable:", e.message);
+  }
+
+  console.log(`    Found ${events.length} Chamberfest events`);
   return events;
 }

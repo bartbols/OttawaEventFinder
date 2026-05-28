@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-05-28T19:02:26.977Z",
-  "totalEvents": 482,
+  "scrapedAt": "2026-05-28T19:25:57.973Z",
+  "totalEvents": 536,
   "errors": [],
   "events": [
     {
@@ -1872,26 +1872,6 @@
     },
     {
       "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-05-26",
-      "rawDate": "May 26",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72"
-    },
-    {
-      "source": "irenes",
-      "title": "Small Fish - A Comedy & Variety Show",
-      "date": "2026-05-27",
-      "rawDate": "May 27",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Small Fish Show Tickets",
-      "url": "https://irenespub.ca/events/small-fish-a-comedy-variety-show-4"
-    },
-    {
-      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Mark Crissinger",
       "date": "2026-05-28",
       "rawDate": "May 28",
@@ -2502,6 +2482,26 @@
     },
     {
       "source": "irenes",
+      "title": "Small Fish - A Comedy & Variety Show",
+      "date": "2026-05-27",
+      "rawDate": "May 27",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "Small Fish Show Tickets",
+      "url": "https://irenespub.ca/events/small-fish-a-comedy-variety-show-4"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-05-26",
+      "rawDate": "May 26",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-05-24",
       "rawDate": "May 24",
@@ -2779,26 +2779,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-04-26",
-      "rawDate": "Apr 26",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue Sarah Osborne",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt"
-    },
-    {
-      "source": "irenes",
-      "title": "Renée Landry & the Cool Presents Back to Black  - A Tribute to Amy Winehouse",
-      "date": "2026-04-25",
-      "rawDate": "Apr 25",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/d61g6d9uh6ksbgxt2gjb205g8fxb3n"
     },
     {
       "source": "gladstone",
@@ -4930,6 +4910,566 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/the-bouncing-souls-with-the-suicide-machines/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "VOCES8 at the Isabel",
+      "date": "2026-07-05",
+      "rawDate": "Jul 5 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2025/voces8-isabel/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Prime Time: Gryphon Trio",
+      "date": "2026-07-23",
+      "rawDate": "Jul 23 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/prime-time-gryphon-trio/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Opening Night Opera: Dido and Aeneas",
+      "date": "2026-07-23",
+      "rawDate": "Jul 23 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/opening-night-opera-dido-and-aeneas/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Chamber Chat: John Estacio",
+      "date": "2026-07-24",
+      "rawDate": "Jul 24 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/chamber-chat-john-estacio/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "NMN I: John Estacio at 60",
+      "date": "2026-07-24",
+      "rawDate": "Jul 24 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/nmn-john-estacio-at-60/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Record Centre: Kathryn Patricia Cobbler",
+      "date": "2026-07-24",
+      "rawDate": "Jul 24 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/record-centre-kathryn-patricia-cobbler/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Chamber Chat: Ian Cusson",
+      "date": "2026-07-24",
+      "rawDate": "Jul 24 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/chamber-chat-ian-cusson/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Philip Chiu and Janelle Fung: Return of the Light",
+      "date": "2026-07-24",
+      "rawDate": "Jul 24 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/philip-chiu-janelle-fung-return-of-the-light/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "collectif9 + Ronny Desinor",
+      "date": "2026-07-24",
+      "rawDate": "Jul 24 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/collectif9-ronny-desinor/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Yoga + Cello: Becky Radmore and Julia MacLaine",
+      "date": "2026-07-25",
+      "rawDate": "Jul 25 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/yoga-cello-becky-radmore-and-julia-maclaine/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Bring the Kids: Chocolate Chip Chamber Music",
+      "date": "2026-07-25",
+      "rawDate": "Jul 25 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/bring-the-kids-chocolate-chip-chamber-music/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Schmaltz & Pepper",
+      "date": "2026-07-25",
+      "rawDate": "Jul 25 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/schmaltz-pepper/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Record Centre: Philip Chiu",
+      "date": "2026-07-25",
+      "rawDate": "Jul 25 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/record-centre-philip-chiu/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Chamber Chat: Odesa Classics – Alexey Botvinov & Anna Pompeeva",
+      "date": "2026-07-25",
+      "rawDate": "Jul 25 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/chamber-chat-odesa-classics-alexey-botvinov-anna-pompeeva/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Odesa Classics: Festival in Exile",
+      "date": "2026-07-25",
+      "rawDate": "Jul 25 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/odesa-classics-festival-in-exile/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Elvis Costello’s Juliet Letters",
+      "date": "2026-07-25",
+      "rawDate": "Jul 25 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/elvis-costellos-juliet-letters/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Yolanda Bruno & Michael Bridge: It’s a Girl!",
+      "date": "2026-07-26",
+      "rawDate": "Jul 26 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/yolanda-bruno-michael-bridge/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Adaptive Concert: Jenna Richards & Beth Silver",
+      "date": "2026-07-26",
+      "rawDate": "Jul 26 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/adaptive-concert-jenna-richards-beth-silver/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "NMN II: Fresh Ink",
+      "date": "2026-07-26",
+      "rawDate": "Jul 26 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/nmn-fresh-ink/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "NMN III: The Happenstancers",
+      "date": "2026-07-26",
+      "rawDate": "Jul 26 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/nmn-the-happenstancers/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "National Youth Orchestra of Canada: Canadiana Tour",
+      "date": "2026-07-26",
+      "rawDate": "Jul 26 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/national-youth-orchestra-of-canada-canadiana-tour/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Mativetsky, Amiri & Pagé",
+      "date": "2026-07-26",
+      "rawDate": "Jul 26 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/mativetsky-amiri-page/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Prime Time: NYOC Chamber Ensembles",
+      "date": "2026-07-27",
+      "rawDate": "Jul 27 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/prime-time-nyoc-chamber-ensembles/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Rising Stars Showcase 2026",
+      "date": "2026-07-27",
+      "rawDate": "Jul 27 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/rising-stars-showcase-2026/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Bring the Kids: Beth Silver & Jenna Richards",
+      "date": "2026-07-27",
+      "rawDate": "Jul 27 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/bring-the-kids-beth-silver-jenna-richards/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Record Centre: Yolanda Bruno & Michael Bridge",
+      "date": "2026-07-27",
+      "rawDate": "Jul 27 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/record-centre-yolanda-bruno-michael-bridge/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Élisabeth Pion with Ironwood Quartet",
+      "date": "2026-07-27",
+      "rawDate": "Jul 27 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/elisabeth-pion-with-ironwood-quartet/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Masterclass: Isaac Chalk, viola",
+      "date": "2026-07-28",
+      "rawDate": "Jul 28 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/masterclass-isaac-chalk-viola/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "uOttawa Nicole Senécal Prize Winner: Nathaniel Mears",
+      "date": "2026-07-28",
+      "rawDate": "Jul 28 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/uottawa-nicole-senecal-prize-winner/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Prime Time: Violists Isaac Chalk & David Marks",
+      "date": "2026-07-28",
+      "rawDate": "Jul 28 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/prime-time-violists-isaac-chalk-david-marks/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Chamber Chat: Gabriel Kahane & Pekka Kuusisto",
+      "date": "2026-07-28",
+      "rawDate": "Jul 28 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/chamber-chat-gabriel-kahane-pekka-kuusisto/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Pekka Kuusisto & Gabriel Kahane: Council",
+      "date": "2026-07-28",
+      "rawDate": "Jul 28 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/pekka-kuusisto-gabriel-kahane-council/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Dear Jeanne: A Tribute to Jeanne Lamon",
+      "date": "2026-07-29",
+      "rawDate": "Jul 29 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/dear-jeanne-tribute-to-jeanne-lamon/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Poiesis Quartet at the OAG: A Better World",
+      "date": "2026-07-29",
+      "rawDate": "Jul 29 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/poiesis-quartet-at-the-oag-a-better-world/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Poiesis & Jon Kimura Parker: Macklay, Tate, and Brahms",
+      "date": "2026-07-30",
+      "rawDate": "Jul 30 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/poiesis-and-jon-kimura-parker-macklay-tate-and-brahms/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Masterclass: Jon Kimura Parker, piano",
+      "date": "2026-07-30",
+      "rawDate": "Jul 30 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/masterclass-jon-kimura-parker-piano/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Record Centre: Terry Riley’s “A Rainbow in Curved Air” Listening Session",
+      "date": "2026-07-30",
+      "rawDate": "Jul 30 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/record-centre-terry-riley-a-rainbow-in-curved-air-listening-session/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "in / finite: Arvo Pärt · Death and the Maiden",
+      "date": "2026-07-30",
+      "rawDate": "Jul 30 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/in-finite-arvo-part-death-and-the-maiden/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Tamar Ilana & Ventanas",
+      "date": "2026-07-30",
+      "rawDate": "Jul 30 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/tamar-ilana-and-ventanas/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Prime Time: Morning Airs with the Midsummer Winds",
+      "date": "2026-07-31",
+      "rawDate": "Jul 31 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/prime-time-morning-airs-with-the-midsummer-winds/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Oxbow Trio: A European Journey",
+      "date": "2026-07-31",
+      "rawDate": "Jul 31 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/oxbow-trio-european-journey/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Historical Keyboard Workshop: Mélisande McNabney, harpsichord and fortepiano",
+      "date": "2026-07-31",
+      "rawDate": "Jul 31 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/historical-keyboard-workshop-melisande-mcnabney-harpsichord-and-fortepiano/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Chamber Chat: Marichka & Daughters of Donbas",
+      "date": "2026-07-31",
+      "rawDate": "Jul 31 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/chamber-chat-marichka-daughters-of-donbas/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Jon Kimura Parker: Mozart to Oscar Peterson",
+      "date": "2026-07-31",
+      "rawDate": "Jul 31 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/jon-kimura-parker-mozart-to-oscar-peterson/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Daughters of Donbas: Songs of Stolen Children",
+      "date": "2026-07-31",
+      "rawDate": "Jul 31 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/daughters-of-donbas-songs-of-stolen-children/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Yoga + Cello: Anna Petersen and Raphael Weinroth-Browne",
+      "date": "2026-08-01",
+      "rawDate": "Aug 1 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/yoga-cello-anna-petersen-and-raphael-weinroth-browne-3/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Meet the Makers: Exhibition of Canadian Violins & Bows",
+      "date": "2026-08-01",
+      "rawDate": "Aug 1 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/meet-the-makers-exhibition-of-canadian-violins-bows/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Bring the Kids: SHHH!! Ensemble",
+      "date": "2026-08-01",
+      "rawDate": "Aug 1 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/bring-the-kids-shhh-ensemble-3/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "The Forest: Carson Becke, Allyson McHardy, and Meghan Lindsay",
+      "date": "2026-08-01",
+      "rawDate": "Aug 1 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/the-forest-carson-becke-allyson-mchardy-meghan-lindsay/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Rideau Hall: Kathryn Patricia Cobbler (2:00PM)",
+      "date": "2026-08-01",
+      "rawDate": "Aug 1 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/rideau-hall-kathryn-patricia-cobbler/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Record Centre: Cris Derksen’s “The Visit” Listening Session",
+      "date": "2026-08-01",
+      "rawDate": "Aug 1 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/record-centre-cris-derksen-the-visit-listening-session/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Rideau Hall: Kathryn Patricia Cobbler (3:30PM)",
+      "date": "2026-08-01",
+      "rawDate": "Aug 1 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/rideau-hall-kathryn-patricia-cobbler-2/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Introducing the Chamberfest Camerata",
+      "date": "2026-08-01",
+      "rawDate": "Aug 1 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/chamberfest-camerata/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Angelique Francis",
+      "date": "2026-08-01",
+      "rawDate": "Aug 1 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/angelique-francis/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Isaac Chalk & Mélisande McNabney: Händel, Bach, and Sons",
+      "date": "2026-08-02",
+      "rawDate": "Aug 2 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/isaac-chalk-melisande-mcnabney/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Community in C: A Free Outdoor Festival Finale",
+      "date": "2026-08-02",
+      "rawDate": "Aug 2 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/community-in-c-free-outdoor-festival-finale/"
     }
   ]
 }
