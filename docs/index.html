@@ -391,12 +391,17 @@
       const dot = dotClass[ev._cat] || "dot-other";
       const time = fmtTime(ev.time);
       const url = ev.url || src.url;
+      // For manual entries, show venue as primary name if provided
+      const primaryName = (ev.source === "manual" && ev.venue && !ev.venue.startsWith("http"))
+        ? ev.venue : src.name;
+      const secondaryVenue = (ev.source !== "manual" && ev.venue && ev.venue !== src.name && !ev.venue.startsWith("http"))
+        ? " · " + esc(ev.venue) : "";
       return `<a class="event-row" href="${esc(url)}" target="_blank" rel="noopener">
         <div class="event-dot ${dot}"></div>
         <div class="event-time">${esc(time)}</div>
         <div class="event-body">
           <div class="event-title">${esc(ev.title)}</div>
-          <div class="event-venue">${esc(src.name)}${ev.venue && ev.venue !== src.name && !ev.venue.startsWith("http") ? " · " + esc(ev.venue) : ""}</div>
+          <div class="event-venue">${esc(primaryName)}${secondaryVenue}</div>
         </div>
         <div class="event-arrow">↗</div>
       </a>`;
