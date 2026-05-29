@@ -245,8 +245,32 @@
       flex-shrink: 0;
     }
 
-    /* ── Footer ── */
-    footer {
+    .shortcut-row {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .shortcut-btn {
+      font-size: 12px;
+      font-family: inherit;
+      padding: 4px 12px;
+      border-radius: 99px;
+      border: 0.5px solid var(--border);
+      background: var(--surface);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .shortcut-btn:hover { border-color: var(--text); color: var(--text); }
+    .shortcut-btn.active { background: var(--text); color: var(--surface); border-color: var(--text); }
+
+    .past-warning {
+      font-size: 12px;
+      color: var(--hint);
+      margin-bottom: 0.5rem;
+    }
       text-align: center;
       padding: 2rem;
       font-size: 12px;
@@ -277,6 +301,11 @@
     <input type="text" id="text-input" placeholder="Search events…" />
     <button class="search-btn" id="search-btn" onclick="searchEvents()">Search</button>
   </div>
+  <div class="shortcut-row">
+    <button class="shortcut-btn" id="btn-today" onclick="setShortcut('today')">Today</button>
+    <button class="shortcut-btn" id="btn-tomorrow" onclick="setShortcut('tomorrow')">Tomorrow</button>
+    <button class="shortcut-btn" id="btn-weekend" onclick="setShortcut('weekend')">This weekend</button>
+  </div>
   <div class="cat-tabs" id="cat-tabs">
     <button class="cat-tab active" data-cat="all" onclick="setTab(this)">All <span class="cat-count" id="count-all">0</span></button>
     <button class="cat-tab" data-cat="music" onclick="setTab(this)">Music <span class="cat-count" id="count-music">0</span></button>
@@ -287,6 +316,7 @@
 </header>
 
 <main>
+  <div id="past-warning" class="past-warning" style="display:none">⚠️ You're viewing a past date.</div>
   <div id="status"></div>
   <div id="events-container">
     <div class="empty-state">
@@ -534,10 +564,141 @@
     }
   }
 
+  // ── Shortcut buttons ─────────────────────────────────────────────────
+  let weekendDates = [];
+  let activeShortcut = "";
+
+  function getDateStr(offset) {
+    const d = new Date();
+    d.setDate(d.getDate() + offset);
+    return d.toISOString().split("T")[0];
+  }
+
+  function getWeekendDates() {
+    const today = new Date();
+    const dow = today.getDay(); // 0=Sun,1=Mon,...,6=Sat
+    // Find next Friday (or today if Fri/Sat/Sun)
+    const days = [];
+    for (let i = 0; i < 7; i++) {
+      const d = new Date(today);
+      d.setDate(today.getDate() + i);
+      const wd = d.getDay();
+      if (wd === 5 || wd === 6 || wd === 0) days.push(d.toISOString().split("T")[0]);
+      if (days.length === 3) break;
+    }
+    return days;
+  }
+
+  function setShortcut(type) {
+    activeShortcut = type;
+    document.querySelectorAll(".shortcut-btn").forEach(b => b.classList.remove("active"));
+    document.getElementById("btn-" + type)?.classList.add("active");
+
+    if (type === "today") {
+      weekendDates = [];
+      document.getElementById("date-input").value = getDateStr(0);
+      searchEvents();
+    } else if (type === "tomorrow") {
+      weekendDates = [];
+      document.getElementById("date-input").value = getDateStr(1);
+      searchEvents();
+    } else if (type === "weekend") {
+      weekendDates = getWeekendDates();
+      document.getElementById("date-input").value = weekendDates[0] || getDateStr(0);
+      searchWeekend();
+    }
+  }
+
+  async function searchWeekend() {
+    const btn = document.getElementById("search-btn");
+    btn.disabled = true;
+    btn.textContent = "…";
+    try {
+      const resp = await fetch(DATA_URL);
+      if (!resp.ok) throw new Error("Could not load events.json");
+      const data = await resp.json();
+      const dateSet = new Set(weekendDates);
+      allEvents = (data.events || [])
+        .filter(e => dateSet.has(e.date))
+        .map(e => ({ ...e, _cat: classify(e) }));
+
+      updateCounts(allEvents);
+
+      // Group by date for weekend display
+      const c = document.getElementById("events-container");
+      const dotClass = { music: "dot-music", theatre: "dot-theatre", art: "dot-art", other: "dot-other" };
+      let html = "";
+      for (const date of weekendDates) {
+        const dayEvents = allEvents.filter(e => e.date === date);
+        if (!dayEvents.length) continue;
+        dayEvents.sort((a, b) => {
+          if (a.time && b.time) return a.time.localeCompare(b.time);
+          if (a.time) return -1; if (b.time) return 1;
+          return (a.title||"").localeCompare(b.title||"");
+        });
+        const label = new Date(date + "T12:00:00").toLocaleDateString("en-CA", { weekday: "long", month: "long", day: "numeric" });
+        html += `<div class="results-section-title">${label}</div>`;
+        html += dayEvents.map(ev => {
+          const src = SOURCES[ev.source] || { name: ev.source, url: "#" };
+          const dot = dotClass[ev._cat] || "dot-other";
+          const time = fmtTime(ev.time);
+          const url = ev.url || src.url;
+          const primaryName = (ev.source === "manual" && ev.venue && !ev.venue.startsWith("http")) ? ev.venue
+            : (ev.source === "gigs" && ev.venue && !ev.venue.startsWith("http")) ? ev.venue : src.name;
+          const secondaryVenue = (ev.source !== "manual" && ev.source !== "gigs" && ev.venue && ev.venue !== src.name && !ev.venue.startsWith("http")) ? " · " + esc(ev.venue) : "";
+          return `<a class="event-row" href="${esc(url)}" target="_blank" rel="noopener">
+            <div class="event-dot ${dot}"></div>
+            <div class="event-time">${esc(time)}</div>
+            <div class="event-body">
+              <div class="event-title">${esc(ev.title)}</div>
+              <div class="event-venue">${esc(primaryName)}${secondaryVenue}</div>
+            </div>
+            <div class="event-arrow">↗</div>
+          </a>`;
+        }).join("");
+      }
+      if (!html) html = `<div class="empty-state"><p>No events found this weekend.</p></div>`;
+      c.innerHTML = html + `<div class="legend">
+        <div class="legend-item"><div class="legend-dot" style="background:var(--music)"></div>Music</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--theatre)"></div>Theatre</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--art)"></div>Art</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--hint)"></div>Other</div>
+      </div>`;
+
+      const total = allEvents.length;
+      const scrapedMsg = data.scrapedAt ? " · updated " + new Date(data.scrapedAt).toLocaleDateString("en-CA") : "";
+      document.getElementById("status").textContent = `${total} event${total !== 1 ? "s" : ""} this weekend${scrapedMsg}`;
+    } catch(err) {
+      document.getElementById("status").textContent = "⚠️ " + err.message;
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Search";
+    }
+  }
+
+  // ── Past date warning ─────────────────────────────────────────────────
+  function checkPastWarning() {
+    const dateVal = document.getElementById("date-input").value;
+    const today = new Date().toISOString().split("T")[0];
+    const warn = document.getElementById("past-warning");
+    warn.style.display = (dateVal && dateVal < today) ? "block" : "none";
+  }
+
+  document.getElementById("date-input").addEventListener("change", () => {
+    activeShortcut = "";
+    document.querySelectorAll(".shortcut-btn").forEach(b => b.classList.remove("active"));
+    weekendDates = [];
+    checkPastWarning();
+  });
+
+  // ── Init: auto-load today ─────────────────────────────────────────────
   document.getElementById("date-input").value = new Date().toISOString().split("T")[0];
   document.getElementById("date-input").addEventListener("keydown", e => { if (e.key === "Enter") searchEvents(); });
   document.getElementById("text-input").addEventListener("keydown", e => { if (e.key === "Enter") searchEvents(); });
   document.getElementById("text-input").addEventListener("input", () => { searchQuery = document.getElementById("text-input").value.trim(); if (allEvents.length) renderList(); });
+
+  // Auto-load today on page open
+  setShortcut("today");
 </script>
 </body>
 </html>
