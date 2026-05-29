@@ -1,30 +1,8 @@
 {
-  "scrapedAt": "2026-05-28T19:32:08.776Z",
-  "totalEvents": 542,
+  "scrapedAt": "2026-05-29T13:28:30.256Z",
+  "totalEvents": 563,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Menstrual Health Day",
-      "subtitle": null,
-      "date": "2026-05-28",
-      "rawDate": "2026-05-28",
-      "time": "11:00 a.m.",
-      "venue": "Atrium O’Brien Atrium O’Brien",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41390"
-    },
-    {
-      "source": "nac",
-      "title": "Al Qahwa",
-      "subtitle": null,
-      "date": "2026-05-28",
-      "rawDate": "2026-05-28",
-      "time": "8:00 p.m.",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40837"
-    },
     {
       "source": "nac",
       "title": "Judy Collins",
@@ -1412,148 +1390,125 @@
       "url": "https://nac-cna.ca/en/event/41289"
     },
     {
-      "source": "gigs",
-      "title": "The Pete Roth Trio Feat. Bill Bruford (YES, King Crimson, UK, Genesis, Gong, Bruford)",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "source": "nac",
+      "title": "The Oxbow Trio",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-28",
+      "rawDate": "2026-07-28",
+      "time": "12:00 p.m.",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41290"
     },
     {
-      "source": "gigs",
-      "title": "R17 – Musique Rock Franco",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-07-28",
+      "rawDate": "2026-07-28",
+      "time": "7:30 p.m.",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
     },
     {
-      "source": "gigs",
-      "title": "James Greer and John Geggie",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-07-29",
+      "rawDate": "2026-07-29",
+      "time": "7:30 p.m.",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
     },
     {
-      "source": "gigs",
-      "title": "HØK: The Initiative",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-07-30",
+      "rawDate": "2026-07-30",
+      "time": "7:30 p.m.",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
     },
     {
-      "source": "gigs",
-      "title": "Conjurer",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Metal",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-07-31",
+      "rawDate": "2026-07-31",
+      "time": "7:30 p.m.",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
     },
     {
-      "source": "gigs",
-      "title": "PETE ROTH TRIO featuring BILL BRUFORD (YES, King Crimson, Genesis) + Nathanael Larochette @ Overflow",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/neighborhood/alta-vista"
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-08-01",
+      "rawDate": "2026-08-01",
+      "time": "7:30 p.m.",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
     },
     {
-      "source": "gigs",
-      "title": "Marina Orsini",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Pop",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-08-02",
+      "rawDate": "2026-08-02",
+      "time": "7:30 p.m.",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
     },
     {
-      "source": "gigs",
-      "title": "Eau the Music, w/ Mama Mush + Bitter Half",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Indie",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
+      "source": "nac",
+      "title": "Sechile Sedare",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-28",
+      "rawDate": "2026-07-28",
+      "time": "7:30 p.m.",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40972"
     },
     {
-      "source": "gigs",
-      "title": "KENNY HAYES",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Indie",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
+      "source": "nac",
+      "title": "Sechile Sedare",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-29",
+      "rawDate": "2026-07-29",
+      "time": "7:30 p.m.",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40972"
     },
     {
-      "source": "gigs",
-      "title": "Al Qahwa",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Global",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
+      "source": "nac",
+      "title": "Sechile Sedare",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-30",
+      "rawDate": "2026-07-30",
+      "time": "7:30 p.m.",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40972"
     },
     {
-      "source": "gigs",
-      "title": "CRAST + Apostlebird + Gilgamesh",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
-    },
-    {
-      "source": "gigs",
-      "title": "LEEROY STAGGER at The Black Sheep Inn",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/wakefield"
-    },
-    {
-      "source": "gigs",
-      "title": "THE SADIES Live @ Motel Chelsea!",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/neighborhood/chelsea"
-    },
-    {
-      "source": "gigs",
-      "title": "Stereo Mary - Live at Avante Garde Bar, featuring Shirley and Bathwash",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
-    },
-    {
-      "source": "gigs",
-      "title": "Deca + Les Swashbuckling Napoleons & Luke Warmth",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Hip Hop",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
-    },
-    {
-      "source": "gigs",
-      "title": "Thursday Night Live: Shawn & Dave",
-      "date": "2026-05-28",
-      "rawDate": "Thursday, May 28, 2026",
-      "time": null,
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "source": "nac",
+      "title": "Kimmortal",
+      "subtitle": null,
+      "date": "2026-07-28",
+      "rawDate": "2026-07-28",
+      "time": "7:30 p.m.",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41358"
     },
     {
       "source": "gigs",
@@ -1599,6 +1554,150 @@
       "time": null,
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
+    },
+    {
+      "source": "gigs",
+      "title": "ABIJAH",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/centretown"
+    },
+    {
+      "source": "gigs",
+      "title": "THE START - Brit-Pop Night",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/neighborhood/alta-vista"
+    },
+    {
+      "source": "gigs",
+      "title": "PAUL REDDICK at The Black Sheep Inn",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Blues",
+      "url": "https://ottawagigs.ca/neighborhood/wakefield"
+    },
+    {
+      "source": "gigs",
+      "title": "80s DANCE PARTY w DJ Remi Royale + The Underground (Live 80s New Wave)",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Pop",
+      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
+    },
+    {
+      "source": "gigs",
+      "title": "Drifting Bird",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/wakefield"
+    },
+    {
+      "source": "gigs",
+      "title": "LIVE! on Elgin STAFF BATTLE OF THE BANDS",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/neighborhood/centretown"
+    },
+    {
+      "source": "gigs",
+      "title": "Toma Rum",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Metal",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "Hannah & Nathan LIVE @ Motel Chelsea!",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/chelsea"
+    },
+    {
+      "source": "gigs",
+      "title": "The RockPhiles LIVE!",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/neighborhood/various"
+    },
+    {
+      "source": "gigs",
+      "title": "John Allaire and The Campistas with Special Guest K Dilla - Rock n’ Beat Show and Book Launch",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+    },
+    {
+      "source": "gigs",
+      "title": "Conscious Wave",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Dance Party",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "Conscious Wave presents Dinzy (MTL)",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Dance Party",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "Outskirts - Celebrating the music of Blue Rodeo",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/neighborhood/gloucester"
+    },
+    {
+      "source": "gigs",
+      "title": "10 YEARS AT NIGHT: NATHAN BARATO",
+      "date": "2026-05-29",
+      "rawDate": "Friday, May 29, 2026",
+      "time": null,
+      "description": "Genre: Electronic",
+      "url": "https://ottawagigs.ca/neighborhood/centretown"
+    },
+    {
+      "source": "gigs",
+      "title": "CAPO All-Stars Matinee in support of Ottawa Blues for Youth",
+      "date": "2026-05-30",
+      "rawDate": "Saturday, May 30, 2026",
+      "time": null,
+      "description": "Genre: Blues",
+      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+    },
+    {
+      "source": "gigs",
+      "title": "Matthew Good & I Mother Earth",
+      "date": "2026-05-30",
+      "rawDate": "Saturday, May 30, 2026",
+      "time": null,
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/neighborhood/gloucester"
     },
     {
       "source": "redbird",
@@ -1872,16 +1971,6 @@
     },
     {
       "source": "irenes",
-      "title": "Small Fish - A Comedy & Variety Show",
-      "date": "2026-05-27",
-      "rawDate": "May 27",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Small Fish Show Tickets",
-      "url": "https://irenespub.ca/events/small-fish-a-comedy-variety-show-4"
-    },
-    {
-      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Mark Crissinger",
       "date": "2026-05-28",
       "rawDate": "May 28",
@@ -2067,7 +2156,7 @@
       "rawDate": "Jun 14",
       "time": null,
       "venue": "Irene's Pub",
-      "description": "The Convertibles",
+      "description": "The Convertibles Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-convertibles-matine"
     },
     {
@@ -2222,12 +2311,12 @@
     },
     {
       "source": "irenes",
-      "title": "The Rembros",
+      "title": "The Rembros Present an Evening of The Stones with Special Guest Side Pocket",
       "date": "2026-07-03",
       "rawDate": "Jul 3",
       "time": null,
       "venue": "Irene's Pub",
-      "description": "The Rembros",
+      "description": "The Rembros Side Pocket Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-rembros-1"
     },
     {
@@ -2237,7 +2326,7 @@
       "rawDate": "Jul 4",
       "time": null,
       "venue": "Irene's Pub",
-      "description": "Four Eyed Muscle Man",
+      "description": "Four Eyed Muscle Man Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/four-eyed-muscle-man"
     },
     {
@@ -2267,7 +2356,7 @@
       "rawDate": "Jul 8",
       "time": null,
       "venue": "Irene's Pub",
-      "description": "The Prime Rib Big Band",
+      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/r9dz9pm5t8pr7el6sn6ebwl9jrscgk"
     },
     {
@@ -2287,7 +2376,7 @@
       "rawDate": "Jul 10",
       "time": null,
       "venue": "Irene's Pub",
-      "description": "The Great balancing Act Lac Vertigo",
+      "description": "The Great balancing Act Lac Vertigo Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-great-balancing-act-with-sg-lac-vertigo"
     },
     {
@@ -2297,7 +2386,7 @@
       "rawDate": "Jul 11",
       "time": null,
       "venue": "Irene's Pub",
-      "description": "The Decomposers",
+      "description": "The Decomposers Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-decomposers-1"
     },
     {
@@ -2489,6 +2578,16 @@
       "venue": "Irene's Pub",
       "description": "Hunks & Punks",
       "url": "https://irenespub.ca/events/hunks-punks"
+    },
+    {
+      "source": "irenes",
+      "title": "Small Fish - A Comedy & Variety Show",
+      "date": "2026-05-27",
+      "rawDate": "May 27",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "Small Fish Show Tickets",
+      "url": "https://irenespub.ca/events/small-fish-a-comedy-variety-show-4"
     },
     {
       "source": "irenes",
@@ -2779,16 +2878,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-04-26",
-      "rawDate": "Apr 26",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue Sarah Osborne",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt"
     },
     {
       "source": "gladstone",
@@ -4632,6 +4721,127 @@
       "url": "https://ottawa.ca"
     },
     {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-09",
+      "rawDate": "2026-07-09",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-10",
+      "rawDate": "2026-07-10",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-11",
+      "rawDate": "2026-07-11",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-12",
+      "rawDate": "2026-07-12",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-13",
+      "rawDate": "2026-07-13",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-14",
+      "rawDate": "2026-07-14",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-15",
+      "rawDate": "2026-07-15",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-16",
+      "rawDate": "2026-07-16",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-17",
+      "rawDate": "2026-07-17",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-18",
+      "rawDate": "2026-07-18",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
+      "source": "manual",
+      "title": "Bluesfest",
+      "date": "2026-07-19",
+      "rawDate": "2026-07-19",
+      "time": null,
+      "venue": "Lebreton Flats",
+      "description": "BluesFest 9-19 July",
+      "category": "music",
+      "url": "https://ottawabluesfest.ca/"
+    },
+    {
       "source": "bronson",
       "title": "JINJER",
       "date": "2026-06-05",
@@ -5530,6 +5740,26 @@
       "venue": "CityFolk Festival",
       "description": null,
       "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "Hannah & Nathan Album Release",
+      "date": "2026-05-29",
+      "rawDate": "MAY 29",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/friday-may-29-hannah-nathan-album-release-8-00pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "Noah Derksen",
+      "date": "2026-05-31",
+      "rawDate": "MAY 31",
+      "time": "15:00",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/sunday-may-31-noah-derksen-3-00pm"
     }
   ]
 }

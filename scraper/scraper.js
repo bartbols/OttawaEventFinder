@@ -427,7 +427,7 @@ async function runScraper() {
   console.log("========================");
   console.log(`Started: ${new Date().toLocaleString("en-CA")}\n`);
 
-  const scrapers = [scrapeNAC, scrapeNationalGallery, scrapeBluesFest, scrapeJazzFest, scrapeOttawaGigs, scrapeRedBird, scrapeIrenesPub, scrapeGladstone, scrapeGCTC, scrapeBlackSheep, scrapeOttawaPops, scrapeOrkidstra, scrapeThirteenStrings, scrapeGoogleSheet, scrapeBronson, scrapeChamberfest, scrapeCityFolk];
+  const scrapers = [scrapeNAC, scrapeNationalGallery, scrapeBluesFest, scrapeJazzFest, scrapeOttawaGigs, scrapeRedBird, scrapeIrenesPub, scrapeGladstone, scrapeGCTC, scrapeBlackSheep, scrapeOttawaPops, scrapeOrkidstra, scrapeThirteenStrings, scrapeGoogleSheet, scrapeBronson, scrapeChamberfest, scrapeCityFolk, scrapeMotelChelsea];
   const allEvents = [];
   const errors = [];
 
@@ -935,13 +935,19 @@ async function scrapeGoogleSheet() {
       const cat   = row[col("category")]?.toLowerCase() || null;
 
       if (!title || !date) continue;
-      // Basic date validation — must look like YYYY-MM-DD
-      if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) continue;
+      // Accept YYYY-MM-DD or DD-MM-YYYY, convert to YYYY-MM-DD
+      let normDate = date;
+      if (/^\d{2}-\d{2}-\d{4}$/.test(date)) {
+        const [d, m, y] = date.split("-");
+        normDate = `${y}-${m}-${d}`;
+      } else if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+        continue; // skip unrecognised formats
+      }
 
       events.push({
         source: "manual",
         title,
-        date,
+        date: normDate,
         rawDate: date,
         time: time || null,
         venue: venue || null,
@@ -1135,5 +1141,75 @@ async function scrapeCityFolk() {
   }
 
   console.log(`    Found ${events.length} CityFolk events`);
+  return events;
+}
+
+async function scrapeMotelChelsea() {
+  // Wix site — events in link text format: "THURSDAY MAY 28 | The Sadies | 7:30PM"
+  // Note: Wix lazy-loads, so only first few events are captured
+  console.log("  Scraping Motel Chelsea (La Vallée)...");
+  const events = [];
+  const BASE = "https://www.motelchelsea.com";
+
+  const MONTH_MAP = {
+    JAN:"01",FEB:"02",MAR:"03",APR:"04",MAY:"05",JUN:"06",
+    JUL:"07",AUG:"08",SEP:"09",OCT:"10",NOV:"11",DEC:"12"
+  };
+
+  try {
+    const html = await fetchHTML(`${BASE}/love-live`);
+    const $ = cheerio.load(html);
+    const seen = new Set();
+    const today = new Date().toISOString().split("T")[0];
+
+    $("a[href*='/post/']").each((_, el) => {
+      const href = $(el).attr("href");
+      if (!href || seen.has(href)) return;
+      const text = $(el).text().trim();
+      // Match: "THURSDAY MAY 28 | The Sadies | 7:30PM" or "FRIDAY JUNE 4 | ..."
+      const m = text.match(/^(?:MON|TUE|WED|THU|FRI|SAT|SUN)(?:DAY)?\s+(JAN(?:UARY)?|FEB(?:RUARY)?|MAR(?:CH)?|APR(?:IL)?|MAY|JUNE?|JULY?|AUG(?:UST)?|SEP(?:TEMBER)?|OCT(?:OBER)?|NOV(?:EMBER)?|DEC(?:EMBER)?)\s+(\d{1,2})\s*\|\s*(.+?)\s*\|\s*(\d{1,2}:\d{2}(?:AM|PM)?)/i);
+      if (!m) return;
+      seen.add(href);
+
+      const month = MONTH_MAP[m[1].toUpperCase().slice(0,3)];
+      if (!month) return;
+      const day = m[2].padStart(2, "0");
+      const title = m[3].trim();
+      const rawTime = m[4].trim();
+
+      // Try current year first, use next year only if that gives a future date
+      const curYear = new Date().getFullYear();
+      const dateThisYear = `${curYear}-${month}-${day}`;
+      const date = dateThisYear >= today ? dateThisYear : `${curYear + 1}-${month}-${day}`;
+      if (date < today) return;
+
+      // Convert time to 24h
+      const tm = rawTime.match(/(\d{1,2}):(\d{2})(AM|PM)?/i);
+      let time = null;
+      if (tm) {
+        let h = parseInt(tm[1]);
+        const mins = tm[2];
+        const ampm = tm[3]?.toUpperCase();
+        if (ampm === "PM" && h !== 12) h += 12;
+        if (ampm === "AM" && h === 12) h = 0;
+        time = `${String(h).padStart(2,"0")}:${mins}`;
+      }
+
+      events.push({
+        source: "motelchelsea",
+        title,
+        date,
+        rawDate: `${m[1]} ${day}`,
+        time,
+        venue: "Motel Chelsea",
+        description: null,
+        url: href.startsWith("http") ? href : `${BASE}${href}`,
+      });
+    });
+  } catch(e) {
+    console.log("    Motel Chelsea unreachable:", e.message);
+  }
+
+  console.log(`    Found ${events.length} Motel Chelsea events`);
   return events;
 }
