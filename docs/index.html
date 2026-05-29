@@ -68,7 +68,7 @@
       margin-bottom: 1rem;
     }
 
-    input[type="date"] {
+    input[type="date"], input[type="text"] {
       border: 0.5px solid var(--border);
       border-radius: var(--radius);
       padding: 8px 12px;
@@ -79,7 +79,8 @@
       outline: none;
       transition: border-color 0.15s;
     }
-    input[type="date"]:focus { border-color: var(--text); }
+    input[type="date"]:focus, input[type="text"]:focus { border-color: var(--text); }
+    input[type="text"] { flex: 1; min-width: 120px; }
 
     .search-btn {
       background: var(--text);
@@ -263,6 +264,7 @@
   </div>
   <div class="search-row">
     <input type="date" id="date-input" />
+    <input type="text" id="text-input" placeholder="Search events…" />
     <button class="search-btn" id="search-btn" onclick="searchEvents()">Search</button>
   </div>
   <div class="cat-tabs" id="cat-tabs">
@@ -339,6 +341,7 @@
   // ── State ────────────────────────────────────────────────────────────
   let allEvents = [];
   let activeTab = "all";
+  let searchQuery = "";
 
   function setTab(btn) {
     document.querySelectorAll(".cat-tab").forEach(t => t.classList.remove("active"));
@@ -369,7 +372,16 @@
 
   function renderList() {
     const c = document.getElementById("events-container");
-    const filtered = activeTab === "all" ? allEvents : allEvents.filter(e => e._cat === activeTab);
+    let filtered = activeTab === "all" ? allEvents : allEvents.filter(e => e._cat === activeTab);
+
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      filtered = filtered.filter(e =>
+        (e.title || "").toLowerCase().includes(q) ||
+        (e.venue || "").toLowerCase().includes(q) ||
+        (e.description || "").toLowerCase().includes(q)
+      );
+    }
 
     if (!filtered.length) {
       c.innerHTML = `<div class="empty-state"><p>No ${activeTab === "all" ? "" : activeTab + " "}events found for this date.</p></div>`;
@@ -419,15 +431,14 @@
 
   async function searchEvents() {
     const dateVal = document.getElementById("date-input").value;
-    if (!dateVal) return;
+    const textVal = document.getElementById("text-input").value.trim();
+    searchQuery = textVal;
+
+    if (!dateVal && !textVal) return;
 
     const btn = document.getElementById("search-btn");
     btn.disabled = true;
     btn.textContent = "…";
-
-    const displayDate = new Date(dateVal + "T12:00:00").toLocaleDateString("en-CA", {
-      weekday: "long", year: "numeric", month: "long", day: "numeric"
-    });
 
     try {
       const resp = await fetch(DATA_URL);
@@ -435,7 +446,7 @@
       const data = await resp.json();
 
       allEvents = (data.events || [])
-        .filter(e => e.date === dateVal)
+        .filter(e => !dateVal || e.date === dateVal)
         .map(e => ({ ...e, _cat: classify(e) }));
 
       updateCounts(allEvents);
@@ -444,10 +455,16 @@
       const scrapedMsg = data.scrapedAt
         ? " · updated " + new Date(data.scrapedAt).toLocaleDateString("en-CA")
         : "";
+
+      const dateLabel = dateVal
+        ? new Date(dateVal + "T12:00:00").toLocaleDateString("en-CA", { weekday: "long", year: "numeric", month: "long", day: "numeric" })
+        : "all dates";
+      const textLabel = textVal ? ` matching "${textVal}"` : "";
+
       document.getElementById("status").textContent =
         allEvents.length > 0
-          ? `${allEvents.length} event${allEvents.length !== 1 ? "s" : ""} on ${displayDate}${scrapedMsg}`
-          : `No events found for ${displayDate} — try another date`;
+          ? `${allEvents.length} event${allEvents.length !== 1 ? "s" : ""} on ${dateLabel}${textLabel}${scrapedMsg}`
+          : `No events found for ${dateLabel}${textLabel} — try another search`;
 
     } catch(err) {
       document.getElementById("status").textContent = "⚠️ " + err.message;
@@ -459,6 +476,8 @@
 
   document.getElementById("date-input").value = new Date().toISOString().split("T")[0];
   document.getElementById("date-input").addEventListener("keydown", e => { if (e.key === "Enter") searchEvents(); });
+  document.getElementById("text-input").addEventListener("keydown", e => { if (e.key === "Enter") searchEvents(); });
+  document.getElementById("text-input").addEventListener("input", () => { searchQuery = document.getElementById("text-input").value.trim(); if (allEvents.length) renderList(); });
 </script>
 </body>
 </html>
