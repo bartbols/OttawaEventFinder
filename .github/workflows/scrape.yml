@@ -25,13 +25,13 @@ jobs:
         run: node scraper.js
         working-directory: scraper
 
-      - name: Copy events.json to frontend
-        run: cp scraper/data/events.json frontend/data/events.json
+      - name: Copy events.json to docs
+        run: cp scraper/data/events.json docs/data/events.json
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add frontend/data/events.json
+          git add docs/data/events.json
           git diff --staged --quiet || git commit -m "chore: nightly event data update $(date -u +%Y-%m-%d)"
           git push
