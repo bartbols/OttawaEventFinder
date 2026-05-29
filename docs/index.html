@@ -449,7 +449,15 @@
         .filter(e => !dateVal || e.date === dateVal)
         .map(e => ({ ...e, _cat: classify(e) }));
 
-      updateCounts(allEvents);
+      // Apply text filter for counts and status
+      const textFiltered = searchQuery
+        ? allEvents.filter(e =>
+            (e.title || "").toLowerCase().includes(searchQuery.toLowerCase()) ||
+            (e.venue || "").toLowerCase().includes(searchQuery.toLowerCase()) ||
+            (e.description || "").toLowerCase().includes(searchQuery.toLowerCase()))
+        : allEvents;
+
+      updateCounts(textFiltered);
       renderList();
 
       const scrapedMsg = data.scrapedAt
@@ -459,11 +467,12 @@
       const dateLabel = dateVal
         ? new Date(dateVal + "T12:00:00").toLocaleDateString("en-CA", { weekday: "long", year: "numeric", month: "long", day: "numeric" })
         : "all dates";
-      const textLabel = textVal ? ` matching "${textVal}"` : "";
+      const textLabel = searchQuery ? ` matching "${searchQuery}"` : "";
+      const count = textFiltered.length;
 
       document.getElementById("status").textContent =
-        allEvents.length > 0
-          ? `${allEvents.length} event${allEvents.length !== 1 ? "s" : ""} on ${dateLabel}${textLabel}${scrapedMsg}`
+        count > 0
+          ? `${count} event${count !== 1 ? "s" : ""} on ${dateLabel}${textLabel}${scrapedMsg}`
           : `No events found for ${dateLabel}${textLabel} — try another search`;
 
     } catch(err) {
