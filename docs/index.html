@@ -266,6 +266,28 @@
     .shortcut-btn:hover { border-color: var(--text); color: var(--text); }
     .shortcut-btn.active { background: var(--text); color: var(--surface); border-color: var(--text); }
 
+    .search-text-wrap {
+      position: relative;
+      flex: 1;
+      min-width: 120px;
+    }
+    .search-text-wrap input { width: 100%; padding-right: 28px; }
+    .clear-btn {
+      position: absolute;
+      right: 8px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--hint);
+      font-size: 16px;
+      cursor: pointer;
+      padding: 0;
+      line-height: 1;
+      display: none;
+    }
+    .clear-btn:hover { color: var(--text); }
+
     .past-warning {
       font-size: 12px;
       color: var(--hint);
@@ -298,7 +320,10 @@
   </div>
   <div class="search-row">
     <input type="date" id="date-input" />
-    <input type="text" id="text-input" placeholder="Search events…" />
+    <div class="search-text-wrap">
+      <input type="text" id="text-input" placeholder="Search events…" />
+      <button class="clear-btn" id="clear-btn" onclick="clearSearch()" title="Clear search">×</button>
+    </div>
     <button class="search-btn" id="search-btn" onclick="searchEvents()">Search</button>
   </div>
   <div class="shortcut-row">
@@ -692,10 +717,21 @@
   });
 
   // ── Init: auto-load today ─────────────────────────────────────────────
+  function clearSearch() {
+    document.getElementById("text-input").value = "";
+    document.getElementById("clear-btn").style.display = "none";
+    searchQuery = "";
+    if (allEvents.length) renderList();
+  }
+
   document.getElementById("date-input").value = new Date().toISOString().split("T")[0];
   document.getElementById("date-input").addEventListener("keydown", e => { if (e.key === "Enter") searchEvents(); });
   document.getElementById("text-input").addEventListener("keydown", e => { if (e.key === "Enter") searchEvents(); });
-  document.getElementById("text-input").addEventListener("input", () => { searchQuery = document.getElementById("text-input").value.trim(); if (allEvents.length) renderList(); });
+  document.getElementById("text-input").addEventListener("input", () => {
+    searchQuery = document.getElementById("text-input").value.trim();
+    document.getElementById("clear-btn").style.display = searchQuery ? "block" : "none";
+    if (allEvents.length) renderList();
+  });
 
   // Auto-load today on page open
   setShortcut("today");
