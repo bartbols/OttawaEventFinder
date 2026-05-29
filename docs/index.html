@@ -426,8 +426,11 @@
         const time = fmtTime(ev.time);
         const url = ev.url || src.url;
         const primaryName = (ev.source === "manual" && ev.venue && !ev.venue.startsWith("http"))
-          ? ev.venue : src.name;
-        const secondaryVenue = (ev.source !== "manual" && ev.venue && ev.venue !== src.name && !ev.venue.startsWith("http"))
+          ? ev.venue
+          : (ev.source === "gigs" && ev.venue && !ev.venue.startsWith("http"))
+          ? ev.venue
+          : src.name;
+        const secondaryVenue = (ev.source !== "manual" && ev.source !== "gigs" && ev.venue && ev.venue !== src.name && !ev.venue.startsWith("http"))
           ? " · " + esc(ev.venue) : "";
         // For other-dates section, show the date instead of time
         const timeDisplay = otherDates.includes(ev)
