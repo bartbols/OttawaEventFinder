@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-05-29T13:28:30.256Z",
+  "scrapedAt": "2026-05-29T15:53:33.489Z",
   "totalEvents": 563,
   "errors": [],
   "events": [
@@ -1516,6 +1516,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Fono",
       "description": "Genre: Electronic",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
     },
@@ -1525,6 +1526,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Other",
       "description": "Genre: Classical",
       "url": "https://ottawagigs.ca/neighborhood/various"
     },
@@ -1534,6 +1536,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Rainbow Bistro",
       "description": "Genre: Pop Punk",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1543,6 +1546,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Hard Rock Hotel & Casino Ottawa",
       "description": "Genre: Country",
       "url": "https://ottawagigs.ca/neighborhood/gloucester"
     },
@@ -1552,6 +1556,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "National Arts Centre",
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
     },
@@ -1561,6 +1566,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Night Oat",
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
     },
@@ -1570,6 +1576,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Overflow Brewing",
       "description": "Genre: Indie",
       "url": "https://ottawagigs.ca/neighborhood/alta-vista"
     },
@@ -1579,6 +1586,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "The Black Sheep Inn",
       "description": "Genre: Blues",
       "url": "https://ottawagigs.ca/neighborhood/wakefield"
     },
@@ -1588,6 +1596,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "House of Targ",
       "description": "Genre: Pop",
       "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
     },
@@ -1597,6 +1606,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Kaffe 1870",
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/wakefield"
     },
@@ -1606,6 +1616,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "LIVE! on Elgin",
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
     },
@@ -1615,6 +1626,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Dominion Tavern",
       "description": "Genre: Metal",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1624,6 +1636,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Motel Chelsea",
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/chelsea"
     },
@@ -1633,6 +1646,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Other",
       "description": "Genre: Tribute/Covers",
       "url": "https://ottawagigs.ca/neighborhood/various"
     },
@@ -1642,6 +1656,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Irene's Pub",
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/neighborhood/the-glebe"
     },
@@ -1651,6 +1666,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Club SAW",
       "description": "Genre: Dance Party",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1660,6 +1676,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Club SAW",
       "description": "Genre: Dance Party",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1669,6 +1686,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "Hard Rock Hotel & Casino Ottawa",
       "description": "Genre: Tribute/Covers",
       "url": "https://ottawagigs.ca/neighborhood/gloucester"
     },
@@ -1678,6 +1696,7 @@
       "date": "2026-05-29",
       "rawDate": "Friday, May 29, 2026",
       "time": null,
+      "venue": "City at Night",
       "description": "Genre: Electronic",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
     },
@@ -1687,6 +1706,7 @@
       "date": "2026-05-30",
       "rawDate": "Saturday, May 30, 2026",
       "time": null,
+      "venue": "Irene's Pub",
       "description": "Genre: Blues",
       "url": "https://ottawagigs.ca/neighborhood/the-glebe"
     },
@@ -1696,6 +1716,7 @@
       "date": "2026-05-30",
       "rawDate": "Saturday, May 30, 2026",
       "time": null,
+      "venue": "Hard Rock Hotel & Casino Ottawa",
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/neighborhood/gloucester"
     },

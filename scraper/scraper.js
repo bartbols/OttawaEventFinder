@@ -362,6 +362,7 @@ async function scrapeOttawaGigs() {
     const title   = $(el).find("[fs-cmsfilter-field='Title'], .job-listing-title").first().text().trim();
     const rawDate = $(el).find("[fs-cmsfilter-field='Date']").first().text().trim();
     const genre   = $(el).find("[fs-cmsfilter-field='genre']").first().text().trim();
+    const venue   = $(el).find("[fs-cmsfilter-field='venue'], [fs-cmsfilter-field='Venue'], .venue").first().text().trim() || null;
     const href    = $(el).find("a.w-button, a.button").first().attr("href");
     const url     = href ? resolveURL("https://ottawagigs.ca", href) : "https://ottawagigs.ca";
 
@@ -377,6 +378,7 @@ async function scrapeOttawaGigs() {
       date: normalizeDate(rawDate),
       rawDate: rawDate || null,
       time: null,
+      venue: venue && !NEIGHBOURHOODS.has(venue.toLowerCase()) ? venue : null,
       description: genre ? `Genre: ${genre}` : null,
       url,
     });

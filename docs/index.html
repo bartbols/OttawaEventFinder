@@ -140,6 +140,16 @@
       padding: 1.5rem 1.5rem;
     }
 
+    .results-section-title {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin: 1.25rem 0 0.5rem;
+    }
+    .results-section-title:first-child { margin-top: 0; }
+
     /* ── Status ── */
     #status {
       font-size: 13px;
@@ -281,7 +291,7 @@
   <div id="events-container">
     <div class="empty-state">
       <div class="icon">🎭</div>
-      <p>Select a date to discover what's on in Ottawa.</p>
+      <p>Select a date or search to discover what's on in Ottawa.</p>
     </div>
   </div>
 </main>
@@ -384,46 +394,77 @@
     }
 
     if (!filtered.length) {
-      c.innerHTML = `<div class="empty-state"><p>No ${activeTab === "all" ? "" : activeTab + " "}events found for this date.</p></div>`;
+      c.innerHTML = `<div class="empty-state"><p>No ${activeTab === "all" ? "" : activeTab + " "}events found.</p></div>`;
       return;
     }
 
-    // Sort: timed events first, then by time, then untimed alphabetically
-    filtered.sort((a, b) => {
-      if (a.time && b.time) return a.time.localeCompare(b.time);
-      if (a.time) return -1;
-      if (b.time) return 1;
-      return (a.title || "").localeCompare(b.title || "");
-    });
+    // If text search active and date selected, split into "on this date" and "other dates"
+    const dateVal = document.getElementById("date-input").value;
+    let onDate = filtered;
+    let otherDates = [];
 
-    const dotClass = { music: "dot-music", theatre: "dot-theatre", art: "dot-art", other: "dot-other" };
+    if (searchQuery && dateVal) {
+      onDate = filtered.filter(e => e.date === dateVal);
+      otherDates = filtered.filter(e => e.date !== dateVal);
+      // Sort other dates by date ascending
+      otherDates.sort((a, b) => (a.date || "").localeCompare(b.date || ""));
+    }
 
-    c.innerHTML = filtered.map(ev => {
-      const src = SOURCES[ev.source] || { name: ev.source, url: "#" };
-      const dot = dotClass[ev._cat] || "dot-other";
-      const time = fmtTime(ev.time);
-      const url = ev.url || src.url;
-      // For manual entries, show venue as primary name if provided
-      const primaryName = (ev.source === "manual" && ev.venue && !ev.venue.startsWith("http"))
-        ? ev.venue : src.name;
-      const secondaryVenue = (ev.source !== "manual" && ev.venue && ev.venue !== src.name && !ev.venue.startsWith("http"))
-        ? " · " + esc(ev.venue) : "";
-      return `<a class="event-row" href="${esc(url)}" target="_blank" rel="noopener">
-        <div class="event-dot ${dot}"></div>
-        <div class="event-time">${esc(time)}</div>
-        <div class="event-body">
-          <div class="event-title">${esc(ev.title)}</div>
-          <div class="event-venue">${esc(primaryName)}${secondaryVenue}</div>
-        </div>
-        <div class="event-arrow">↗</div>
-      </a>`;
-    }).join("") + `<div class="legend">
+    const renderRows = (events) => {
+      // Sort: timed events first, then by time, then untimed alphabetically
+      events.sort((a, b) => {
+        if (a.time && b.time) return a.time.localeCompare(b.time);
+        if (a.time) return -1;
+        if (b.time) return 1;
+        return (a.title || "").localeCompare(b.title || "");
+      });
+
+      const dotClass = { music: "dot-music", theatre: "dot-theatre", art: "dot-art", other: "dot-other" };
+      return events.map(ev => {
+        const src = SOURCES[ev.source] || { name: ev.source, url: "#" };
+        const dot = dotClass[ev._cat] || "dot-other";
+        const time = fmtTime(ev.time);
+        const url = ev.url || src.url;
+        const primaryName = (ev.source === "manual" && ev.venue && !ev.venue.startsWith("http"))
+          ? ev.venue : src.name;
+        const secondaryVenue = (ev.source !== "manual" && ev.venue && ev.venue !== src.name && !ev.venue.startsWith("http"))
+          ? " · " + esc(ev.venue) : "";
+        // For other-dates section, show the date instead of time
+        const timeDisplay = otherDates.includes(ev)
+          ? new Date(ev.date + "T12:00:00").toLocaleDateString("en-CA", { month: "short", day: "numeric" })
+          : time;
+        return `<a class="event-row" href="${esc(url)}" target="_blank" rel="noopener">
+          <div class="event-dot ${dot}"></div>
+          <div class="event-time">${esc(timeDisplay)}</div>
+          <div class="event-body">
+            <div class="event-title">${esc(ev.title)}</div>
+            <div class="event-venue">${esc(primaryName)}${secondaryVenue}</div>
+          </div>
+          <div class="event-arrow">↗</div>
+        </a>`;
+      }).join("");
+    };
+
+    let html = "";
+    if (searchQuery && dateVal && (onDate.length || otherDates.length)) {
+      if (onDate.length) {
+        html += `<div class="results-section-title">On this date</div>` + renderRows(onDate);
+      }
+      if (otherDates.length) {
+        html += `<div class="results-section-title" style="margin-top:1.5rem">Other dates</div>` + renderRows(otherDates);
+      }
+    } else {
+      html = renderRows(filtered);
+    }
+
+    c.innerHTML = html + `<div class="legend">
       <div class="legend-item"><div class="legend-dot" style="background:var(--music)"></div>Music</div>
       <div class="legend-item"><div class="legend-dot" style="background:var(--theatre)"></div>Theatre</div>
       <div class="legend-item"><div class="legend-dot" style="background:var(--art)"></div>Art</div>
       <div class="legend-item"><div class="legend-dot" style="background:var(--hint)"></div>Other</div>
     </div>`;
   }
+
 
   function esc(s) {
     return (s || "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
@@ -446,8 +487,15 @@
       const data = await resp.json();
 
       allEvents = (data.events || [])
-        .filter(e => !dateVal || e.date === dateVal)
+        .filter(e => !dateVal || !searchQuery || e.date === dateVal ? true : true) // load all when text searching
         .map(e => ({ ...e, _cat: classify(e) }));
+
+      // When text searching, load everything; date filter applied in renderList
+      if (searchQuery) {
+        allEvents = (data.events || []).map(e => ({ ...e, _cat: classify(e) }));
+      } else {
+        allEvents = (data.events || []).filter(e => !dateVal || e.date === dateVal).map(e => ({ ...e, _cat: classify(e) }));
+      }
 
       // Apply text filter for counts and status
       const textFiltered = searchQuery
