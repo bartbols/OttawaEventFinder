@@ -1,103 +1,15 @@
 {
-  "scrapedAt": "2026-05-29T15:53:33.489Z",
-  "totalEvents": 563,
+  "scrapedAt": "2026-05-31T20:11:45.767Z",
+  "totalEvents": 544,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Judy Collins",
-      "subtitle": "with special guest Garnet Rogers",
-      "date": "2026-05-29",
-      "rawDate": "2026-05-29",
-      "time": "7:30 p.m.",
-      "venue": "Babs Asper Babs Asper",
-      "description": "with special guest Garnet Rogers",
-      "url": "https://nac-cna.ca/en/event/40596"
-    },
-    {
-      "source": "nac",
-      "title": "Toronto Comedy All Stars",
-      "subtitle": "Celebrating 11 years of sold out shows",
-      "date": "2026-05-29",
-      "rawDate": "2026-05-29",
-      "time": "8:00 p.m.",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "Celebrating 11 years of sold out shows",
-      "url": "https://nac-cna.ca/en/event/39581"
-    },
-    {
-      "source": "nac",
-      "title": "Desi Dhamaka",
-      "subtitle": "A Celebration of South Asian Arts & Culture",
-      "date": "2026-05-30",
-      "rawDate": "2026-05-30",
-      "time": "12:00 p.m.",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "A Celebration of South Asian Arts & Culture",
-      "url": "https://nac-cna.ca/en/event/41136"
-    },
-    {
-      "source": "nac",
-      "title": "Va falloir toujours toujours",
-      "subtitle": "Dance theatre",
-      "date": "2026-05-30",
-      "rawDate": "2026-05-30",
-      "time": "3:00 p.m.",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "Dance theatre",
-      "url": "https://nac-cna.ca/en/event/38341"
-    },
-    {
-      "source": "nac",
-      "title": "Va falloir toujours toujours",
-      "subtitle": "Dance theatre",
-      "date": "2026-05-31",
-      "rawDate": "2026-05-31",
-      "time": "3:00 p.m.",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "Dance theatre",
-      "url": "https://nac-cna.ca/en/event/38341"
-    },
-    {
-      "source": "nac",
-      "title": "An Evening with Whitehorse featuring Chloë Doucet",
-      "subtitle": "All Of It Tour",
-      "date": "2026-05-30",
-      "rawDate": "2026-05-30",
-      "time": "7:30 p.m.",
-      "venue": "Babs Asper Babs Asper",
-      "description": "All Of It Tour",
-      "url": "https://nac-cna.ca/en/event/40842"
-    },
-    {
-      "source": "nac",
-      "title": "Classic Albums Live: The Beatles",
-      "subtitle": "The White Album",
-      "date": "2026-05-30",
-      "rawDate": "2026-05-30",
-      "time": "8:00 p.m.",
-      "venue": "Southam Hall Salle Southam",
-      "description": "The White Album",
-      "url": "https://nac-cna.ca/en/event/39976"
-    },
-    {
-      "source": "nac",
-      "title": "Daby Touré",
-      "subtitle": null,
-      "date": "2026-05-30",
-      "rawDate": "2026-05-30",
-      "time": "8:00 p.m.",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40598"
-    },
     {
       "source": "nac",
       "title": "Music for a Sunday Afternoon: Spring Edition",
       "subtitle": null,
       "date": "2026-05-31",
       "rawDate": "2026-05-31",
-      "time": "3:30 p.m.",
+      "time": "15:30",
       "venue": "Carleton Dominion-Chalmers Centre Centre Carleton Dominion-Chalmers",
       "description": null,
       "url": "https://nac-cna.ca/en/event/38378"
@@ -108,7 +20,7 @@
       "subtitle": "French story time with Luana",
       "date": "2026-06-01",
       "rawDate": "2026-06-01",
-      "time": "10:00 a.m.",
+      "time": "10:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": "French story time with Luana",
       "url": "https://nac-cna.ca/en/event/40564"
@@ -119,7 +31,7 @@
       "subtitle": "with Amanda Fox",
       "date": "2026-06-01",
       "rawDate": "2026-06-01",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Canal Lobby Stage Scène du Foyer du canal",
       "description": "with Amanda Fox",
       "url": "https://nac-cna.ca/en/event/41131"
@@ -130,7 +42,7 @@
       "subtitle": "Beyond Access: Reimagining the Stage Through Disability Leadership",
       "date": "2026-06-01",
       "rawDate": "2026-06-01",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Beyond Access: Reimagining the Stage Through Disability Leadership",
       "url": "https://nac-cna.ca/en/event/41432"
@@ -141,7 +53,7 @@
       "subtitle": null,
       "date": "2026-06-01",
       "rawDate": "2026-06-01",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40557"
@@ -152,7 +64,7 @@
       "subtitle": null,
       "date": "2026-06-02",
       "rawDate": "2026-06-02",
-      "time": "10:00 a.m.",
+      "time": "10:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40572"
@@ -163,7 +75,7 @@
       "subtitle": "Jukebox Lunch Concerts",
       "date": "2026-06-04",
       "rawDate": "2026-06-04",
-      "time": "12:10 p.m.",
+      "time": "12:10",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": "Jukebox Lunch Concerts",
       "url": "https://nac-cna.ca/en/event/41076"
@@ -174,7 +86,7 @@
       "subtitle": "By Tainui Tukiwaho and Amber Curreen",
       "date": "2026-06-04",
       "rawDate": "2026-06-04",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "By Tainui Tukiwaho and Amber Curreen",
       "url": "https://nac-cna.ca/en/event/38356"
@@ -185,7 +97,7 @@
       "subtitle": "By Tainui Tukiwaho and Amber Curreen",
       "date": "2026-06-05",
       "rawDate": "2026-06-05",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "By Tainui Tukiwaho and Amber Curreen",
       "url": "https://nac-cna.ca/en/event/38356"
@@ -196,7 +108,7 @@
       "subtitle": "By Tainui Tukiwaho and Amber Curreen",
       "date": "2026-06-06",
       "rawDate": "2026-06-06",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "By Tainui Tukiwaho and Amber Curreen",
       "url": "https://nac-cna.ca/en/event/38356"
@@ -207,7 +119,7 @@
       "subtitle": "By Tainui Tukiwaho and Amber Curreen",
       "date": "2026-06-07",
       "rawDate": "2026-06-07",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "By Tainui Tukiwaho and Amber Curreen",
       "url": "https://nac-cna.ca/en/event/38356"
@@ -218,7 +130,7 @@
       "subtitle": "Pre-show talk",
       "date": "2026-06-05",
       "rawDate": "2026-06-05",
-      "time": "6:15 p.m.",
+      "time": "18:15",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": "Pre-show talk",
       "url": "https://nac-cna.ca/en/event/41586"
@@ -229,7 +141,7 @@
       "subtitle": "Shakespearean tragedy meets Robert Lepage",
       "date": "2026-06-05",
       "rawDate": "2026-06-05",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "Shakespearean tragedy meets Robert Lepage",
       "url": "https://nac-cna.ca/en/event/38334"
@@ -240,7 +152,7 @@
       "subtitle": "Shakespearean tragedy meets Robert Lepage",
       "date": "2026-06-06",
       "rawDate": "2026-06-06",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "Shakespearean tragedy meets Robert Lepage",
       "url": "https://nac-cna.ca/en/event/38334"
@@ -251,7 +163,7 @@
       "subtitle": "Shakespearean tragedy meets Robert Lepage",
       "date": "2026-06-07",
       "rawDate": "2026-06-07",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "Shakespearean tragedy meets Robert Lepage",
       "url": "https://nac-cna.ca/en/event/38334"
@@ -262,7 +174,7 @@
       "subtitle": "Shakespearean tragedy meets Robert Lepage",
       "date": "2026-06-08",
       "rawDate": "2026-06-08",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "Shakespearean tragedy meets Robert Lepage",
       "url": "https://nac-cna.ca/en/event/38334"
@@ -273,7 +185,7 @@
       "subtitle": "Shakespearean tragedy meets Robert Lepage",
       "date": "2026-06-09",
       "rawDate": "2026-06-09",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "Shakespearean tragedy meets Robert Lepage",
       "url": "https://nac-cna.ca/en/event/38334"
@@ -284,7 +196,7 @@
       "subtitle": "Shakespearean tragedy meets Robert Lepage",
       "date": "2026-06-10",
       "rawDate": "2026-06-10",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "Shakespearean tragedy meets Robert Lepage",
       "url": "https://nac-cna.ca/en/event/38334"
@@ -295,7 +207,7 @@
       "subtitle": "Shakespearean tragedy meets Robert Lepage",
       "date": "2026-06-11",
       "rawDate": "2026-06-11",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "Shakespearean tragedy meets Robert Lepage",
       "url": "https://nac-cna.ca/en/event/38334"
@@ -306,7 +218,7 @@
       "subtitle": "Shakespearean tragedy meets Robert Lepage",
       "date": "2026-06-12",
       "rawDate": "2026-06-12",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "Shakespearean tragedy meets Robert Lepage",
       "url": "https://nac-cna.ca/en/event/38334"
@@ -317,7 +229,7 @@
       "subtitle": "Shakespearean tragedy meets Robert Lepage",
       "date": "2026-06-13",
       "rawDate": "2026-06-13",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "Shakespearean tragedy meets Robert Lepage",
       "url": "https://nac-cna.ca/en/event/38334"
@@ -328,7 +240,7 @@
       "subtitle": "with Simora",
       "date": "2026-06-05",
       "rawDate": "2026-06-05",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "with Simora",
       "url": "https://nac-cna.ca/en/event/41099"
@@ -339,7 +251,7 @@
       "subtitle": null,
       "date": "2026-06-06",
       "rawDate": "2026-06-06",
-      "time": "6:30 p.m.",
+      "time": "18:30",
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40469"
@@ -350,7 +262,7 @@
       "subtitle": null,
       "date": "2026-06-07",
       "rawDate": "2026-06-07",
-      "time": "11:00 a.m.",
+      "time": "11:00",
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40927"
@@ -361,7 +273,7 @@
       "subtitle": "with Amanda Fox",
       "date": "2026-06-08",
       "rawDate": "2026-06-08",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Canal Lobby Stage Scène du Foyer du canal",
       "description": "with Amanda Fox",
       "url": "https://nac-cna.ca/en/event/41132"
@@ -372,7 +284,7 @@
       "subtitle": null,
       "date": "2026-06-08",
       "rawDate": "2026-06-08",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40558"
@@ -383,7 +295,7 @@
       "subtitle": null,
       "date": "2026-06-09",
       "rawDate": "2026-06-09",
-      "time": "10:00 a.m.",
+      "time": "10:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40573"
@@ -394,7 +306,7 @@
       "subtitle": null,
       "date": "2026-06-09",
       "rawDate": "2026-06-09",
-      "time": "6:00 p.m.",
+      "time": "18:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41352"
@@ -405,7 +317,7 @@
       "subtitle": "Jukebox Lunch Concerts",
       "date": "2026-06-11",
       "rawDate": "2026-06-11",
-      "time": "12:10 p.m.",
+      "time": "12:10",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": "Jukebox Lunch Concerts",
       "url": "https://nac-cna.ca/en/event/41095"
@@ -416,7 +328,7 @@
       "subtitle": "with DIVKA",
       "date": "2026-06-11",
       "rawDate": "2026-06-11",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "with DIVKA",
       "url": "https://nac-cna.ca/en/event/40597"
@@ -427,7 +339,7 @@
       "subtitle": null,
       "date": "2026-06-12",
       "rawDate": "2026-06-12",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40199"
@@ -438,7 +350,7 @@
       "subtitle": null,
       "date": "2026-06-13",
       "rawDate": "2026-06-13",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40199"
@@ -449,7 +361,7 @@
       "subtitle": null,
       "date": "2026-06-13",
       "rawDate": "2026-06-13",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40824"
@@ -460,7 +372,7 @@
       "subtitle": "Kinderconcerts Series",
       "date": "2026-06-14",
       "rawDate": "2026-06-14",
-      "time": "11:00 a.m.",
+      "time": "11:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "Kinderconcerts Series",
       "url": "https://nac-cna.ca/en/event/38393"
@@ -471,7 +383,7 @@
       "subtitle": "Kinderconcerts Series",
       "date": "2026-06-14",
       "rawDate": "2026-06-14",
-      "time": "3:00 p.m.",
+      "time": "15:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "Kinderconcerts Series",
       "url": "https://nac-cna.ca/en/event/38394"
@@ -482,7 +394,7 @@
       "subtitle": null,
       "date": "2026-06-14",
       "rawDate": "2026-06-14",
-      "time": "6:30 p.m.",
+      "time": "18:30",
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41437"
@@ -493,7 +405,7 @@
       "subtitle": "French story time with Luana",
       "date": "2026-06-15",
       "rawDate": "2026-06-15",
-      "time": "10:00 a.m.",
+      "time": "10:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": "French story time with Luana",
       "url": "https://nac-cna.ca/en/event/40567"
@@ -504,7 +416,7 @@
       "subtitle": "with Amanda Fox",
       "date": "2026-06-15",
       "rawDate": "2026-06-15",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Canal Lobby Stage Scène du Foyer du canal",
       "description": "with Amanda Fox",
       "url": "https://nac-cna.ca/en/event/41133"
@@ -515,7 +427,7 @@
       "subtitle": null,
       "date": "2026-06-15",
       "rawDate": "2026-06-15",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40559"
@@ -526,7 +438,7 @@
       "subtitle": null,
       "date": "2026-06-16",
       "rawDate": "2026-06-16",
-      "time": "10:00 a.m.",
+      "time": "10:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40574"
@@ -537,7 +449,7 @@
       "subtitle": "Storyland Album Launch with Special Guest Shawn Tavenier",
       "date": "2026-06-16",
       "rawDate": "2026-06-16",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "Storyland Album Launch with Special Guest Shawn Tavenier",
       "url": "https://nac-cna.ca/en/event/40844"
@@ -548,7 +460,7 @@
       "subtitle": "& Stravinsky's The Firebird",
       "date": "2026-06-17",
       "rawDate": "2026-06-17",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
       "description": "& Stravinsky's The Firebird",
       "url": "https://nac-cna.ca/en/event/38418"
@@ -559,7 +471,7 @@
       "subtitle": "& Stravinsky's The Firebird",
       "date": "2026-06-18",
       "rawDate": "2026-06-18",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
       "description": "& Stravinsky's The Firebird",
       "url": "https://nac-cna.ca/en/event/38418"
@@ -570,7 +482,7 @@
       "subtitle": null,
       "date": "2026-06-17",
       "rawDate": "2026-06-17",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41337"
@@ -581,7 +493,7 @@
       "subtitle": "Jukebox Lunch Concerts",
       "date": "2026-06-18",
       "rawDate": "2026-06-18",
-      "time": "12:10 p.m.",
+      "time": "12:10",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": "Jukebox Lunch Concerts",
       "url": "https://nac-cna.ca/en/event/41077"
@@ -592,7 +504,7 @@
       "subtitle": null,
       "date": "2026-06-18",
       "rawDate": "2026-06-18",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Head Street Square – Zibi Head Street Square – Zibi",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41081"
@@ -603,7 +515,7 @@
       "subtitle": null,
       "date": "2026-06-18",
       "rawDate": "2026-06-18",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40843"
@@ -614,7 +526,7 @@
       "subtitle": null,
       "date": "2026-06-19",
       "rawDate": "2026-06-19",
-      "time": "6:30 p.m.",
+      "time": "18:30",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40661"
@@ -625,7 +537,7 @@
       "subtitle": null,
       "date": "2026-06-19",
       "rawDate": "2026-06-19",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41115"
@@ -636,7 +548,7 @@
       "subtitle": null,
       "date": "2026-06-19",
       "rawDate": "2026-06-19",
-      "time": "9:00 p.m.",
+      "time": "21:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41118"
@@ -647,7 +559,7 @@
       "subtitle": null,
       "date": "2026-06-20",
       "rawDate": "2026-06-20",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40660"
@@ -658,7 +570,7 @@
       "subtitle": "The Taste Me Tour: The Final Leg",
       "date": "2026-06-20",
       "rawDate": "2026-06-20",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Southam Hall Salle Southam",
       "description": "The Taste Me Tour: The Final Leg",
       "url": "https://nac-cna.ca/en/event/41104"
@@ -669,7 +581,7 @@
       "subtitle": "In Conversation",
       "date": "2026-06-21",
       "rawDate": "2026-06-21",
-      "time": "4:00 p.m.",
+      "time": "16:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "In Conversation",
       "url": "https://nac-cna.ca/en/event/41119"
@@ -680,7 +592,7 @@
       "subtitle": null,
       "date": "2026-06-21",
       "rawDate": "2026-06-21",
-      "time": "6:30 p.m.",
+      "time": "18:30",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40349"
@@ -691,7 +603,7 @@
       "subtitle": null,
       "date": "2026-06-21",
       "rawDate": "2026-06-21",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40655"
@@ -702,7 +614,7 @@
       "subtitle": null,
       "date": "2026-06-21",
       "rawDate": "2026-06-21",
-      "time": "9:00 p.m.",
+      "time": "21:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40356"
@@ -713,7 +625,7 @@
       "subtitle": "French story time with Luana",
       "date": "2026-06-22",
       "rawDate": "2026-06-22",
-      "time": "10:00 a.m.",
+      "time": "10:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": "French story time with Luana",
       "url": "https://nac-cna.ca/en/event/40568"
@@ -724,7 +636,7 @@
       "subtitle": null,
       "date": "2026-06-22",
       "rawDate": "2026-06-22",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40560"
@@ -735,7 +647,7 @@
       "subtitle": null,
       "date": "2026-06-23",
       "rawDate": "2026-06-23",
-      "time": "10:00 a.m.",
+      "time": "10:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40575"
@@ -746,7 +658,7 @@
       "subtitle": null,
       "date": "2026-06-24",
       "rawDate": "2026-06-24",
-      "time": "6:30 p.m.",
+      "time": "18:30",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40352"
@@ -757,7 +669,7 @@
       "subtitle": null,
       "date": "2026-06-24",
       "rawDate": "2026-06-24",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40659"
@@ -768,7 +680,7 @@
       "subtitle": "with the NAC Orchestra",
       "date": "2026-06-24",
       "rawDate": "2026-06-24",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
       "description": "with the NAC Orchestra",
       "url": "https://nac-cna.ca/en/event/38419"
@@ -779,7 +691,7 @@
       "subtitle": "with the NAC Orchestra",
       "date": "2026-06-25",
       "rawDate": "2026-06-25",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
       "description": "with the NAC Orchestra",
       "url": "https://nac-cna.ca/en/event/38419"
@@ -790,7 +702,7 @@
       "subtitle": null,
       "date": "2026-06-24",
       "rawDate": "2026-06-24",
-      "time": "9:00 p.m.",
+      "time": "21:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40348"
@@ -801,7 +713,7 @@
       "subtitle": "Jukebox Lunch Concerts",
       "date": "2026-06-25",
       "rawDate": "2026-06-25",
-      "time": "12:10 p.m.",
+      "time": "12:10",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": "Jukebox Lunch Concerts",
       "url": "https://nac-cna.ca/en/event/41096"
@@ -812,7 +724,7 @@
       "subtitle": null,
       "date": "2026-06-25",
       "rawDate": "2026-06-25",
-      "time": "6:30 p.m.",
+      "time": "18:30",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40658"
@@ -823,7 +735,7 @@
       "subtitle": null,
       "date": "2026-06-25",
       "rawDate": "2026-06-25",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40347"
@@ -834,7 +746,7 @@
       "subtitle": null,
       "date": "2026-06-25",
       "rawDate": "2026-06-25",
-      "time": "9:00 p.m.",
+      "time": "21:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40346"
@@ -845,7 +757,7 @@
       "subtitle": null,
       "date": "2026-06-26",
       "rawDate": "2026-06-26",
-      "time": "6:30 p.m.",
+      "time": "18:30",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40354"
@@ -856,7 +768,7 @@
       "subtitle": null,
       "date": "2026-06-26",
       "rawDate": "2026-06-26",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40657"
@@ -867,7 +779,7 @@
       "subtitle": "with American Contemporary Music Ensemble",
       "date": "2026-06-26",
       "rawDate": "2026-06-26",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
       "description": "with American Contemporary Music Ensemble",
       "url": "https://nac-cna.ca/en/event/40676"
@@ -878,7 +790,7 @@
       "subtitle": null,
       "date": "2026-06-26",
       "rawDate": "2026-06-26",
-      "time": "9:00 p.m.",
+      "time": "21:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41120"
@@ -889,7 +801,7 @@
       "subtitle": null,
       "date": "2026-06-27",
       "rawDate": "2026-06-27",
-      "time": "6:30 p.m.",
+      "time": "18:30",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40343"
@@ -900,7 +812,7 @@
       "subtitle": null,
       "date": "2026-06-27",
       "rawDate": "2026-06-27",
-      "time": "6:30 p.m.",
+      "time": "18:30",
       "venue": "Confederation Park Parc de la Confédération",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40666"
@@ -911,7 +823,7 @@
       "subtitle": "My First Farewell Tour",
       "date": "2026-06-27",
       "rawDate": "2026-06-27",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Southam Hall Salle Southam",
       "description": "My First Farewell Tour",
       "url": "https://nac-cna.ca/en/event/40057"
@@ -922,7 +834,7 @@
       "subtitle": null,
       "date": "2026-06-27",
       "rawDate": "2026-06-27",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40345"
@@ -933,7 +845,7 @@
       "subtitle": null,
       "date": "2026-06-27",
       "rawDate": "2026-06-27",
-      "time": "9:00 p.m.",
+      "time": "21:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40351"
@@ -944,7 +856,7 @@
       "subtitle": null,
       "date": "2026-06-28",
       "rawDate": "2026-06-28",
-      "time": "1:30 p.m.",
+      "time": "13:30",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40578"
@@ -955,7 +867,7 @@
       "subtitle": "with Amanda Fox",
       "date": "2026-06-29",
       "rawDate": "2026-06-29",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Canal Lobby Stage Scène du Foyer du canal",
       "description": "with Amanda Fox",
       "url": "https://nac-cna.ca/en/event/41134"
@@ -966,7 +878,7 @@
       "subtitle": "Clara, Robert, Johannes: Coda",
       "date": "2026-07-02",
       "rawDate": "2026-07-02",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
       "description": "Clara, Robert, Johannes: Coda",
       "url": "https://nac-cna.ca/en/event/38433"
@@ -977,7 +889,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-04",
       "rawDate": "2026-07-04",
-      "time": "4:30 p.m.",
+      "time": "16:30",
       "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40976"
@@ -988,7 +900,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-07",
       "rawDate": "2026-07-07",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/41088"
@@ -999,7 +911,7 @@
       "subtitle": "Quand la tempête est fabuleuse",
       "date": "2026-07-07",
       "rawDate": "2026-07-07",
-      "time": "2:00 p.m.",
+      "time": "14:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Quand la tempête est fabuleuse",
       "url": "https://nac-cna.ca/en/event/40969"
@@ -1010,7 +922,7 @@
       "subtitle": "Quand la tempête est fabuleuse",
       "date": "2026-07-08",
       "rawDate": "2026-07-08",
-      "time": "2:00 p.m.",
+      "time": "14:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Quand la tempête est fabuleuse",
       "url": "https://nac-cna.ca/en/event/40969"
@@ -1021,7 +933,7 @@
       "subtitle": "Quand la tempête est fabuleuse",
       "date": "2026-07-09",
       "rawDate": "2026-07-09",
-      "time": "2:00 p.m.",
+      "time": "14:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Quand la tempête est fabuleuse",
       "url": "https://nac-cna.ca/en/event/40969"
@@ -1032,7 +944,7 @@
       "subtitle": "Quand la tempête est fabuleuse",
       "date": "2026-07-10",
       "rawDate": "2026-07-10",
-      "time": "2:00 p.m.",
+      "time": "14:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Quand la tempête est fabuleuse",
       "url": "https://nac-cna.ca/en/event/40969"
@@ -1043,7 +955,7 @@
       "subtitle": "Quand la tempête est fabuleuse",
       "date": "2026-07-11",
       "rawDate": "2026-07-11",
-      "time": "2:00 p.m.",
+      "time": "14:00",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Quand la tempête est fabuleuse",
       "url": "https://nac-cna.ca/en/event/40969"
@@ -1054,7 +966,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-07",
       "rawDate": "2026-07-07",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40964"
@@ -1065,7 +977,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-08",
       "rawDate": "2026-07-08",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40964"
@@ -1076,7 +988,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-09",
       "rawDate": "2026-07-09",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40964"
@@ -1087,7 +999,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-08",
       "rawDate": "2026-07-08",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40965"
@@ -1098,7 +1010,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-09",
       "rawDate": "2026-07-09",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/41293"
@@ -1109,7 +1021,7 @@
       "subtitle": "with the NAC Orchestra",
       "date": "2026-07-09",
       "rawDate": "2026-07-09",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
       "description": "with the NAC Orchestra",
       "url": "https://nac-cna.ca/en/event/38422"
@@ -1120,7 +1032,7 @@
       "subtitle": "with the NAC Orchestra",
       "date": "2026-07-10",
       "rawDate": "2026-07-10",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
       "description": "with the NAC Orchestra",
       "url": "https://nac-cna.ca/en/event/38422"
@@ -1131,7 +1043,7 @@
       "subtitle": "with the NAC Orchestra",
       "date": "2026-07-11",
       "rawDate": "2026-07-11",
-      "time": "8:00 p.m.",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
       "description": "with the NAC Orchestra",
       "url": "https://nac-cna.ca/en/event/38422"
@@ -1142,7 +1054,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-11",
       "rawDate": "2026-07-11",
-      "time": "10:00 a.m.",
+      "time": "10:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40951"
@@ -1153,7 +1065,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-11",
       "rawDate": "2026-07-11",
-      "time": "4:30 p.m.",
+      "time": "16:30",
       "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/41304"
@@ -1164,7 +1076,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-14",
       "rawDate": "2026-07-14",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/41386"
@@ -1175,7 +1087,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-14",
       "rawDate": "2026-07-14",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40948"
@@ -1186,7 +1098,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-15",
       "rawDate": "2026-07-15",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40948"
@@ -1197,7 +1109,7 @@
       "subtitle": "The Power of Vodoun at the Heart of Modern Music",
       "date": "2026-07-14",
       "rawDate": "2026-07-14",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "The Power of Vodoun at the Heart of Modern Music",
       "url": "https://nac-cna.ca/en/event/41226"
@@ -1208,7 +1120,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-15",
       "rawDate": "2026-07-15",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40947"
@@ -1219,7 +1131,7 @@
       "subtitle": null,
       "date": "2026-07-15",
       "rawDate": "2026-07-15",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41309"
@@ -1230,7 +1142,7 @@
       "subtitle": "The Best of BTS",
       "date": "2026-07-16",
       "rawDate": "2026-07-16",
-      "time": "7:00 p.m.",
+      "time": "19:00",
       "venue": "Head Street Square – Zibi Head Street Square – Zibi",
       "description": "The Best of BTS",
       "url": "https://nac-cna.ca/en/event/41083"
@@ -1241,7 +1153,7 @@
       "subtitle": "Axé Summer WorldFest",
       "date": "2026-07-16",
       "rawDate": "2026-07-16",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "Axé Summer WorldFest",
       "url": "https://nac-cna.ca/en/event/41521"
@@ -1252,7 +1164,7 @@
       "subtitle": "Axé Summer WorldFest",
       "date": "2026-07-17",
       "rawDate": "2026-07-17",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Axé Summer WorldFest",
       "url": "https://nac-cna.ca/en/event/41519"
@@ -1263,7 +1175,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-18",
       "rawDate": "2026-07-18",
-      "time": "4:30 p.m.",
+      "time": "16:30",
       "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40967"
@@ -1274,7 +1186,7 @@
       "subtitle": "Gonia, Dosi and Maria Kim",
       "date": "2026-07-18",
       "rawDate": "2026-07-18",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Southam Hall Salle Southam",
       "description": "Gonia, Dosi and Maria Kim",
       "url": "https://nac-cna.ca/en/event/41244"
@@ -1285,7 +1197,7 @@
       "subtitle": "Axé Summer WorldFest",
       "date": "2026-07-18",
       "rawDate": "2026-07-18",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Axé Summer WorldFest",
       "url": "https://nac-cna.ca/en/event/41522"
@@ -1296,7 +1208,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-21",
       "rawDate": "2026-07-21",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40949"
@@ -1307,7 +1219,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-21",
       "rawDate": "2026-07-21",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40946"
@@ -1318,7 +1230,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-22",
       "rawDate": "2026-07-22",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40946"
@@ -1329,7 +1241,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-23",
       "rawDate": "2026-07-23",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40946"
@@ -1340,7 +1252,7 @@
       "subtitle": "A master of the Scottish smallpipes",
       "date": "2026-07-21",
       "rawDate": "2026-07-21",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Fourth Stage Quatrième Salle",
       "description": "A master of the Scottish smallpipes",
       "url": "https://nac-cna.ca/en/event/40977"
@@ -1351,7 +1263,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-22",
       "rawDate": "2026-07-22",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40945"
@@ -1362,7 +1274,7 @@
       "subtitle": "A new approach to old-school salsa",
       "date": "2026-07-23",
       "rawDate": "2026-07-23",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Babs Asper Babs Asper",
       "description": "A new approach to old-school salsa",
       "url": "https://nac-cna.ca/en/event/41186"
@@ -1373,7 +1285,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-25",
       "rawDate": "2026-07-25",
-      "time": "4:30 p.m.",
+      "time": "16:30",
       "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/41086"
@@ -1384,7 +1296,7 @@
       "subtitle": "Beth Silver & Jenna Richards",
       "date": "2026-07-27",
       "rawDate": "2026-07-27",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": "Beth Silver & Jenna Richards",
       "url": "https://nac-cna.ca/en/event/41289"
@@ -1395,7 +1307,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-28",
       "rawDate": "2026-07-28",
-      "time": "12:00 p.m.",
+      "time": "12:00",
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/41290"
@@ -1406,7 +1318,7 @@
       "subtitle": null,
       "date": "2026-07-28",
       "rawDate": "2026-07-28",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/38564"
@@ -1417,7 +1329,7 @@
       "subtitle": null,
       "date": "2026-07-29",
       "rawDate": "2026-07-29",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/38564"
@@ -1428,7 +1340,7 @@
       "subtitle": null,
       "date": "2026-07-30",
       "rawDate": "2026-07-30",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/38564"
@@ -1439,7 +1351,7 @@
       "subtitle": null,
       "date": "2026-07-31",
       "rawDate": "2026-07-31",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/38564"
@@ -1450,7 +1362,7 @@
       "subtitle": null,
       "date": "2026-08-01",
       "rawDate": "2026-08-01",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/38564"
@@ -1461,7 +1373,7 @@
       "subtitle": null,
       "date": "2026-08-02",
       "rawDate": "2026-08-02",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/38564"
@@ -1472,7 +1384,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-28",
       "rawDate": "2026-07-28",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40972"
@@ -1483,7 +1395,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-29",
       "rawDate": "2026-07-29",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40972"
@@ -1494,7 +1406,7 @@
       "subtitle": "The Feeling of Free",
       "date": "2026-07-30",
       "rawDate": "2026-07-30",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40972"
@@ -1505,136 +1417,27 @@
       "subtitle": null,
       "date": "2026-07-28",
       "rawDate": "2026-07-28",
-      "time": "7:30 p.m.",
+      "time": "19:30",
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41358"
     },
     {
-      "source": "gigs",
-      "title": "CORE",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Fono",
-      "description": "Genre: Electronic",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
+      "source": "nac",
+      "title": "Sechile Sedare",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-29",
+      "rawDate": "2026-07-29",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40973"
     },
     {
       "source": "gigs",
-      "title": "To Life!",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Other",
-      "description": "Genre: Classical",
-      "url": "https://ottawagigs.ca/neighborhood/various"
-    },
-    {
-      "source": "gigs",
-      "title": "FENIX  (TX) +  POP CULTURE ICONS + THIS DISASTER + VENOSTA",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Pop Punk",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
-    },
-    {
-      "source": "gigs",
-      "title": "Cameron Earnshaw",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Country",
-      "url": "https://ottawagigs.ca/neighborhood/gloucester"
-    },
-    {
-      "source": "gigs",
-      "title": "Judy Collins",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "National Arts Centre",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
-    },
-    {
-      "source": "gigs",
-      "title": "ABIJAH",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Night Oat",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
-    },
-    {
-      "source": "gigs",
-      "title": "THE START - Brit-Pop Night",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Overflow Brewing",
-      "description": "Genre: Indie",
-      "url": "https://ottawagigs.ca/neighborhood/alta-vista"
-    },
-    {
-      "source": "gigs",
-      "title": "PAUL REDDICK at The Black Sheep Inn",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "The Black Sheep Inn",
-      "description": "Genre: Blues",
-      "url": "https://ottawagigs.ca/neighborhood/wakefield"
-    },
-    {
-      "source": "gigs",
-      "title": "80s DANCE PARTY w DJ Remi Royale + The Underground (Live 80s New Wave)",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "House of Targ",
-      "description": "Genre: Pop",
-      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
-    },
-    {
-      "source": "gigs",
-      "title": "Drifting Bird",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Kaffe 1870",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/wakefield"
-    },
-    {
-      "source": "gigs",
-      "title": "LIVE! on Elgin STAFF BATTLE OF THE BANDS",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "LIVE! on Elgin",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
-    },
-    {
-      "source": "gigs",
-      "title": "Toma Rum",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Dominion Tavern",
-      "description": "Genre: Metal",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
-    },
-    {
-      "source": "gigs",
-      "title": "Hannah & Nathan LIVE @ Motel Chelsea!",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
+      "title": "Noah Derksen LIVE @ Motel Chelsea!",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
       "time": null,
       "venue": "Motel Chelsea",
       "description": "Genre: Folk",
@@ -1642,83 +1445,203 @@
     },
     {
       "source": "gigs",
-      "title": "The RockPhiles LIVE!",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
+      "title": "Modern Disco",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
+      "time": null,
+      "venue": "Club SAW",
+      "description": "Genre: Dance Party",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "Ali McCormick & Vicki Brittle w/ special guest Mudfish",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+    },
+    {
+      "source": "gigs",
+      "title": "Atlantic Voices Presents: The Hills and Glens",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
       "time": null,
       "venue": "Other",
-      "description": "Genre: Tribute/Covers",
+      "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/various"
     },
     {
       "source": "gigs",
-      "title": "John Allaire and The Campistas with Special Guest K Dilla - Rock n’ Beat Show and Book Launch",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
+      "title": "Music for a Sunday Afternoon: Spring Edition",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
       "time": null,
-      "venue": "Irene's Pub",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
-    },
-    {
-      "source": "gigs",
-      "title": "Conscious Wave",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Club SAW",
-      "description": "Genre: Dance Party",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
-    },
-    {
-      "source": "gigs",
-      "title": "Conscious Wave presents Dinzy (MTL)",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Club SAW",
-      "description": "Genre: Dance Party",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
-    },
-    {
-      "source": "gigs",
-      "title": "Outskirts - Celebrating the music of Blue Rodeo",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Tribute/Covers",
-      "url": "https://ottawagigs.ca/neighborhood/gloucester"
-    },
-    {
-      "source": "gigs",
-      "title": "10 YEARS AT NIGHT: NATHAN BARATO",
-      "date": "2026-05-29",
-      "rawDate": "Friday, May 29, 2026",
-      "time": null,
-      "venue": "City at Night",
-      "description": "Genre: Electronic",
+      "venue": "National Arts Centre",
+      "description": "Genre: Classical",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
     },
     {
       "source": "gigs",
-      "title": "CAPO All-Stars Matinee in support of Ottawa Blues for Youth",
-      "date": "2026-05-30",
-      "rawDate": "Saturday, May 30, 2026",
+      "title": "Acoustic Matinee At Avant-Garde",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
       "time": null,
-      "venue": "Irene's Pub",
-      "description": "Genre: Blues",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "Village Trio",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
+      "time": null,
+      "venue": "Kaffe 1870",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/wakefield"
+    },
+    {
+      "source": "gigs",
+      "title": "Sultans of String",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
+      "time": null,
+      "venue": "Ottawa Tennis Club",
+      "description": "Genre: Global",
+      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
+    },
+    {
+      "source": "gigs",
+      "title": "Spiritual Law",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
+      "time": null,
+      "venue": "Dominion Tavern",
+      "description": "Genre: Punk",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "Lynn Miles rare afternoon intimate show",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
+      "time": null,
+      "venue": "The Robo Lounge",
+      "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/the-glebe"
     },
     {
       "source": "gigs",
-      "title": "Matthew Good & I Mother Earth",
-      "date": "2026-05-30",
-      "rawDate": "Saturday, May 30, 2026",
+      "title": "Shepherd's Of Good Hope Fundraiser",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
       "time": null,
-      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "venue": "LIVE! on Elgin",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/centretown"
+    },
+    {
+      "source": "gigs",
+      "title": "Red Bridge Fest presents No Fun At All au Minotaure",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
+      "time": null,
+      "venue": "Minotaure",
+      "description": "Genre: Punk",
+      "url": "https://ottawagigs.ca/neighborhood/gatineau"
+    },
+    {
+      "source": "gigs",
+      "title": "Jackrabbits w/ James Croteau's Drive-In Double Feature and Dana Dufour",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
+      "time": null,
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "The Sunday Night Revue with Special Guest Joe Abbott",
+      "date": "2026-05-31",
+      "rawDate": "Sunday, May 31, 2026",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+    },
+    {
+      "source": "gigs",
+      "title": "Goldlink",
+      "date": "2026-06-01",
+      "rawDate": "Monday, June 1, 2026",
+      "time": null,
+      "venue": "Bronson Centre",
+      "description": "Genre: Hip Hop",
+      "url": "https://ottawagigs.ca/neighborhood/centretown"
+    },
+    {
+      "source": "gigs",
+      "title": "Ottawa Jazz Festival Homegrown Local Club Series Presents Loon Choir",
+      "date": "2026-06-01",
+      "rawDate": "Monday, June 1, 2026",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+    },
+    {
+      "source": "gigs",
+      "title": "Bologna Colorado at Avant-Garde Bar",
+      "date": "2026-06-01",
+      "rawDate": "Monday, June 1, 2026",
+      "time": null,
+      "venue": "Avant-Garde Bar",
       "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/gloucester"
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "Bluegrass Wednesdays ft. Pete Deachman and Handsome Molly",
+      "date": "2026-06-02",
+      "rawDate": "Tuesday, June 2, 2026",
+      "time": null,
+      "venue": "Red Bird",
+      "description": "Genre: Bluegrass",
+      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
+    },
+    {
+      "source": "gigs",
+      "title": "Le R Premier - Concert TROY",
+      "date": "2026-06-02",
+      "rawDate": "Tuesday, June 2, 2026",
+      "time": null,
+      "venue": "Club SAW",
+      "description": "Genre: Hip Hop",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "Longform 101 and Sketch Writing 101 Improv Class Show",
+      "date": "2026-06-02",
+      "rawDate": "Tuesday, June 2, 2026",
+      "time": null,
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Satire",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "Le Comité F au Minotaure",
+      "date": "2026-06-03",
+      "rawDate": "Wednesday, June 3, 2026",
+      "time": null,
+      "venue": "Minotaure",
+      "description": "Genre: Storytelling",
+      "url": "https://ottawagigs.ca/neighborhood/gatineau"
     },
     {
       "source": "redbird",
@@ -1989,26 +1912,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Mark Crissinger",
-      "date": "2026-05-28",
-      "rawDate": "May 28",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": null,
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd"
-    },
-    {
-      "source": "irenes",
-      "title": "John Allaire and The Campistas with Special Guest K Dilla - Rock n’ Beat Show and Book Launch",
-      "date": "2026-05-29",
-      "rawDate": "May 29",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "John Allaire K Dilla Motel Matchbooks Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/john-allaire-the-campistas-with-sg-k-dilla"
     },
     {
       "source": "irenes",
@@ -2602,6 +2505,26 @@
     },
     {
       "source": "irenes",
+      "title": "John Allaire and The Campistas with Special Guest K Dilla - Rock n’ Beat Show and Book Launch",
+      "date": "2026-05-29",
+      "rawDate": "May 29",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "John Allaire K Dilla Motel Matchbooks Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/john-allaire-the-campistas-with-sg-k-dilla"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Mark Crissinger",
+      "date": "2026-05-28",
+      "rawDate": "May 28",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd"
+    },
+    {
+      "source": "irenes",
       "title": "Small Fish - A Comedy & Variety Show",
       "date": "2026-05-27",
       "rawDate": "May 27",
@@ -2682,7 +2605,7 @@
     },
     {
       "source": "irenes",
-      "title": "Trivia Tuesday (Copy)",
+      "title": "Trivia Tuesday",
       "date": "2026-05-19",
       "rawDate": "May 19",
       "time": null,
@@ -2879,26 +2802,6 @@
       "venue": "Irene's Pub",
       "description": null,
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps"
-    },
-    {
-      "source": "irenes",
-      "title": "The Great Drag-King-ification of Small Fish",
-      "date": "2026-04-29",
-      "rawDate": "Apr 29",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Small Fish Show Tickets",
-      "url": "https://irenespub.ca/events/small-fish-a-comedy-variety-show-3"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-04-28",
-      "rawDate": "Apr 28",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg"
     },
     {
       "source": "gladstone",
@@ -3129,6 +3032,16 @@
       "venue": "The Gladstone Theatre",
       "description": "4th Annual Curated Performance Series of Local Women’s True Voices",
       "url": "https://thegladstone.ca/shows/unedited-womans-4th-annual-curated-performance-series-of-local-womens-true-voices/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Divining Spirits",
+      "date": "2026-09-17",
+      "rawDate": "Sep 17, 2026",
+      "time": null,
+      "venue": "The Gladstone Theatre",
+      "description": "Part of the 2026 Gleanings series \"Heroes & Villains\"",
+      "url": "https://thegladstone.ca/shows/divining-spirits/"
     },
     {
       "source": "gladstone",
@@ -4551,106 +4464,6 @@
       "url": "https://thegladstone.ca/shows/red/"
     },
     {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-06",
-      "rawDate": "May 6, 2027",
-      "time": null,
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-07",
-      "rawDate": "May 6, 2027",
-      "time": null,
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-08",
-      "rawDate": "May 6, 2027",
-      "time": null,
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-09",
-      "rawDate": "May 6, 2027",
-      "time": null,
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-10",
-      "rawDate": "May 6, 2027",
-      "time": null,
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-11",
-      "rawDate": "May 6, 2027",
-      "time": null,
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-12",
-      "rawDate": "May 6, 2027",
-      "time": null,
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-13",
-      "rawDate": "May 6, 2027",
-      "time": null,
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-14",
-      "rawDate": "May 6, 2027",
-      "time": null,
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-15",
-      "rawDate": "May 6, 2027",
-      "time": null,
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
       "source": "gctc",
       "title": "Hugh-kulele: Unhinged",
       "date": "2026-06-01",
@@ -4669,16 +4482,6 @@
       "venue": "GCTC",
       "description": " Hanji(韓紙)   A Thousand Years of Korean Paper Art - Hanji Meets Canada ",
       "url": "https://www.gctc.ca/events/hanji-exhibit"
-    },
-    {
-      "source": "ottawapops",
-      "title": "Spring Concert Fundraiser",
-      "date": "2026-05-29",
-      "rawDate": "2026-05-29T23:00:00.919Z",
-      "time": "19:00",
-      "venue": "Ottawa Pops Orchestra",
-      "description": "Buy Tickets on Eventbrite\n  \n\n\n\n\n  \n    May 29, 7:00PM\n  \n\n\n\n\n\n\n  var exampleCallback = function() {\n    console.log('Order complete!');\n    window.location.href = 'https://www.ottawapopsorchestra.ca/",
-      "url": "https://www.ottawapopsorchestra.ca/events/20260529-spring-concert-fundraiser"
     },
     {
       "source": "ottawapops",
@@ -5765,7 +5568,7 @@
     {
       "source": "motelchelsea",
       "title": "Hannah & Nathan Album Release",
-      "date": "2026-05-29",
+      "date": "2027-05-29",
       "rawDate": "MAY 29",
       "time": "20:00",
       "venue": "Motel Chelsea",

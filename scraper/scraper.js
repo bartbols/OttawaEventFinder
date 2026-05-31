@@ -98,12 +98,9 @@ async function scrapeNAC() {
           const endDate   = endRaw ? endRaw.split(" ")[0] : startDate; // "2026-05-28"
           const timeStr   = startRaw.split(" ")[1] || ""; // "20:00"
 
-          // Format time as 12-hour
+          // Store time in 24h format "HH:MM" consistent with other scrapers
           if (timeStr) {
-            const [h, m] = timeStr.split(":").map(Number);
-            const period = h >= 12 ? "p.m." : "a.m.";
-            const hour12 = h % 12 || 12;
-            time = `${hour12}:${String(m).padStart(2,"0")} ${period}`;
+            time = timeStr; // already "20:00" format from NAC
           }
 
           // Generate one entry per day between start and end
