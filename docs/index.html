@@ -554,16 +554,29 @@
         ? " · updated " + new Date(data.scrapedAt).toLocaleDateString("en-CA")
         : "";
 
-      const dateLabel = dateVal
-        ? new Date(dateVal + "T12:00:00").toLocaleDateString("en-CA", { weekday: "long", year: "numeric", month: "long", day: "numeric" })
-        : "all dates";
-      const textLabel = searchQuery ? ` matching "${searchQuery}"` : "";
+      const onDateCount = dateVal ? textFiltered.filter(e => e.date === dateVal).length : 0;
+      const otherCount  = dateVal ? textFiltered.filter(e => e.date !== dateVal).length : textFiltered.length;
       const count = textFiltered.length;
 
-      document.getElementById("status").textContent =
-        count > 0
-          ? `${count} event${count !== 1 ? "s" : ""} on ${dateLabel}${textLabel}${scrapedMsg}`
-          : `No events found for ${dateLabel}${textLabel} — try another search`;
+      let statusMsg = "";
+      if (count === 0) {
+        statusMsg = `No events found${searchQuery ? ` matching "${searchQuery}"` : ""}`;
+      } else if (searchQuery && dateVal) {
+        const dateLabel = new Date(dateVal + "T12:00:00").toLocaleDateString("en-CA", { weekday: "long", month: "long", day: "numeric" });
+        const parts = [];
+        if (onDateCount) parts.push(`${onDateCount} on ${dateLabel}`);
+        if (otherCount)  parts.push(`${otherCount} on other dates`);
+        statusMsg = `"${searchQuery}": ${parts.join(", ")}${scrapedMsg}`;
+      } else if (searchQuery) {
+        statusMsg = `${count} event${count !== 1 ? "s" : ""} matching "${searchQuery}"${scrapedMsg}`;
+      } else {
+        const dateLabel = dateVal
+          ? new Date(dateVal + "T12:00:00").toLocaleDateString("en-CA", { weekday: "long", year: "numeric", month: "long", day: "numeric" })
+          : "all dates";
+        statusMsg = `${count} event${count !== 1 ? "s" : ""} on ${dateLabel}${scrapedMsg}`;
+      }
+
+      document.getElementById("status").textContent = statusMsg;
 
     } catch(err) {
       document.getElementById("status").textContent = "⚠️ " + err.message;
