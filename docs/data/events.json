@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-05-31T20:11:45.767Z",
+  "scrapedAt": "2026-05-31T21:35:06.624Z",
   "totalEvents": 544,
   "errors": [],
   "events": [
@@ -4488,7 +4488,7 @@
       "title": "A Knight at the Symphony",
       "date": "2026-06-26",
       "rawDate": "2026-06-26T23:30:00.919Z",
-      "time": "19:30",
+      "time": "23:30",
       "venue": "Ottawa Pops Orchestra",
       "description": "Buy Tickets on Eventbrite\n\n\n    June 26, 7:30PM\n\n\n\n\n    var exampleCallback = function() {\n        console.log('Order complete!');\n    };\n\n    window.EBWidgets.createWidget({\n        widgetType: 'chec",
       "url": "https://www.ottawapopsorchestra.ca/events/a-knight-at-the-symphony"
