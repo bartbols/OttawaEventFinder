@@ -68,6 +68,9 @@
       margin-bottom: 1rem;
     }
 
+    input[type="date"] { flex-shrink: 0; }
+    .search-text-wrap { flex: 1; }
+
     input[type="date"], input[type="text"] {
       border: 0.5px solid var(--border);
       border-radius: var(--radius);
@@ -82,21 +85,6 @@
     input[type="date"]:focus, input[type="text"]:focus { border-color: var(--text); }
     input[type="text"] { flex: 1; min-width: 120px; }
 
-    .search-btn {
-      background: var(--text);
-      color: var(--surface);
-      border: none;
-      border-radius: var(--radius);
-      padding: 8px 18px;
-      font-size: 14px;
-      font-family: inherit;
-      font-weight: 500;
-      cursor: pointer;
-      white-space: nowrap;
-      transition: opacity 0.15s;
-    }
-    .search-btn:hover { opacity: 0.85; }
-    .search-btn:disabled { opacity: 0.4; cursor: default; }
 
     /* ── Category tabs ── */
     .cat-tabs {
@@ -324,7 +312,6 @@
       <input type="text" id="text-input" placeholder="Search events…" />
       <button class="clear-btn" id="clear-btn" onclick="clearSearch()" title="Clear search">×</button>
     </div>
-    <button class="search-btn" id="search-btn" onclick="searchEvents()">Search</button>
   </div>
   <div class="shortcut-row">
     <button class="shortcut-btn" id="btn-today" onclick="setShortcut('today')">Today</button>
@@ -535,9 +522,6 @@
 
     if (!dateVal && !textVal) return;
 
-    const btn = document.getElementById("search-btn");
-    btn.disabled = true;
-    btn.textContent = "…";
 
     try {
       const resp = await fetch(DATA_URL);
@@ -584,8 +568,6 @@
     } catch(err) {
       document.getElementById("status").textContent = "⚠️ " + err.message;
     } finally {
-      btn.disabled = false;
-      btn.textContent = "Search";
     }
   }
 
@@ -635,9 +617,6 @@
   }
 
   async function searchWeekend() {
-    const btn = document.getElementById("search-btn");
-    btn.disabled = true;
-    btn.textContent = "…";
     try {
       const resp = await fetch(DATA_URL);
       if (!resp.ok) throw new Error("Could not load events.json");
@@ -696,8 +675,6 @@
     } catch(err) {
       document.getElementById("status").textContent = "⚠️ " + err.message;
     } finally {
-      btn.disabled = false;
-      btn.textContent = "Search";
     }
   }
 
@@ -714,6 +691,7 @@
     document.querySelectorAll(".shortcut-btn").forEach(b => b.classList.remove("active"));
     weekendDates = [];
     checkPastWarning();
+    searchEvents();
   });
 
   // ── Init: auto-load today ─────────────────────────────────────────────
