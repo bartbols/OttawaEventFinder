@@ -338,11 +338,7 @@ async function scrapeJazzFest() {
 }
 
 async function scrapeOttawaGigs() {
-  // Structure confirmed from browser inspection:
-  //   Title:  [fs-cmsfilter-field="Title"]   → event name
-  //   Date:   [fs-cmsfilter-field="Date"]    → "Wednesday, May 27, 2026"
-  //   Genre:  [fs-cmsfilter-field="genre"]   → "Folk"
-  //   Link:   a.w-button                     → "/gig/slug"
+  // Webflow CMS site — listing page has title/date/genre, individual pages have time+venue
   console.log("  Scraping Ottawa Gigs...");
   const html = await fetchHTML("https://ottawagigs.ca/");
   const $ = cheerio.load(html);
@@ -359,12 +355,10 @@ async function scrapeOttawaGigs() {
     const title   = $(el).find("[fs-cmsfilter-field='Title'], .job-listing-title").first().text().trim();
     const rawDate = $(el).find("[fs-cmsfilter-field='Date']").first().text().trim();
     const genre   = $(el).find("[fs-cmsfilter-field='genre']").first().text().trim();
-    const venue   = $(el).find("[fs-cmsfilter-field='venue'], [fs-cmsfilter-field='Venue'], .venue").first().text().trim() || null;
-    const href    = $(el).find("a.w-button, a.button").first().attr("href");
+    const href    = $(el).find("a.w-button, a.button, a[href*='/gig/']").first().attr("href");
     const url     = href ? resolveURL("https://ottawagigs.ca", href) : "https://ottawagigs.ca";
 
     if (!title || NEIGHBOURHOODS.has(title.toLowerCase())) return;
-
     const key = `${title}|${rawDate}`;
     if (seen.has(key)) return;
     seen.add(key);
@@ -375,11 +369,43 @@ async function scrapeOttawaGigs() {
       date: normalizeDate(rawDate),
       rawDate: rawDate || null,
       time: null,
-      venue: venue && !NEIGHBOURHOODS.has(venue.toLowerCase()) ? venue : null,
+      venue: null,
       description: genre ? `Genre: ${genre}` : null,
       url,
     });
   });
+
+  // Fetch individual pages in batches to get time + venue
+  // Individual page has: <div class="job-page-info-text date">Jun 1, 2026 8:00 PM</div>
+  // and <a href="/venue/..." class="job-page-info-text link">The Laff</a>
+  for (let i = 0; i < events.length; i += 5) {
+    const batch = events.slice(i, i + 5);
+    await Promise.all(batch.map(async (ev) => {
+      if (!ev.url || ev.url === "https://ottawagigs.ca") return;
+      try {
+        const pageHtml = await fetchHTML(ev.url);
+        const $p = cheerio.load(pageHtml);
+
+        // Date/time: "Jun 1, 2026 8:00 PM"
+        const dateTimeText = $p(".job-page-info-text.date").first().text().trim();
+        const tm = dateTimeText.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+        if (tm) {
+          let h = parseInt(tm[1]);
+          const m = tm[2];
+          const ampm = tm[3].toUpperCase();
+          if (ampm === "PM" && h !== 12) h += 12;
+          if (ampm === "AM" && h === 12) h = 0;
+          ev.time = `${String(h).padStart(2,"0")}:${m}`;
+        }
+
+        // Venue: first link inside a job-page-info-block that follows the venue icon
+        const venueText = $p(".job-page-info-text.link").first().text().trim();
+        if (venueText && !NEIGHBOURHOODS.has(venueText.toLowerCase())) {
+          ev.venue = venueText;
+        }
+      } catch { /* skip */ }
+    }));
+  }
 
   console.log(`    Found ${events.length} Ottawa Gigs events`);
   return events;
@@ -545,13 +571,11 @@ async function scrapeIrenesPub() {
     $("article.eventlist-event, li.eventlist-event, [class*='eventlist-event']").each((_, el) => {
       const title   = $(el).find("[class*='eventlist-title'], h1, h2, h3").first().text().trim();
       const dateEl  = $(el).find("time[datetime], [class*='event-date'], [class*='eventlist-date']").first();
-      // Squarespace datetime attr is often "May 27" with no year — append current year
       const dtAttr = dateEl.attr("datetime") || "";
       const dtText = dateEl.text().replace(/\s+/g," ").trim();
       const rawDate = dtAttr || dtText;
       const href    = $(el).find("a").first().attr("href");
       const descEl  = $(el).find("[class*='eventlist-description'], [class*='summary']").first();
-      // Strip inline <style> blocks that Squarespace sometimes injects
       descEl.find("style").remove();
       const desc    = descEl.text().replace(/#block-[^{]+\{[^}]*\}/g, "").replace(/\s+/g," ").trim();
 
@@ -567,6 +591,30 @@ async function scrapeIrenesPub() {
         url: href ? resolveURL("https://irenespub.ca", href) : "https://irenespub.ca/events",
       });
     });
+
+    // Fetch individual event pages in batches to get times
+    // Time appears as "3:00 p.m." in a list item on the event page
+    for (let i = 0; i < events.length; i += 5) {
+      const batch = events.slice(i, i + 5);
+      await Promise.all(batch.map(async (ev) => {
+        if (!ev.url || ev.url === "https://irenespub.ca/events") return;
+        try {
+          const pageHtml = await fetchHTML(ev.url);
+          const $p = cheerio.load(pageHtml);
+          // Time is in a list item like "3:00 p.m." or "7:30 p.m."
+          const bodyText = $p("li, span, p, div").map((_, el) => $p(el).clone().children().remove().end().text().trim()).get().join("\n");
+          const tm = bodyText.match(/(\d{1,2}:\d{2})\s*(a\.m\.|p\.m\.|am|pm)/i);
+          if (tm) {
+            let h = parseInt(tm[1].split(":")[0]);
+            const m = tm[1].split(":")[1];
+            const ampm = tm[2].toLowerCase().replace(/\./g,"");
+            if (ampm === "pm" && h !== 12) h += 12;
+            if (ampm === "am" && h === 12) h = 0;
+            ev.time = `${String(h).padStart(2,"0")}:${m}`;
+          }
+        } catch { /* skip if individual page fails */ }
+      }));
+    }
   } catch(e) {
     console.log("    Irene's Pub unreachable:", e.message);
   }

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-06-01T14:55:36.839Z",
+  "scrapedAt": "2026-06-01T15:36:10.588Z",
   "totalEvents": 538,
   "errors": [],
   "events": [
@@ -1428,7 +1428,7 @@
       "date": "2026-06-01",
       "rawDate": "Monday, June 1, 2026",
       "time": null,
-      "venue": "Bronson Centre",
+      "venue": null,
       "description": "Genre: Hip Hop",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
     },
@@ -1438,7 +1438,7 @@
       "date": "2026-06-01",
       "rawDate": "Monday, June 1, 2026",
       "time": null,
-      "venue": "The Laff",
+      "venue": null,
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1448,7 +1448,7 @@
       "date": "2026-06-01",
       "rawDate": "Monday, June 1, 2026",
       "time": null,
-      "venue": "Avant-Garde Bar",
+      "venue": null,
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1458,7 +1458,7 @@
       "date": "2026-06-02",
       "rawDate": "Tuesday, June 2, 2026",
       "time": null,
-      "venue": "Red Bird",
+      "venue": null,
       "description": "Genre: Bluegrass",
       "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
     },
@@ -1468,7 +1468,7 @@
       "date": "2026-06-02",
       "rawDate": "Tuesday, June 2, 2026",
       "time": null,
-      "venue": "Club SAW",
+      "venue": null,
       "description": "Genre: Hip Hop",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1478,7 +1478,7 @@
       "date": "2026-06-02",
       "rawDate": "Tuesday, June 2, 2026",
       "time": null,
-      "venue": "Avant-Garde Bar",
+      "venue": null,
       "description": "Genre: Satire",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1488,7 +1488,7 @@
       "date": "2026-06-02",
       "rawDate": "Tuesday, June 2, 2026",
       "time": null,
-      "venue": "The Laff",
+      "venue": null,
       "description": "Genre: Alternative",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1498,7 +1498,7 @@
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
       "time": null,
-      "venue": "Minotaure",
+      "venue": null,
       "description": "Genre: Storytelling",
       "url": "https://ottawagigs.ca/neighborhood/gatineau"
     },
@@ -1508,7 +1508,7 @@
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
       "time": null,
-      "venue": "The Robo Lounge",
+      "venue": null,
       "description": "Genre: Jazz",
       "url": "https://ottawagigs.ca/neighborhood/the-glebe"
     },
@@ -1518,7 +1518,7 @@
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
       "time": null,
-      "venue": "House of Targ",
+      "venue": null,
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
     },
@@ -1528,7 +1528,7 @@
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
       "time": null,
-      "venue": "The Laff",
+      "venue": null,
       "description": "Genre: Blues",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1538,7 +1538,7 @@
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
       "time": null,
-      "venue": "Avant-Garde Bar",
+      "venue": null,
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1548,7 +1548,7 @@
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
       "time": null,
-      "venue": "The Robo Lounge",
+      "venue": null,
       "description": "Genre: Jazz",
       "url": "https://ottawagigs.ca/neighborhood/the-glebe"
     },
@@ -1558,7 +1558,7 @@
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
       "time": null,
-      "venue": "Club SAW",
+      "venue": null,
       "description": "Genre: Alternative",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1568,7 +1568,7 @@
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
       "time": null,
-      "venue": "Night Oat",
+      "venue": null,
       "description": "Genre: Jazz",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
     },
@@ -1578,7 +1578,7 @@
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
       "time": null,
-      "venue": "LIVE! on Elgin",
+      "venue": null,
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
     },
@@ -1588,7 +1588,7 @@
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
       "time": null,
-      "venue": "Rainbow Bistro",
+      "venue": null,
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1598,7 +1598,7 @@
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
       "time": null,
-      "venue": "27 Club",
+      "venue": null,
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
@@ -1608,7 +1608,7 @@
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
       "time": null,
-      "venue": "House of Targ",
+      "venue": null,
       "description": "Genre: Pop Punk",
       "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
     },
