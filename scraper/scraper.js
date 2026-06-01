@@ -593,7 +593,7 @@ async function scrapeIrenesPub() {
     });
 
     // Fetch individual event pages in batches to get times
-    // Time appears as "3:00 p.m." in a list item on the event page
+    // Time is in <time class="event-time-localized-start">8:30 p.m.</time>
     for (let i = 0; i < events.length; i += 5) {
       const batch = events.slice(i, i + 5);
       await Promise.all(batch.map(async (ev) => {
@@ -601,13 +601,15 @@ async function scrapeIrenesPub() {
         try {
           const pageHtml = await fetchHTML(ev.url);
           const $p = cheerio.load(pageHtml);
-          // Time is in a list item like "3:00 p.m." or "7:30 p.m."
-          const bodyText = $p("li, span, p, div").map((_, el) => $p(el).clone().children().remove().end().text().trim()).get().join("\n");
-          const tm = bodyText.match(/(\d{1,2}:\d{2})\s*(a\.m\.|p\.m\.|am|pm)/i);
+          // Try specific time element first, then fall back to body text scan
+          const timeText = $p("time.event-time-localized-start").first().text().trim()
+            || $p("time.event-time-12hr").first().text().trim();
+          const tm = timeText.match(/(\d{1,2}):(\d{2})\s*(a\.m\.|p\.m\.|am|pm)/i)
+            || $p("body").text().match(/(\d{1,2}):(\d{2})\s*(a\.m\.|p\.m\.|am|pm)/i);
           if (tm) {
-            let h = parseInt(tm[1].split(":")[0]);
-            const m = tm[1].split(":")[1];
-            const ampm = tm[2].toLowerCase().replace(/\./g,"");
+            let h = parseInt(tm[1]);
+            const m = tm[2];
+            const ampm = tm[3].toLowerCase().replace(/\./g,"");
             if (ampm === "pm" && h !== 12) h += 12;
             if (ampm === "am" && h === 12) h = 0;
             ev.time = `${String(h).padStart(2,"0")}:${m}`;
@@ -692,6 +694,40 @@ async function scrapeGladstone() {
   });
 
   console.log(`    Found ${events.length} Gladstone events`);
+
+  // Fetch each unique show page to get time from "Showtimes" section
+  // Time is written as prose e.g. "7:30 nightly" in brxe-prgomj div
+  const uniqueUrls = [...new Set(events.map(e => e.url))];
+  const timeByUrl = {};
+  for (let i = 0; i < uniqueUrls.length; i += 5) {
+    const batch = uniqueUrls.slice(i, i + 5);
+    await Promise.all(batch.map(async (url) => {
+      try {
+        const pageHtml = await fetchHTML(url);
+        const $p = cheerio.load(pageHtml);
+        // Showtimes section text e.g. "7:30 nightly" or "2:00 pm and 7:30 pm"
+        const showtimeText = $p("[id*='brxe'] h3").filter((_, el) => 
+          $p(el).text().toLowerCase().includes("showtime")
+        ).closest("[id*='brxe']").next().text().replace(/\s+/g," ").trim();
+        
+        const tm = showtimeText.match(/(\d{1,2}):(\d{2})\s*(am|pm)?/i)
+          || $p("body").text().match(/(\d{1,2}):(\d{2})\s*(nightly|pm|am)/i);
+        if (tm) {
+          let h = parseInt(tm[1]);
+          const m = tm[2];
+          const ampm = (tm[3] || "").toLowerCase();
+          if ((ampm === "pm" || (!ampm && h < 12)) && h !== 12) h += 12;
+          timeByUrl[url] = `${String(h).padStart(2,"00")}:${m}`;
+        }
+      } catch { /* skip */ }
+    }));
+  }
+
+  // Apply times to all events
+  for (const ev of events) {
+    if (timeByUrl[ev.url]) ev.time = timeByUrl[ev.url];
+  }
+
   return events;
 }
 
@@ -925,12 +961,26 @@ async function scrapeOrkidstra() {
           const rawDate = dm ? dm[1] : "";
           // Use candidate title from listing page, strip leading date prefix
           const title = candidate.replace(/^[A-Z][a-z]+\.?\s+\d{1,2}(?:,\s*\d{4})?\s*[-:]\s*/i, "").trim() || candidate;
+          // Extract time from meta description or body text: "at 6:30 PM"
+          const metaDesc = $p('meta[property="og:description"]').attr("content") || "";
+          const timeSource = metaDesc || bodyText;
+          let time = null;
+          const tm = timeSource.match(/at\s+(\d{1,2}):(\d{2})\s*(AM|PM)/i)
+            || timeSource.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+          if (tm) {
+            let h = parseInt(tm[1]);
+            const m = tm[2];
+            const ampm = tm[3].toUpperCase();
+            if (ampm === "PM" && h !== 12) h += 12;
+            if (ampm === "AM" && h === 12) h = 0;
+            time = `${String(h).padStart(2,"00")}:${m}`;
+          }
           if (!title || title.length < 4 || SKIP_TITLES.has(title.toLowerCase())) return null;
           if (!rawDate) return null;
           const date = normalizeDateWithYear(rawDate);
           // Skip past events
           if (date && date < new Date().toISOString().split("T")[0]) return null;
-          return { href, title, rawDate, date };
+          return { href, title, rawDate, date, time };
         } catch { return null; }
       }));
       for (const r of results) {
@@ -938,7 +988,7 @@ async function scrapeOrkidstra() {
         events.push({
           source: "orkidstra", title: r.title,
           date: r.date, rawDate: r.rawDate,
-          time: null, venue: "Orkidstra", description: null, url: r.href,
+          time: r.time || null, venue: "Orkidstra", description: null, url: r.href,
         });
       }
     }
