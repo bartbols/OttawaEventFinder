@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-06-01T15:36:10.588Z",
-  "totalEvents": 538,
+  "scrapedAt": "2026-06-01T18:24:23.136Z",
+  "totalEvents": 537,
   "errors": [],
   "events": [
     {
@@ -1427,190 +1427,190 @@
       "title": "Goldlink",
       "date": "2026-06-01",
       "rawDate": "Monday, June 1, 2026",
-      "time": null,
-      "venue": null,
+      "time": "19:00",
+      "venue": "Bronson Centre",
       "description": "Genre: Hip Hop",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
+      "url": "https://ottawagigs.ca/gig/hip-hop-bronson-centre-goldlink-1-june"
     },
     {
       "source": "gigs",
       "title": "5 Star Monday Band",
       "date": "2026-06-01",
       "rawDate": "Monday, June 1, 2026",
-      "time": null,
-      "venue": null,
+      "time": "20:00",
+      "venue": "The Laff",
       "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "url": "https://ottawagigs.ca/gig/rock-the-laff-five-star-monday-band-1-june"
     },
     {
       "source": "gigs",
       "title": "Bologna Colorado at Avant-Garde Bar",
       "date": "2026-06-01",
       "rawDate": "Monday, June 1, 2026",
-      "time": null,
-      "venue": null,
+      "time": "20:30",
+      "venue": "Avant-Garde Bar",
       "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "url": "https://ottawagigs.ca/gig/rock-avant-garde-bar-bologna-colorado-1-june"
     },
     {
       "source": "gigs",
       "title": "Bluegrass Wednesdays ft. Pete Deachman and Handsome Molly",
       "date": "2026-06-02",
       "rawDate": "Tuesday, June 2, 2026",
-      "time": null,
-      "venue": null,
+      "time": "18:30",
+      "venue": "Red Bird",
       "description": "Genre: Bluegrass",
-      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
+      "url": "https://ottawagigs.ca/gig/bluegrass-red-bird-pete-deachman-and-handsome-molly-2-june"
     },
     {
       "source": "gigs",
       "title": "Le R Premier - Concert TROY",
       "date": "2026-06-02",
       "rawDate": "Tuesday, June 2, 2026",
-      "time": null,
-      "venue": null,
+      "time": "19:00",
+      "venue": "Club SAW",
       "description": "Genre: Hip Hop",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "url": "https://ottawagigs.ca/gig/hip-hop-club-saw-troy-2-june"
     },
     {
       "source": "gigs",
       "title": "Longform 101 and Sketch Writing 101 Improv Class Show",
       "date": "2026-06-02",
       "rawDate": "Tuesday, June 2, 2026",
-      "time": null,
-      "venue": null,
+      "time": "19:30",
+      "venue": "Avant-Garde Bar",
       "description": "Genre: Satire",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "url": "https://ottawagigs.ca/gig/satire-avant-garde-bar-improv-embassy-longform-101-and-sketch-writing-101-students-2-june"
     },
     {
       "source": "gigs",
       "title": "World Famous Open Mic",
       "date": "2026-06-02",
       "rawDate": "Tuesday, June 2, 2026",
-      "time": null,
-      "venue": null,
+      "time": "20:00",
+      "venue": "The Laff",
       "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "url": "https://ottawagigs.ca/gig/alternative-the-laff-john-carroll-2-june"
     },
     {
       "source": "gigs",
       "title": "Le Comité F au Minotaure",
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
-      "time": null,
-      "venue": null,
+      "time": "19:00",
+      "venue": "Minotaure",
       "description": "Genre: Storytelling",
-      "url": "https://ottawagigs.ca/neighborhood/gatineau"
+      "url": "https://ottawagigs.ca/gig/storytelling-minotaure-le-comit-f-3-june"
     },
     {
       "source": "gigs",
       "title": "Woods & Gummeson Trio featuring Alex Mastronardi",
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
-      "time": null,
-      "venue": null,
+      "time": "19:00",
+      "venue": "The Robo Lounge",
       "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-woods-gummeson-trio-3-june"
     },
     {
       "source": "gigs",
       "title": "DALI VAN GOGH + Motherland + Refuse",
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
-      "time": null,
-      "venue": null,
+      "time": "20:00",
+      "venue": "House of Targ",
       "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
+      "url": "https://ottawagigs.ca/gig/rock-house-of-targ-dali-van-gogh-3-june"
     },
     {
       "source": "gigs",
       "title": "The John Carroll Show",
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
-      "time": null,
-      "venue": null,
+      "time": "20:00",
+      "venue": "The Laff",
       "description": "Genre: Blues",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "url": "https://ottawagigs.ca/gig/blues-the-laff-john-carroll-3-june"
     },
     {
       "source": "gigs",
       "title": "A night with Canadian Songwriters - Liam S. Russell, Rachella Wred, Angela Begin, Bobby Tarian",
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
-      "time": null,
-      "venue": null,
+      "time": "20:00",
+      "venue": "Avant-Garde Bar",
       "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "url": "https://ottawagigs.ca/gig/folk-avant-garde-bar-liam-s-russell-3-june"
     },
     {
       "source": "gigs",
       "title": "Angela Verbrugg: The Wonder of the Night featuring Ray Gallon on piano!",
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
-      "time": null,
-      "venue": null,
+      "time": "19:00",
+      "venue": "The Robo Lounge",
       "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-angela-verbrugge-4-june"
     },
     {
       "source": "gigs",
       "title": "Je fonds de Jessy Lindsay : Une soirée d'art franco-queer",
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
-      "time": null,
-      "venue": null,
+      "time": "19:00",
+      "venue": "Club SAW",
       "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "url": "https://ottawagigs.ca/gig/alternative-club-saw-jessy-lindsay-4-june"
     },
     {
       "source": "gigs",
       "title": "Sundown Trio+",
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
-      "time": null,
-      "venue": null,
+      "time": "19:30",
+      "venue": "Night Oat",
       "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
+      "url": "https://ottawagigs.ca/gig/jazz-night-oat-sundown-trio--4-june"
     },
     {
       "source": "gigs",
       "title": "Elizabeth Royall \"You See An Angel\" EP Release Show w/corascene",
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
-      "time": null,
-      "venue": null,
+      "time": "20:00",
+      "venue": "LIVE! on Elgin",
       "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
+      "url": "https://ottawagigs.ca/gig/folk-live-on-elgin-elizabeth-royall-4-june"
     },
     {
       "source": "gigs",
       "title": "Chase The Bear LIVE at The Rainbow Bistro",
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
-      "time": null,
-      "venue": null,
+      "time": "20:00",
+      "venue": "Rainbow Bistro",
       "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "url": "https://ottawagigs.ca/gig/folk-rainbow-bistro-chase-the-bear-4-june"
     },
     {
       "source": "gigs",
       "title": "The Listros - Into The Otherside Tour",
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
-      "time": null,
-      "venue": null,
+      "time": "20:00",
+      "venue": "27 Club",
       "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+      "url": "https://ottawagigs.ca/gig/rock-27-club-the-listros-4-june-d0a8c"
     },
     {
       "source": "gigs",
       "title": "BROKEN BY FRIDAY + SIR KINGFISH + GRAFFITI 5-0",
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
-      "time": null,
-      "venue": null,
+      "time": "20:00",
+      "venue": "House of Targ",
       "description": "Genre: Pop Punk",
-      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
+      "url": "https://ottawagigs.ca/gig/pop-punk-house-of-targ-broken-by-friday-4-june"
     },
     {
       "source": "redbird",
@@ -1884,16 +1884,6 @@
     },
     {
       "source": "irenes",
-      "title": "The Sunday Night Revue with Special Guest Joe Abbott",
-      "date": "2026-05-31",
-      "rawDate": "May 31",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-nnc8a"
-    },
-    {
-      "source": "irenes",
       "title": "Ottawa Jazz Festival Homegrown Local Club Series Presents Loon Choir",
       "date": "2026-06-01",
       "rawDate": "Jun 1",
@@ -2014,7 +2004,7 @@
     },
     {
       "source": "irenes",
-      "title": "The Convertibles - Matinée",
+      "title": "Big Band Matinée with The Convertibles",
       "date": "2026-06-14",
       "rawDate": "Jun 14",
       "time": null,
@@ -2074,12 +2064,12 @@
     },
     {
       "source": "irenes",
-      "title": "Liam Simpson-Russell & Avalon Tassonyi",
+      "title": "Liam Simpson-Russell, Avalon Tassonyi & Joe Ray McDonald",
       "date": "2026-06-20",
       "rawDate": "Jun 20",
       "time": null,
       "venue": "Irene's Pub",
-      "description": "Liam Simpson-Russell Avalon Tassonyi Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Liam Simpson-Russell Avalon Tassonyi Joe Ray McDonald Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/liam-simpson-russell-avalon-tassonyi-isaac-baronikian"
     },
     {
@@ -2444,6 +2434,16 @@
     },
     {
       "source": "irenes",
+      "title": "The Sunday Night Revue with Special Guest Joe Abbott",
+      "date": "2026-05-31",
+      "rawDate": "May 31",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-nnc8a"
+    },
+    {
+      "source": "irenes",
       "title": "Ali McCormick & Vicki Brittle w/ special guest Mudfish",
       "date": "2026-05-31",
       "rawDate": "May 31",
@@ -2731,16 +2731,6 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-6ac88"
-    },
-    {
-      "source": "irenes",
-      "title": "Ball & Chain and the Wreckers - Matinée",
-      "date": "2026-05-03",
-      "rawDate": "May 3",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Ball & Chain Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/ball-chain-and-the-wreckers-1"
     },
     {
       "source": "gladstone",
@@ -4407,7 +4397,7 @@
       "title": "Hugh-kulele: Unhinged",
       "date": "2026-06-01",
       "rawDate": "2026-06-01",
-      "time": null,
+      "time": "19:30",
       "venue": "GCTC",
       "description": " It’s that time of year again—when Hugh takes on a totally wacky challenge to prove his love for GCTC., ",
       "url": "https://www.gctc.ca/events/hughkulele-unhinged"
@@ -4417,7 +4407,7 @@
       "title": "Hanji Art Exhibit",
       "date": "2026-06-10",
       "rawDate": "2026-06-10",
-      "time": null,
+      "time": "17:00",
       "venue": "GCTC",
       "description": " Hanji(韓紙)   A Thousand Years of Korean Paper Art - Hanji Meets Canada ",
       "url": "https://www.gctc.ca/events/hanji-exhibit"
@@ -4899,8 +4889,8 @@
       "title": "VOCES8 at the Isabel",
       "date": "2026-07-05",
       "rawDate": "Jul 5 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:30",
+      "venue": "Isabel Bader Centre for the Performing Arts",
       "description": null,
       "url": "https://www.chamberfest.com/event/2025/voces8-isabel/"
     },
@@ -4909,8 +4899,8 @@
       "title": "Prime Time: Gryphon Trio",
       "date": "2026-07-23",
       "rawDate": "Jul 23 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "13:00",
+      "venue": "The Robo Lounge",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/prime-time-gryphon-trio/"
     },
@@ -4919,8 +4909,8 @@
       "title": "Opening Night Opera: Dido and Aeneas",
       "date": "2026-07-23",
       "rawDate": "Jul 23 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/opening-night-opera-dido-and-aeneas/"
     },
@@ -4929,8 +4919,8 @@
       "title": "Chamber Chat: John Estacio",
       "date": "2026-07-24",
       "rawDate": "Jul 24 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "10:30",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/chamber-chat-john-estacio/"
     },
@@ -4939,8 +4929,8 @@
       "title": "NMN I: John Estacio at 60",
       "date": "2026-07-24",
       "rawDate": "Jul 24 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "12:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/nmn-john-estacio-at-60/"
     },
@@ -4949,8 +4939,8 @@
       "title": "Record Centre: Kathryn Patricia Cobbler",
       "date": "2026-07-24",
       "rawDate": "Jul 24 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "17:00",
+      "venue": "The Record Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/record-centre-kathryn-patricia-cobbler/"
     },
@@ -4959,8 +4949,8 @@
       "title": "Chamber Chat: Ian Cusson",
       "date": "2026-07-24",
       "rawDate": "Jul 24 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "17:30",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/chamber-chat-ian-cusson/"
     },
@@ -4969,8 +4959,8 @@
       "title": "Philip Chiu and Janelle Fung: Return of the Light",
       "date": "2026-07-24",
       "rawDate": "Jul 24 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/philip-chiu-janelle-fung-return-of-the-light/"
     },
@@ -4979,8 +4969,8 @@
       "title": "collectif9 + Ronny Desinor",
       "date": "2026-07-24",
       "rawDate": "Jul 24 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "21:30",
+      "venue": "Great Canadian Theatre Company",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/collectif9-ronny-desinor/"
     },
@@ -4989,8 +4979,8 @@
       "title": "Yoga + Cello: Becky Radmore and Julia MacLaine",
       "date": "2026-07-25",
       "rawDate": "Jul 25 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "09:00",
+      "venue": "Ottawa City Hall, Lisgar Field",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/yoga-cello-becky-radmore-and-julia-maclaine/"
     },
@@ -4999,8 +4989,8 @@
       "title": "Bring the Kids: Chocolate Chip Chamber Music",
       "date": "2026-07-25",
       "rawDate": "Jul 25 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "10:30",
+      "venue": "Ottawa City Hall, Jean Pigott Place",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/bring-the-kids-chocolate-chip-chamber-music/"
     },
@@ -5009,8 +4999,8 @@
       "title": "Schmaltz & Pepper",
       "date": "2026-07-25",
       "rawDate": "Jul 25 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "13:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/schmaltz-pepper/"
     },
@@ -5019,8 +5009,8 @@
       "title": "Record Centre: Philip Chiu",
       "date": "2026-07-25",
       "rawDate": "Jul 25 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "15:00",
+      "venue": "The Record Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/record-centre-philip-chiu/"
     },
@@ -5029,8 +5019,8 @@
       "title": "Chamber Chat: Odesa Classics – Alexey Botvinov & Anna Pompeeva",
       "date": "2026-07-25",
       "rawDate": "Jul 25 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "17:30",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/chamber-chat-odesa-classics-alexey-botvinov-anna-pompeeva/"
     },
@@ -5039,8 +5029,8 @@
       "title": "Odesa Classics: Festival in Exile",
       "date": "2026-07-25",
       "rawDate": "Jul 25 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/odesa-classics-festival-in-exile/"
     },
@@ -5049,8 +5039,8 @@
       "title": "Elvis Costello’s Juliet Letters",
       "date": "2026-07-25",
       "rawDate": "Jul 25 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "21:30",
+      "venue": "Great Canadian Theatre Company",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/elvis-costellos-juliet-letters/"
     },
@@ -5059,8 +5049,8 @@
       "title": "Yolanda Bruno & Michael Bridge: It’s a Girl!",
       "date": "2026-07-26",
       "rawDate": "Jul 26 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "11:00",
+      "venue": "Beechwood Sacred Space",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/yolanda-bruno-michael-bridge/"
     },
@@ -5069,8 +5059,8 @@
       "title": "Adaptive Concert: Jenna Richards & Beth Silver",
       "date": "2026-07-26",
       "rawDate": "Jul 26 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "13:30",
+      "venue": "Beechwood Sacred Space",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/adaptive-concert-jenna-richards-beth-silver/"
     },
@@ -5079,8 +5069,8 @@
       "title": "NMN II: Fresh Ink",
       "date": "2026-07-26",
       "rawDate": "Jul 26 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "14:30",
+      "venue": "Great Canadian Theatre Company",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/nmn-fresh-ink/"
     },
@@ -5089,8 +5079,8 @@
       "title": "NMN III: The Happenstancers",
       "date": "2026-07-26",
       "rawDate": "Jul 26 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "16:00",
+      "venue": "Great Canadian Theatre Company",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/nmn-the-happenstancers/"
     },
@@ -5099,8 +5089,8 @@
       "title": "National Youth Orchestra of Canada: Canadiana Tour",
       "date": "2026-07-26",
       "rawDate": "Jul 26 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/national-youth-orchestra-of-canada-canadiana-tour/"
     },
@@ -5109,8 +5099,8 @@
       "title": "Mativetsky, Amiri & Pagé",
       "date": "2026-07-26",
       "rawDate": "Jul 26 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "21:30",
+      "venue": "Great Canadian Theatre Company",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/mativetsky-amiri-page/"
     },
@@ -5119,8 +5109,8 @@
       "title": "Prime Time: NYOC Chamber Ensembles",
       "date": "2026-07-27",
       "rawDate": "Jul 27 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "10:30",
+      "venue": "Rossy Pavilion",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/prime-time-nyoc-chamber-ensembles/"
     },
@@ -5129,8 +5119,8 @@
       "title": "Rising Stars Showcase 2026",
       "date": "2026-07-27",
       "rawDate": "Jul 27 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "12:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/rising-stars-showcase-2026/"
     },
@@ -5139,8 +5129,8 @@
       "title": "Bring the Kids: Beth Silver & Jenna Richards",
       "date": "2026-07-27",
       "rawDate": "Jul 27 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "12:00",
+      "venue": "NAC Glass Thorsteinson Staircase",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/bring-the-kids-beth-silver-jenna-richards/"
     },
@@ -5149,8 +5139,8 @@
       "title": "Record Centre: Yolanda Bruno & Michael Bridge",
       "date": "2026-07-27",
       "rawDate": "Jul 27 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "16:00",
+      "venue": "The Record Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/record-centre-yolanda-bruno-michael-bridge/"
     },
@@ -5159,8 +5149,8 @@
       "title": "Élisabeth Pion with Ironwood Quartet",
       "date": "2026-07-27",
       "rawDate": "Jul 27 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/elisabeth-pion-with-ironwood-quartet/"
     },
@@ -5169,8 +5159,8 @@
       "title": "Masterclass: Isaac Chalk, viola",
       "date": "2026-07-28",
       "rawDate": "Jul 28 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "10:00",
+      "venue": "10,000 Hours Piano Rehearsal Studios",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/masterclass-isaac-chalk-viola/"
     },
@@ -5179,8 +5169,8 @@
       "title": "uOttawa Nicole Senécal Prize Winner: Nathaniel Mears",
       "date": "2026-07-28",
       "rawDate": "Jul 28 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "12:00",
+      "venue": "NAC Glass Thorsteinson Staircase",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/uottawa-nicole-senecal-prize-winner/"
     },
@@ -5189,8 +5179,8 @@
       "title": "Prime Time: Violists Isaac Chalk & David Marks",
       "date": "2026-07-28",
       "rawDate": "Jul 28 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "16:00",
+      "venue": "Rossy Pavilion",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/prime-time-violists-isaac-chalk-david-marks/"
     },
@@ -5199,8 +5189,8 @@
       "title": "Chamber Chat: Gabriel Kahane & Pekka Kuusisto",
       "date": "2026-07-28",
       "rawDate": "Jul 28 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "17:30",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/chamber-chat-gabriel-kahane-pekka-kuusisto/"
     },
@@ -5209,8 +5199,8 @@
       "title": "Pekka Kuusisto & Gabriel Kahane: Council",
       "date": "2026-07-28",
       "rawDate": "Jul 28 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/pekka-kuusisto-gabriel-kahane-council/"
     },
@@ -5219,8 +5209,8 @@
       "title": "Dear Jeanne: A Tribute to Jeanne Lamon",
       "date": "2026-07-29",
       "rawDate": "Jul 29 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "12:00",
+      "venue": "Ottawa Art Gallery",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/dear-jeanne-tribute-to-jeanne-lamon/"
     },
@@ -5229,8 +5219,8 @@
       "title": "Poiesis Quartet at the OAG: A Better World",
       "date": "2026-07-29",
       "rawDate": "Jul 29 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:00",
+      "venue": "Ottawa Art Gallery",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/poiesis-quartet-at-the-oag-a-better-world/"
     },
@@ -5239,8 +5229,8 @@
       "title": "Poiesis & Jon Kimura Parker: Macklay, Tate, and Brahms",
       "date": "2026-07-30",
       "rawDate": "Jul 30 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "12:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/poiesis-and-jon-kimura-parker-macklay-tate-and-brahms/"
     },
@@ -5249,8 +5239,8 @@
       "title": "Masterclass: Jon Kimura Parker, piano",
       "date": "2026-07-30",
       "rawDate": "Jul 30 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "15:00",
+      "venue": "10,000 Hours Piano Rehearsal Studios",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/masterclass-jon-kimura-parker-piano/"
     },
@@ -5259,8 +5249,8 @@
       "title": "Record Centre: Terry Riley’s “A Rainbow in Curved Air” Listening Session",
       "date": "2026-07-30",
       "rawDate": "Jul 30 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "16:00",
+      "venue": "The Record Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/record-centre-terry-riley-a-rainbow-in-curved-air-listening-session/"
     },
@@ -5269,8 +5259,8 @@
       "title": "in / finite: Arvo Pärt · Death and the Maiden",
       "date": "2026-07-30",
       "rawDate": "Jul 30 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/in-finite-arvo-part-death-and-the-maiden/"
     },
@@ -5279,8 +5269,8 @@
       "title": "Tamar Ilana & Ventanas",
       "date": "2026-07-30",
       "rawDate": "Jul 30 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "21:30",
+      "venue": "Great Canadian Theatre Company",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/tamar-ilana-and-ventanas/"
     },
@@ -5289,8 +5279,8 @@
       "title": "Prime Time: Morning Airs with the Midsummer Winds",
       "date": "2026-07-31",
       "rawDate": "Jul 31 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "10:30",
+      "venue": "Rossy Pavilion",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/prime-time-morning-airs-with-the-midsummer-winds/"
     },
@@ -5299,8 +5289,8 @@
       "title": "Oxbow Trio: A European Journey",
       "date": "2026-07-31",
       "rawDate": "Jul 31 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "12:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/oxbow-trio-european-journey/"
     },
@@ -5309,8 +5299,8 @@
       "title": "Historical Keyboard Workshop: Mélisande McNabney, harpsichord and fortepiano",
       "date": "2026-07-31",
       "rawDate": "Jul 31 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "15:00",
+      "venue": "10,000 Hours Piano Rehearsal Studios",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/historical-keyboard-workshop-melisande-mcnabney-harpsichord-and-fortepiano/"
     },
@@ -5319,8 +5309,8 @@
       "title": "Chamber Chat: Marichka & Daughters of Donbas",
       "date": "2026-07-31",
       "rawDate": "Jul 31 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "17:30",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/chamber-chat-marichka-daughters-of-donbas/"
     },
@@ -5329,8 +5319,8 @@
       "title": "Jon Kimura Parker: Mozart to Oscar Peterson",
       "date": "2026-07-31",
       "rawDate": "Jul 31 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/jon-kimura-parker-mozart-to-oscar-peterson/"
     },
@@ -5339,8 +5329,8 @@
       "title": "Daughters of Donbas: Songs of Stolen Children",
       "date": "2026-07-31",
       "rawDate": "Jul 31 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "21:30",
+      "venue": "Great Canadian Theatre Company",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/daughters-of-donbas-songs-of-stolen-children/"
     },
@@ -5349,8 +5339,8 @@
       "title": "Yoga + Cello: Anna Petersen and Raphael Weinroth-Browne",
       "date": "2026-08-01",
       "rawDate": "Aug 1 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "09:00",
+      "venue": "Ottawa City Hall, Lisgar Field",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/yoga-cello-anna-petersen-and-raphael-weinroth-browne-3/"
     },
@@ -5359,8 +5349,8 @@
       "title": "Meet the Makers: Exhibition of Canadian Violins & Bows",
       "date": "2026-08-01",
       "rawDate": "Aug 1 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "10:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/meet-the-makers-exhibition-of-canadian-violins-bows/"
     },
@@ -5369,8 +5359,8 @@
       "title": "Bring the Kids: SHHH!! Ensemble",
       "date": "2026-08-01",
       "rawDate": "Aug 1 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "10:30",
+      "venue": "Ottawa City Hall, Jean Pigott Place",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/bring-the-kids-shhh-ensemble-3/"
     },
@@ -5379,8 +5369,8 @@
       "title": "The Forest: Carson Becke, Allyson McHardy, and Meghan Lindsay",
       "date": "2026-08-01",
       "rawDate": "Aug 1 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "13:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/the-forest-carson-becke-allyson-mchardy-meghan-lindsay/"
     },
@@ -5389,8 +5379,8 @@
       "title": "Rideau Hall: Kathryn Patricia Cobbler (2:00PM)",
       "date": "2026-08-01",
       "rawDate": "Aug 1 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "14:00",
+      "venue": "Rideau Hall",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/rideau-hall-kathryn-patricia-cobbler/"
     },
@@ -5399,8 +5389,8 @@
       "title": "Record Centre: Cris Derksen’s “The Visit” Listening Session",
       "date": "2026-08-01",
       "rawDate": "Aug 1 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "15:00",
+      "venue": "The Record Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/record-centre-cris-derksen-the-visit-listening-session/"
     },
@@ -5409,8 +5399,8 @@
       "title": "Rideau Hall: Kathryn Patricia Cobbler (3:30PM)",
       "date": "2026-08-01",
       "rawDate": "Aug 1 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "15:30",
+      "venue": "Rideau Hall",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/rideau-hall-kathryn-patricia-cobbler-2/"
     },
@@ -5419,8 +5409,8 @@
       "title": "Introducing the Chamberfest Camerata",
       "date": "2026-08-01",
       "rawDate": "Aug 1 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "19:00",
+      "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/chamberfest-camerata/"
     },
@@ -5429,8 +5419,8 @@
       "title": "Angelique Francis",
       "date": "2026-08-01",
       "rawDate": "Aug 1 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "21:30",
+      "venue": "Great Canadian Theatre Company",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/angelique-francis/"
     },
@@ -5439,8 +5429,8 @@
       "title": "Isaac Chalk & Mélisande McNabney: Händel, Bach, and Sons",
       "date": "2026-08-02",
       "rawDate": "Aug 2 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "11:00",
+      "venue": "Beechwood Sacred Space",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/isaac-chalk-melisande-mcnabney/"
     },
@@ -5449,8 +5439,8 @@
       "title": "Community in C: A Free Outdoor Festival Finale",
       "date": "2026-08-02",
       "rawDate": "Aug 2 2026",
-      "time": null,
-      "venue": "Chamberfest",
+      "time": "12:00",
+      "venue": "Zibi",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/community-in-c-free-outdoor-festival-finale/"
     },

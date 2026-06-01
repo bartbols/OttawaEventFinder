@@ -355,7 +355,7 @@ async function scrapeOttawaGigs() {
     const title   = $(el).find("[fs-cmsfilter-field='Title'], .job-listing-title").first().text().trim();
     const rawDate = $(el).find("[fs-cmsfilter-field='Date']").first().text().trim();
     const genre   = $(el).find("[fs-cmsfilter-field='genre']").first().text().trim();
-    const href    = $(el).find("a.w-button, a.button, a[href*='/gig/']").first().attr("href");
+    const href    = $(el).find("a[href*='/gig/']").first().attr("href");
     const url     = href ? resolveURL("https://ottawagigs.ca", href) : "https://ottawagigs.ca";
 
     if (!title || NEIGHBOURHOODS.has(title.toLowerCase())) return;
@@ -721,11 +721,37 @@ async function scrapeGCTC() {
   for (let i = 0; i < showLinks.length; i += 3) {
     const batch = showLinks.slice(i, i + 3);
     const results = await Promise.all(batch.map(async ({ href, title }) => {
-      let date = null, desc = null;
+      let date = null, time = null, desc = null;
       try {
         const pageHtml = await fetchHTML(href);
         const $p = cheerio.load(pageHtml);
         const bodyText = $p("body").text();
+
+        // Extract time — try 24hr element, 12hr element, then body text regex
+        const time24 = $p("time.event-time-24hr").first().text().trim();
+        const time12 = $p("time.event-time-12hr").first().text().trim();
+
+        if (time24 && /^\d{2}:\d{2}$/.test(time24)) {
+          time = time24;
+        } else if (time12) {
+          const tm = time12.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+          if (tm) {
+            let h = parseInt(tm[1]);
+            if (tm[3].toUpperCase() === "PM" && h !== 12) h += 12;
+            if (tm[3].toUpperCase() === "AM" && h === 12) h = 0;
+            time = `${String(h).padStart(2,"0")}:${tm[2]}`;
+          }
+        } else {
+          const tm = bodyText.match(/\b(\d{1,2}):(\d{2})\s*(AM|PM|a\.m\.|p\.m\.)/i);
+          if (tm) {
+            let h = parseInt(tm[1]);
+            const ampm = tm[3].replace(/\./g,"").toUpperCase();
+            if (ampm === "PM" && h !== 12) h += 12;
+            if (ampm === "AM" && h === 12) h = 0;
+            time = `${String(h).padStart(2,"0")}:${tm[2]}`;
+          }
+        }
+
         // Match "June 10 – July 5, 2026" or "June 10, 2026"
         const m = bodyText.match(/([A-Z][a-z]+ \d{1,2})\s*[–-]\s*[A-Z][a-z]+ \d{1,2},\s*(\d{4})/);
         if (m) date = normalizeDate(`${m[1]}, ${m[2]}`);
@@ -735,10 +761,10 @@ async function scrapeGCTC() {
         }
         desc = $p("meta[name='description']").attr("content")?.slice(0,200) || null;
       } catch {}
-      return { href, title, date, desc };
+      return { href, title, date, time, desc };
     }));
-    for (const { href, title, date, desc } of results) {
-      events.push({ source: "gctc", title, date, rawDate: date, time: null, venue: "GCTC", description: desc, url: href });
+    for (const { href, title, date, time, desc } of results) {
+      events.push({ source: "gctc", title, date, rawDate: date, time, venue: "GCTC", description: desc, url: href });
     }
   }
 
@@ -1105,6 +1131,8 @@ async function scrapeBronson() {
 
 async function scrapeChamberfest() {
   // WordPress site — events listed as plain links: "Sun Jul 5 2026 Event Title"
+  // Individual pages have time in <h1>...<small>13:00</small></h1>
+  // and venue in <div class="cf-event-loc"><a>Venue Name | address</a></div>
   console.log("  Scraping Chamberfest...");
   const events = [];
   const BASE = "https://www.chamberfest.com";
@@ -1124,7 +1152,6 @@ async function scrapeChamberfest() {
       const href = $(el).attr("href");
       if (!href || seen.has(href)) return;
       const fullText = $(el).text().trim();
-      // Match date prefix: "Sun Jul 5 2026 " or "Thu Jul 23 2026 "
       const dm = fullText.match(/^(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})\s+(\d{4})\s+(.+)$/i);
       if (!dm) return;
       seen.add(href);
@@ -1144,6 +1171,27 @@ async function scrapeChamberfest() {
         url: href,
       });
     });
+
+    // Fetch individual pages in batches to get time and venue
+    for (let i = 0; i < events.length; i += 5) {
+      const batch = events.slice(i, i + 5);
+      await Promise.all(batch.map(async (ev) => {
+        try {
+          const pageHtml = await fetchHTML(ev.url);
+          const $p = cheerio.load(pageHtml);
+          // Time is in <h1>...<small>13:00</small></h1>
+          const timeText = $p("h1 small").first().text().trim();
+          if (timeText && /^\d{2}:\d{2}$/.test(timeText)) {
+            ev.time = timeText;
+          }
+          // Venue is in .cf-event-loc a — "The Robo Lounge | 275 Carling Ave..."
+          const venueText = $p(".cf-event-loc a").first().text().trim();
+          if (venueText) {
+            ev.venue = venueText.split("|")[0].trim();
+          }
+        } catch { /* skip */ }
+      }));
+    }
   } catch(e) {
     console.log("    Chamberfest unreachable:", e.message);
   }
