@@ -444,17 +444,29 @@ async function runScraper() {
     }
   }
 
+  // Deduplicate: if same title+date exists from a dedicated scraper, drop the gigs version
+  const AGGREGATORS = new Set(["gigs"]);
+  const dedicatedKeys = new Set(
+    allEvents.filter(e => !AGGREGATORS.has(e.source)).map(e => `${e.date}|${e.title.toLowerCase().trim()}`)
+  );
+  const deduped = allEvents.filter(e => {
+    if (!AGGREGATORS.has(e.source)) return true;
+    return !dedicatedKeys.has(`${e.date}|${e.title.toLowerCase().trim()}`);
+  });
+  const dropped = allEvents.length - deduped.length;
+  if (dropped > 0) console.log(`  Removed ${dropped} duplicate(s) from aggregator sources`);
+
   const output = {
     scrapedAt: new Date().toISOString(),
-    totalEvents: allEvents.length,
+    totalEvents: deduped.length,
     errors,
-    events: allEvents,
+    events: deduped,
   };
 
   await fs.mkdir("data", { recursive: true });
   await fs.writeFile(path.resolve("data/events.json"), JSON.stringify(output, null, 2));
 
-  console.log(`\n✅ Done! ${allEvents.length} events saved to data/events.json`);
+  console.log(`\n✅ Done! ${deduped.length} events saved to data/events.json`);
   if (errors.length > 0) console.log(`⚠️  ${errors.length} source(s) had errors — see above`);
 }
 
