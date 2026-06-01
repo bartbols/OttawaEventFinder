@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-06-01T11:45:23.673Z",
-  "totalEvents": 540,
+  "scrapedAt": "2026-06-01T14:55:36.839Z",
+  "totalEvents": 538,
   "errors": [],
   "events": [
     {
@@ -1444,16 +1444,6 @@
     },
     {
       "source": "gigs",
-      "title": "Ottawa Jazz Festival Homegrown Local Club Series Presents Loon Choir",
-      "date": "2026-06-01",
-      "rawDate": "Monday, June 1, 2026",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
-    },
-    {
-      "source": "gigs",
       "title": "Bologna Colorado at Avant-Garde Bar",
       "date": "2026-06-01",
       "rawDate": "Monday, June 1, 2026",
@@ -1551,16 +1541,6 @@
       "venue": "Avant-Garde Bar",
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/neighborhood/byward-market"
-    },
-    {
-      "source": "gigs",
-      "title": "The Prime Rib Big Band",
-      "date": "2026-06-03",
-      "rawDate": "Wednesday, June 3, 2026",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Genre: Big Band",
-      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
     },
     {
       "source": "gigs",
@@ -4447,7 +4427,7 @@
       "title": "A Knight at the Symphony",
       "date": "2026-06-26",
       "rawDate": "2026-06-26T23:30:00.919Z",
-      "time": "23:30",
+      "time": "19:30",
       "venue": "Ottawa Pops Orchestra",
       "description": "Buy Tickets on Eventbrite\n\n\n    June 26, 7:30PM\n\n\n\n\n    var exampleCallback = function() {\n        console.log('Order complete!');\n    };\n\n    window.EBWidgets.createWidget({\n        widgetType: 'chec",
       "url": "https://www.ottawapopsorchestra.ca/events/a-knight-at-the-symphony"
