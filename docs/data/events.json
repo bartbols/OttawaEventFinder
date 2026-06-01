@@ -1,19 +1,8 @@
 {
-  "scrapedAt": "2026-05-31T21:35:06.624Z",
-  "totalEvents": 544,
+  "scrapedAt": "2026-06-01T11:45:23.673Z",
+  "totalEvents": 540,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Music for a Sunday Afternoon: Spring Edition",
-      "subtitle": null,
-      "date": "2026-05-31",
-      "rawDate": "2026-05-31",
-      "time": "15:30",
-      "venue": "Carleton Dominion-Chalmers Centre Centre Carleton Dominion-Chalmers",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/38378"
-    },
     {
       "source": "nac",
       "title": "Les lundis des tout-petits",
@@ -1435,146 +1424,6 @@
     },
     {
       "source": "gigs",
-      "title": "Noah Derksen LIVE @ Motel Chelsea!",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Motel Chelsea",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/chelsea"
-    },
-    {
-      "source": "gigs",
-      "title": "Modern Disco",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Club SAW",
-      "description": "Genre: Dance Party",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
-    },
-    {
-      "source": "gigs",
-      "title": "Ali McCormick & Vicki Brittle w/ special guest Mudfish",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
-    },
-    {
-      "source": "gigs",
-      "title": "Atlantic Voices Presents: The Hills and Glens",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Other",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/various"
-    },
-    {
-      "source": "gigs",
-      "title": "Music for a Sunday Afternoon: Spring Edition",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "National Arts Centre",
-      "description": "Genre: Classical",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
-    },
-    {
-      "source": "gigs",
-      "title": "Acoustic Matinee At Avant-Garde",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
-    },
-    {
-      "source": "gigs",
-      "title": "Village Trio",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Kaffe 1870",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/wakefield"
-    },
-    {
-      "source": "gigs",
-      "title": "Sultans of String",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Ottawa Tennis Club",
-      "description": "Genre: Global",
-      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
-    },
-    {
-      "source": "gigs",
-      "title": "Spiritual Law",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Dominion Tavern",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
-    },
-    {
-      "source": "gigs",
-      "title": "Lynn Miles rare afternoon intimate show",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "The Robo Lounge",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
-    },
-    {
-      "source": "gigs",
-      "title": "Shepherd's Of Good Hope Fundraiser",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "LIVE! on Elgin",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/centretown"
-    },
-    {
-      "source": "gigs",
-      "title": "Red Bridge Fest presents No Fun At All au Minotaure",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Minotaure",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/neighborhood/gatineau"
-    },
-    {
-      "source": "gigs",
-      "title": "Jackrabbits w/ James Croteau's Drive-In Double Feature and Dana Dufour",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/byward-market"
-    },
-    {
-      "source": "gigs",
-      "title": "The Sunday Night Revue with Special Guest Joe Abbott",
-      "date": "2026-05-31",
-      "rawDate": "Sunday, May 31, 2026",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
-    },
-    {
-      "source": "gigs",
       "title": "Goldlink",
       "date": "2026-06-01",
       "rawDate": "Monday, June 1, 2026",
@@ -1582,6 +1431,16 @@
       "venue": "Bronson Centre",
       "description": "Genre: Hip Hop",
       "url": "https://ottawagigs.ca/neighborhood/centretown"
+    },
+    {
+      "source": "gigs",
+      "title": "5 Star Monday Band",
+      "date": "2026-06-01",
+      "rawDate": "Monday, June 1, 2026",
+      "time": null,
+      "venue": "The Laff",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
     },
     {
       "source": "gigs",
@@ -1635,6 +1494,16 @@
     },
     {
       "source": "gigs",
+      "title": "World Famous Open Mic",
+      "date": "2026-06-02",
+      "rawDate": "Tuesday, June 2, 2026",
+      "time": null,
+      "venue": "The Laff",
+      "description": "Genre: Alternative",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
       "title": "Le Comité F au Minotaure",
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
@@ -1642,6 +1511,126 @@
       "venue": "Minotaure",
       "description": "Genre: Storytelling",
       "url": "https://ottawagigs.ca/neighborhood/gatineau"
+    },
+    {
+      "source": "gigs",
+      "title": "Woods & Gummeson Trio featuring Alex Mastronardi",
+      "date": "2026-06-03",
+      "rawDate": "Wednesday, June 3, 2026",
+      "time": null,
+      "venue": "The Robo Lounge",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+    },
+    {
+      "source": "gigs",
+      "title": "DALI VAN GOGH + Motherland + Refuse",
+      "date": "2026-06-03",
+      "rawDate": "Wednesday, June 3, 2026",
+      "time": null,
+      "venue": "House of Targ",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
+    },
+    {
+      "source": "gigs",
+      "title": "The John Carroll Show",
+      "date": "2026-06-03",
+      "rawDate": "Wednesday, June 3, 2026",
+      "time": null,
+      "venue": "The Laff",
+      "description": "Genre: Blues",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "A night with Canadian Songwriters - Liam S. Russell, Rachella Wred, Angela Begin, Bobby Tarian",
+      "date": "2026-06-03",
+      "rawDate": "Wednesday, June 3, 2026",
+      "time": null,
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "The Prime Rib Big Band",
+      "date": "2026-06-03",
+      "rawDate": "Wednesday, June 3, 2026",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "Genre: Big Band",
+      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+    },
+    {
+      "source": "gigs",
+      "title": "Angela Verbrugg: The Wonder of the Night featuring Ray Gallon on piano!",
+      "date": "2026-06-04",
+      "rawDate": "Thursday, June 4, 2026",
+      "time": null,
+      "venue": "The Robo Lounge",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/neighborhood/the-glebe"
+    },
+    {
+      "source": "gigs",
+      "title": "Je fonds de Jessy Lindsay : Une soirée d'art franco-queer",
+      "date": "2026-06-04",
+      "rawDate": "Thursday, June 4, 2026",
+      "time": null,
+      "venue": "Club SAW",
+      "description": "Genre: Alternative",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "Sundown Trio+",
+      "date": "2026-06-04",
+      "rawDate": "Thursday, June 4, 2026",
+      "time": null,
+      "venue": "Night Oat",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/neighborhood/centretown"
+    },
+    {
+      "source": "gigs",
+      "title": "Elizabeth Royall \"You See An Angel\" EP Release Show w/corascene",
+      "date": "2026-06-04",
+      "rawDate": "Thursday, June 4, 2026",
+      "time": null,
+      "venue": "LIVE! on Elgin",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/centretown"
+    },
+    {
+      "source": "gigs",
+      "title": "Chase The Bear LIVE at The Rainbow Bistro",
+      "date": "2026-06-04",
+      "rawDate": "Thursday, June 4, 2026",
+      "time": null,
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "The Listros - Into The Otherside Tour",
+      "date": "2026-06-04",
+      "rawDate": "Thursday, June 4, 2026",
+      "time": null,
+      "venue": "27 Club",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/neighborhood/byward-market"
+    },
+    {
+      "source": "gigs",
+      "title": "BROKEN BY FRIDAY + SIR KINGFISH + GRAFFITI 5-0",
+      "date": "2026-06-04",
+      "rawDate": "Thursday, June 4, 2026",
+      "time": null,
+      "venue": "House of Targ",
+      "description": "Genre: Pop Punk",
+      "url": "https://ottawagigs.ca/neighborhood/old-ottawa-south"
     },
     {
       "source": "redbird",
@@ -1915,36 +1904,6 @@
     },
     {
       "source": "irenes",
-      "title": "CAPO All-Stars Matinee in support of Ottawa Blues for Youth",
-      "date": "2026-05-30",
-      "rawDate": "May 30",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "CAPO Ottawa Blues for Youth Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/capo-all-stars-matinee-in-support-of-ottawa-blues-for-youth"
-    },
-    {
-      "source": "irenes",
-      "title": "Wicked Grin with Special Guests Bonecat",
-      "date": "2026-05-30",
-      "rawDate": "May 30",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Wicked Grin Bonecat Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/wicked-grin-with-special-guests"
-    },
-    {
-      "source": "irenes",
-      "title": "Ali McCormick & Vicki Brittle w/ special guest Mudfish",
-      "date": "2026-05-31",
-      "rawDate": "May 31",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Ali McCormick Vicki Brittle Mudfish Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/ali-mccormick-with-vicki-brittle-mudfish"
-    },
-    {
-      "source": "irenes",
       "title": "The Sunday Night Revue with Special Guest Joe Abbott",
       "date": "2026-05-31",
       "rawDate": "May 31",
@@ -2135,12 +2094,12 @@
     },
     {
       "source": "irenes",
-      "title": "Liam Simpson-Russell, Avalon Tassonyi & Isaac Baronikian",
+      "title": "Liam Simpson-Russell & Avalon Tassonyi",
       "date": "2026-06-20",
       "rawDate": "Jun 20",
       "time": null,
       "venue": "Irene's Pub",
-      "description": "Liam Simpson-Russell Avalon Tassonyi Isaac Baronikian Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Liam Simpson-Russell Avalon Tassonyi Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/liam-simpson-russell-avalon-tassonyi-isaac-baronikian"
     },
     {
@@ -2505,6 +2464,36 @@
     },
     {
       "source": "irenes",
+      "title": "Ali McCormick & Vicki Brittle w/ special guest Mudfish",
+      "date": "2026-05-31",
+      "rawDate": "May 31",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "Ali McCormick Vicki Brittle Mudfish Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/ali-mccormick-with-vicki-brittle-mudfish"
+    },
+    {
+      "source": "irenes",
+      "title": "Wicked Grin with Special Guests Bonecat",
+      "date": "2026-05-30",
+      "rawDate": "May 30",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "Wicked Grin Bonecat Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/wicked-grin-with-special-guests"
+    },
+    {
+      "source": "irenes",
+      "title": "CAPO All-Stars Matinee in support of Ottawa Blues for Youth",
+      "date": "2026-05-30",
+      "rawDate": "May 30",
+      "time": null,
+      "venue": "Irene's Pub",
+      "description": "CAPO Ottawa Blues for Youth Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/capo-all-stars-matinee-in-support-of-ottawa-blues-for-youth"
+    },
+    {
+      "source": "irenes",
       "title": "John Allaire and The Campistas with Special Guest K Dilla - Rock n’ Beat Show and Book Launch",
       "date": "2026-05-29",
       "rawDate": "May 29",
@@ -2772,36 +2761,6 @@
       "venue": "Irene's Pub",
       "description": "Ball & Chain Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/ball-chain-and-the-wreckers-1"
-    },
-    {
-      "source": "irenes",
-      "title": "Tilda with Special Guests The Ethics",
-      "date": "2026-05-02",
-      "rawDate": "May 2",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Tilda The Ethics Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/tilda-with-special-guests-the-ethics"
-    },
-    {
-      "source": "irenes",
-      "title": "Around The Clock",
-      "date": "2026-05-01",
-      "rawDate": "May 1",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": "Around The Clock Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/around-the-clock"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Marc Seguin",
-      "date": "2026-04-30",
-      "rawDate": "Apr 30",
-      "time": null,
-      "venue": "Irene's Pub",
-      "description": null,
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps"
     },
     {
       "source": "gladstone",
@@ -5578,7 +5537,7 @@
     {
       "source": "motelchelsea",
       "title": "Noah Derksen",
-      "date": "2026-05-31",
+      "date": "2027-05-31",
       "rawDate": "MAY 31",
       "time": "15:00",
       "venue": "Motel Chelsea",
