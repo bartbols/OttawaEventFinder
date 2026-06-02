@@ -294,49 +294,53 @@ async function scrapeBluesFest() {
 }
 
 async function scrapeJazzFest() {
+  // program.ottawajazzfestival.com
+  // div.item > div.info > div.titles > h3.title > a  (title+url)
+  //                     > div.listings > div.when    ("Fri, Jun 19, 8:00 p.m.")
   console.log("  Scraping Ottawa Jazz Festival...");
-  const candidates = [
-    "https://ottawajazzfestival.com/schedule",
-    "https://ottawajazzfestival.com/lineup",
-    "https://ottawajazzfestival.com/events",
-    "https://ottawajazzfestival.com",
-  ];
-
-  let html = "";
-  let baseUrl = "https://ottawajazzfestival.com";
-  for (const url of candidates) {
-    try { html = await fetchHTML(url); baseUrl = url; break; } catch { continue; }
-  }
-
-  if (!html) {
-    console.log("    Jazz Fest unreachable — likely off-season");
-    return [];
-  }
-
-  const $ = cheerio.load(html);
+  const BASE = "https://program.ottawajazzfestival.com";
   const events = [];
+  const MONTH_MAP = { Jan:"01",Feb:"02",Mar:"03",Apr:"04",May:"05",Jun:"06",Jul:"07",Aug:"08",Sep:"09",Oct:"10",Nov:"11",Dec:"12" };
+  const SKIP_PREFIXES = ["general admission","premium full","vip full","youth full"];
 
-  $("article, .show, .event, .performance, [class*='event'], [class*='show']").each((_, el) => {
-    const title = $(el).find("h2,h3,h4,.title,.name,[class*='title']").first().text().trim();
-    const date  = $(el).find("time,.date,[class*='date']").first().text().trim();
-    const link  = $(el).find("a").first().attr("href");
-    if (title && title.length > 2) {
-      events.push({
-        source: "jazz",
-        title,
-        date: normalizeDate(date),
-        rawDate: date,
-        time: null,
-        description: null,
-        url: link ? resolveURL(baseUrl, link) : baseUrl,
-      });
-    }
-  });
+  try {
+    const html = await fetchHTML(BASE);
+    const $ = cheerio.load(html);
+    const today = new Date().toISOString().split("T")[0];
 
-  console.log(`    Found ${events.length} Jazz Fest events`);
-  return events;
+    $("div.item").each((_, el) => {
+      const a = $(el).find("h3.title a[href*='/item/']").first();
+      if (!a.length) return;
+      const title = a.text().trim();
+      if (!title || SKIP_PREFIXES.some(p => title.toLowerCase().startsWith(p))) return;
+      const href = a.attr("href");
+      const url = href.startsWith("http") ? href : BASE + href;
+      const whenText = $(el).find("div.when").first().text().trim();
+      if (!whenText) return;
+      const dm = whenText.match(/(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*,?\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2}),?\s+(\d{1,2}):(\d{2})\s*(a\.m\.|p\.m\.)/i);
+      if (!dm) return;
+      const month = MONTH_MAP[dm[1].slice(0,3)];
+      const day = dm[2].padStart(2, "0");
+      const curYear = new Date().getFullYear();
+      const dateThisYear = `${curYear}-${month}-${day}`;
+      const date = dateThisYear >= today ? dateThisYear : `${curYear+1}-${month}-${day}`;
+      let h = parseInt(dm[3]);
+      const mins = dm[4];
+      const ampm = dm[5].toLowerCase().replace(/\./g,"");
+      if (ampm === "pm" && h !== 12) h += 12;
+      if (ampm === "am" && h === 12) h = 0;
+      const time = `${String(h).padStart(2,"0")}:${mins}`;
+      events.push({ source: "jazz", title, date, rawDate: whenText, time, venue: "Ottawa Jazz Festival", description: null, url });
+    });
+  } catch(e) {
+    console.log("    Jazz Fest unreachable:", e.message);
+  }
+
+  const seen = new Set();
+  const deduped = events.filter(e => { const k = `${e.title}|${e.date}`; if (seen.has(k)) return false; seen.add(k); return true; });
+  console.log(`    Found ${deduped.length} Jazz Festival events`);
+  return deduped;
 }
-
 async function scrapeOttawaGigs() {
   // Webflow CMS site — listing page has title/date/genre, individual pages have time+venue
   console.log("  Scraping Ottawa Gigs...");
