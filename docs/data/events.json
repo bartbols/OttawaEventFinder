@@ -1,19 +1,8 @@
 {
-  "scrapedAt": "2026-06-02T14:19:52.007Z",
-  "totalEvents": 758,
+  "scrapedAt": "2026-06-03T11:10:08.205Z",
+  "totalEvents": 754,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Toddler Tuesdays",
-      "subtitle": null,
-      "date": "2026-06-02",
-      "rawDate": "2026-06-02",
-      "time": "10:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40572"
-    },
     {
       "source": "nac",
       "title": "Geneviève RB",
@@ -816,17 +805,6 @@
       "venue": "Canal Lobby Stage Scène du Foyer du canal",
       "description": "with Amanda Fox",
       "url": "https://nac-cna.ca/en/event/41134"
-    },
-    {
-      "source": "nac",
-      "title": "Shelley, Ehnes, Altstaedt",
-      "subtitle": "Clara, Robert, Johannes: Coda",
-      "date": "2026-07-02",
-      "rawDate": "2026-07-02",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "Clara, Robert, Johannes: Coda",
-      "url": "https://nac-cna.ca/en/event/38433"
     },
     {
       "source": "nac",
@@ -2320,36 +2298,6 @@
     },
     {
       "source": "gigs",
-      "title": "Le R Premier - Concert TROY",
-      "date": "2026-06-02",
-      "rawDate": "Tuesday, June 2, 2026",
-      "time": "19:00",
-      "venue": "Club SAW",
-      "description": "Genre: Hip Hop",
-      "url": "https://ottawagigs.ca/gig/hip-hop-club-saw-troy-2-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Longform 101 and Sketch Writing 101 Improv Class Show",
-      "date": "2026-06-02",
-      "rawDate": "Tuesday, June 2, 2026",
-      "time": "19:30",
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Satire",
-      "url": "https://ottawagigs.ca/gig/satire-avant-garde-bar-improv-embassy-longform-101-and-sketch-writing-101-students-2-june"
-    },
-    {
-      "source": "gigs",
-      "title": "World Famous Open Mic",
-      "date": "2026-06-02",
-      "rawDate": "Tuesday, June 2, 2026",
-      "time": "20:00",
-      "venue": "The Laff",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-the-laff-john-carroll-2-june"
-    },
-    {
-      "source": "gigs",
       "title": "Le Comité F au Minotaure",
       "date": "2026-06-03",
       "rawDate": "Wednesday, June 3, 2026",
@@ -2499,14 +2447,34 @@
       "url": "https://ottawagigs.ca/gig/metal-bronson-centre-jinjer-5-june"
     },
     {
-      "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-06-03",
-      "rawDate": "2026-06-03",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": " \n\nRed Bird's Weekly Open Stage is BACK!!\n \nHere is what's continuing:\n\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo",
-      "url": "https://www.showpass.com/open-stage-7-26-06-02-20-7281/"
+      "source": "gigs",
+      "title": "Beats & Keys",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Soul",
+      "url": "https://ottawagigs.ca/gig/soul-bar-robo-jeff-rogers-and-jamie-holmes-5-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Matt Falvai Duo",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/gig/cover-tribute-hard-rock-ottawa-matt-falvai-5-june"
+    },
+    {
+      "source": "gigs",
+      "title": "GLENN JONES, LIAM GRANT & JESSE ECKERLIN at The Black Sheep Inn",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "19:30",
+      "venue": "The Black Sheep Inn",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-black-sheep-inn-glenn-jones-5-june"
     },
     {
       "source": "redbird",
@@ -2790,16 +2758,6 @@
     },
     {
       "source": "irenes",
-      "title": "Ottawa Jazz Festival Homegrown Local Club Series Presents Loon Choir",
-      "date": "2026-06-01",
-      "rawDate": "Jun 1",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "FREE SHOW !! Ottawa Jazz Festival Loon Choir",
-      "url": "https://irenespub.ca/events/ottawa-jazz-festival-home-grown-series"
-    },
-    {
-      "source": "irenes",
       "title": "Trivia Tuesday",
       "date": "2026-06-02",
       "rawDate": "Jun 2",
@@ -3020,12 +2978,12 @@
     },
     {
       "source": "irenes",
-      "title": "The Sunburns with Special Guests",
+      "title": "The Sunburns with Special Guests The Bluestone Collective",
       "date": "2026-06-27",
       "rawDate": "Jun 27",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Sunburns",
+      "description": "The Sunburns The Bluestone Collective Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-sunburns"
     },
     {
@@ -3255,7 +3213,7 @@
       "rawDate": "Jul 24",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Joe Gaspar All-Stars",
+      "description": "Joe Gaspar All-Stars Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/joe-gaspar-all-stars"
     },
     {
@@ -3337,6 +3295,16 @@
       "venue": "Irene's Pub",
       "description": "Hunks & Punks",
       "url": "https://irenespub.ca/events/hunks-punks"
+    },
+    {
+      "source": "irenes",
+      "title": "Ottawa Jazz Festival Homegrown Local Club Series Presents Loon Choir",
+      "date": "2026-06-01",
+      "rawDate": "Jun 1",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "FREE SHOW !! Ottawa Jazz Festival Loon Choir",
+      "url": "https://irenespub.ca/events/ottawa-jazz-festival-home-grown-series"
     },
     {
       "source": "irenes",
@@ -3627,16 +3595,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-dsytd"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-05-03",
-      "rawDate": "May 3",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-6ac88"
     },
     {
       "source": "gladstone",
@@ -5323,7 +5281,7 @@
       "title": "A Knight at the Symphony",
       "date": "2026-06-26",
       "rawDate": "2026-06-26T23:30:00.919Z",
-      "time": "19:30",
+      "time": "23:30",
       "venue": "Ottawa Pops Orchestra",
       "description": "Buy Tickets on Eventbrite\n\n\n    June 26, 7:30PM\n\n\n\n\n    var exampleCallback = function() {\n        console.log('Order complete!');\n    };\n\n    window.EBWidgets.createWidget({\n        widgetType: 'chec",
       "url": "https://www.ottawapopsorchestra.ca/events/a-knight-at-the-symphony"
