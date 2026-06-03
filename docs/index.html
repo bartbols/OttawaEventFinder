@@ -315,6 +315,25 @@
     .cal-dots { display: flex; gap: 2px; justify-content: center; min-height: 6px; flex-wrap: wrap; max-width: 22px; }
     .cal-dot { width: 4px; height: 4px; border-radius: 50%; flex-shrink: 0; }
     @media (max-width: 480px) { .cal-grid, .cal-header { padding: 0 0.75rem; } }
+
+    /* ── Week strip (mobile) ── */
+    .week-strip { display: none; }
+    @media (max-width: 600px) {
+      .cal-section .cal-grid { display: none; }
+      .cal-section .cal-header { display: none; }
+      .week-strip { display: flex; align-items: center; gap: 0; padding: 0.5rem 0.75rem 0.25rem; }
+      .week-strip-nav { background: none; border: none; color: var(--muted); cursor: pointer; font-size: 16px; padding: 4px 6px; font-family: inherit; flex-shrink: 0; }
+      .week-strip-nav:hover { color: var(--text); }
+      .week-strip-days { display: grid; grid-template-columns: repeat(7, 1fr); flex: 1; gap: 1px; }
+      .week-day { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 4px 2px; border-radius: 6px; cursor: pointer; border: 0.5px solid transparent; }
+      .week-day:hover { background: var(--surface); }
+      .week-day.cal-selected { background: var(--surface); border-color: var(--border); }
+      .week-day-label { font-size: 10px; color: var(--muted); }
+      .week-day-num { font-size: 13px; color: var(--text); width: 22px; height: 22px; display: flex; align-items: center; justify-content: center; border-radius: 50%; }
+      .week-day-num.cal-today-num { background: var(--text); color: var(--bg); }
+      .week-dots { display: flex; gap: 2px; justify-content: center; min-height: 5px; }
+      .week-dot { width: 4px; height: 4px; border-radius: 50%; }
+    }
   </style>
 </head>
 <body>
@@ -345,6 +364,11 @@
       <button class="cal-nav" onclick="calNav(1)">&#8594;</button>
     </div>
     <div class="cal-grid" id="cal-grid"></div>
+    <div class="week-strip" id="week-strip">
+      <button class="week-strip-nav" onclick="weekNav(-1)">&#8592;</button>
+      <div class="week-strip-days" id="week-strip-days"></div>
+      <button class="week-strip-nav" onclick="weekNav(1)">&#8594;</button>
+    </div>
   </div>
   <div class="cat-tabs" id="cat-tabs">
     <button class="cat-tab active" data-cat="all" onclick="setTab(this)">All <span class="cat-count" id="count-all">0</span></button>
@@ -428,6 +452,8 @@
     btn.classList.add("active");
     activeTab = btn.dataset.cat;
     renderList();
+    buildCalendar();
+    buildWeekStrip();
   }
 
   function updateCounts(events) {
@@ -615,10 +641,51 @@
   // ── Calendar ──────────────────────────────────────────────────────────
   let calYear = new Date().getFullYear();
   let calMonth = new Date().getMonth();
-  let calEventMap = {}; // "YYYY-MM-DD" -> [{cat}]
+  let calEventMap = {};
+  let weekOffset = 0; // weeks from current week
 
   const DOW = ["Su","Mo","Tu","We","Th","Fr","Sa"];
+  const DOW_SHORT = ["Su","Mo","Tu","We","Th","Fr","Sa"];
   const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  const MONTHS_SHORT = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+  function dayStr(date) {
+    return `${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,"0")}-${String(date.getDate()).padStart(2,"0")}`;
+  }
+
+  function buildWeekStrip() {
+    const today = new Date();
+    today.setHours(0,0,0,0);
+    // Get Monday of current week + offset
+    const dow = today.getDay();
+    const monday = new Date(today);
+    monday.setDate(today.getDate() - dow + (dow === 0 ? -6 : 1) + weekOffset * 7);
+
+    const selectedDate = document.getElementById("date-input").value;
+    let html = "";
+    for (let i = 0; i < 7; i++) {
+      const d = new Date(monday);
+      d.setDate(monday.getDate() + i);
+      const ds = dayStr(d);
+      const isToday = ds === dayStr(new Date());
+      const isSelected = ds === selectedDate;
+      const events = calEventMap[ds] || [];
+      const filtered = activeTab === "all" ? events : events.filter(e => e.cat === activeTab);
+      const dotCats = [...new Set(filtered.map(e => e.cat))].slice(0, 3);
+      const dots = dotCats.map(c => `<div class="week-dot" style="background:var(--${c})"></div>`).join("");
+      html += `<div class="week-day${isSelected ? " cal-selected" : ""}" onclick="calSelectDay('${ds}')">
+        <div class="week-day-label">${DOW_SHORT[d.getDay()]}</div>
+        <div class="week-day-num${isToday ? " cal-today-num" : ""}">${d.getDate()}</div>
+        <div class="week-dots">${dots}</div>
+      </div>`;
+    }
+    document.getElementById("week-strip-days").innerHTML = html;
+  }
+
+  function weekNav(dir) {
+    weekOffset += dir;
+    buildWeekStrip();
+  }
 
   function buildCalendar() {
     const title = document.getElementById("cal-title");
@@ -649,7 +716,8 @@
       const isToday = ds === today;
       const isSelected = ds === selectedDate;
       const events = calEventMap[ds] || [];
-      const dotCats = [...new Set(events.map(e => e.cat))].slice(0, 4);
+      const filtered = activeTab === "all" ? events : events.filter(e => e.cat === activeTab);
+      const dotCats = [...new Set(filtered.map(e => e.cat))].slice(0, 4);
       const dots = dotCats.map(c => `<div class="cal-dot" style="background:var(--${c})"></div>`).join("");
       html += `<div class="cal-day${isSelected ? " cal-selected" : ""}" onclick="calSelectDay('${ds}')">
         <div class="cal-day-num${isToday ? " cal-today-num" : ""}">${d}</div>
@@ -664,6 +732,7 @@
     }
 
     grid.innerHTML = html;
+    buildWeekStrip();
   }
 
   function calNav(dir) {
@@ -678,6 +747,14 @@
     document.querySelectorAll(".shortcut-btn").forEach(b => b.classList.remove("active"));
     weekendDates = [];
     checkPastWarning();
+    // Sync week offset so the strip shows the selected date's week
+    const sel = new Date(ds + "T12:00:00");
+    const todayD = new Date(); todayD.setHours(0,0,0,0);
+    const dow = todayD.getDay();
+    const mondayThis = new Date(todayD);
+    mondayThis.setDate(todayD.getDate() - dow + (dow === 0 ? -6 : 1));
+    const diffDays = Math.round((sel - mondayThis) / 86400000);
+    weekOffset = Math.floor(diffDays / 7);
     buildCalendar();
     searchEvents();
   }
