@@ -324,7 +324,9 @@
       .week-strip { display: flex; align-items: center; gap: 0; padding: 0.5rem 0.75rem 0.25rem; }
       .week-strip-nav { background: none; border: none; color: var(--muted); cursor: pointer; font-size: 16px; padding: 4px 6px; font-family: inherit; flex-shrink: 0; }
       .week-strip-nav:hover { color: var(--text); }
-      .week-strip-days { display: grid; grid-template-columns: repeat(7, 1fr); flex: 1; gap: 1px; }
+      .week-strip-inner { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+      .week-strip-month { font-size: 11px; color: var(--muted); text-align: center; padding-bottom: 2px; }
+      .week-strip-days { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px; }
       .week-day { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 4px 2px; border-radius: 6px; cursor: pointer; border: 0.5px solid transparent; }
       .week-day:hover { background: var(--surface); }
       .week-day.cal-selected { background: var(--surface); border-color: var(--border); }
@@ -366,7 +368,10 @@
     <div class="cal-grid" id="cal-grid"></div>
     <div class="week-strip" id="week-strip">
       <button class="week-strip-nav" onclick="weekNav(-1)">&#8592;</button>
-      <div class="week-strip-days" id="week-strip-days"></div>
+      <div class="week-strip-inner">
+        <div class="week-strip-month" id="week-strip-month"></div>
+        <div class="week-strip-days" id="week-strip-days"></div>
+      </div>
       <button class="week-strip-nav" onclick="weekNav(1)">&#8594;</button>
     </div>
   </div>
@@ -663,6 +668,13 @@
 
     const selectedDate = document.getElementById("date-input").value;
     let html = "";
+    // Determine month label — show both if week spans two months
+    const firstDay = new Date(monday);
+    const lastDay = new Date(monday); lastDay.setDate(monday.getDate() + 6);
+    const monthLabel = firstDay.getMonth() === lastDay.getMonth()
+      ? `${MONTHS_SHORT[firstDay.getMonth()]} ${firstDay.getFullYear()}`
+      : `${MONTHS_SHORT[firstDay.getMonth()]} – ${MONTHS_SHORT[lastDay.getMonth()]} ${lastDay.getFullYear()}`;
+    document.getElementById("week-strip-month").textContent = monthLabel;
     for (let i = 0; i < 7; i++) {
       const d = new Date(monday);
       d.setDate(monday.getDate() + i);
