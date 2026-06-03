@@ -19,7 +19,7 @@
       --music: #2563eb;
       --theatre: #7c3aed;
       --art: #059669;
-      --other: #6b6762;
+      --other: #8B2020;
       --radius: 10px;
     }
 
@@ -120,6 +120,7 @@
       color: var(--muted);
     }
     .cat-tab.active .cat-count { background: var(--text); color: var(--surface); }
+    .cat-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-right: 4px; vertical-align: middle; position: relative; top: -1px; }
 
     /* ── Main ── */
     main {
@@ -169,7 +170,7 @@
     .dot-music    { background: var(--music); }
     .dot-theatre  { background: var(--theatre); }
     .dot-art      { background: var(--art); }
-    .dot-other    { background: var(--hint); }
+    .dot-other    { background: var(--other); }
 
     .event-time {
       font-size: 13px;
@@ -347,10 +348,10 @@
   </div>
   <div class="cat-tabs" id="cat-tabs">
     <button class="cat-tab active" data-cat="all" onclick="setTab(this)">All <span class="cat-count" id="count-all">0</span></button>
-    <button class="cat-tab" data-cat="music" onclick="setTab(this)">Music <span class="cat-count" id="count-music">0</span></button>
-    <button class="cat-tab" data-cat="theatre" onclick="setTab(this)">Theatre <span class="cat-count" id="count-theatre">0</span></button>
-    <button class="cat-tab" data-cat="art" onclick="setTab(this)">Art <span class="cat-count" id="count-art">0</span></button>
-    <button class="cat-tab" data-cat="other" onclick="setTab(this)">Other <span class="cat-count" id="count-other">0</span></button>
+    <button class="cat-tab" data-cat="music" onclick="setTab(this)"><span class="cat-dot" style="background:var(--music)"></span>Music <span class="cat-count" id="count-music">0</span></button>
+    <button class="cat-tab" data-cat="theatre" onclick="setTab(this)"><span class="cat-dot" style="background:var(--theatre)"></span>Theatre <span class="cat-count" id="count-theatre">0</span></button>
+    <button class="cat-tab" data-cat="art" onclick="setTab(this)"><span class="cat-dot" style="background:var(--art)"></span>Art <span class="cat-count" id="count-art">0</span></button>
+    <button class="cat-tab" data-cat="other" onclick="setTab(this)"><span class="cat-dot" style="background:var(--other)"></span>Other <span class="cat-count" id="count-other">0</span></button>
   </div>
 </header>
 
