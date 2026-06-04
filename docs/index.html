@@ -59,6 +59,10 @@
       font-size: 13px;
       color: var(--muted);
       margin-top: 2px;
+      display: none;
+    }
+    @media (min-width: 701px) {
+      .site-sub { display: block; }
     }
 
     .search-row {
@@ -290,7 +294,7 @@
       margin-top: 2rem;
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 700px) {
       header {
         padding: 0.75rem 1rem 0;
         transition: padding 0.2s ease;
@@ -349,7 +353,7 @@
 
     /* ── Week strip (mobile) ── */
     .week-strip { display: none; }
-    @media (max-width: 600px) {
+    @media (max-width: 700px) {
       .cal-section .cal-grid { display: none; }
       .cal-section .cal-header { display: none; }
       .week-strip { display: flex; align-items: center; gap: 0; padding: 0.5rem 0.75rem 0.25rem; }
@@ -967,12 +971,17 @@
 
   // ── Collapse header on scroll (mobile) ───────────────────────────────
   const _header = document.querySelector("header");
-  window.addEventListener("scroll", () => {
-    if (window.innerWidth <= 600) {
-      _header.classList.toggle("scrolled", window.scrollY > 30);
-    } else {
-      _header.classList.remove("scrolled");
-    }
+  if (window.innerWidth <= 700) {
+    const sentinel = document.createElement("div");
+    sentinel.style.cssText = "position:absolute;top:0;height:1px;width:1px;pointer-events:none";
+    document.getElementById("events-container").prepend(sentinel);
+    const obs = new IntersectionObserver(([entry]) => {
+      _header.classList.toggle("scrolled", !entry.isIntersecting);
+    }, { threshold: 0, rootMargin: "0px" });
+    obs.observe(sentinel);
+  }
+  window.addEventListener("resize", () => {
+    if (window.innerWidth > 700) _header.classList.remove("scrolled");
   }, { passive: true });
 
   // Auto-load today on page open
