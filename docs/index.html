@@ -291,18 +291,29 @@
     }
 
     @media (max-width: 600px) {
-      header { padding: 1.25rem 1rem 0; }
+      header {
+        padding: 0.75rem 1rem 0;
+        transition: padding 0.2s ease;
+      }
+      header.scrolled {
+        padding: 0.4rem 1rem 0;
+      }
       main { padding: 1rem; }
-      .search-row { flex-wrap: wrap; }
-      input[type="date"] { flex: 1; }
+      .search-row {
+        flex-wrap: nowrap;
+        margin-bottom: 0.5rem;
+      }
+      input[type="date"] { flex-shrink: 0; max-width: 140px; }
       /* Hide subtitle on mobile */
       .site-sub { display: none; }
-      /* Shrink title on mobile */
-      .site-title { font-size: 18px; }
-      /* Collapsing header on scroll */
-      header { transition: padding 0.25s ease; }
-      header.scrolled .header-top { margin-bottom: 0.5rem; }
-      header.scrolled .site-title { font-size: 15px; }
+      /* Compact title */
+      .site-title { font-size: 16px; }
+      .header-top {
+        margin-bottom: 0.6rem;
+        transition: margin 0.2s ease, font-size 0.2s ease;
+      }
+      header.scrolled .header-top { margin-bottom: 0.3rem; }
+      header.scrolled .site-title { font-size: 13px; }
       /* Single-row scrollable category tabs */
       .cat-tabs {
         flex-wrap: nowrap !important;
@@ -311,7 +322,10 @@
         scrollbar-width: none;
       }
       .cat-tabs::-webkit-scrollbar { display: none; }
-      .cat-tab { white-space: nowrap; flex-shrink: 0; }
+      .cat-tab { white-space: nowrap; flex-shrink: 0; padding: 6px 12px; }
+      /* Compact shortcut row */
+      .shortcut-row { margin-bottom: 0.4rem; }
+      .shortcut-btn { font-size: 11px; padding: 3px 10px; }
     }
 
     /* ── Calendar ── */
@@ -952,10 +966,12 @@
   });
 
   // ── Collapse header on scroll (mobile) ───────────────────────────────
+  const _header = document.querySelector("header");
   window.addEventListener("scroll", () => {
-    const header = document.querySelector("header");
     if (window.innerWidth <= 600) {
-      header.classList.toggle("scrolled", window.scrollY > 40);
+      _header.classList.toggle("scrolled", window.scrollY > 30);
+    } else {
+      _header.classList.remove("scrolled");
     }
   }, { passive: true });
 
