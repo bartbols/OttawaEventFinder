@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-06-03T11:10:08.205Z",
-  "totalEvents": 754,
+  "scrapedAt": "2026-06-04T10:04:41.249Z",
+  "totalEvents": 750,
   "errors": [],
   "events": [
     {
@@ -2298,56 +2298,6 @@
     },
     {
       "source": "gigs",
-      "title": "Le Comité F au Minotaure",
-      "date": "2026-06-03",
-      "rawDate": "Wednesday, June 3, 2026",
-      "time": "19:00",
-      "venue": "Minotaure",
-      "description": "Genre: Storytelling",
-      "url": "https://ottawagigs.ca/gig/storytelling-minotaure-le-comit-f-3-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Woods & Gummeson Trio featuring Alex Mastronardi",
-      "date": "2026-06-03",
-      "rawDate": "Wednesday, June 3, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-woods-gummeson-trio-3-june"
-    },
-    {
-      "source": "gigs",
-      "title": "DALI VAN GOGH + Motherland + Refuse",
-      "date": "2026-06-03",
-      "rawDate": "Wednesday, June 3, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-house-of-targ-dali-van-gogh-3-june"
-    },
-    {
-      "source": "gigs",
-      "title": "The John Carroll Show",
-      "date": "2026-06-03",
-      "rawDate": "Wednesday, June 3, 2026",
-      "time": "20:00",
-      "venue": "The Laff",
-      "description": "Genre: Blues",
-      "url": "https://ottawagigs.ca/gig/blues-the-laff-john-carroll-3-june"
-    },
-    {
-      "source": "gigs",
-      "title": "A night with Canadian Songwriters - Liam S. Russell, Rachella Wred, Angela Begin, Bobby Tarian",
-      "date": "2026-06-03",
-      "rawDate": "Wednesday, June 3, 2026",
-      "time": "20:00",
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-avant-garde-bar-liam-s-russell-3-june"
-    },
-    {
-      "source": "gigs",
       "title": "Angela Verbrugg: The Wonder of the Night featuring Ray Gallon on piano!",
       "date": "2026-06-04",
       "rawDate": "Thursday, June 4, 2026",
@@ -2477,24 +2427,64 @@
       "url": "https://ottawagigs.ca/gig/folk-black-sheep-inn-glenn-jones-5-june"
     },
     {
-      "source": "redbird",
-      "title": "Bluegrass Wednesdays ft. Pete Deachman and Handsome Molly",
-      "date": "2026-06-03",
-      "rawDate": "2026-06-03",
-      "time": "11:30 p.m.",
-      "venue": "Red Bird Live",
-      "description": "Each month Bluegrass Wednesdays begins with a 2 hour concert followed by a jam session.\nAlways a good time - always a good crowd!\nWant to hear a great Bluegrass band that always has fun, are excellent",
-      "url": "https://www.showpass.com/bluegrass-wednesdays-ft-pete-deachman-and-handsome-molly/"
+      "source": "gigs",
+      "title": "Family Man, Neon Ghosthouse",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "19:30",
+      "venue": "27 Club",
+      "description": "Genre: Punk",
+      "url": "https://ottawagigs.ca/gig/punk-27-club-family-man-5-june"
     },
     {
-      "source": "redbird",
-      "title": "Bluegrass Wednesdays ft. Pete Deachman and Handsome Molly",
-      "date": "2026-06-04",
-      "rawDate": "2026-06-04",
-      "time": "11:30 p.m.",
-      "venue": "Red Bird Live",
-      "description": "Each month Bluegrass Wednesdays begins with a 2 hour concert followed by a jam session.\nAlways a good time - always a good crowd!\nWant to hear a great Bluegrass band that always has fun, are excellent",
-      "url": "https://www.showpass.com/bluegrass-wednesdays-ft-pete-deachman-and-handsome-molly/"
+      "source": "gigs",
+      "title": "80s New Wave Dance Party with The Underground",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "19:30",
+      "venue": "Overflow Brewing",
+      "description": "Genre: Dance Party",
+      "url": "https://ottawagigs.ca/gig/dance-party-overflow-brewing-the-underground-5-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Ed Lister Group",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "19:30",
+      "venue": "Night Oat",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-night-oat-ed-lister-group-5-june"
+    },
+    {
+      "source": "gigs",
+      "title": "THE BROTHERSHIP + DYSTOH + DJs Full Time Groove",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Funk",
+      "url": "https://ottawagigs.ca/gig/funk-house-of-targ-the-brothership-5-june"
+    },
+    {
+      "source": "gigs",
+      "title": "LoE Birthday Bash with Passenger Princess, Days on Parade, and Girlboything",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "20:00",
+      "venue": "LIVE! on Elgin",
+      "description": "Genre: Punk",
+      "url": "https://ottawagigs.ca/gig/punk-live-on-elgin-passenger-princess-5-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Matthew Barber LIVE @ Motel Chelsea!",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-matthew-barber-5-june"
     },
     {
       "source": "redbird",
@@ -2755,16 +2745,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-06-02",
-      "rawDate": "Jun 2",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-gdl77"
     },
     {
       "source": "irenes",
@@ -3253,7 +3233,7 @@
       "rawDate": "Jul 27",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Boyhood",
+      "description": "Boyhood Eliza Nimi Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/boyhood-with-special-guests-eliza-nimi"
     },
     {
@@ -3295,6 +3275,16 @@
       "venue": "Irene's Pub",
       "description": "Hunks & Punks",
       "url": "https://irenespub.ca/events/hunks-punks"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-06-02",
+      "rawDate": "Jun 2",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-gdl77"
     },
     {
       "source": "irenes",
@@ -3585,16 +3575,6 @@
       "venue": "Irene's Pub",
       "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/bpha8f8869dpkrtp92fw2kt653z3kj"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-05-05",
-      "rawDate": "May 5",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-dsytd"
     },
     {
       "source": "gladstone",
@@ -5288,16 +5268,6 @@
     },
     {
       "source": "orkidstra",
-      "title": "OrKidstra Heron Gate Hub End-of-Year Concert!",
-      "date": "2026-06-03",
-      "rawDate": "June 3",
-      "time": "18:30",
-      "venue": "Orkidstra",
-      "description": null,
-      "url": "https://orkidstra.ca/events/upcoming-events/june-3-orkidstra-heron-gate-hub-end-of-year-concert"
-    },
-    {
-      "source": "orkidstra",
       "title": "OrKidstra Centre Hub End-of-Year Concert!",
       "date": "2026-06-09",
       "rawDate": "June 9",
@@ -6836,8 +6806,8 @@
       "source": "bronson",
       "title": "Anubhav Singh Bassi",
       "date": "2026-06-06",
-      "rawDate": "Saturday, Jun 6, Doors: 8pm",
-      "time": "20:00",
+      "rawDate": "Saturday, Jun 6, Doors: 7pm",
+      "time": "19:00",
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/anubhav-singh-bassi/"
@@ -7784,23 +7754,13 @@
     },
     {
       "source": "motelchelsea",
-      "title": "Hannah & Nathan Album Release",
-      "date": "2027-05-29",
-      "rawDate": "MAY 29",
+      "title": "Matthew Barber",
+      "date": "2026-06-05",
+      "rawDate": "JUNE 05",
       "time": "20:00",
       "venue": "Motel Chelsea",
       "description": null,
-      "url": "https://www.motelchelsea.com/post/friday-may-29-hannah-nathan-album-release-8-00pm"
-    },
-    {
-      "source": "motelchelsea",
-      "title": "Noah Derksen",
-      "date": "2027-05-31",
-      "rawDate": "MAY 31",
-      "time": "15:00",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/sunday-may-31-noah-derksen-3-00pm"
+      "url": "https://www.motelchelsea.com/post/friday-june-5-matthew-barber-8-00pm"
     }
   ]
 }
