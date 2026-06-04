@@ -1255,18 +1255,19 @@ async function scrapeChamberfest() {
 }
 
 async function scrapeCityFolk() {
-  // WordPress site — schedule page has h2 day headings + h3 artist names
+  // WordPress site with Grandstand widget
+  // h2.widget-divider-override sets the day, followed by div.all.Concerts > button[data-title]
   console.log("  Scraping CityFolk Festival...");
   const events = [];
   const BASE = "https://cityfolkfestival.com";
 
-  // Known dates for 2026 festival — Sep 16-20
   const DAY_DATES = {
     "wed, sep 16": "2026-09-16",
     "thu, sep 17": "2026-09-17",
     "fri, sep 18": "2026-09-18",
     "sat, sep 19": "2026-09-19",
     "sun, sep 20": "2026-09-20",
+    "mon, sep 21": "2026-09-21",
   };
 
   try {
@@ -1274,20 +1275,23 @@ async function scrapeCityFolk() {
     const $ = cheerio.load(html);
     let currentDate = null;
 
-    // Walk through h2 (day headings) and h3 (artist names)
-    $("h2, h3").each((_, el) => {
-      const text = $(el).text().trim();
+    // Walk h2 headings and div.all siblings in document order
+    $("h2.widget-divider-override, div.all").each((_, el) => {
       if (el.name === "h2") {
-        const key = text.toLowerCase();
-        currentDate = DAY_DATES[key] || null;
-      } else if (el.name === "h3" && currentDate && text.length > 1) {
-        // Skip "Share" and other UI labels
-        if (text.toLowerCase() === "share" || text.length < 2) return;
-        const title = text.charAt(0) + text.slice(1).toLowerCase()
-          .replace(/\b\w/g, c => c.toUpperCase()); // Title case
+        const text = $(el).text().trim().toLowerCase().replace(/[^a-z0-9, ]/g, "").trim();
+        currentDate = DAY_DATES[text] || null;
+      } else if (currentDate) {
+        const btn = $(el).find("button[data-title]").first();
+        if (!btn.length) return;
+        const raw = btn.attr("data-title")?.trim() || "";
+        if (raw.length < 2) return;
+        // Decode HTML entities and convert ALL CAPS to title case
+        const decoded = raw.replace(/&amp;/g, "&").replace(/&#038;/g, "&").replace(/&#[0-9]+;/g, "");
+        const formatted = decoded.split(" ")
+          .map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join(" ");
         events.push({
           source: "cityfolk",
-          title,
+          title: formatted,
           date: currentDate,
           rawDate: currentDate,
           time: null,
@@ -1297,6 +1301,7 @@ async function scrapeCityFolk() {
         });
       }
     });
+    console.log(`    h2 dates found: ${Object.values(DAY_DATES).filter(d => events.some(e => e.date === d)).length}/5`);
   } catch(e) {
     console.log("    CityFolk unreachable:", e.message);
   }
