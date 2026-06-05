@@ -1,63 +1,8 @@
 {
-  "scrapedAt": "2026-06-04T14:42:36.178Z",
-  "totalEvents": 779,
+  "scrapedAt": "2026-06-05T10:02:05.560Z",
+  "totalEvents": 776,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Geneviève RB",
-      "subtitle": "Jukebox Lunch Concerts",
-      "date": "2026-06-04",
-      "rawDate": "2026-06-04",
-      "time": "12:10",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "Jukebox Lunch Concerts",
-      "url": "https://nac-cna.ca/en/event/41076"
-    },
-    {
-      "source": "nac",
-      "title": "Te Tangi a Te Tūī",
-      "subtitle": "By Tainui Tukiwaho and Amber Curreen",
-      "date": "2026-06-04",
-      "rawDate": "2026-06-04",
-      "time": "20:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "By Tainui Tukiwaho and Amber Curreen",
-      "url": "https://nac-cna.ca/en/event/38356"
-    },
-    {
-      "source": "nac",
-      "title": "Te Tangi a Te Tūī",
-      "subtitle": "By Tainui Tukiwaho and Amber Curreen",
-      "date": "2026-06-05",
-      "rawDate": "2026-06-05",
-      "time": "20:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "By Tainui Tukiwaho and Amber Curreen",
-      "url": "https://nac-cna.ca/en/event/38356"
-    },
-    {
-      "source": "nac",
-      "title": "Te Tangi a Te Tūī",
-      "subtitle": "By Tainui Tukiwaho and Amber Curreen",
-      "date": "2026-06-06",
-      "rawDate": "2026-06-06",
-      "time": "20:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "By Tainui Tukiwaho and Amber Curreen",
-      "url": "https://nac-cna.ca/en/event/38356"
-    },
-    {
-      "source": "nac",
-      "title": "Te Tangi a Te Tūī",
-      "subtitle": "By Tainui Tukiwaho and Amber Curreen",
-      "date": "2026-06-07",
-      "rawDate": "2026-06-07",
-      "time": "20:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "By Tainui Tukiwaho and Amber Curreen",
-      "url": "https://nac-cna.ca/en/event/38356"
-    },
     {
       "source": "nac",
       "title": "Mani reçoit Robert Lepage",
@@ -1357,6 +1302,50 @@
       "url": "https://nac-cna.ca/en/event/40973"
     },
     {
+      "source": "nac",
+      "title": "Miguel de Armas",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-04",
+      "rawDate": "2026-08-04",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40966"
+    },
+    {
+      "source": "nac",
+      "title": "Empanadas Ilegales",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-04",
+      "rawDate": "2026-08-04",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40944"
+    },
+    {
+      "source": "nac",
+      "title": "Empanadas Ilegales",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-05",
+      "rawDate": "2026-08-05",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40944"
+    },
+    {
+      "source": "nac",
+      "title": "Empanadas Ilegales",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-06",
+      "rawDate": "2026-08-06",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40944"
+    },
+    {
       "source": "jazz",
       "title": "Immersive Jazz Showcase",
       "date": "2027-05-29",
@@ -1409,7 +1398,7 @@
     {
       "source": "jazz",
       "title": "Kyle Jordan & Erik Johnson-Scherger",
-      "date": "2026-06-04",
+      "date": "2027-06-04",
       "rawDate": "Thu, Jun 4, 12:00 p.m.",
       "time": "12:00",
       "venue": "Ottawa Jazz Festival",
@@ -2298,96 +2287,6 @@
     },
     {
       "source": "gigs",
-      "title": "Angela Verbrugg: The Wonder of the Night featuring Ray Gallon on piano!",
-      "date": "2026-06-04",
-      "rawDate": "Thursday, June 4, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-angela-verbrugge-4-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Je fonds de Jessy Lindsay : Une soirée d'art franco-queer",
-      "date": "2026-06-04",
-      "rawDate": "Thursday, June 4, 2026",
-      "time": "19:00",
-      "venue": "Club SAW",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-club-saw-jessy-lindsay-4-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Sundown Trio+",
-      "date": "2026-06-04",
-      "rawDate": "Thursday, June 4, 2026",
-      "time": "19:30",
-      "venue": "Night Oat",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-night-oat-sundown-trio--4-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Elizabeth Royall \"You See An Angel\" EP Release Show w/corascene",
-      "date": "2026-06-04",
-      "rawDate": "Thursday, June 4, 2026",
-      "time": "20:00",
-      "venue": "LIVE! on Elgin",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-live-on-elgin-elizabeth-royall-4-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Chase The Bear LIVE at The Rainbow Bistro",
-      "date": "2026-06-04",
-      "rawDate": "Thursday, June 4, 2026",
-      "time": "20:00",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-rainbow-bistro-chase-the-bear-4-june"
-    },
-    {
-      "source": "gigs",
-      "title": "The Listros - Into The Otherside Tour",
-      "date": "2026-06-04",
-      "rawDate": "Thursday, June 4, 2026",
-      "time": "20:00",
-      "venue": "27 Club",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-27-club-the-listros-4-june-d0a8c"
-    },
-    {
-      "source": "gigs",
-      "title": "BROKEN BY FRIDAY + SIR KINGFISH + GRAFFITI 5-0",
-      "date": "2026-06-04",
-      "rawDate": "Thursday, June 4, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Pop Punk",
-      "url": "https://ottawagigs.ca/gig/pop-punk-house-of-targ-broken-by-friday-4-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Live & Local: Joe Ray MacDonald",
-      "date": "2026-06-04",
-      "rawDate": "Thursday, June 4, 2026",
-      "time": "20:30",
-      "venue": "Motel Chelsea",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-joe-ray-macdonald-4-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Thursday Night Live: Steamy Boots",
-      "date": "2026-06-04",
-      "rawDate": "Thursday, June 4, 2026",
-      "time": "21:00",
-      "venue": "The Laff",
-      "description": "Genre: Country",
-      "url": "https://ottawagigs.ca/gig/country-the-laff-steamy-boots-4-june"
-    },
-    {
-      "source": "gigs",
       "title": "JINJER - North American Duel Tour 2026",
       "date": "2026-06-05",
       "rawDate": "Friday, June 5, 2026",
@@ -2485,6 +2384,86 @@
       "venue": "Motel Chelsea",
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-matthew-barber-5-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Candy Says + Thee Soreheads + Static",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "20:00",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-avant-garde-bar-candy-says-5-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Austin Camp & Julie Stella",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "21:00",
+      "venue": "Art House Cafe",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-art-house-cafe-austin-camp-julie-stella-6-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Almost Johnny Cash as Johnny Cash",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "21:30",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-hard-rock-ottawa-almost-johnny-cash-5-june"
+    },
+    {
+      "source": "gigs",
+      "title": "90’s DANCE PARTY [Vol. 3]",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "22:00",
+      "venue": "Club SAW",
+      "description": "Genre: Dance Party",
+      "url": "https://ottawagigs.ca/gig/dance-party-club-saw-super-taste-ottawa-5-june-a1367"
+    },
+    {
+      "source": "gigs",
+      "title": "Daze At Night 4th Anniversary",
+      "date": "2026-06-05",
+      "rawDate": "Friday, June 5, 2026",
+      "time": "22:00",
+      "venue": "City at Night",
+      "description": "Genre: Electronic",
+      "url": "https://ottawagigs.ca/gig/electronic-city-at-night-tba-5-june"
+    },
+    {
+      "source": "gigs",
+      "title": "MUSIC FOR MEMORY",
+      "date": "2026-06-06",
+      "rawDate": "Saturday, June 6, 2026",
+      "time": "18:00",
+      "venue": "Other",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-pop-lone-star-texas-bar-and-grill-east-at-st-laurent-2026-06-06"
+    },
+    {
+      "source": "gigs",
+      "title": "Dance Then Bed",
+      "date": "2026-06-06",
+      "rawDate": "Saturday, June 6, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Dance Party",
+      "url": "https://ottawagigs.ca/gig/dance-party-bar-robo-the-early-set-6-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Shawn Tavenier Duo",
+      "date": "2026-06-06",
+      "rawDate": "Saturday, June 6, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-hard-rock-ottawa-shawn-tavenier-6-june"
     },
     {
       "source": "redbird",
@@ -2755,26 +2734,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "The Prime Rib Big Band",
-      "date": "2026-06-03",
-      "rawDate": "Jun 3",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/2ynbmxcnm89glyryta8l4td2gfrmj4"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Lorna Tate",
-      "date": "2026-06-04",
-      "rawDate": "Jun 4",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": null,
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-tsmef"
     },
     {
       "source": "irenes",
@@ -3283,8 +3242,28 @@
       "rawDate": "Jul 31",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Hunks & Punks",
+      "description": "Hunks & Punks Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/hunks-punks"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Lorna Tate",
+      "date": "2026-06-04",
+      "rawDate": "Jun 4",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-tsmef"
+    },
+    {
+      "source": "irenes",
+      "title": "The Prime Rib Big Band",
+      "date": "2026-06-03",
+      "rawDate": "Jun 3",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/2ynbmxcnm89glyryta8l4td2gfrmj4"
     },
     {
       "source": "irenes",
@@ -3565,26 +3544,6 @@
       "venue": "Irene's Pub",
       "description": null,
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j"
-    },
-    {
-      "source": "irenes",
-      "title": "Carleton University's Author Meets Readers -Collaborative Research in the Datafied Society",
-      "date": "2026-05-07",
-      "rawDate": "May 7",
-      "time": "17:30",
-      "venue": "Irene's Pub",
-      "description": "More Info",
-      "url": "https://irenespub.ca/events/carleton-universitys-author-meets-readers-1"
-    },
-    {
-      "source": "irenes",
-      "title": "The Prime Rib Big Band",
-      "date": "2026-05-06",
-      "rawDate": "May 6",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/bpha8f8869dpkrtp92fw2kt653z3kj"
     },
     {
       "source": "gladstone",
@@ -5271,7 +5230,7 @@
       "title": "A Knight at the Symphony",
       "date": "2026-06-26",
       "rawDate": "2026-06-26T23:30:00.919Z",
-      "time": "19:30",
+      "time": "23:30",
       "venue": "Ottawa Pops Orchestra",
       "description": "Buy Tickets on Eventbrite\n\n\n    June 26, 7:30PM\n\n\n\n\n    var exampleCallback = function() {\n        console.log('Order complete!');\n    };\n\n    window.EBWidgets.createWidget({\n        widgetType: 'chec",
       "url": "https://www.ottawapopsorchestra.ca/events/a-knight-at-the-symphony"
@@ -8051,6 +8010,16 @@
       "venue": "Motel Chelsea",
       "description": null,
       "url": "https://www.motelchelsea.com/post/friday-june-5-matthew-barber-8-00pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "Rebekah Hawker & Claire Hunter",
+      "date": "2026-06-14",
+      "rawDate": "JUNE 14",
+      "time": "16:30",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/sunday-june-14-rebekah-hawker-claire-hunter-4-30pm"
     }
   ]
 }
