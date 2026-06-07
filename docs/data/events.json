@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-06-06T08:40:06.301Z",
-  "totalEvents": 656,
+  "scrapedAt": "2026-06-07T09:22:10.617Z",
+  "totalEvents": 652,
   "errors": [],
   "events": [
     {
@@ -76,7 +76,7 @@
     {
       "source": "jazz",
       "title": "Nick Adema: Standards Quartet",
-      "date": "2026-06-06",
+      "date": "2027-06-06",
       "rawDate": "Sat, Jun 6, 3:00 p.m.",
       "time": "15:00",
       "venue": "Ottawa Jazz Festival",
@@ -86,7 +86,7 @@
     {
       "source": "jazz",
       "title": "Gregory Nicholas Trio",
-      "date": "2026-06-06",
+      "date": "2027-06-06",
       "rawDate": "Sat, Jun 6, 6:30 p.m.",
       "time": "18:30",
       "venue": "Ottawa Jazz Festival",
@@ -96,7 +96,7 @@
     {
       "source": "jazz",
       "title": "Kate Weekes",
-      "date": "2026-06-06",
+      "date": "2027-06-06",
       "rawDate": "Sat, Jun 6, 8:30 p.m.",
       "time": "20:30",
       "venue": "Ottawa Jazz Festival",
@@ -945,186 +945,6 @@
     },
     {
       "source": "gigs",
-      "title": "MUSIC FOR MEMORY",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "18:00",
-      "venue": "Other",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-pop-lone-star-texas-bar-and-grill-east-at-st-laurent-2026-06-06"
-    },
-    {
-      "source": "gigs",
-      "title": "Dance Then Bed",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Dance Party",
-      "url": "https://ottawagigs.ca/gig/dance-party-bar-robo-the-early-set-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Shawn Tavenier Duo",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "19:00",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-hard-rock-ottawa-shawn-tavenier-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "The Door Youth Centre Fundraiser",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "19:00",
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-avant-garde-bar-derecho-party-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Another Decade, Another Show!",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "19:30",
-      "venue": "GigSpace",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-gigspace-karen-oxorn-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Dan Bern and Orit Shimoni",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "19:30",
-      "venue": "LIVE! on Elgin",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-live-on-elgin-dan-bern-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Sacred & Profane",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "19:30",
-      "venue": "Other",
-      "description": "Genre: Classical",
-      "url": "https://ottawagigs.ca/gig/classical-st-barnabas-church-70-james-street-ottawa-on-2026-06-06"
-    },
-    {
-      "source": "gigs",
-      "title": "Les Mozus - Avril en T-shirt EP Release Party",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "19:30",
-      "venue": "Other",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-le-pub-notre-dame-gatineau-2026-06-06"
-    },
-    {
-      "source": "gigs",
-      "title": "Mindful Drones & Friends",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "19:30",
-      "venue": "Night Oat",
-      "description": "Genre: Funk",
-      "url": "https://ottawagigs.ca/gig/funk-night-oat-mindful-drones-friends-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Nintend-HOES: Nintendo Themed Dance Party + Drag Show",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Dance Party",
-      "url": "https://ottawagigs.ca/gig/dance-party-house-of-targ-saltina-shaker-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "THE GROOVEBUG at The Black Sheep Inn",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "20:00",
-      "venue": "The Black Sheep Inn",
-      "description": "Genre: Funk",
-      "url": "https://ottawagigs.ca/gig/funk-black-sheep-inn-the-groovebug-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Hair Force One - Up Your Ashes Tour",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "20:00",
-      "venue": "Overflow Brewing",
-      "description": "Genre: Metal",
-      "url": "https://ottawagigs.ca/gig/metal-overflow-brewing-hair-force-one-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Psychtooth! (NJ/NYC) + Class of 91 + Loiter",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "20:00",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Indie",
-      "url": "https://ottawagigs.ca/gig/indie-the-rainbow-bistro-2026-06-06"
-    },
-    {
-      "source": "gigs",
-      "title": "Minuscule + For Ernest LIVE @ Motel Chelsea!",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "20:00",
-      "venue": "Motel Chelsea",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-minuscule-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Machine Messiah Playing Sonny's Bar and Grill Saturday June 6th/2026",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "20:00",
-      "venue": "Other",
-      "description": "Genre: Metal",
-      "url": "https://ottawagigs.ca/gig/power-metal-sonnys-bar-and-grill-2026-06-06"
-    },
-    {
-      "source": "gigs",
-      "title": "Phasez and the Faes, Asia Ruby and Loiter",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "20:30",
-      "venue": "Art House Cafe",
-      "description": "Genre: Experimental",
-      "url": "https://ottawagigs.ca/gig/experimental-art-house-cafe-phasez-and-the-faes-7-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Sussex",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "21:30",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-sussex-6-june"
-    },
-    {
-      "source": "gigs",
-      "title": "WHITE RABBIT X SKANK",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, June 6, 2026",
-      "time": "22:00",
-      "venue": "City at Night",
-      "description": "Genre: Electronic",
-      "url": "https://ottawagigs.ca/gig/electronic-city-at-night-skank-6-june"
-    },
-    {
-      "source": "gigs",
       "title": "Legendary Sunday Afternoon Blues Jam",
       "date": "2026-06-07",
       "rawDate": "Sunday, June 7, 2026",
@@ -1142,6 +962,166 @@
       "venue": "Ottawa Tennis Club",
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/gig/folk-ottawa-tennis-club-176-cameron-ave-0ttawa-2026-06-07"
+    },
+    {
+      "source": "gigs",
+      "title": "CEC + Ila Barker",
+      "date": "2026-06-07",
+      "rawDate": "Sunday, June 7, 2026",
+      "time": "20:00",
+      "venue": "Art House Cafe",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-art-house-cafe-cec-7-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Sunday Songwriters",
+      "date": "2026-06-07",
+      "rawDate": "Sunday, June 7, 2026",
+      "time": "20:00",
+      "venue": "Art House Cafe",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-art-house-cafe-sunday-songwriters-8-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Rachel Bobbitt, Lia Pappas-Kemps",
+      "date": "2026-06-09",
+      "rawDate": "Tuesday, June 9, 2026",
+      "time": "19:30",
+      "venue": "27 Club",
+      "description": "Genre: Pop",
+      "url": "https://ottawagigs.ca/gig/pop-27-club-rachel-bobbitt-9-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Gilles & The Barnburners",
+      "date": "2026-06-09",
+      "rawDate": "Tuesday, June 9, 2026",
+      "time": "19:30",
+      "venue": "Night Oat",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-night-oat-gilles-the-barnburners-9-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Dave Plays Elton!",
+      "date": "2026-06-10",
+      "rawDate": "Wednesday, June 10, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/gig/cover-tribute-bar-robo-dave-draves-10-june"
+    },
+    {
+      "source": "gigs",
+      "title": "KING FALCON (NYC Rock) + Sun Dried Flies + Four Eyed Muscle Man",
+      "date": "2026-06-10",
+      "rawDate": "Wednesday, June 10, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-house-of-targ-king-falcon-10-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Les Carapaces au Minotaure",
+      "date": "2026-06-10",
+      "rawDate": "Wednesday, June 10, 2026",
+      "time": "20:00",
+      "venue": "Minotaure",
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/gig/cover-tribute-minotaure-les-carapaces-10-june"
+    },
+    {
+      "source": "gigs",
+      "title": "August John + Sun Dried Flies",
+      "date": "2026-06-11",
+      "rawDate": "Thursday, June 11, 2026",
+      "time": "19:00",
+      "venue": "Club SAW",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-club-saw-august-john-11-june"
+    },
+    {
+      "source": "gigs",
+      "title": "James Leclaire with Kennedy Leclaire",
+      "date": "2026-06-11",
+      "rawDate": "Thursday, June 11, 2026",
+      "time": "19:00",
+      "venue": "Red Bird",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-red-bird-james-leclaire-11-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Art of the Duo",
+      "date": "2026-06-11",
+      "rawDate": "Thursday, June 11, 2026",
+      "time": "19:30",
+      "venue": "GigSpace",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-gigspace-tim-bedner-11-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Nate & The Busy Boys (Fredericton) + Andy & The Danny’s (Montreal) + The Berns (Ottawa) + Jackrabbits (Ottawa)",
+      "date": "2026-06-11",
+      "rawDate": "Thursday, June 11, 2026",
+      "time": "19:30",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-rainbow-bistro-nate-the-busy-boys-11-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Chris & Kat feat Tessa Duc",
+      "date": "2026-06-11",
+      "rawDate": "Thursday, June 11, 2026",
+      "time": "19:30",
+      "venue": "Night Oat",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-night-oat-chris-kat-feat-tessa-duc-11-june"
+    },
+    {
+      "source": "gigs",
+      "title": "GANNA: with DIVKA",
+      "date": "2026-06-11",
+      "rawDate": "Thursday, June 11, 2026",
+      "time": "20:00",
+      "venue": "National Arts Centre",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-national-arts-centre-ganna-11-june"
+    },
+    {
+      "source": "gigs",
+      "title": "The Flex (Leeds, UK Hardcore Punk) + Stigmatism (NYC/MTL) + Zeal + Trenchcoat (MTL) + Koffin Byrth",
+      "date": "2026-06-11",
+      "rawDate": "Thursday, June 11, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Punk",
+      "url": "https://ottawagigs.ca/gig/punk-house-of-targ-the-flex-11-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Malia Rogers Trio",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "19:00",
+      "venue": "Red Bird",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-red-bird-malia-rogers-trio-12-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Danny Sylvester Duo",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-hard-rock-ottawa-danny-sylvester-12-june"
     },
     {
       "source": "redbird",
@@ -1415,16 +1395,6 @@
     },
     {
       "source": "irenes",
-      "title": "The LH Express",
-      "date": "2026-06-05",
-      "rawDate": "Jun 5",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "The LH Express Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/the-lh-express"
-    },
-    {
-      "source": "irenes",
       "title": "The Electric Co.",
       "date": "2026-06-06",
       "rawDate": "Jun 6",
@@ -1470,7 +1440,7 @@
       "rawDate": "Jun 11",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-xfkdc"
     },
     {
@@ -1505,12 +1475,12 @@
     },
     {
       "source": "irenes",
-      "title": "The Sunday Night Revue",
+      "title": "The Sunday Night Revue with Special Guest Sam SInger",
       "date": "2026-06-14",
       "rawDate": "Jun 14",
       "time": "20:30",
       "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
+      "description": "The Sunday Night Revue Sam Singer",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-dj63l"
     },
     {
@@ -1540,7 +1510,7 @@
       "rawDate": "Jun 18",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-xwprh"
     },
     {
@@ -1565,12 +1535,12 @@
     },
     {
       "source": "irenes",
-      "title": "The Sunday Night Revue",
+      "title": "The Sunday Night Revue Kieran Campbell & Dakota Cooney",
       "date": "2026-06-21",
       "rawDate": "Jun 21",
       "time": "20:30",
       "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
+      "description": "The Sunday Night RevueKieran CampbellDakota Cooney",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-eyg62"
     },
     {
@@ -1590,7 +1560,7 @@
       "rawDate": "Jun 25",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely"
     },
     {
@@ -1645,12 +1615,12 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Greggor Sneddon",
       "date": "2026-07-02",
       "rawDate": "Jul 2",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb"
     },
     {
@@ -1675,12 +1645,12 @@
     },
     {
       "source": "irenes",
-      "title": "The Sunday Night Revue",
+      "title": "The Sunday Night Revue with Special Guests Koromanti & The North Star",
       "date": "2026-07-05",
       "rawDate": "Jul 5",
       "time": "20:30",
       "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
+      "description": "The Sunday Night RevueKoromanti & The North Star",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-xd3tz"
     },
     {
@@ -1705,12 +1675,12 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Shannon Eddy",
       "date": "2026-07-09",
       "rawDate": "Jul 9",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb-yp4sn"
     },
     {
@@ -1735,12 +1705,12 @@
     },
     {
       "source": "irenes",
-      "title": "The Sunday Night Revue",
+      "title": "The Sunday Night Revue with Special Guest Aurelia Anne Cohen",
       "date": "2026-07-12",
       "rawDate": "Jul 12",
       "time": "20:30",
       "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
+      "description": "The Sunday Night RevueAurelia Anne Cohen",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-tc7mx"
     },
     {
@@ -1765,12 +1735,12 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Terry Gillespie",
       "date": "2026-07-16",
       "rawDate": "Jul 16",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb-hd4d7"
     },
     {
@@ -1825,12 +1795,12 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Brother Paul",
       "date": "2026-07-23",
       "rawDate": "Jul 23",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb-9hh8e"
     },
     {
@@ -1905,12 +1875,12 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Luke Ambridge",
       "date": "2026-07-30",
       "rawDate": "Jul 30",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb-9hh8e-fnbts"
     },
     {
@@ -1922,6 +1892,16 @@
       "venue": "Irene's Pub",
       "description": "Hunks & Punks Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/hunks-punks"
+    },
+    {
+      "source": "irenes",
+      "title": "The LH Express",
+      "date": "2026-06-05",
+      "rawDate": "Jun 5",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The LH Express Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/the-lh-express"
     },
     {
       "source": "irenes",
@@ -2212,16 +2192,6 @@
       "venue": "Irene's Pub",
       "description": "Claude Munson Annie Martel Julie Stella Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/claude-munson"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Iyono Ede",
-      "date": "2026-05-07",
-      "rawDate": "May 7",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": null,
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j"
     },
     {
       "source": "gladstone",
@@ -5438,16 +5408,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "Anubhav Singh Bassi",
-      "date": "2026-06-06",
-      "rawDate": "Saturday, Jun 6, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/anubhav-singh-bassi/"
     },
     {
       "source": "bronson",
