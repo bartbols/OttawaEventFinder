@@ -1,30 +1,8 @@
 {
-  "scrapedAt": "2026-06-08T11:07:41.847Z",
-  "totalEvents": 765,
+  "scrapedAt": "2026-06-09T09:55:35.755Z",
+  "totalEvents": 753,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Powwow Workout",
-      "subtitle": "with Amanda Fox",
-      "date": "2026-06-08",
-      "rawDate": "2026-06-08",
-      "time": "12:00",
-      "venue": "Canal Lobby Stage Scène du Foyer du canal",
-      "description": "with Amanda Fox",
-      "url": "https://nac-cna.ca/en/event/41132"
-    },
-    {
-      "source": "nac",
-      "title": "SoulRhythms",
-      "subtitle": null,
-      "date": "2026-06-08",
-      "rawDate": "2026-06-08",
-      "time": "19:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40558"
-    },
     {
       "source": "nac",
       "title": "Toddler Tuesdays",
@@ -731,17 +709,6 @@
     },
     {
       "source": "nac",
-      "title": "Los Vega",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-07-09",
-      "rawDate": "2026-07-09",
-      "time": "12:00",
-      "venue": "Atrium O’Brien Atrium O’Brien",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/41293"
-    },
-    {
-      "source": "nac",
       "title": "Disney's Pirates of the Caribbean: The Curse of the Black Pearl, Live in Concert",
       "subtitle": "with the NAC Orchestra",
       "date": "2026-07-09",
@@ -1225,104 +1192,15 @@
       "url": "https://nac-cna.ca/en/event/40537"
     },
     {
-      "source": "jazz",
-      "title": "Immersive Jazz Showcase",
-      "date": "2027-05-29",
-      "rawDate": "Fri, May 29, 7:30 p.m.",
-      "time": "19:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34390-Immersive-Jazz-Showcase"
-    },
-    {
-      "source": "jazz",
-      "title": "Birdie Whyte",
-      "date": "2027-05-29",
-      "rawDate": "Fri, May 29, 8:00 p.m.",
-      "time": "20:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34395-Birdie-Whyte"
-    },
-    {
-      "source": "jazz",
-      "title": "Jazz Night with Samantha Christ François & Miguel de Armas",
-      "date": "2027-05-30",
-      "rawDate": "Sat, May 30, 8:00 p.m.",
-      "time": "20:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34397-Jazz-Night-with-Samantha-Christ-Fran-ois-Miguel-de-Armas"
-    },
-    {
-      "source": "jazz",
-      "title": "Wayne Eagles Trio",
-      "date": "2027-05-31",
-      "rawDate": "Sun, May 31, 7:00 p.m.",
-      "time": "19:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34398-Wayne-Eagles-Trio"
-    },
-    {
-      "source": "jazz",
-      "title": "Loon Choir",
-      "date": "2027-06-01",
-      "rawDate": "Mon, Jun 1, 8:30 p.m.",
-      "time": "20:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34399-Loon-Choir"
-    },
-    {
-      "source": "jazz",
-      "title": "Kyle Jordan & Erik Johnson-Scherger",
-      "date": "2027-06-04",
-      "rawDate": "Thu, Jun 4, 12:00 p.m.",
-      "time": "12:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34400-Kyle-Jordan-Erik-Johnson-Scherger"
-    },
-    {
-      "source": "jazz",
-      "title": "NITROTURTLE ft. Matthew Chaffey",
-      "date": "2027-06-05",
-      "rawDate": "Fri, Jun 5, 8:00 p.m.",
-      "time": "20:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34401-NITROTURTLE-ft-Matthew-Chaffey"
-    },
-    {
-      "source": "jazz",
-      "title": "Nick Adema: Standards Quartet",
-      "date": "2027-06-06",
-      "rawDate": "Sat, Jun 6, 3:00 p.m.",
-      "time": "15:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34402-Nick-Adema-Standards-Quartet"
-    },
-    {
-      "source": "jazz",
-      "title": "Gregory Nicholas Trio",
-      "date": "2027-06-06",
-      "rawDate": "Sat, Jun 6, 6:30 p.m.",
-      "time": "18:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34403-Gregory-Nicholas-Trio"
-    },
-    {
-      "source": "jazz",
-      "title": "Kate Weekes",
-      "date": "2027-06-06",
-      "rawDate": "Sat, Jun 6, 8:30 p.m.",
-      "time": "20:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34404-Kate-Weekes"
+      "source": "nac",
+      "title": "Primary Colours",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-08",
+      "rawDate": "2026-08-08",
+      "time": "16:30",
+      "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41085"
     },
     {
       "source": "jazz",
@@ -1776,13 +1654,13 @@
     },
     {
       "source": "jazz",
-      "title": "Side-Eye & Grace",
+      "title": "Graves/Jordan/Pond",
       "date": "2026-06-25",
       "rawDate": "Thu, Jun 25, 12:00 p.m.",
       "time": "12:00",
       "venue": "Ottawa Jazz Festival",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34490-Side-Eye-Grace"
+      "url": "https://program.ottawajazzfestival.com/item/34490-Graves-Jordan-Pond"
     },
     {
       "source": "jazz",
@@ -2166,26 +2044,6 @@
     },
     {
       "source": "gigs",
-      "title": "Free happy hour show! Campus to Stage",
-      "date": "2026-06-08",
-      "rawDate": "Monday, June 8, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-wayne-eagles-8-june"
-    },
-    {
-      "source": "gigs",
-      "title": "5 Star Monday Band",
-      "date": "2026-06-08",
-      "rawDate": "Monday, June 8, 2026",
-      "time": "20:00",
-      "venue": "The Laff",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-the-laff-five-star-monday-band-8-june"
-    },
-    {
-      "source": "gigs",
       "title": "Rachel Bobbitt, Lia Pappas-Kemps",
       "date": "2026-06-09",
       "rawDate": "Tuesday, June 9, 2026",
@@ -2365,6 +2223,16 @@
       "url": "https://ottawagigs.ca/gig/electronic-avant-garde-bar-psykkore-12-june"
     },
     {
+      "source": "gigs",
+      "title": "Malia Rogers Trio",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "19:00",
+      "venue": "Red Bird",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-red-bird-malia-rogers-trio-12-june"
+    },
+    {
       "source": "redbird",
       "title": "Open Stage",
       "date": "2026-06-10",
@@ -2403,6 +2271,16 @@
       "venue": "Red Bird Live",
       "description": " \n\nRed Bird's Weekly Open Stage is BACK!!\n \nHere is what's continuing:\n\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo",
       "url": "https://www.showpass.com/open-stage-7-26-06-16-20-8007/"
+    },
+    {
+      "source": "redbird",
+      "title": "Hip Hop Jam",
+      "date": "2026-06-18",
+      "rawDate": "2026-06-18",
+      "time": "12:30 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Ottawa’s only Hip Hop Jam session is coming to Red Bird, and will be a strong addition to our monthly music series. \nEvery month:\nWill be featuring a different Emcee that will host the show with our h",
+      "url": "https://www.showpass.com/hip-hop-jam-9/"
     },
     {
       "source": "redbird",
@@ -2466,6 +2344,16 @@
     },
     {
       "source": "redbird",
+      "title": "Hip Hop Jam",
+      "date": "2026-07-16",
+      "rawDate": "2026-07-16",
+      "time": "12:30 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Ottawa’s only Hip Hop Jam session is coming to Red Bird, and will be a strong addition to our monthly music series. \nEvery month:\nWill be featuring a different Emcee that will host the show with our h",
+      "url": "https://www.showpass.com/hip-hop-jam-10/"
+    },
+    {
+      "source": "redbird",
       "title": "Steve Forbert",
       "date": "2026-07-18",
       "rawDate": "2026-07-18",
@@ -2523,6 +2411,16 @@
       "venue": "Red Bird Live",
       "description": "Named after the storied district in Port-of-Spain, Trinidad, where calypso was born, Kobo Town has been described as “an intoxicating blend of lilting calypsonian wit, dancehall reggae and trombone-he",
       "url": "https://www.showpass.com/kobo-town/"
+    },
+    {
+      "source": "redbird",
+      "title": "Hip Hop Jam",
+      "date": "2026-08-20",
+      "rawDate": "2026-08-20",
+      "time": "12:30 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Ottawa’s only Hip Hop Jam session is coming to Red Bird, and will be a strong addition to our monthly music series. \nEvery month:\nWill be featuring a different Emcee that will host the show with our h",
+      "url": "https://www.showpass.com/hip-hop-jam-11/"
     },
     {
       "source": "redbird",
@@ -2633,26 +2531,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "The Electric Co.",
-      "date": "2026-06-06",
-      "rawDate": "Jun 6",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "The Electric Co. Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/the-electric-co"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-06-07",
-      "rawDate": "Jun 7",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-rhe7r"
     },
     {
       "source": "irenes",
@@ -2986,22 +2864,22 @@
     },
     {
       "source": "irenes",
-      "title": "Ethan Mitchell with S/G",
+      "title": "Ethan Mitchell with S/G Mama Mush",
       "date": "2026-07-17",
       "rawDate": "Jul 17",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Ethan Mitchell",
+      "description": "Ethan Mitchell Mama Mush Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/ethan-mitchell-with-sg"
     },
     {
       "source": "irenes",
-      "title": "John Carroll",
+      "title": "John Carroll & the Ionospheric Propagators ft. Philippe Charbonneau, Peter Von Althen, Fred Guignon & Guests",
       "date": "2026-07-18",
       "rawDate": "Jul 18",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "John Carroll",
+      "description": "John Carroll Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/john-carroll"
     },
     {
@@ -3133,6 +3011,26 @@
       "venue": "Irene's Pub",
       "description": "Hunks & Punks Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/hunks-punks"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-06-07",
+      "rawDate": "Jun 7",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-rhe7r"
+    },
+    {
+      "source": "irenes",
+      "title": "The Electric Co.",
+      "date": "2026-06-06",
+      "rawDate": "Jun 6",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Electric Co. Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/the-electric-co"
     },
     {
       "source": "irenes",
@@ -3413,26 +3311,6 @@
       "venue": "Irene's Pub",
       "description": "Don Cummings PWYC",
       "url": "https://irenespub.ca/events/the-don-cummings-organ-trio"
-    },
-    {
-      "source": "irenes",
-      "title": "Mecca of Stank with Special Guests Nitro Turtle",
-      "date": "2026-05-09",
-      "rawDate": "May 9",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Mecca of Stank Nitro Turtle Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/mecca-of-stank-with-special-guests"
-    },
-    {
-      "source": "irenes",
-      "title": "Claude Munson with Special Guests Annie Martel & Julie Stella",
-      "date": "2026-05-08",
-      "rawDate": "May 8",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Claude Munson Annie Martel Julie Stella Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/claude-munson"
     },
     {
       "source": "gladstone",
