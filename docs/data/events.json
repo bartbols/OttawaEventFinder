@@ -1,30 +1,8 @@
 {
-  "scrapedAt": "2026-06-09T09:55:35.755Z",
-  "totalEvents": 753,
+  "scrapedAt": "2026-06-10T10:12:30.634Z",
+  "totalEvents": 751,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Toddler Tuesdays",
-      "subtitle": null,
-      "date": "2026-06-09",
-      "rawDate": "2026-06-09",
-      "time": "10:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40573"
-    },
-    {
-      "source": "nac",
-      "title": "Powwow Life-Drawing",
-      "subtitle": null,
-      "date": "2026-06-09",
-      "rawDate": "2026-06-09",
-      "time": "18:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41352"
-    },
     {
       "source": "nac",
       "title": "Satellite Birdhouse",
@@ -566,7 +544,7 @@
     },
     {
       "source": "nac",
-      "title": "Capital Sessions",
+      "title": "Capital Sessions with DJ Jervy Jerv and Edz Gyamfi",
       "subtitle": null,
       "date": "2026-06-28",
       "rawDate": "2026-06-28",
@@ -875,12 +853,12 @@
     {
       "source": "nac",
       "title": "Resonance: Korean Cultural Centre 10th Anniversary Concert",
-      "subtitle": "Gonia, Dosi and Maria Kim",
+      "subtitle": "Gonia and Maria Kim",
       "date": "2026-07-18",
       "rawDate": "2026-07-18",
       "time": "19:30",
       "venue": "Southam Hall Salle Southam",
-      "description": "Gonia, Dosi and Maria Kim",
+      "description": "Gonia and Maria Kim",
       "url": "https://nac-cna.ca/en/event/41244"
     },
     {
@@ -1214,10 +1192,30 @@
     },
     {
       "source": "jazz",
+      "title": "Angelo Leo & Friends",
+      "date": "2026-06-13",
+      "rawDate": "Sat, Jun 13, 11:00 a.m.",
+      "time": "11:00",
+      "venue": "Ottawa Jazz Festival",
+      "description": null,
+      "url": "https://program.ottawajazzfestival.com/item/34678-Angelo-Leo-Friends"
+    },
+    {
+      "source": "jazz",
+      "title": "Christian Flores Trio",
+      "date": "2026-06-13",
+      "rawDate": "Sat, Jun 13, 12:00 p.m.",
+      "time": "12:00",
+      "venue": "Ottawa Jazz Festival",
+      "description": null,
+      "url": "https://program.ottawajazzfestival.com/item/34679-Christian-Flores-Trio"
+    },
+    {
+      "source": "jazz",
       "title": "Ross Morgan Quartet",
       "date": "2026-06-18",
-      "rawDate": "Thu, Jun 18, 12:30 p.m.",
-      "time": "12:30",
+      "rawDate": "Thu, Jun 18, 12:00 p.m.",
+      "time": "12:00",
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/34483-Ross-Morgan-Quartet"
@@ -1874,23 +1872,23 @@
     },
     {
       "source": "jazz",
-      "title": "Prime Rib Big Band",
+      "title": "The Prime Rib Big Band",
       "date": "2026-06-27",
       "rawDate": "Sat, Jun 27, 2:00 p.m.",
       "time": "14:00",
       "venue": "Ottawa Jazz Festival",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34480-Prime-Rib-Big-Band"
+      "url": "https://program.ottawajazzfestival.com/item/34480-The-Prime-Rib-Big-Band"
     },
     {
       "source": "jazz",
-      "title": "Cuppa Joe Vocal Jazz Quartet",
+      "title": "Cuppa Joe vocal jazz quartet",
       "date": "2026-06-27",
       "rawDate": "Sat, Jun 27, 2:00 p.m.",
       "time": "14:00",
       "venue": "Ottawa Jazz Festival",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34492-Cuppa-Joe-Vocal-Jazz-Quartet"
+      "url": "https://program.ottawajazzfestival.com/item/34492--Cuppa-Joe-vocal-jazz-quartet"
     },
     {
       "source": "jazz",
@@ -2041,26 +2039,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/34388-FASOCANA"
-    },
-    {
-      "source": "gigs",
-      "title": "Rachel Bobbitt, Lia Pappas-Kemps",
-      "date": "2026-06-09",
-      "rawDate": "Tuesday, June 9, 2026",
-      "time": "19:30",
-      "venue": "27 Club",
-      "description": "Genre: Pop",
-      "url": "https://ottawagigs.ca/gig/pop-27-club-rachel-bobbitt-9-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Gilles & The Barnburners",
-      "date": "2026-06-09",
-      "rawDate": "Tuesday, June 9, 2026",
-      "time": "19:30",
-      "venue": "Night Oat",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-night-oat-gilles-the-barnburners-9-june"
     },
     {
       "source": "gigs",
@@ -2233,14 +2211,24 @@
       "url": "https://ottawagigs.ca/gig/folk-red-bird-malia-rogers-trio-12-june"
     },
     {
-      "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-06-10",
-      "rawDate": "2026-06-10",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": " \n\nRed Bird's Weekly Open Stage is BACK!!\n \nHere is what's continuing:\n\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo",
-      "url": "https://www.showpass.com/open-stage-7-26-06-09-20-7319/"
+      "source": "gigs",
+      "title": "Danny Sylvester Duo",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-hard-rock-ottawa-danny-sylvester-12-june"
+    },
+    {
+      "source": "gigs",
+      "title": "HEART EDUCATION TIME. ROOTY NAKY AND THE ROOTABLES + CHAMBERED BY THE GATES. LIVE MUSIC!!",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "19:00",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Reggae",
+      "url": "https://ottawagigs.ca/gig/reggae-avant-garde-bar-rooty-naky-and-the-rootables-12-june"
     },
     {
       "source": "redbird",
@@ -5003,16 +4991,6 @@
       "url": "https://www.ottawapopsorchestra.ca/events/a-knight-at-the-symphony"
     },
     {
-      "source": "orkidstra",
-      "title": "OrKidstra Centre Hub End-of-Year Concert!",
-      "date": "2026-06-09",
-      "rawDate": "June 9",
-      "time": "18:30",
-      "venue": "Orkidstra",
-      "description": null,
-      "url": "https://orkidstra.ca/events/upcoming-events/june-9-orkidstra-centre-hub-end-of-year-concert"
-    },
-    {
       "source": "thirteenstrings",
       "title": "Vivaldi meets Piazzolla",
       "date": "2026-05-13",
@@ -7760,16 +7738,6 @@
     },
     {
       "source": "motelchelsea",
-      "title": "Matthew Barber",
-      "date": "2027-06-05",
-      "rawDate": "JUNE 05",
-      "time": "20:00",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/friday-june-5-matthew-barber-8-00pm"
-    },
-    {
-      "source": "motelchelsea",
       "title": "Rebekah Hawker & Claire Hunter",
       "date": "2026-06-14",
       "rawDate": "JUNE 14",
@@ -7777,6 +7745,16 @@
       "venue": "Motel Chelsea",
       "description": null,
       "url": "https://www.motelchelsea.com/post/sunday-june-14-rebekah-hawker-claire-hunter-4-30pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "Jim Bryson",
+      "date": "2026-06-19",
+      "rawDate": "JUNE 19",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/friday-june-19-jim-bryson-8-00pm"
     }
   ]
 }
