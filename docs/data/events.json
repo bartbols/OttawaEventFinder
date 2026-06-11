@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-06-10T10:12:30.634Z",
-  "totalEvents": 751,
+  "scrapedAt": "2026-06-11T10:46:40.713Z",
+  "totalEvents": 752,
   "errors": [],
   "events": [
     {
@@ -566,6 +566,17 @@
     },
     {
       "source": "nac",
+      "title": "Shelley, Ehnes, Altstaedt",
+      "subtitle": "Clara, Robert, Johannes: Coda",
+      "date": "2026-07-02",
+      "rawDate": "2026-07-02",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Clara, Robert, Johannes: Coda",
+      "url": "https://nac-cna.ca/en/event/38433"
+    },
+    {
+      "source": "nac",
       "title": "Miguel de Armas",
       "subtitle": "The Feeling of Free",
       "date": "2026-07-04",
@@ -810,8 +821,8 @@
       "source": "nac",
       "title": "Dance at Zibi – K-pop with Synaptik Dance Crew",
       "subtitle": "The Best of BTS",
-      "date": "2026-07-16",
-      "rawDate": "2026-07-16",
+      "date": "2026-07-23",
+      "rawDate": "2026-07-23",
       "time": "19:00",
       "venue": "Head Street Square – Zibi Head Street Square – Zibi",
       "description": "The Best of BTS",
@@ -853,12 +864,12 @@
     {
       "source": "nac",
       "title": "Resonance: Korean Cultural Centre 10th Anniversary Concert",
-      "subtitle": "Gonia and Maria Kim",
+      "subtitle": "Dosi and Maria Kim",
       "date": "2026-07-18",
       "rawDate": "2026-07-18",
       "time": "19:30",
       "venue": "Southam Hall Salle Southam",
-      "description": "Gonia and Maria Kim",
+      "description": "Dosi and Maria Kim",
       "url": "https://nac-cna.ca/en/event/41244"
     },
     {
@@ -1183,7 +1194,7 @@
     {
       "source": "jazz",
       "title": "The Commotions",
-      "date": "2026-06-10",
+      "date": "2027-06-10",
       "rawDate": "Wed, Jun 10, 7:00 p.m.",
       "time": "19:00",
       "venue": "Ottawa Jazz Festival",
@@ -2042,66 +2053,6 @@
     },
     {
       "source": "gigs",
-      "title": "Dave Plays Elton!",
-      "date": "2026-06-10",
-      "rawDate": "Wednesday, June 10, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Tribute/Covers",
-      "url": "https://ottawagigs.ca/gig/cover-tribute-bar-robo-dave-draves-10-june"
-    },
-    {
-      "source": "gigs",
-      "title": "KING FALCON (NYC Rock) + Sun Dried Flies + Four Eyed Muscle Man",
-      "date": "2026-06-10",
-      "rawDate": "Wednesday, June 10, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-house-of-targ-king-falcon-10-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Les Carapaces au Minotaure",
-      "date": "2026-06-10",
-      "rawDate": "Wednesday, June 10, 2026",
-      "time": "20:00",
-      "venue": "Minotaure",
-      "description": "Genre: Tribute/Covers",
-      "url": "https://ottawagigs.ca/gig/cover-tribute-minotaure-les-carapaces-10-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Hercules live at the Avant Garde",
-      "date": "2026-06-10",
-      "rawDate": "Wednesday, June 10, 2026",
-      "time": "20:00",
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-avant-garde-bar-hercules-10-june"
-    },
-    {
-      "source": "gigs",
-      "title": "DEATHHAWK SESSIONS (GOTH ROCK)",
-      "date": "2026-06-10",
-      "rawDate": "Wednesday, June 10, 2026",
-      "time": "20:00",
-      "venue": "Dominion Tavern",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-dominion-tavern-deathhawk-sessions-goth-rock--10-june"
-    },
-    {
-      "source": "gigs",
-      "title": "The John Carroll Show",
-      "date": "2026-06-10",
-      "rawDate": "Wednesday, June 10, 2026",
-      "time": "20:00",
-      "venue": "The Laff",
-      "description": "Genre: Blues",
-      "url": "https://ottawagigs.ca/gig/blues-the-laff-john-carroll-10-june"
-    },
-    {
-      "source": "gigs",
       "title": "JTLAG Live Show at Avant-Garde",
       "date": "2026-06-11",
       "rawDate": "Thursday, June 11, 2026",
@@ -2229,6 +2180,76 @@
       "venue": "Avant-Garde Bar",
       "description": "Genre: Reggae",
       "url": "https://ottawagigs.ca/gig/reggae-avant-garde-bar-rooty-naky-and-the-rootables-12-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Peter Hum Quartet",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-peter-hum-12-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Noah Gundersen: Intimate Solo Performance of New Music",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "19:30",
+      "venue": "27 Club",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-27-club-noah-gundersen-12-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Adam McClellan Trio",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "19:30",
+      "venue": "Night Oat",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-night-oat-adam-mcclellan-trio-12-june"
+    },
+    {
+      "source": "gigs",
+      "title": "CLAY HAZEY at The Black Sheep Inn",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "20:00",
+      "venue": "The Black Sheep Inn",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-black-sheep-inn-clay-hazey-12-june"
+    },
+    {
+      "source": "gigs",
+      "title": "YASSIN & Sean Terrio",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "20:00",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Hip Hop",
+      "url": "https://ottawagigs.ca/gig/hip-hop-rainbow-bistro-yassin-sean-terrio-12-june"
+    },
+    {
+      "source": "gigs",
+      "title": "80s DANCE PARTY w DJ Remi Royale + One Vision (80s Pop Hitz Live)",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Pop",
+      "url": "https://ottawagigs.ca/gig/pop-house-of-targ-one-vision-12-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Swamp City Stompers",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "20:00",
+      "venue": "Kaffe 1870",
+      "description": "Genre: Blues",
+      "url": "https://ottawagigs.ca/gig/blues-kaffe-1870-swamp-city-stompers-12-june"
     },
     {
       "source": "redbird",
@@ -2519,16 +2540,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-06-09",
-      "rawDate": "Jun 9",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-j886x"
     },
     {
       "source": "irenes",
@@ -2922,12 +2933,12 @@
     },
     {
       "source": "irenes",
-      "title": "The Lochmasters with S/G Washboard Hank",
+      "title": "The Lockmasters with S/G Washboard Hank",
       "date": "2026-07-25",
       "rawDate": "Jul 25",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Lochmasters Washboard Hank",
+      "description": "The Lockmasters Washboard Hank Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-lochmasters-with-sg-washboard-hank"
     },
     {
@@ -2999,6 +3010,16 @@
       "venue": "Irene's Pub",
       "description": "Hunks & Punks Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/hunks-punks"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-06-09",
+      "rawDate": "Jun 9",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-j886x"
     },
     {
       "source": "irenes",
@@ -3289,16 +3310,6 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-py2wx"
-    },
-    {
-      "source": "irenes",
-      "title": "The Don Cummings Organ Trio - Matinée",
-      "date": "2026-05-10",
-      "rawDate": "May 10",
-      "time": "15:00",
-      "venue": "Irene's Pub",
-      "description": "Don Cummings PWYC",
-      "url": "https://irenespub.ca/events/the-don-cummings-organ-trio"
     },
     {
       "source": "gladstone",
