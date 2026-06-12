@@ -1,30 +1,8 @@
 {
-  "scrapedAt": "2026-06-11T10:46:40.713Z",
+  "scrapedAt": "2026-06-12T10:23:22.656Z",
   "totalEvents": 752,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Satellite Birdhouse",
-      "subtitle": "Jukebox Lunch Concerts",
-      "date": "2026-06-11",
-      "rawDate": "2026-06-11",
-      "time": "12:10",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "Jukebox Lunch Concerts",
-      "url": "https://nac-cna.ca/en/event/41095"
-    },
-    {
-      "source": "nac",
-      "title": "GANNA",
-      "subtitle": "with DIVKA",
-      "date": "2026-06-11",
-      "rawDate": "2026-06-11",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "with DIVKA",
-      "url": "https://nac-cna.ca/en/event/40597"
-    },
     {
       "source": "nac",
       "title": "Josh Johnson's Comedy Band Camp",
@@ -819,17 +797,6 @@
     },
     {
       "source": "nac",
-      "title": "Dance at Zibi – K-pop with Synaptik Dance Crew",
-      "subtitle": "The Best of BTS",
-      "date": "2026-07-23",
-      "rawDate": "2026-07-23",
-      "time": "19:00",
-      "venue": "Head Street Square – Zibi Head Street Square – Zibi",
-      "description": "The Best of BTS",
-      "url": "https://nac-cna.ca/en/event/41083"
-    },
-    {
-      "source": "nac",
       "title": "Yeison Landero with special guest Lady La Profeta",
       "subtitle": "Axé Summer WorldFest",
       "date": "2026-07-16",
@@ -948,6 +915,17 @@
       "venue": "Atrium O’Brien Atrium O’Brien",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/40945"
+    },
+    {
+      "source": "nac",
+      "title": "Dance at Zibi – K-pop with Synaptik Dance Crew",
+      "subtitle": "The Best of BTS",
+      "date": "2026-07-23",
+      "rawDate": "2026-07-23",
+      "time": "19:00",
+      "venue": "Head Street Square – Zibi Head Street Square – Zibi",
+      "description": "The Best of BTS",
+      "url": "https://nac-cna.ca/en/event/41083"
     },
     {
       "source": "nac",
@@ -1190,6 +1168,61 @@
       "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
       "description": "The Feeling of Free",
       "url": "https://nac-cna.ca/en/event/41085"
+    },
+    {
+      "source": "nac",
+      "title": "Grace Petrie",
+      "subtitle": null,
+      "date": "2026-08-11",
+      "rawDate": "2026-08-11",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40950"
+    },
+    {
+      "source": "nac",
+      "title": "Grace Petrie",
+      "subtitle": null,
+      "date": "2026-08-12",
+      "rawDate": "2026-08-12",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40950"
+    },
+    {
+      "source": "nac",
+      "title": "Turkwaz & Medusa",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-11",
+      "rawDate": "2026-08-11",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40970"
+    },
+    {
+      "source": "nac",
+      "title": "Turkwaz & Medusa",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-12",
+      "rawDate": "2026-08-12",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40970"
+    },
+    {
+      "source": "nac",
+      "title": "Turkwaz & Medusa",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-13",
+      "rawDate": "2026-08-13",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40970"
     },
     {
       "source": "jazz",
@@ -2053,96 +2086,6 @@
     },
     {
       "source": "gigs",
-      "title": "JTLAG Live Show at Avant-Garde",
-      "date": "2026-06-11",
-      "rawDate": "Thursday, June 11, 2026",
-      "time": "00:00",
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-avant-garde-bar-jtlag-11-june"
-    },
-    {
-      "source": "gigs",
-      "title": "August John + Sun Dried Flies",
-      "date": "2026-06-11",
-      "rawDate": "Thursday, June 11, 2026",
-      "time": "19:00",
-      "venue": "Club SAW",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-club-saw-august-john-11-june"
-    },
-    {
-      "source": "gigs",
-      "title": "James Leclaire with Kennedy Leclaire",
-      "date": "2026-06-11",
-      "rawDate": "Thursday, June 11, 2026",
-      "time": "19:00",
-      "venue": "Red Bird",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-red-bird-james-leclaire-11-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Art of the Duo",
-      "date": "2026-06-11",
-      "rawDate": "Thursday, June 11, 2026",
-      "time": "19:30",
-      "venue": "GigSpace",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-gigspace-tim-bedner-11-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Nate & The Busy Boys (Fredericton) + Andy & The Danny’s (Montreal) + The Berns (Ottawa) + Jackrabbits (Ottawa)",
-      "date": "2026-06-11",
-      "rawDate": "Thursday, June 11, 2026",
-      "time": "19:30",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-rainbow-bistro-nate-the-busy-boys-11-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Chris & Kat feat Tessa Duc",
-      "date": "2026-06-11",
-      "rawDate": "Thursday, June 11, 2026",
-      "time": "19:30",
-      "venue": "Night Oat",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-night-oat-chris-kat-feat-tessa-duc-11-june"
-    },
-    {
-      "source": "gigs",
-      "title": "GANNA: with DIVKA",
-      "date": "2026-06-11",
-      "rawDate": "Thursday, June 11, 2026",
-      "time": "20:00",
-      "venue": "National Arts Centre",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-national-arts-centre-ganna-11-june"
-    },
-    {
-      "source": "gigs",
-      "title": "The Flex (Leeds, UK Hardcore Punk) + Stigmatism (NYC/MTL) + Zeal + Trenchcoat (MTL) + Koffin Byrth",
-      "date": "2026-06-11",
-      "rawDate": "Thursday, June 11, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/gig/punk-house-of-targ-the-flex-11-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Dan Bern + Orit Shimoni",
-      "date": "2026-06-11",
-      "rawDate": "Thursday, June 11, 2026",
-      "time": "20:00",
-      "venue": "Kaffe 1870",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-kaffe-1870-dan-bern-orit-shimoni-11-june"
-    },
-    {
-      "source": "gigs",
       "title": "Psykkore x Club Mustang: Giddy-Up",
       "date": "2026-06-12",
       "rawDate": "Friday, June 12, 2026",
@@ -2252,14 +2195,74 @@
       "url": "https://ottawagigs.ca/gig/blues-kaffe-1870-swamp-city-stompers-12-june"
     },
     {
-      "source": "redbird",
-      "title": "James Leclaire with Kennedy Leclaire",
+      "source": "gigs",
+      "title": "tin constellations + Quiet Skies",
       "date": "2026-06-12",
-      "rawDate": "2026-06-12",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "JAMES LECLAIRE\nJames Leclaire is a Canadian based singersongwriter who mixes folk, rock, classic country, roots, and blues to conjure up his own unique style of storytelling. Although his music often ",
-      "url": "https://www.showpass.com/james-lecalaire-with-kennedy-leclaire/"
+      "rawDate": "Friday, June 12, 2026",
+      "time": "21:00",
+      "venue": "Art House Cafe",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-art-house-cafe-tin-constellations-13-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Boy Band Story",
+      "date": "2026-06-12",
+      "rawDate": "Friday, June 12, 2026",
+      "time": "21:30",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Pop",
+      "url": "https://ottawagigs.ca/gig/pop-hard-rock-ottawa-boy-band-story-12-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Pique #20",
+      "date": "2026-06-13",
+      "rawDate": "Saturday, June 13, 2026",
+      "time": "16:00",
+      "venue": "Club SAW",
+      "description": "Genre: Hip Hop",
+      "url": "https://ottawagigs.ca/gig/hip-hop-club-saw-backxwash-13-june"
+    },
+    {
+      "source": "gigs",
+      "title": "The Fab Four: The Ultimate Tribute",
+      "date": "2026-06-13",
+      "rawDate": "Saturday, June 13, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/gig/cover-tribute-hard-rock-ottawa-the-fab-four-13-june"
+    },
+    {
+      "source": "gigs",
+      "title": "The Space Between + Feura (TO)  + Four Eyed Muscle Man",
+      "date": "2026-06-13",
+      "rawDate": "Saturday, June 13, 2026",
+      "time": "19:00",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Alternative",
+      "url": "https://ottawagigs.ca/gig/alternative-rainbow-bistro-the-space-between-13-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Ottawa Chamber Orchestra",
+      "date": "2026-06-13",
+      "rawDate": "Saturday, June 13, 2026",
+      "time": "19:00",
+      "venue": "Other",
+      "description": "Genre: Classical",
+      "url": "https://ottawagigs.ca/gig/classical-dominion-chalmers-2026-06-13"
+    },
+    {
+      "source": "gigs",
+      "title": "Jayla Kirkey Duo",
+      "date": "2026-06-13",
+      "rawDate": "Saturday, June 13, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-hard-rock-ottawa-jayla-kirkey-duo-13-june"
     },
     {
       "source": "redbird",
@@ -2540,16 +2543,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "Jazz Jam with The Beeched Wailers",
-      "date": "2026-06-10",
-      "rawDate": "Jun 10",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "The Beeched Wailers",
-      "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-4-k3rxc-hl7z9-gy4j9-6gbnl-2rams-l5rsw-nfe4m"
     },
     {
       "source": "irenes",
@@ -2863,7 +2856,7 @@
     },
     {
       "source": "irenes",
-      "title": "Ethan Mitchell with S/G Mama Mush",
+      "title": "Ethan Mitchell’s Love Triangle with S/G Mama Mush",
       "date": "2026-07-17",
       "rawDate": "Jul 17",
       "time": "21:00",
@@ -3010,6 +3003,16 @@
       "venue": "Irene's Pub",
       "description": "Hunks & Punks Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/hunks-punks"
+    },
+    {
+      "source": "irenes",
+      "title": "Jazz Jam with The Beeched Wailers",
+      "date": "2026-06-10",
+      "rawDate": "Jun 10",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "The Beeched Wailers",
+      "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-4-k3rxc-hl7z9-gy4j9-6gbnl-2rams-l5rsw-nfe4m"
     },
     {
       "source": "irenes",
@@ -3300,16 +3303,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-g9kx3"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-05-10",
-      "rawDate": "May 10",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-py2wx"
     },
     {
       "source": "gladstone",
@@ -6749,13 +6742,23 @@
     },
     {
       "source": "bronson",
-      "title": "Bob The Drag Queen",
+      "title": "Bob The Drag Queen – Early Show",
       "date": "2026-10-16",
       "rawDate": "Friday, Oct 16, Doors: 6pm",
       "time": "18:00",
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/now-clap-bob-the-drag-queens-on-tour/"
+    },
+    {
+      "source": "bronson",
+      "title": "Bob The Drag Queen – Late Show added !",
+      "date": "2026-10-16",
+      "rawDate": "Friday, Oct 16, Doors: 9pm",
+      "time": "21:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/bob-the-drag-queen-late-show-added/"
     },
     {
       "source": "bronson",
