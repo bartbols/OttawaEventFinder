@@ -1,19 +1,8 @@
 {
-  "scrapedAt": "2026-06-13T09:25:38.126Z",
-  "totalEvents": 751,
+  "scrapedAt": "2026-06-14T09:44:40.305Z",
+  "totalEvents": 756,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Eadsé",
-      "subtitle": null,
-      "date": "2026-06-13",
-      "rawDate": "2026-06-13",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40824"
-    },
     {
       "source": "nac",
       "title": "The Great Rhythmobile Adventure",
@@ -467,17 +456,6 @@
     },
     {
       "source": "nac",
-      "title": "St. Vincent & the National Arts Centre Orchestra",
-      "subtitle": null,
-      "date": "2026-06-27",
-      "rawDate": "2026-06-27",
-      "time": "20:30",
-      "venue": "Confederation Park Parc de la Confédération",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40666"
-    },
-    {
-      "source": "nac",
       "title": "Daniel Tosh",
       "subtitle": "My First Farewell Tour",
       "date": "2026-06-27",
@@ -497,6 +475,17 @@
       "venue": "Azrieli Studio Studio Azrieli",
       "description": null,
       "url": "https://nac-cna.ca/en/event/40345"
+    },
+    {
+      "source": "nac",
+      "title": "St. Vincent & the National Arts Centre Orchestra",
+      "subtitle": null,
+      "date": "2026-06-27",
+      "rawDate": "2026-06-27",
+      "time": "20:30",
+      "venue": "Confederation Park Parc de la Confédération",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40666"
     },
     {
       "source": "nac",
@@ -530,6 +519,17 @@
       "venue": "Canal Lobby Stage Scène du Foyer du canal",
       "description": "with Amanda Fox",
       "url": "https://nac-cna.ca/en/event/41134"
+    },
+    {
+      "source": "nac",
+      "title": "Canada Day Concert 2026",
+      "subtitle": "with the NAC Orchestra and special guests",
+      "date": "2026-07-01",
+      "rawDate": "2026-07-01",
+      "time": "14:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra and special guests",
+      "url": "https://nac-cna.ca/en/event/41620"
     },
     {
       "source": "nac",
@@ -1214,6 +1214,28 @@
       "url": "https://nac-cna.ca/en/event/40975"
     },
     {
+      "source": "nac",
+      "title": "Medusa Quartet",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-13",
+      "rawDate": "2026-08-13",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40974"
+    },
+    {
+      "source": "nac",
+      "title": "Bonnie Raitt",
+      "subtitle": "Live 2026 with Special Guest Maia Sharp",
+      "date": "2026-08-13",
+      "rawDate": "2026-08-13",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Live 2026 with Special Guest Maia Sharp",
+      "url": "https://nac-cna.ca/en/event/40331"
+    },
+    {
       "source": "jazz",
       "title": "The Commotions",
       "date": "2027-06-10",
@@ -1226,7 +1248,7 @@
     {
       "source": "jazz",
       "title": "Angelo Leo & Friends",
-      "date": "2026-06-13",
+      "date": "2027-06-13",
       "rawDate": "Sat, Jun 13, 11:00 a.m.",
       "time": "11:00",
       "venue": "Ottawa Jazz Festival",
@@ -1236,7 +1258,7 @@
     {
       "source": "jazz",
       "title": "Christian Flores Trio",
-      "date": "2026-06-13",
+      "date": "2027-06-13",
       "rawDate": "Sat, Jun 13, 12:00 p.m.",
       "time": "12:00",
       "venue": "Ottawa Jazz Festival",
@@ -1715,6 +1737,16 @@
     },
     {
       "source": "jazz",
+      "title": "Kellylee Story & Song Series",
+      "date": "2026-06-25",
+      "rawDate": "Thu, Jun 25, 4:00 p.m.",
+      "time": "16:00",
+      "venue": "Ottawa Jazz Festival",
+      "description": null,
+      "url": "https://program.ottawajazzfestival.com/item/34737-Kellylee-Story-Song-Series"
+    },
+    {
+      "source": "jazz",
       "title": "Karen Rauh & Rob Martin",
       "date": "2026-06-25",
       "rawDate": "Thu, Jun 25, 4:30 p.m.",
@@ -1822,6 +1854,16 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/34501-Garry-Elliott-Trio"
+    },
+    {
+      "source": "jazz",
+      "title": "Kellylee Story & Song Series",
+      "date": "2026-06-26",
+      "rawDate": "Fri, Jun 26, 4:00 p.m.",
+      "time": "16:00",
+      "venue": "Ottawa Jazz Festival",
+      "description": null,
+      "url": "https://program.ottawajazzfestival.com/item/34738-Kellylee-Story-Song-Series"
     },
     {
       "source": "jazz",
@@ -1935,6 +1977,16 @@
     },
     {
       "source": "jazz",
+      "title": "Kellylee Story & Song Series",
+      "date": "2026-06-27",
+      "rawDate": "Sat, Jun 27, 5:15 p.m.",
+      "time": "17:15",
+      "venue": "Ottawa Jazz Festival",
+      "description": null,
+      "url": "https://program.ottawajazzfestival.com/item/34739-Kellylee-Story-Song-Series"
+    },
+    {
+      "source": "jazz",
       "title": "Flore Laurentienne",
       "date": "2026-06-27",
       "rawDate": "Sat, Jun 27, 6:30 p.m.",
@@ -2025,6 +2077,16 @@
     },
     {
       "source": "jazz",
+      "title": "Kellylee Story & Song Series",
+      "date": "2026-06-28",
+      "rawDate": "Sun, Jun 28, 5:15 p.m.",
+      "time": "17:15",
+      "venue": "Ottawa Jazz Festival",
+      "description": null,
+      "url": "https://program.ottawajazzfestival.com/item/34740-Kellylee-Story-Song-Series"
+    },
+    {
+      "source": "jazz",
       "title": "Jazz Youth Summit",
       "date": "2026-06-28",
       "rawDate": "Sun, Jun 28, 6:30 p.m.",
@@ -2095,183 +2157,193 @@
     },
     {
       "source": "gigs",
-      "title": "Pique #20",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "16:00",
-      "venue": "Club SAW",
-      "description": "Genre: Hip Hop",
-      "url": "https://ottawagigs.ca/gig/hip-hop-club-saw-backxwash-13-june"
+      "title": "High Fidelity: All Vinyl Day Party No. 7",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, June 14, 2026",
+      "time": "14:00",
+      "venue": "Fono",
+      "description": "Genre: Dance Party",
+      "url": "https://ottawagigs.ca/gig/dance-party-fono-14-june"
     },
     {
       "source": "gigs",
-      "title": "The Fab Four: The Ultimate Tribute",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "19:00",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Tribute/Covers",
-      "url": "https://ottawagigs.ca/gig/cover-tribute-hard-rock-ottawa-the-fab-four-13-june"
+      "title": "The Convertibles - Matinée",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, June 14, 2026",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-irenes-the-convertibles-14-june"
     },
     {
       "source": "gigs",
-      "title": "The Space Between + Feura (TO)  + Four Eyed Muscle Man",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "19:00",
-      "venue": "Rainbow Bistro",
+      "title": "Kent - Sonic Waves Album Release Show with Asia Ruby",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, June 14, 2026",
+      "time": "18:00",
+      "venue": "Art House Cafe",
       "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-rainbow-bistro-the-space-between-13-june"
+      "url": "https://ottawagigs.ca/gig/alternative-art-house-cafe-kent-14-june"
     },
     {
       "source": "gigs",
-      "title": "Ottawa Chamber Orchestra",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "19:00",
-      "venue": "Other",
-      "description": "Genre: Classical",
-      "url": "https://ottawagigs.ca/gig/classical-dominion-chalmers-2026-06-13"
+      "title": "Hammond B3 Blues night with Don Washinton and Jamie Holmes",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, June 14, 2026",
+      "time": "18:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Blues",
+      "url": "https://ottawagigs.ca/gig/blues-bar-robo-don-washington-and-jamie-holmes-14-june"
     },
     {
       "source": "gigs",
-      "title": "Jayla Kirkey Duo",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
+      "title": "Anna Ludlow",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, June 14, 2026",
       "time": "19:00",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "venue": "Ottawa Tennis Club",
+      "description": "Genre: Celtic",
+      "url": "https://ottawagigs.ca/gig/celtic-ottawa-tennis-club-176-cameron-ave-0ttawa-26-06-14"
+    },
+    {
+      "source": "gigs",
+      "title": "Goodbye Yellow Brick Road: an Elton John Night",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, June 14, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/gig/cover-tribute-bar-robo-peter-von-althen-14-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Tim Hicks - Going Somewhere Tour 2026",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, June 14, 2026",
+      "time": "19:00",
+      "venue": "Bronson Centre",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-bronson-centre-tim-hicks-14-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Orlando Trip - Performing Arts Concert by Fox On Ice",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, June 14, 2026",
+      "time": "19:00",
+      "venue": "Club SAW",
+      "description": "Genre: Experimental",
+      "url": "https://ottawagigs.ca/gig/experimental-club-saw-fox-on-ice-14-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Rebekah Hawker + Claire Hunter @ Motel Chelsea!",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, June 14, 2026",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
       "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-hard-rock-ottawa-jayla-kirkey-duo-13-june"
+      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-rebekah-hawker-14-june"
     },
     {
       "source": "gigs",
-      "title": "Disco Inferno Live at Overflow Brewing Co.",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
+      "title": "The Sunday Night Revue",
+      "date": "2026-06-14",
+      "rawDate": "Sunday, June 14, 2026",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-irenes-the-sunday-night-revue-14-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Great Scott - AC/DC Tribute",
+      "date": "2026-06-15",
+      "rawDate": "Monday, June 15, 2026",
       "time": "19:00",
       "venue": "Overflow Brewing",
-      "description": "Genre: Funk",
-      "url": "https://ottawagigs.ca/gig/funk-overflow-brewing-disco-inferno-13-june"
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/gig/cover-tribute-overflow-brewing-great-scott-15-june"
     },
     {
       "source": "gigs",
-      "title": "Saturday AI Club",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "19:00",
-      "venue": "Art House Cafe",
-      "description": "Genre: Electronic",
-      "url": "https://ottawagigs.ca/gig/electronic-art-house-cafe-saturday-ai-club-13-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Skylar Radmore Duo with Adam Traversy",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "19:00",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-hard-rock-ottawa-skylar-radmore-duo-13-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Hey and Away We Ride",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
+      "title": "Nicholas Bellerose",
+      "date": "2026-06-16",
+      "rawDate": "Tuesday, June 16, 2026",
       "time": "19:30",
-      "venue": "Other",
+      "venue": "Night Oat",
       "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-calvin-christian-reformed-church-2026-06-13"
+      "url": "https://ottawagigs.ca/gig/folk-night-oat-nicholas-bellerose-16-june"
     },
     {
       "source": "gigs",
-      "title": "Ottawa Jazz Quintet",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
+      "title": "THE LOCKMASTERS (COUNTRY / BLUEGRASS)",
+      "date": "2026-06-17",
+      "rawDate": "Wednesday, June 17, 2026",
+      "time": "17:00",
+      "venue": "Dominion Tavern",
+      "description": "Genre: Bluegrass",
+      "url": "https://ottawagigs.ca/gig/bluegrass-dominion-tavern-the-lockmasters-country-bluegrass--17-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Standing Wave happy hour free show!",
+      "date": "2026-06-17",
+      "rawDate": "Wednesday, June 17, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-standing-wave-happy-hour-jazz-quartet-17-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Gizmo",
+      "date": "2026-06-17",
+      "rawDate": "Wednesday, June 17, 2026",
+      "time": "19:30",
+      "venue": "Club SAW",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-club-saw-gizmo-17-june-d4b11"
+    },
+    {
+      "source": "gigs",
+      "title": "Jazz Jam - Led by The Peter Hum Trio",
+      "date": "2026-06-17",
+      "rawDate": "Wednesday, June 17, 2026",
       "time": "19:30",
       "venue": "Night Oat",
       "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-night-oat-ottawa-jazz-quintet-13-june"
+      "url": "https://ottawagigs.ca/gig/jazz-night-oat-jazz-jam-led-by-the-peter-hum-trio-17-june"
     },
     {
       "source": "gigs",
-      "title": "JOE GASPAR ALL-STARS at The Black Sheep Inn",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
+      "title": "Shelley, Grimaud & Gershwin & Stravinsky's The Firebird",
+      "date": "2026-06-17",
+      "rawDate": "Wednesday, June 17, 2026",
       "time": "20:00",
-      "venue": "The Black Sheep Inn",
-      "description": "Genre: Blues",
-      "url": "https://ottawagigs.ca/gig/blues-black-sheep-inn-joe-gaspar-all-stars-13-june"
+      "venue": "National Arts Centre",
+      "description": "Genre: Classical",
+      "url": "https://ottawagigs.ca/gig/classical-national-arts-centre-h-l-ne-grimaud-17-june"
     },
     {
       "source": "gigs",
-      "title": "Chiron Promotions Presents: Midnight Crawl",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
+      "title": "Sir Kingfish + Paradise Sprites + Stendhal Syndrome",
+      "date": "2026-06-17",
+      "rawDate": "Wednesday, June 17, 2026",
       "time": "20:00",
       "venue": "LIVE! on Elgin",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-live-on-elgin-midnight-crawl-13-june"
+      "description": "Genre: Alternative",
+      "url": "https://ottawagigs.ca/gig/alternative-live-on-elgin-sir-kingfish-17-june"
     },
     {
       "source": "gigs",
-      "title": "TARG Dance X-Tendamix - 2000s Summer Jamz",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
+      "title": "*ALBUM LAUNCH* Friendly Frogs Freak Show (Mtl Funk) + more tba",
+      "date": "2026-06-17",
+      "rawDate": "Wednesday, June 17, 2026",
       "time": "20:00",
       "venue": "House of Targ",
-      "description": "Genre: Hip Hop",
-      "url": "https://ottawagigs.ca/gig/hip-hop-house-of-targ-targ-dance-mix-djs-phuzz-miami-13-june"
-    },
-    {
-      "source": "gigs",
-      "title": "PRISONER (CALGARY HEAVY METAL)",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "20:00",
-      "venue": "Dominion Tavern",
-      "description": "Genre: Metal",
-      "url": "https://ottawagigs.ca/gig/metal-dominion-tavern-prisoner-calgary-heavy-metal--13-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Mecca of Stank",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "20:00",
-      "venue": "Kaffe 1870",
       "description": "Genre: Funk",
-      "url": "https://ottawagigs.ca/gig/funk-kaffe-1870-mecca-of-stank-13-june"
-    },
-    {
-      "source": "gigs",
-      "title": "The Burningtree, Synchronicity, Father Before Me and Sir Kingfish!",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "20:30",
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-avant-garde-bar-the-burningtree-13-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Funk Yo Self",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Genre: Funk",
-      "url": "https://ottawagigs.ca/gig/funk-irenes-funk-yo-self-13-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Kestrel Blue + Blonde Roast",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, June 13, 2026",
-      "time": "21:00",
-      "venue": "Art House Cafe",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-art-house-cafe-kestrel-blue-14-june"
+      "url": "https://ottawagigs.ca/gig/funk-house-of-targ-friendly-frogs-freak-show-17-june"
     },
     {
       "source": "redbird",
@@ -2542,16 +2614,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host John Sobel",
-      "date": "2026-06-11",
-      "rawDate": "Jun 11",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-xfkdc"
     },
     {
       "source": "irenes",
@@ -3005,6 +3067,16 @@
     },
     {
       "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host John Sobel",
+      "date": "2026-06-11",
+      "rawDate": "Jun 11",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-xfkdc"
+    },
+    {
+      "source": "irenes",
       "title": "Jazz Jam with The Beeched Wailers",
       "date": "2026-06-10",
       "rawDate": "Jun 10",
@@ -3292,126 +3364,6 @@
       "venue": "Irene's Pub",
       "description": "The Beeched Wailers",
       "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-4-k3rxc-hl7z9-gy4j9-6gbnl-2rams-l5rsw"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-05-12",
-      "rawDate": "May 12",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-g9kx3"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-03",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-04",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-05",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-06",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-07",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-08",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-09",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-10",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-11",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-12",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
-    },
-    {
-      "source": "gladstone",
-      "title": "ONCE",
-      "date": "2026-06-13",
-      "rawDate": "Jun 3, 2026",
-      "time": "07:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Elevator Theatre Company",
-      "url": "https://thegladstone.ca/shows/once/"
     },
     {
       "source": "gladstone",
@@ -4964,6 +4916,106 @@
       "url": "https://thegladstone.ca/shows/red/"
     },
     {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-06",
+      "rawDate": "May 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-07",
+      "rawDate": "May 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-08",
+      "rawDate": "May 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-09",
+      "rawDate": "May 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-10",
+      "rawDate": "May 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-11",
+      "rawDate": "May 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-12",
+      "rawDate": "May 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-13",
+      "rawDate": "May 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-14",
+      "rawDate": "May 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-15",
+      "rawDate": "May 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
       "source": "gctc",
       "title": "Hugh-kulele: Unhinged",
       "date": "2026-06-01",
@@ -4982,6 +5034,16 @@
       "venue": "GCTC",
       "description": " Hanji(韓紙)   A Thousand Years of Korean Paper Art - Hanji Meets Canada ",
       "url": "https://www.gctc.ca/events/hanji-exhibit"
+    },
+    {
+      "source": "gctc",
+      "title": "Jagged Little Pill (Tototoo Theatre)",
+      "date": "2026-09-24",
+      "rawDate": "2026-09-24",
+      "time": "19:30",
+      "venue": "GCTC",
+      "description": "  TotoToo Theatre is proud to present Jagged Little Pill, the electrifying Tony Award-winning musical inspired by the groundbreaking music of Alanis Morissette.  ",
+      "url": "https://www.gctc.ca/events/jagged-little-pill"
     },
     {
       "source": "ottawapops",
@@ -6508,16 +6570,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "OTTAWA GOES LATIN",
-      "date": "2026-06-13",
-      "rawDate": "Saturday, Jun 13, Doors: 9pm",
-      "time": "21:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/ottawa-goes-latin/"
     },
     {
       "source": "bronson",
