@@ -1,41 +1,8 @@
 {
-  "scrapedAt": "2026-06-19T10:47:01.207Z",
-  "totalEvents": 561,
+  "scrapedAt": "2026-06-20T09:27:06.187Z",
+  "totalEvents": 543,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "GeminiCrab: Malika Tirolien & Caulder Nash",
-      "subtitle": null,
-      "date": "2026-06-19",
-      "rawDate": "2026-06-19",
-      "time": "18:30",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40661"
-    },
-    {
-      "source": "nac",
-      "title": "Becca Stevens Trio",
-      "subtitle": null,
-      "date": "2026-06-19",
-      "rawDate": "2026-06-19",
-      "time": "19:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41115"
-    },
-    {
-      "source": "nac",
-      "title": "Takuya Kuroda",
-      "subtitle": null,
-      "date": "2026-06-19",
-      "rawDate": "2026-06-19",
-      "time": "21:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41118"
-    },
     {
       "source": "nac",
       "title": "Joe Farnsworth's Big Room Quartet",
@@ -1225,164 +1192,15 @@
       "url": "https://nac-cna.ca/en/event/41301"
     },
     {
-      "source": "jazz",
-      "title": "Ross Morgan Quartet",
-      "date": "2027-06-18",
-      "rawDate": "Thu, Jun 18, 12:00 p.m.",
+      "source": "nac",
+      "title": "La Famille Leblanc",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-19",
+      "rawDate": "2026-08-19",
       "time": "12:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34483-Ross-Morgan-Quartet"
-    },
-    {
-      "source": "jazz",
-      "title": "BLAKDENIM",
-      "date": "2027-06-18",
-      "rawDate": "Thu, Jun 18, 6:30 p.m.",
-      "time": "18:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/32684-BLAKDENIM"
-    },
-    {
-      "source": "jazz",
-      "title": "646yf4t",
-      "date": "2027-06-18",
-      "rawDate": "Thu, Jun 18, 7:30 p.m.",
-      "time": "19:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/32713-646yf4t"
-    },
-    {
-      "source": "jazz",
-      "title": "Wyclef Jean",
-      "date": "2027-06-18",
-      "rawDate": "Thu, Jun 18, 8:30 p.m.",
-      "time": "20:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/32714-Wyclef-Jean"
-    },
-    {
-      "source": "jazz",
-      "title": "TOBi",
-      "date": "2027-06-18",
-      "rawDate": "Thu, Jun 18, 10:30 p.m.",
-      "time": "22:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/32715-TOBi"
-    },
-    {
-      "source": "jazz",
-      "title": "Finely Tuned Elephant",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 12:00 p.m.",
-      "time": "12:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34460-Finely-Tuned-Elephant"
-    },
-    {
-      "source": "jazz",
-      "title": "Capital City Stompers",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 3:00 p.m.",
-      "time": "15:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34484-Capital-City-Stompers"
-    },
-    {
-      "source": "jazz",
-      "title": "Deniz Lim-Sersan",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 4:30 p.m.",
-      "time": "16:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34494-Deniz-Lim-Sersan"
-    },
-    {
-      "source": "jazz",
-      "title": "GeminiCrab : Malika Tirolien & Caulder Nash",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 6:30 p.m.",
-      "time": "18:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/30054-GeminiCrab-Malika-Tirolien-Caulder-Nash"
-    },
-    {
-      "source": "jazz",
-      "title": "Angelique Francis Band",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 6:30 p.m.",
-      "time": "18:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/30061-Angelique-Francis-Band"
-    },
-    {
-      "source": "jazz",
-      "title": "Becca Stevens Trio",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 7:00 p.m.",
-      "time": "19:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/30294-Becca-Stevens-Trio"
-    },
-    {
-      "source": "jazz",
-      "title": "Big Smoke Brass",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 7:30 p.m.",
-      "time": "19:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/30298-Big-Smoke-Brass"
-    },
-    {
-      "source": "jazz",
-      "title": "BADBADNOTGOOD",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 8:30 p.m.",
-      "time": "20:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/30293-BADBADNOTGOOD"
-    },
-    {
-      "source": "jazz",
-      "title": "Takuya Kuroda",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 9:00 p.m.",
-      "time": "21:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/30296-Takuya-Kuroda"
-    },
-    {
-      "source": "jazz",
-      "title": "Larnell Lewis Band ft. Joy Lapps",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 10:30 p.m.",
-      "time": "22:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/29934-Larnell-Lewis-Band-ft-Joy-Lapps"
-    },
-    {
-      "source": "jazz",
-      "title": "Late Night Jamming - feat. John Geggie, Roddy Ellias & Nick Fraser",
-      "date": "2026-06-19",
-      "rawDate": "Fri, Jun 19, 10:30 p.m.",
-      "time": "22:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34736-Late-Night-Jamming-feat-John-Geggie-Roddy-Ellias-Nick-Fraser"
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41300"
     },
     {
       "source": "jazz",
@@ -2216,176 +2034,6 @@
     },
     {
       "source": "gigs",
-      "title": "Jim Bryson LIVE @ Motel Chelsea!",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "00:00",
-      "venue": "Motel Chelsea",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-jim-bryson-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "A Night Of Alleged Noise Crimes",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "00:00",
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-avant-garde-bar-heavy-lies-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Free Happy Hour with Jessy Lindsay!",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "17:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-jessy-lindsay-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Cloud City in concert",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "17:01",
-      "venue": "Other",
-      "description": "Genre: Funk",
-      "url": "https://ottawagigs.ca/gig/funk-stray-dog-brewing-co-2026-06-19"
-    },
-    {
-      "source": "gigs",
-      "title": "JESSI CRUICKSHANK DJ's: EVENING CLUB – A Dance Party",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "18:00",
-      "venue": "Bronson Centre",
-      "description": "Genre: Dance Party",
-      "url": "https://ottawagigs.ca/gig/dance-party-bronson-centre-jessi-cruickshank-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Daniela Andrade - Oda Tour",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "19:00",
-      "venue": "27 Club",
-      "description": "Genre: Pop",
-      "url": "https://ottawagigs.ca/gig/pop-27-club-daniela-andrade-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Double Impact Robert Clarot and Alex",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "19:00",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Tribute/Covers",
-      "url": "https://ottawagigs.ca/gig/cover-tribute-hard-rock-ottawa-robert-clarot-and-alex-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Silvergun Supermen & Even Flow - Co-Headlining LIVE at Overflow",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "19:00",
-      "venue": "Overflow Brewing",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-overflow-brewing-silvergun-supermen-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Cedars & Sounds",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "19:30",
-      "venue": "Other",
-      "description": "Genre: Indie",
-      "url": "https://ottawagigs.ca/gig/indie-ottawa-bike-cafe-2026-06-19"
-    },
-    {
-      "source": "gigs",
-      "title": "Alex Mundy + Friday's Child: Through the Looking Glass",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "20:00",
-      "venue": "The Black Sheep Inn",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-black-sheep-inn-alex-mundy-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "DARK THOUGHTS (Philadelphia Punk) + Crisis Party + Ciggie & The Darts + Neck + Big Now",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/gig/punk-house-of-targ-dark-thoughts-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "LindsayLou & Danielle Hewitt",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "20:00",
-      "venue": "Night Oat",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-night-oat-lindsaylou-danielle-hewitt-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "THE DISCONNECT (EMOCORE)",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "20:00",
-      "venue": "Dominion Tavern",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/gig/punk-dominion-tavern-the-disconnect-emocore--19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Kick Me Records Presents: The Desert Island Big Band & The Mirage, Unsociably High, and Asher Darling & The Tactics",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "21:00",
-      "venue": "LIVE! on Elgin",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-live-on-elgin-the-desert-island-big-band-the-mirage-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "b-r-i-d-g-e: an evening of tap dance and jazz music",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "21:00",
-      "venue": "Art House Cafe",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-art-house-cafe-b-r-i-d-g-e-20-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Fireball",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "21:30",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-fireball-19-june"
-    },
-    {
-      "source": "gigs",
-      "title": "SOLSTICE",
-      "date": "2026-06-19",
-      "rawDate": "Friday, June 19, 2026",
-      "time": "22:00",
-      "venue": "City at Night",
-      "description": "Genre: Electronic",
-      "url": "https://ottawagigs.ca/gig/electronic-city-at-night-no-info-19-june"
-    },
-    {
-      "source": "gigs",
       "title": "CKCU Live Broadcast: Canadian Spaces & The Back 40",
       "date": "2026-06-20",
       "rawDate": "Saturday, June 20, 2026",
@@ -2413,6 +2061,186 @@
       "venue": "Bronson Centre",
       "description": "Genre: Indie",
       "url": "https://ottawagigs.ca/gig/indie-bronson-centre-wintersleep-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Bailey Zimmerman: Different Night Same Rodeo Tour 2026",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "19:00",
+      "venue": "Canadian Tire Centre",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-canadian-tire-centre-bailey-zimmerman-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Riebl, Tedesco, McGill",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "19:00",
+      "venue": "Red Bird",
+      "description": "Genre: Flamenco",
+      "url": "https://ottawagigs.ca/gig/flamenco-red-bird-riebl-tedesco-mcgill-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Soulthief et invités au Minotaure",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "19:00",
+      "venue": "Minotaure",
+      "description": "Genre: Metal",
+      "url": "https://ottawagigs.ca/gig/metal-minotaure-soulthief-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Katie and Konah",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Pop",
+      "url": "https://ottawagigs.ca/gig/pop-hard-rock-ottawa-katie-and-konah-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Harmonic Generation presents \"Kaleidoscope of Voices\"!",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "19:30",
+      "venue": "Other",
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/gig/tribute-covers-other-calvin-christian-reformed-church-1475-merivale-rd-ottawa-2026-06-20"
+    },
+    {
+      "source": "gigs",
+      "title": "Folk Songs, and the Ninety-Five Moons of Jupiter Album Launch Show",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "19:30",
+      "venue": "Fono",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-fono-erik-and-kyle-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Songs in Bloom: An Acoustic Evening with Pat Rees",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "19:30",
+      "venue": "Night Oat",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-night-oat-songs-in-bloom-an-acoustic-evening-with-pat-rees-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "THEREMIN MAN + WaxMannequin + more",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Electronic",
+      "url": "https://ottawagigs.ca/gig/electronic-house-of-targ-theremin-man-20-june-8fc91"
+    },
+    {
+      "source": "gigs",
+      "title": "STEPHEN HAMM THEREMIN MAN + The Flaps + Wax Mannequin + Paraphonique",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Alternative",
+      "url": "https://ottawagigs.ca/gig/alternative-house-of-targ-stephen-hamm-theremin-man-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "PANDAMONIUM EVENT (TBA)",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "20:00",
+      "venue": "Dominion Tavern",
+      "description": "Genre: Alternative",
+      "url": "https://ottawagigs.ca/gig/alternative-dominion-tavern-pandamonium-event-tba--20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Sto Union: Shockadelica",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "20:00",
+      "venue": "Kaffe 1870",
+      "description": "Genre: Storytelling",
+      "url": "https://ottawagigs.ca/gig/storytelling-kaffe-1870-sto-union-shockadelica-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "DISCO INFERNO BAND at The Black Sheep Inn",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "20:30",
+      "venue": "The Black Sheep Inn",
+      "description": "Genre: Funk",
+      "url": "https://ottawagigs.ca/gig/funk-black-sheep-inn-disco-inferno-band-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Les Ismore/ Fantomfez/ Chaös/ Afraid of Grace/ Live at Avant Garde",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "20:30",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-avant-garde-bar-les-ismore-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "WolfGANG Sessions #29",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "21:00",
+      "venue": "National Arts Centre",
+      "description": "Genre: Classical",
+      "url": "https://ottawagigs.ca/gig/classical-national-arts-centre-sean-rice-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Solstice Hip Hop Showcase",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "21:00",
+      "venue": "LIVE! on Elgin",
+      "description": "Genre: Hip Hop",
+      "url": "https://ottawagigs.ca/gig/hip-hop-live-on-elgin-thelonious-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Orchids with Special Guests",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-irenes-orchids-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Liam Simpson-Russell, Avalon Tassonyi & Isaac Baronikian",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-irenes-liam-simpson-russell-20-june"
+    },
+    {
+      "source": "gigs",
+      "title": "CKCU Presents: Matt Gower - Vacated Shapes Album Release Show",
+      "date": "2026-06-20",
+      "rawDate": "Saturday, June 20, 2026",
+      "time": "21:00",
+      "venue": "Art House Cafe",
+      "description": "Genre: Experimental",
+      "url": "https://ottawagigs.ca/gig/experimental-art-house-cafe-matt-gower-21-june"
     },
     {
       "source": "redbird",
@@ -2706,16 +2534,6 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host KJ Thomas",
-      "date": "2026-06-18",
-      "rawDate": "Jun 18",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-xwprh"
-    },
-    {
-      "source": "irenes",
       "title": "Morgan Davis",
       "date": "2026-06-19",
       "rawDate": "Jun 19",
@@ -2732,7 +2550,7 @@
       "time": "21:00",
       "venue": "Irene's Pub",
       "description": "Liam Simpson-Russell Avalon Tassonyi Joe Ray McDonald Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/liam-simpson-russell-avalon-tassonyi-isaac-baronikian"
+      "url": "https://irenespub.ca/events/liam-simpson-russell-avalon-tassonyi-joe-ray-mcdonald"
     },
     {
       "source": "irenes",
@@ -3096,6 +2914,16 @@
     },
     {
       "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host KJ Thomas",
+      "date": "2026-06-18",
+      "rawDate": "Jun 18",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-xwprh"
+    },
+    {
+      "source": "irenes",
       "title": "Fruit Cake - A Gay Ass Variety Show",
       "date": "2026-06-17",
       "rawDate": "Jun 17",
@@ -3383,16 +3211,6 @@
       "venue": "Irene's Pub",
       "description": null,
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-gxfzw"
-    },
-    {
-      "source": "irenes",
-      "title": "Girls+ to the Front with Host  Kristine St. Pierre and S/G Krista Hartman & Loch Nisse Monster",
-      "date": "2026-05-20",
-      "rawDate": "May 20",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "PWYC Kristine St. Pierre Krista Hartmen Loch Nisse Monster Girls+ To The Front w/ host Kristine St-Pierre feat. Loch Nisse Monster and Krista HartmanLoch Nisse Monster...From the swamps of a 70’s-them",
-      "url": "https://irenespub.ca/events/girls-to-the-front-2"
     },
     {
       "source": "gctc",
@@ -4952,16 +4770,6 @@
     },
     {
       "source": "bronson",
-      "title": "JESSI CRUICKSHANK DJ’s: EVENING CLUB – A Dance Party",
-      "date": "2026-06-19",
-      "rawDate": "Friday, Jun 19, Doors: 6pm",
-      "time": "18:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/jessi-cruickshank-djs-evening-club-a-dance-party/"
-    },
-    {
-      "source": "bronson",
       "title": "Wintersleep",
       "date": "2026-06-20",
       "rawDate": "Saturday, Jun 20, Doors: 7pm",
@@ -5853,12 +5661,22 @@
     {
       "source": "motelchelsea",
       "title": "Jim Bryson",
-      "date": "2026-06-19",
+      "date": "2027-06-19",
       "rawDate": "JUNE 19",
       "time": "20:00",
       "venue": "Motel Chelsea",
       "description": null,
       "url": "https://www.motelchelsea.com/post/friday-june-19-jim-bryson-8-00pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "Bob Wiseman",
+      "date": "2026-06-26",
+      "rawDate": "JUNE 26",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/friday-june-26-bob-wiseman-8-00pm"
     }
   ]
 }
