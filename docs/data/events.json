@@ -1,27 +1,1162 @@
 {
-  "scrapedAt": "2026-06-22T12:13:05.783Z",
-  "totalEvents": 618,
+  "scrapedAt": "2026-06-23T09:52:13.412Z",
+  "totalEvents": 735,
   "errors": [],
   "events": [
     {
-      "source": "jazz",
-      "title": "Houseplants",
-      "date": "2026-06-22",
-      "rawDate": "Mon, Jun 22, 12:00 p.m.",
-      "time": "12:00",
-      "venue": "Ottawa Jazz Festival",
+      "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-06-23",
+      "rawDate": "2026-06-23",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34487-Houseplants"
+      "url": "https://nac-cna.ca/en/event/40575"
     },
     {
-      "source": "jazz",
-      "title": "Late Night Jamming - feat. John Geggie, Roddy Ellias & Nick Fraser",
-      "date": "2026-06-22",
-      "rawDate": "Mon, Jun 22, 10:30 p.m.",
-      "time": "22:30",
-      "venue": "Ottawa Jazz Festival",
+      "source": "nac",
+      "title": "Charley Rose Trio",
+      "subtitle": null,
+      "date": "2026-06-24",
+      "rawDate": "2026-06-24",
+      "time": "18:30",
+      "venue": "Fourth Stage Quatrième Salle",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34757-Late-Night-Jamming-feat-John-Geggie-Roddy-Ellias-Nick-Fraser"
+      "url": "https://nac-cna.ca/en/event/40352"
+    },
+    {
+      "source": "nac",
+      "title": "Orrin Evans Trio",
+      "subtitle": null,
+      "date": "2026-06-24",
+      "rawDate": "2026-06-24",
+      "time": "19:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40659"
+    },
+    {
+      "source": "nac",
+      "title": "Shelley Conducts Mahler’s “Resurrection”",
+      "subtitle": "with the NAC Orchestra",
+      "date": "2026-06-24",
+      "rawDate": "2026-06-24",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/38419"
+    },
+    {
+      "source": "nac",
+      "title": "Shelley Conducts Mahler’s “Resurrection”",
+      "subtitle": "with the NAC Orchestra",
+      "date": "2026-06-25",
+      "rawDate": "2026-06-25",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/38419"
+    },
+    {
+      "source": "nac",
+      "title": "Stéphane Wrembel",
+      "subtitle": null,
+      "date": "2026-06-24",
+      "rawDate": "2026-06-24",
+      "time": "21:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40348"
+    },
+    {
+      "source": "nac",
+      "title": "J3M",
+      "subtitle": "Jukebox Lunch Concerts",
+      "date": "2026-06-25",
+      "rawDate": "2026-06-25",
+      "time": "12:10",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "Jukebox Lunch Concerts",
+      "url": "https://nac-cna.ca/en/event/41096"
+    },
+    {
+      "source": "nac",
+      "title": "Kellylee Story & Song Series: Bobby Previte",
+      "subtitle": null,
+      "date": "2026-06-25",
+      "rawDate": "2026-06-25",
+      "time": "16:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41754"
+    },
+    {
+      "source": "nac",
+      "title": "Brittany Davis & Black Thunder",
+      "subtitle": null,
+      "date": "2026-06-25",
+      "rawDate": "2026-06-25",
+      "time": "18:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40658"
+    },
+    {
+      "source": "nac",
+      "title": "Avishai Cohen Big Vicious",
+      "subtitle": null,
+      "date": "2026-06-25",
+      "rawDate": "2026-06-25",
+      "time": "19:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40347"
+    },
+    {
+      "source": "nac",
+      "title": "Shelley Conducts Mahler’s “Resurrection”",
+      "subtitle": "Free livestream with the NAC Orchestra",
+      "date": "2026-06-25",
+      "rawDate": "2026-06-25",
+      "time": "20:00",
+      "venue": "Online En ligne",
+      "description": "Free livestream with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/41724"
+    },
+    {
+      "source": "nac",
+      "title": "Norma Winstone with the Atlantic Jazz Collective",
+      "subtitle": null,
+      "date": "2026-06-25",
+      "rawDate": "2026-06-25",
+      "time": "21:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40346"
+    },
+    {
+      "source": "nac",
+      "title": "Kellylee Story & Song Series: Myra Melford",
+      "subtitle": null,
+      "date": "2026-06-26",
+      "rawDate": "2026-06-26",
+      "time": "16:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41755"
+    },
+    {
+      "source": "nac",
+      "title": "daltonists",
+      "subtitle": null,
+      "date": "2026-06-26",
+      "rawDate": "2026-06-26",
+      "time": "18:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40354"
+    },
+    {
+      "source": "nac",
+      "title": "Bobby Previte's Pocket Orchestra",
+      "subtitle": null,
+      "date": "2026-06-26",
+      "rawDate": "2026-06-26",
+      "time": "19:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40657"
+    },
+    {
+      "source": "nac",
+      "title": "Max Richter",
+      "subtitle": "with American Contemporary Music Ensemble",
+      "date": "2026-06-26",
+      "rawDate": "2026-06-26",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with American Contemporary Music Ensemble",
+      "url": "https://nac-cna.ca/en/event/40676"
+    },
+    {
+      "source": "nac",
+      "title": "Tomoki Sanders",
+      "subtitle": null,
+      "date": "2026-06-26",
+      "rawDate": "2026-06-26",
+      "time": "21:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41120"
+    },
+    {
+      "source": "nac",
+      "title": "Kellylee Story & Song Series: SALIN",
+      "subtitle": null,
+      "date": "2026-06-27",
+      "rawDate": "2026-06-27",
+      "time": "17:15",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41756"
+    },
+    {
+      "source": "nac",
+      "title": "Flore Laurentienne",
+      "subtitle": null,
+      "date": "2026-06-27",
+      "rawDate": "2026-06-27",
+      "time": "18:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40343"
+    },
+    {
+      "source": "nac",
+      "title": "Daniel Tosh",
+      "subtitle": "My First Farewell Tour",
+      "date": "2026-06-27",
+      "rawDate": "2026-06-27",
+      "time": "19:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "My First Farewell Tour",
+      "url": "https://nac-cna.ca/en/event/40057"
+    },
+    {
+      "source": "nac",
+      "title": "Myra Melford’s Fire & Water Quintet",
+      "subtitle": null,
+      "date": "2026-06-27",
+      "rawDate": "2026-06-27",
+      "time": "19:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40345"
+    },
+    {
+      "source": "nac",
+      "title": "St. Vincent & the NAC Orchestra",
+      "subtitle": null,
+      "date": "2026-06-27",
+      "rawDate": "2026-06-27",
+      "time": "20:30",
+      "venue": "Confederation Park Parc de la Confédération",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40666"
+    },
+    {
+      "source": "nac",
+      "title": "The Ostara Project",
+      "subtitle": null,
+      "date": "2026-06-27",
+      "rawDate": "2026-06-27",
+      "time": "21:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40351"
+    },
+    {
+      "source": "nac",
+      "title": "Capital Sessions with DJ Jervy Jerv and Edz Gyamfi",
+      "subtitle": null,
+      "date": "2026-06-28",
+      "rawDate": "2026-06-28",
+      "time": "13:30",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40578"
+    },
+    {
+      "source": "nac",
+      "title": "Kellylee Story & Song Series: Jodi Proznick of Ostara Project",
+      "subtitle": null,
+      "date": "2026-06-28",
+      "rawDate": "2026-06-28",
+      "time": "17:15",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41757"
+    },
+    {
+      "source": "nac",
+      "title": "Powwow Workout",
+      "subtitle": "with Amanda Fox",
+      "date": "2026-06-29",
+      "rawDate": "2026-06-29",
+      "time": "12:00",
+      "venue": "Canal Lobby Stage Scène du Foyer du canal",
+      "description": "with Amanda Fox",
+      "url": "https://nac-cna.ca/en/event/41134"
+    },
+    {
+      "source": "nac",
+      "title": "Canada Day Concert 2026",
+      "subtitle": "with the NAC Orchestra and special guests",
+      "date": "2026-07-01",
+      "rawDate": "2026-07-01",
+      "time": "14:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra and special guests",
+      "url": "https://nac-cna.ca/en/event/41620"
+    },
+    {
+      "source": "nac",
+      "title": "Miguel de Armas",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-04",
+      "rawDate": "2026-07-04",
+      "time": "16:30",
+      "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40976"
+    },
+    {
+      "source": "nac",
+      "title": "The Collected Strands: Room for Wonder",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-07",
+      "rawDate": "2026-07-07",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41088"
+    },
+    {
+      "source": "nac",
+      "title": "Les souvenirs du sable",
+      "subtitle": "Quand la tempête est fabuleuse",
+      "date": "2026-07-07",
+      "rawDate": "2026-07-07",
+      "time": "14:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Quand la tempête est fabuleuse",
+      "url": "https://nac-cna.ca/en/event/40969"
+    },
+    {
+      "source": "nac",
+      "title": "Les souvenirs du sable",
+      "subtitle": "Quand la tempête est fabuleuse",
+      "date": "2026-07-08",
+      "rawDate": "2026-07-08",
+      "time": "14:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Quand la tempête est fabuleuse",
+      "url": "https://nac-cna.ca/en/event/40969"
+    },
+    {
+      "source": "nac",
+      "title": "Les souvenirs du sable",
+      "subtitle": "Quand la tempête est fabuleuse",
+      "date": "2026-07-09",
+      "rawDate": "2026-07-09",
+      "time": "14:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Quand la tempête est fabuleuse",
+      "url": "https://nac-cna.ca/en/event/40969"
+    },
+    {
+      "source": "nac",
+      "title": "Les souvenirs du sable",
+      "subtitle": "Quand la tempête est fabuleuse",
+      "date": "2026-07-10",
+      "rawDate": "2026-07-10",
+      "time": "14:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Quand la tempête est fabuleuse",
+      "url": "https://nac-cna.ca/en/event/40969"
+    },
+    {
+      "source": "nac",
+      "title": "Les souvenirs du sable",
+      "subtitle": "Quand la tempête est fabuleuse",
+      "date": "2026-07-11",
+      "rawDate": "2026-07-11",
+      "time": "14:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Quand la tempête est fabuleuse",
+      "url": "https://nac-cna.ca/en/event/40969"
+    },
+    {
+      "source": "nac",
+      "title": "KILLABEATMAKER",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-07",
+      "rawDate": "2026-07-07",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40964"
+    },
+    {
+      "source": "nac",
+      "title": "KILLABEATMAKER",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-08",
+      "rawDate": "2026-07-08",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40964"
+    },
+    {
+      "source": "nac",
+      "title": "KILLABEATMAKER",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-09",
+      "rawDate": "2026-07-09",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40964"
+    },
+    {
+      "source": "nac",
+      "title": "KILLABEATMAKER",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-08",
+      "rawDate": "2026-07-08",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40965"
+    },
+    {
+      "source": "nac",
+      "title": "Disney's Pirates of the Caribbean: The Curse of the Black Pearl, Live in Concert",
+      "subtitle": "with the NAC Orchestra",
+      "date": "2026-07-09",
+      "rawDate": "2026-07-09",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/38422"
+    },
+    {
+      "source": "nac",
+      "title": "Disney's Pirates of the Caribbean: The Curse of the Black Pearl, Live in Concert",
+      "subtitle": "with the NAC Orchestra",
+      "date": "2026-07-10",
+      "rawDate": "2026-07-10",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/38422"
+    },
+    {
+      "source": "nac",
+      "title": "Disney's Pirates of the Caribbean: The Curse of the Black Pearl, Live in Concert",
+      "subtitle": "with the NAC Orchestra",
+      "date": "2026-07-11",
+      "rawDate": "2026-07-11",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/38422"
+    },
+    {
+      "source": "nac",
+      "title": "Theatre Games with Chancz Perry",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-11",
+      "rawDate": "2026-07-11",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40951"
+    },
+    {
+      "source": "nac",
+      "title": "OK Naledi",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-11",
+      "rawDate": "2026-07-11",
+      "time": "16:30",
+      "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41304"
+    },
+    {
+      "source": "nac",
+      "title": "Postcards from Paris: Music from the Belle Époque",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-14",
+      "rawDate": "2026-07-14",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41386"
+    },
+    {
+      "source": "nac",
+      "title": "Rum Ragged",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-14",
+      "rawDate": "2026-07-14",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40948"
+    },
+    {
+      "source": "nac",
+      "title": "Rum Ragged",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-15",
+      "rawDate": "2026-07-15",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40948"
+    },
+    {
+      "source": "nac",
+      "title": "Benin International Musical",
+      "subtitle": "The Power of Vodoun at the Heart of Modern Music",
+      "date": "2026-07-14",
+      "rawDate": "2026-07-14",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "The Power of Vodoun at the Heart of Modern Music",
+      "url": "https://nac-cna.ca/en/event/41226"
+    },
+    {
+      "source": "nac",
+      "title": "Rum Ragged",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-15",
+      "rawDate": "2026-07-15",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40947"
+    },
+    {
+      "source": "nac",
+      "title": "Puuluup",
+      "subtitle": null,
+      "date": "2026-07-15",
+      "rawDate": "2026-07-15",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41309"
+    },
+    {
+      "source": "nac",
+      "title": "Yeison Landero with Special Guests Afrosound and Lady La Profeta",
+      "subtitle": "Axé Summer WorldFest",
+      "date": "2026-07-16",
+      "rawDate": "2026-07-16",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "Axé Summer WorldFest",
+      "url": "https://nac-cna.ca/en/event/41521"
+    },
+    {
+      "source": "nac",
+      "title": "Dystoh featuring Guiss Guiss Bou Bess",
+      "subtitle": "Axé Summer WorldFest",
+      "date": "2026-07-17",
+      "rawDate": "2026-07-17",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Axé Summer WorldFest",
+      "url": "https://nac-cna.ca/en/event/41519"
+    },
+    {
+      "source": "nac",
+      "title": "Primary Colours",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-18",
+      "rawDate": "2026-07-18",
+      "time": "16:30",
+      "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40967"
+    },
+    {
+      "source": "nac",
+      "title": "Resonance: Korean Cultural Centre 10th Anniversary Concert",
+      "subtitle": "Dosi and Maria Kim",
+      "date": "2026-07-18",
+      "rawDate": "2026-07-18",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Dosi and Maria Kim",
+      "url": "https://nac-cna.ca/en/event/41244"
+    },
+    {
+      "source": "nac",
+      "title": "JØY Brandt featuring Suraras Do Tapajós",
+      "subtitle": "Axé Summer WorldFest",
+      "date": "2026-07-18",
+      "rawDate": "2026-07-18",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Axé Summer WorldFest",
+      "url": "https://nac-cna.ca/en/event/41522"
+    },
+    {
+      "source": "nac",
+      "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop in Halifax",
+      "subtitle": "with Mary Ellen MacLean",
+      "date": "2026-07-20",
+      "rawDate": "2026-07-20",
+      "time": "10:00",
+      "venue": "Universalist Unitarian Community of Halifax Communauté unitarienne universaliste d'Halifax",
+      "description": "with Mary Ellen MacLean",
+      "url": "https://nac-cna.ca/en/event/41696"
+    },
+    {
+      "source": "nac",
+      "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop in Halifax",
+      "subtitle": "with Mary Ellen MacLean",
+      "date": "2026-07-21",
+      "rawDate": "2026-07-21",
+      "time": "10:00",
+      "venue": "Universalist Unitarian Community of Halifax Communauté unitarienne universaliste d'Halifax",
+      "description": "with Mary Ellen MacLean",
+      "url": "https://nac-cna.ca/en/event/41696"
+    },
+    {
+      "source": "nac",
+      "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop in Halifax",
+      "subtitle": "with Mary Ellen MacLean",
+      "date": "2026-07-22",
+      "rawDate": "2026-07-22",
+      "time": "10:00",
+      "venue": "Universalist Unitarian Community of Halifax Communauté unitarienne universaliste d'Halifax",
+      "description": "with Mary Ellen MacLean",
+      "url": "https://nac-cna.ca/en/event/41696"
+    },
+    {
+      "source": "nac",
+      "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop in Halifax",
+      "subtitle": "with Mary Ellen MacLean",
+      "date": "2026-07-23",
+      "rawDate": "2026-07-23",
+      "time": "10:00",
+      "venue": "Universalist Unitarian Community of Halifax Communauté unitarienne universaliste d'Halifax",
+      "description": "with Mary Ellen MacLean",
+      "url": "https://nac-cna.ca/en/event/41696"
+    },
+    {
+      "source": "nac",
+      "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop in Halifax",
+      "subtitle": "with Mary Ellen MacLean",
+      "date": "2026-07-24",
+      "rawDate": "2026-07-24",
+      "time": "10:00",
+      "venue": "Universalist Unitarian Community of Halifax Communauté unitarienne universaliste d'Halifax",
+      "description": "with Mary Ellen MacLean",
+      "url": "https://nac-cna.ca/en/event/41696"
+    },
+    {
+      "source": "nac",
+      "title": "Brìghde Chaimbeul",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-21",
+      "rawDate": "2026-07-21",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40949"
+    },
+    {
+      "source": "nac",
+      "title": "Flávia Nascimento and Tio Chorinho",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-21",
+      "rawDate": "2026-07-21",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40946"
+    },
+    {
+      "source": "nac",
+      "title": "Flávia Nascimento and Tio Chorinho",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-22",
+      "rawDate": "2026-07-22",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40946"
+    },
+    {
+      "source": "nac",
+      "title": "Flávia Nascimento and Tio Chorinho",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-23",
+      "rawDate": "2026-07-23",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40946"
+    },
+    {
+      "source": "nac",
+      "title": "Brìghde Chaimbeul",
+      "subtitle": "A master of the Scottish smallpipes",
+      "date": "2026-07-21",
+      "rawDate": "2026-07-21",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "A master of the Scottish smallpipes",
+      "url": "https://nac-cna.ca/en/event/40977"
+    },
+    {
+      "source": "nac",
+      "title": "Flávia Nascimento and Tio Chorinho",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-22",
+      "rawDate": "2026-07-22",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40945"
+    },
+    {
+      "source": "nac",
+      "title": "Dance at Zibi – K-pop with Synaptik Dance Crew",
+      "subtitle": "The Best of BTS",
+      "date": "2026-07-23",
+      "rawDate": "2026-07-23",
+      "time": "19:00",
+      "venue": "Head Street Square – Zibi Head Street Square – Zibi",
+      "description": "The Best of BTS",
+      "url": "https://nac-cna.ca/en/event/41083"
+    },
+    {
+      "source": "nac",
+      "title": "La Pambelé",
+      "subtitle": "A new approach to old-school salsa",
+      "date": "2026-07-23",
+      "rawDate": "2026-07-23",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "A new approach to old-school salsa",
+      "url": "https://nac-cna.ca/en/event/41186"
+    },
+    {
+      "source": "nac",
+      "title": "Miguel de Armas",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-25",
+      "rawDate": "2026-07-25",
+      "time": "16:30",
+      "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41086"
+    },
+    {
+      "source": "nac",
+      "title": "Chamberfest’s Bring the Kids!",
+      "subtitle": "Beth Silver & Jenna Richards",
+      "date": "2026-07-27",
+      "rawDate": "2026-07-27",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "Beth Silver & Jenna Richards",
+      "url": "https://nac-cna.ca/en/event/41289"
+    },
+    {
+      "source": "nac",
+      "title": "The Oxbow Trio",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-28",
+      "rawDate": "2026-07-28",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41290"
+    },
+    {
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-07-28",
+      "rawDate": "2026-07-28",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
+    },
+    {
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-07-29",
+      "rawDate": "2026-07-29",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
+    },
+    {
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-07-30",
+      "rawDate": "2026-07-30",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
+    },
+    {
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-07-31",
+      "rawDate": "2026-07-31",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
+    },
+    {
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-08-01",
+      "rawDate": "2026-08-01",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
+    },
+    {
+      "source": "nac",
+      "title": "Mamma Mia!",
+      "subtitle": null,
+      "date": "2026-08-02",
+      "rawDate": "2026-08-02",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/38564"
+    },
+    {
+      "source": "nac",
+      "title": "Sechile Sedare",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-28",
+      "rawDate": "2026-07-28",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40972"
+    },
+    {
+      "source": "nac",
+      "title": "Sechile Sedare",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-29",
+      "rawDate": "2026-07-29",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40972"
+    },
+    {
+      "source": "nac",
+      "title": "Sechile Sedare",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-30",
+      "rawDate": "2026-07-30",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40972"
+    },
+    {
+      "source": "nac",
+      "title": "Kimmortal",
+      "subtitle": null,
+      "date": "2026-07-28",
+      "rawDate": "2026-07-28",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41358"
+    },
+    {
+      "source": "nac",
+      "title": "Sechile Sedare",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-07-29",
+      "rawDate": "2026-07-29",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40973"
+    },
+    {
+      "source": "nac",
+      "title": "Miguel de Armas",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-04",
+      "rawDate": "2026-08-04",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40966"
+    },
+    {
+      "source": "nac",
+      "title": "Empanadas Ilegales",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-04",
+      "rawDate": "2026-08-04",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40944"
+    },
+    {
+      "source": "nac",
+      "title": "Empanadas Ilegales",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-05",
+      "rawDate": "2026-08-05",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40944"
+    },
+    {
+      "source": "nac",
+      "title": "Empanadas Ilegales",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-06",
+      "rawDate": "2026-08-06",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40944"
+    },
+    {
+      "source": "nac",
+      "title": "Empanadas Ilegales",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-05",
+      "rawDate": "2026-08-05",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40943"
+    },
+    {
+      "source": "nac",
+      "title": "Golden Girls",
+      "subtitle": "The Laughs Continue",
+      "date": "2026-08-07",
+      "rawDate": "2026-08-07",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "The Laughs Continue",
+      "url": "https://nac-cna.ca/en/event/40537"
+    },
+    {
+      "source": "nac",
+      "title": "Primary Colours",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-08",
+      "rawDate": "2026-08-08",
+      "time": "16:30",
+      "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41085"
+    },
+    {
+      "source": "nac",
+      "title": "Grace Petrie",
+      "subtitle": null,
+      "date": "2026-08-11",
+      "rawDate": "2026-08-11",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40950"
+    },
+    {
+      "source": "nac",
+      "title": "Grace Petrie",
+      "subtitle": null,
+      "date": "2026-08-12",
+      "rawDate": "2026-08-12",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40950"
+    },
+    {
+      "source": "nac",
+      "title": "Turkwaz & Medusa",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-11",
+      "rawDate": "2026-08-11",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40970"
+    },
+    {
+      "source": "nac",
+      "title": "Turkwaz & Medusa",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-12",
+      "rawDate": "2026-08-12",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40970"
+    },
+    {
+      "source": "nac",
+      "title": "Turkwaz & Medusa",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-13",
+      "rawDate": "2026-08-13",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40970"
+    },
+    {
+      "source": "nac",
+      "title": "Turkwaz",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-12",
+      "rawDate": "2026-08-12",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40975"
+    },
+    {
+      "source": "nac",
+      "title": "Medusa Quartet",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-13",
+      "rawDate": "2026-08-13",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40974"
+    },
+    {
+      "source": "nac",
+      "title": "Bonnie Raitt",
+      "subtitle": "Live 2026 with Special Guest Maia Sharp",
+      "date": "2026-08-13",
+      "rawDate": "2026-08-13",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Live 2026 with Special Guest Maia Sharp",
+      "url": "https://nac-cna.ca/en/event/40331"
+    },
+    {
+      "source": "nac",
+      "title": "Roxanne Goodman",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-15",
+      "rawDate": "2026-08-15",
+      "time": "16:30",
+      "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40968"
+    },
+    {
+      "source": "nac",
+      "title": "La Famille Leblanc",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-18",
+      "rawDate": "2026-08-18",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41301"
+    },
+    {
+      "source": "nac",
+      "title": "La Famille Leblanc",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-19",
+      "rawDate": "2026-08-19",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41301"
+    },
+    {
+      "source": "nac",
+      "title": "La Famille Leblanc",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-20",
+      "rawDate": "2026-08-20",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41301"
+    },
+    {
+      "source": "nac",
+      "title": "La Famille Leblanc",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-19",
+      "rawDate": "2026-08-19",
+      "time": "12:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41300"
+    },
+    {
+      "source": "nac",
+      "title": "Dance at Zibi – Tango with Siempre Tango Ottawa",
+      "subtitle": null,
+      "date": "2026-08-20",
+      "rawDate": "2026-08-20",
+      "time": "19:00",
+      "venue": "Head Street Square – Zibi Head Street Square – Zibi",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41562"
+    },
+    {
+      "source": "nac",
+      "title": "Anónimas & Resilientes",
+      "subtitle": "Experience bullerengue",
+      "date": "2026-08-20",
+      "rawDate": "2026-08-20",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Experience bullerengue",
+      "url": "https://nac-cna.ca/en/event/41389"
+    },
+    {
+      "source": "nac",
+      "title": "Classic Albums Live: Madonna",
+      "subtitle": "The Immaculate Collection",
+      "date": "2026-08-21",
+      "rawDate": "2026-08-21",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "The Immaculate Collection",
+      "url": "https://nac-cna.ca/en/event/40599"
+    },
+    {
+      "source": "nac",
+      "title": "Miguel de Armas",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-22",
+      "rawDate": "2026-08-22",
+      "time": "16:30",
+      "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/41087"
     },
     {
       "source": "jazz",
@@ -415,13 +1550,13 @@
     },
     {
       "source": "jazz",
-      "title": "Jam Sessions - feat. John Geggie, Roddy Ellias & José Monchito Garcia",
+      "title": "Late Night Jamming - feat. John Geggie, Roddy Ellias & José Monchito Garcia",
       "date": "2026-06-26",
       "rawDate": "Fri, Jun 26, 10:30 p.m.",
       "time": "22:30",
       "venue": "Ottawa Jazz Festival",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34761-Jam-Sessions-feat-John-Geggie-Roddy-Ellias-Jos-Monchito-Garcia"
+      "url": "https://program.ottawajazzfestival.com/item/34761-Late-Night-Jamming-feat-John-Geggie-Roddy-Ellias-Jos-Monchito-Garcia"
     },
     {
       "source": "jazz",
@@ -525,13 +1660,13 @@
     },
     {
       "source": "jazz",
-      "title": "Jam Sessions - feat. John Geggie, Roddy Ellias & José Monchito Garcia",
+      "title": "Late Night Jamming - feat. John Geggie, Roddy Ellias & José Monchito Garcia",
       "date": "2026-06-27",
       "rawDate": "Sat, Jun 27, 10:30 p.m.",
       "time": "22:30",
       "venue": "Ottawa Jazz Festival",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34762-Jam-Sessions-feat-John-Geggie-Roddy-Ellias-Jos-Monchito-Garcia"
+      "url": "https://program.ottawajazzfestival.com/item/34762-Late-Night-Jamming-feat-John-Geggie-Roddy-Ellias-Jos-Monchito-Garcia"
     },
     {
       "source": "jazz",
@@ -615,13 +1750,13 @@
     },
     {
       "source": "jazz",
-      "title": "Jam Sessions - feat. John Geggie, Roddy Ellias & José Monchito Garcia",
+      "title": "Late Night Jamming - feat. John Geggie, Roddy Ellias & José Monchito Garcia",
       "date": "2026-06-28",
       "rawDate": "Sun, Jun 28, 10:30 p.m.",
       "time": "22:30",
       "venue": "Ottawa Jazz Festival",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34763-Jam-Sessions-feat-John-Geggie-Roddy-Ellias-Jos-Monchito-Garcia"
+      "url": "https://program.ottawajazzfestival.com/item/34763-Late-Night-Jamming-feat-John-Geggie-Roddy-Ellias-Jos-Monchito-Garcia"
     },
     {
       "source": "jazz",
@@ -652,26 +1787,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/34388-FASOCANA"
-    },
-    {
-      "source": "gigs",
-      "title": "Campus to Stage",
-      "date": "2026-06-22",
-      "rawDate": "Monday, June 22, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-ramel-bautista-and-robyn-lichaa-22-june"
-    },
-    {
-      "source": "gigs",
-      "title": "5 Star Monday Band",
-      "date": "2026-06-22",
-      "rawDate": "Monday, June 22, 2026",
-      "time": "20:00",
-      "venue": "The Laff",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-the-laff-five-star-monday-band-22-june"
     },
     {
       "source": "gigs",
@@ -864,6 +1979,26 @@
       "url": "https://ottawagigs.ca/gig/electronic-house-of-targ-ki-vs-upper-regions-25-june"
     },
     {
+      "source": "gigs",
+      "title": "Shelley Conducts Mahler's \"Resurrection\"",
+      "date": "2026-06-25",
+      "rawDate": "Thursday, June 25, 2026",
+      "time": "20:00",
+      "venue": "National Arts Centre",
+      "description": "Genre: Classical",
+      "url": "https://ottawagigs.ca/gig/classical-national-arts-centre-nac-orchestra-25-june"
+    },
+    {
+      "source": "gigs",
+      "title": "R Sheaves & Jessica Spurrell",
+      "date": "2026-06-25",
+      "rawDate": "Thursday, June 25, 2026",
+      "time": "20:00",
+      "venue": "Art House Cafe",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-art-house-cafe-r-sheaves-26-june"
+    },
+    {
       "source": "redbird",
       "title": "Open Stage",
       "date": "2026-06-24",
@@ -915,12 +2050,12 @@
     },
     {
       "source": "redbird",
-      "title": "Lindy Vopnfjörd",
+      "title": "Lindy Vopnfjörd with Quiet Sky",
       "date": "2026-07-12",
       "rawDate": "2026-07-12",
       "time": "12:00 a.m.",
       "venue": "Red Bird Live",
-      "description": "\nBorn into the Icelandic community in Manitoba, Canada, Lindy Vopnfjörd started his music career early. Singing traditional Icelandic songs with his family, both the cultural heritage and musician par",
+      "description": " \nBorn into the Icelandic community in Manitoba, Canada, Lindy Vopnfjörd started his music career early. Singing traditional Icelandic songs with his family, both the cultural heritage and musician pa",
       "url": "https://www.showpass.com/lindy-vopnfjord/"
     },
     {
@@ -1105,6 +2240,16 @@
     },
     {
       "source": "redbird",
+      "title": "Dala",
+      "date": "2026-10-04",
+      "rawDate": "2026-10-04",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nDala is Toronto-based, Juno-nominated duo Sheila Carabine and Amanda Walther. With incomparable vocal harmonies, emotionally resonant songwriting, and deeply personal and engaging live shows, Dala ha",
+      "url": "https://www.showpass.com/dala-3/"
+    },
+    {
+      "source": "redbird",
       "title": "The Grapes of Wrath Acoustic Duo",
       "date": "2026-10-12",
       "rawDate": "2026-10-12",
@@ -1122,36 +2267,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "Morgan Davis",
-      "date": "2026-06-19",
-      "rawDate": "Jun 19",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Morgan Davis Morgan Davis grew up in Detroit during the 1950's, absorbing the music of the times - early rock and roll and rhythm and blues, along with the beginnings of the Motown sound. In 1962, his",
-      "url": "https://irenespub.ca/events/morgan-davis"
-    },
-    {
-      "source": "irenes",
-      "title": "Liam Simpson-Russell, Avalon Tassonyi & Joe Ray McDonald",
-      "date": "2026-06-20",
-      "rawDate": "Jun 20",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Liam Simpson-Russell Avalon Tassonyi Joe Ray McDonald Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/liam-simpson-russell-avalon-tassonyi-joe-ray-mcdonald"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue Kieran Campbell & Dakota Cooney",
-      "date": "2026-06-21",
-      "rawDate": "Jun 21",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night RevueKieran CampbellDakota Cooney",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-eyg62"
     },
     {
       "source": "irenes",
@@ -1281,7 +2396,7 @@
       "time": "20:30",
       "venue": "Irene's Pub",
       "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/r9dz9pm5t8pr7el6sn6ebwl9jrscgk"
+      "url": "https://irenespub.ca/events/rw8ezcz2g2rkygs2pwlfw6ewbbznny"
     },
     {
       "source": "irenes",
@@ -1415,12 +2530,12 @@
     },
     {
       "source": "irenes",
-      "title": "Joe Gaspar All-Stars",
+      "title": "Joe Gaspar All-Stars - Album Release",
       "date": "2026-07-24",
       "rawDate": "Jul 24",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Joe Gaspar All-Stars Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Joe Gaspar All-Stars Ottawa's star trio \"Joe Gaspar All-Stars\" showcases Joe's exceptional talents as the lead vocalist, bassist, plus the incredibly gifted Lucas Haneman on guitar and the skilled dru",
       "url": "https://irenespub.ca/events/joe-gaspar-all-stars"
     },
     {
@@ -1502,6 +2617,296 @@
       "venue": "Irene's Pub",
       "description": "Hunks & Punks Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/hunks-punks"
+    },
+    {
+      "source": "irenes",
+      "title": "Miranda Ceara & the Odd Fellows Orchestra",
+      "date": "2026-08-01",
+      "rawDate": "Aug 1",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Miranda Ceara",
+      "url": "https://irenespub.ca/events/miranda-ceara-the-odd-fellows-orchestra-1"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-08-02",
+      "rawDate": "Aug 2",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-6emeg"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-08-04",
+      "rawDate": "Aug 4",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-mbxnj"
+    },
+    {
+      "source": "irenes",
+      "title": "The Prime Rib Big Band",
+      "date": "2026-08-05",
+      "rawDate": "Aug 5",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Prime Rib Big Band",
+      "url": "https://irenespub.ca/events/r9dz9pm5t8pr7el6sn6ebwl9jrscgk"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Jamieson MAckay",
+      "date": "2026-08-06",
+      "rawDate": "Aug 6",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666"
+    },
+    {
+      "source": "irenes",
+      "title": "Jeremy Lyall with Special Guests",
+      "date": "2026-08-07",
+      "rawDate": "Aug 7",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Jeremy Lyall",
+      "url": "https://irenespub.ca/events/jeremy-lyall"
+    },
+    {
+      "source": "irenes",
+      "title": "Gabriel Comba with Special Guests",
+      "date": "2026-08-08",
+      "rawDate": "Aug 8",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Gabriel Comba",
+      "url": "https://irenespub.ca/events/gabriel-comba-with-special-guests-1"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-08-09",
+      "rawDate": "Aug 9",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-shwfn"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-08-11",
+      "rawDate": "Aug 11",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-9lydk"
+    },
+    {
+      "source": "irenes",
+      "title": "Jazz Jam with The Beeched Wailers",
+      "date": "2026-08-12",
+      "rawDate": "Aug 12",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Beeched Wailers",
+      "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-5-dl78w"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Gerri Trimble",
+      "date": "2026-08-13",
+      "rawDate": "Aug 13",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-h8l26"
+    },
+    {
+      "source": "irenes",
+      "title": "Jesse Greene with Special Guest Jay Bleus",
+      "date": "2026-08-14",
+      "rawDate": "Aug 14",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Jesse Greene",
+      "url": "https://irenespub.ca/events/jesse-greene-with-special-guest-jay-bleus"
+    },
+    {
+      "source": "irenes",
+      "title": "Third Rail Transmission with Special Guests",
+      "date": "2026-08-15",
+      "rawDate": "Aug 15",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Third Rail Transmission",
+      "url": "https://irenespub.ca/events/third-rail-transmission"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-08-16",
+      "rawDate": "Aug 16",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-87aw7"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-08-18",
+      "rawDate": "Aug 18",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-pz2z5"
+    },
+    {
+      "source": "irenes",
+      "title": "Fruit Cake - A Gay Ass Variety",
+      "date": "2026-08-19",
+      "rawDate": "Aug 19",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Fruit Cake",
+      "url": "https://irenespub.ca/events/fruit-cake-1"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Luca Haneman",
+      "date": "2026-08-20",
+      "rawDate": "Aug 20",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-9sfz2"
+    },
+    {
+      "source": "irenes",
+      "title": "The Start",
+      "date": "2026-08-21",
+      "rawDate": "Aug 21",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Start",
+      "url": "https://irenespub.ca/events/the-start-2"
+    },
+    {
+      "source": "irenes",
+      "title": "Sam Salmon & the Grand Manan Bandits with Special Guests",
+      "date": "2026-08-22",
+      "rawDate": "Aug 22",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Sam Salmon & the Grand Manan Bandits",
+      "url": "https://irenespub.ca/events/sam-salmon-the-manan-bandits"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-08-23",
+      "rawDate": "Aug 23",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-hclp3"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-08-25",
+      "rawDate": "Aug 25",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd"
+    },
+    {
+      "source": "irenes",
+      "title": "Small Fish - A Comedy & Variety Show",
+      "date": "2026-08-26",
+      "rawDate": "Aug 26",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Small Fish",
+      "url": "https://irenespub.ca/events/shbeyp4snb7exh5hjldshrxynxndgj"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Jeff Rixx Graham",
+      "date": "2026-08-27",
+      "rawDate": "Aug 27",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f"
+    },
+    {
+      "source": "irenes",
+      "title": "The Berns with Special Guests",
+      "date": "2026-08-28",
+      "rawDate": "Aug 28",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Berns",
+      "url": "https://irenespub.ca/events/the-bern-with-special-guests"
+    },
+    {
+      "source": "irenes",
+      "title": "August John with Special Guests",
+      "date": "2026-08-29",
+      "rawDate": "Aug 29",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "August John",
+      "url": "https://irenespub.ca/events/august-john-with-special-guests"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-08-30",
+      "rawDate": "Aug 30",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue Kieran Campbell & Dakota Cooney",
+      "date": "2026-06-21",
+      "rawDate": "Jun 21",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night RevueKieran CampbellDakota Cooney",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-eyg62"
+    },
+    {
+      "source": "irenes",
+      "title": "Liam Simpson-Russell, Avalon Tassonyi & Joe Ray McDonald",
+      "date": "2026-06-20",
+      "rawDate": "Jun 20",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Liam Simpson-Russell Avalon Tassonyi Joe Ray McDonald Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/liam-simpson-russell-avalon-tassonyi-joe-ray-mcdonald"
+    },
+    {
+      "source": "irenes",
+      "title": "Morgan Davis",
+      "date": "2026-06-19",
+      "rawDate": "Jun 19",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Morgan Davis Morgan Davis grew up in Detroit during the 1950's, absorbing the music of the times - early rock and roll and rhythm and blues, along with the beginnings of the Motown sound. In 1962, his",
+      "url": "https://irenespub.ca/events/morgan-davis"
     },
     {
       "source": "irenes",
@@ -1774,36 +3179,6 @@
       "url": "https://irenespub.ca/events/capital-kingdom-drag-brunch-2"
     },
     {
-      "source": "irenes",
-      "title": "Lives Like Skyscrapers ft. Chime of Wrens, Picastro & Special Guest Mark Brownlee",
-      "date": "2026-05-23",
-      "rawDate": "May 23",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Lives Likes Skyscrapers Chime of Wrens Picastro Mark Brownlee Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/lives-like-skyscrapers"
-    },
-    {
-      "source": "irenes",
-      "title": "Good 2 Go with Special Guests The Billy Vans",
-      "date": "2026-05-22",
-      "rawDate": "May 22",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Good 2 Go",
-      "url": "https://irenespub.ca/events/good-2-go-with-special-guests-billy-vans"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Vince Halfhide",
-      "date": "2026-05-21",
-      "rawDate": "May 21",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": null,
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-gxfzw"
-    },
-    {
       "source": "gladstone",
       "title": "Legends",
       "date": "2026-06-19",
@@ -1902,6 +3277,16 @@
       "venue": "The Gladstone Theatre",
       "description": "Jimmy Moore Drag",
       "url": "https://thegladstone.ca/shows/jimmy-moore-drag-presents-taylor-swift-the-eras-tour/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Confidential Musical Theatre Project",
+      "date": "2026-07-18",
+      "rawDate": "Jul 18, 2026",
+      "time": "19:30",
+      "venue": "The Gladstone Theatre",
+      "description": "Zucchini Productions",
+      "url": "https://thegladstone.ca/shows/confidential-musical-theatre-project-2/"
     },
     {
       "source": "gladstone",
@@ -3442,116 +4827,6 @@
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-20",
-      "rawDate": "May 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-21",
-      "rawDate": "May 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-22",
-      "rawDate": "May 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-23",
-      "rawDate": "May 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-24",
-      "rawDate": "May 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-25",
-      "rawDate": "May 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-26",
-      "rawDate": "May 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-27",
-      "rawDate": "May 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-28",
-      "rawDate": "May 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-29",
-      "rawDate": "May 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gctc",
-      "title": "Hugh-kulele: Unhinged",
-      "date": "2026-06-01",
-      "rawDate": "2026-06-01",
-      "time": "19:30",
-      "venue": "GCTC",
-      "description": " It’s that time of year again—when Hugh takes on a totally wacky challenge to prove his love for GCTC., ",
-      "url": "https://www.gctc.ca/events/hughkulele-unhinged"
     },
     {
       "source": "gctc",
