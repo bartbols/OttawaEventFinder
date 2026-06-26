@@ -1,73 +1,18 @@
 {
-  "scrapedAt": "2026-06-25T09:32:11.035Z",
-  "totalEvents": 526,
+  "scrapedAt": "2026-06-26T09:36:55.074Z",
+  "totalEvents": 482,
   "errors": [],
   "events": [
     {
       "source": "nac",
-      "title": "J3M",
-      "subtitle": "Jukebox Lunch Concerts",
-      "date": "2026-06-25",
-      "rawDate": "2026-06-25",
-      "time": "12:10",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "Jukebox Lunch Concerts",
-      "url": "https://nac-cna.ca/en/event/41096"
-    },
-    {
-      "source": "nac",
-      "title": "Kellylee Story & Song Series: Bobby Previte",
-      "subtitle": null,
-      "date": "2026-06-25",
-      "rawDate": "2026-06-25",
-      "time": "16:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41754"
-    },
-    {
-      "source": "nac",
-      "title": "Brittany Davis & Black Thunder",
-      "subtitle": null,
-      "date": "2026-06-25",
-      "rawDate": "2026-06-25",
-      "time": "18:30",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40658"
-    },
-    {
-      "source": "nac",
-      "title": "Avishai Cohen Big Vicious",
-      "subtitle": null,
-      "date": "2026-06-25",
-      "rawDate": "2026-06-25",
-      "time": "19:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40347"
-    },
-    {
-      "source": "nac",
       "title": "Shelley Conducts Mahler’s “Resurrection”",
       "subtitle": "Free livestream with the NAC Orchestra",
-      "date": "2026-06-25",
-      "rawDate": "2026-06-25",
-      "time": "20:00",
+      "date": null,
+      "rawDate": null,
+      "time": null,
       "venue": "Online En ligne",
       "description": "Free livestream with the NAC Orchestra",
       "url": "https://nac-cna.ca/en/event/41724"
-    },
-    {
-      "source": "nac",
-      "title": "Norma Winstone with the Atlantic Jazz Collective",
-      "subtitle": null,
-      "date": "2026-06-25",
-      "rawDate": "2026-06-25",
-      "time": "21:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40346"
     },
     {
       "source": "nac",
@@ -482,7 +427,7 @@
       "subtitle": "Axé Summer WorldFest",
       "date": "2026-07-16",
       "rawDate": "2026-07-16",
-      "time": "19:30",
+      "time": "19:00",
       "venue": "Wood Terrace Terrasse en bois",
       "description": "Axé Summer WorldFest",
       "url": "https://nac-cna.ca/en/event/41521"
@@ -1148,134 +1093,37 @@
       "url": "https://nac-cna.ca/en/event/40987"
     },
     {
-      "source": "jazz",
-      "title": "Atcheleh Aryee Quintet",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 12:00 p.m.",
-      "time": "12:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34463-Atcheleh-Aryee-Quintet"
-    },
-    {
-      "source": "jazz",
-      "title": "Graves/Jordan/Pond",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 12:00 p.m.",
-      "time": "12:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34490-Graves-Jordan-Pond"
-    },
-    {
-      "source": "jazz",
-      "title": "Ambre McLean",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 12:00 p.m.",
-      "time": "12:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34500-Ambre-McLean"
-    },
-    {
-      "source": "jazz",
-      "title": "Kellylee Story & Song Series",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 4:00 p.m.",
-      "time": "16:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34737-Kellylee-Story-Song-Series"
-    },
-    {
-      "source": "jazz",
-      "title": "Karen Rauh & Ross Morgan",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 4:30 p.m.",
-      "time": "16:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34496-Karen-Rauh-Ross-Morgan"
-    },
-    {
-      "source": "jazz",
-      "title": "Brittany Davis & Black Thunder",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 6:30 p.m.",
-      "time": "18:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/30058-Brittany-Davis-Black-Thunder"
-    },
-    {
-      "source": "jazz",
-      "title": "Mark Ferguson Quartet",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 6:30 p.m.",
-      "time": "18:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/30063-Mark-Ferguson-Quartet"
-    },
-    {
-      "source": "jazz",
-      "title": "Avishai Cohen Big Vicious",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 7:00 p.m.",
-      "time": "19:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/29915-Avishai-Cohen-Big-Vicious"
-    },
-    {
-      "source": "jazz",
-      "title": "Nick Schofield",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 7:30 p.m.",
+      "source": "nac",
+      "title": "Aviva Chernick and La Serena Quartet",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-25",
+      "rawDate": "2026-08-25",
       "time": "19:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/30062-Nick-Schofield"
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40941"
     },
     {
-      "source": "jazz",
-      "title": "DOMi & JD Beck",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 8:30 p.m.",
-      "time": "20:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/30045-DOMi-JD-Beck"
+      "source": "nac",
+      "title": "Aviva Chernick and La Serena Quartet",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-26",
+      "rawDate": "2026-08-26",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40941"
     },
     {
-      "source": "jazz",
-      "title": "Norma Winstone with the Atlantic Jazz Collective",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 9:00 p.m.",
-      "time": "21:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/29914-Norma-Winstone-with-the-Atlantic-Jazz-Collective"
-    },
-    {
-      "source": "jazz",
-      "title": "The Free Label",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 10:30 p.m.",
-      "time": "22:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/29917-The-Free-Label"
-    },
-    {
-      "source": "jazz",
-      "title": "Late Night Jamming - feat. John Geggie, Roddy Ellias & Nick Fraser",
-      "date": "2026-06-25",
-      "rawDate": "Thu, Jun 25, 10:30 p.m.",
-      "time": "22:30",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34760-Late-Night-Jamming-feat-John-Geggie-Roddy-Ellias-Nick-Fraser"
+      "source": "nac",
+      "title": "Aviva Chernick and La Serena Quartet",
+      "subtitle": "The Feeling of Free",
+      "date": "2026-08-27",
+      "rawDate": "2026-08-27",
+      "time": "19:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": "The Feeling of Free",
+      "url": "https://nac-cna.ca/en/event/40941"
     },
     {
       "source": "jazz",
@@ -1639,116 +1487,6 @@
     },
     {
       "source": "gigs",
-      "title": "Afterlight: Vocal and Piano",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "17:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Indie",
-      "url": "https://ottawagigs.ca/gig/indie-bar-robo-afterlight-25-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Erika Lashbrook",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "19:30",
-      "venue": "Night Oat",
-      "description": "Genre: Blues",
-      "url": "https://ottawagigs.ca/gig/blues-night-oat-erika-lashbrook-25-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Open Stage/Micro Libre w/ Christine Graves!",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "19:30",
-      "venue": "Motel Chelsea",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-christine-graves-25-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Don’t Play With Me",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "20:00",
-      "venue": "LIVE! on Elgin",
-      "description": "Genre: Hip Hop",
-      "url": "https://ottawagigs.ca/gig/hip-hop-live-on-elgin-the-alex-messier-band-25-june"
-    },
-    {
-      "source": "gigs",
-      "title": "CATALYST 15 - Live Electronic Music",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Electronic",
-      "url": "https://ottawagigs.ca/gig/electronic-house-of-targ-catalyst-25-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Radwan Ghazi Moumneh and Frédéric D. Oberland",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "20:00",
-      "venue": "Fono",
-      "description": "Genre: Experimental",
-      "url": "https://ottawagigs.ca/gig/experimental-fono-radwan-ghazi-moumneh-25-june"
-    },
-    {
-      "source": "gigs",
-      "title": "FAIYAZ & THE WASTED CHANCES (PUNK)",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "20:00",
-      "venue": "Dominion Tavern",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/gig/punk-dominion-tavern-faiyaz-the-wasted-chances-punk--25-june"
-    },
-    {
-      "source": "gigs",
-      "title": "CATALYST 15 - Live Electronic Music: KI vs Upper Regions + Juno Club + Nivek + Marsh + JAS NASTY",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Electronic",
-      "url": "https://ottawagigs.ca/gig/electronic-house-of-targ-ki-vs-upper-regions-25-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Shelley Conducts Mahler's \"Resurrection\"",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "20:00",
-      "venue": "National Arts Centre",
-      "description": "Genre: Classical",
-      "url": "https://ottawagigs.ca/gig/classical-national-arts-centre-nac-orchestra-25-june"
-    },
-    {
-      "source": "gigs",
-      "title": "R Sheaves & Jessica Spurrell",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "20:00",
-      "venue": "Art House Cafe",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-art-house-cafe-r-sheaves-26-june"
-    },
-    {
-      "source": "gigs",
-      "title": "Thursday Night Live: Shawn & Dave",
-      "date": "2026-06-25",
-      "rawDate": "Thursday, June 25, 2026",
-      "time": "21:00",
-      "venue": "The Laff",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-the-laff-shawn-dave-25-june"
-    },
-    {
-      "source": "gigs",
       "title": "Jeff de Valk Duo",
       "date": "2026-06-26",
       "rawDate": "Friday, June 26, 2026",
@@ -1826,6 +1564,116 @@
       "venue": "House of Targ",
       "description": "Genre: Dance Party",
       "url": "https://ottawagigs.ca/gig/dance-party-house-of-targ-dj-remi-royale-26-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Paillette Productions - Burlesque & Live Jazz",
+      "date": "2026-06-26",
+      "rawDate": "Friday, June 26, 2026",
+      "time": "20:00",
+      "venue": "Night Oat",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-night-oat-paillette-productions-burlesque-live-jazz-26-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Sto Union: We Depend On You",
+      "date": "2026-06-26",
+      "rawDate": "Friday, June 26, 2026",
+      "time": "20:00",
+      "venue": "Kaffe 1870",
+      "description": "Genre: Storytelling",
+      "url": "https://ottawagigs.ca/gig/storytelling-kaffe-1870-sto-union-we-depend-on-you-26-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Bob Wiseman LIVE @ Motel Chelsea!",
+      "date": "2026-06-26",
+      "rawDate": "Friday, June 26, 2026",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-bob-wiseman-26-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Perry & the Wobbly Pops with Special Guests Motherland",
+      "date": "2026-06-26",
+      "rawDate": "Friday, June 26, 2026",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-irenes-perry-the-wobbly-pops-26-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Simply Skynyrd — Lynyrd Skynyrd Tribute",
+      "date": "2026-06-26",
+      "rawDate": "Friday, June 26, 2026",
+      "time": "21:30",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/gig/cover-tribute-hard-rock-ottawa-simply-skynyrd-26-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Fired Up Fridays",
+      "date": "2026-06-26",
+      "rawDate": "Friday, June 26, 2026",
+      "time": "21:30",
+      "venue": "The Laff",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-the-laff-tbd-26-june"
+    },
+    {
+      "source": "gigs",
+      "title": "ODD MOB b2b WALKER & ROYCE at Gridwrks : Escapade AP",
+      "date": "2026-06-26",
+      "rawDate": "Friday, June 26, 2026",
+      "time": "22:00",
+      "venue": "Gridwrks",
+      "description": "Genre: Electronic",
+      "url": "https://ottawagigs.ca/gig/electronic-gridwrks-odd-mob-b2b-walker-royce-26-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Huntsman Summer Series: Sammy, Killxdre, CazMcMind and HiThaiFive at Avant Garde",
+      "date": "2026-06-27",
+      "rawDate": "Saturday, June 27, 2026",
+      "time": "16:00",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Hip Hop",
+      "url": "https://ottawagigs.ca/gig/hip-hop-avant-garde-bar-sammy-baron-killxdre-27-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Miss McLeod",
+      "date": "2026-06-27",
+      "rawDate": "Saturday, June 27, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-hard-rock-ottawa-miss-mcleod-27-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Chicago",
+      "date": "2026-06-27",
+      "rawDate": "Saturday, June 27, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-chicago-27-june"
+    },
+    {
+      "source": "gigs",
+      "title": "Élisabeth Pion with Ironwood Quartet",
+      "date": "2026-06-27",
+      "rawDate": "Saturday, June 27, 2026",
+      "time": "19:00",
+      "venue": "Other",
+      "description": "Genre: Classical",
+      "url": "https://ottawagigs.ca/gig/classical-carleton-dominion-chalmers-centre-26-06-27"
     },
     {
       "source": "redbird",
@@ -2169,13 +2017,13 @@
     },
     {
       "source": "irenes",
-      "title": "Perry & the Wobbly Pops with Special Guests Motherland",
+      "title": "Motherland with Special Guests Saturn SUnrise & Champagne Minivan",
       "date": "2026-06-26",
       "rawDate": "Jun 26",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Perry & the Wobbly Pops Motherland Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/perry-the-wobbly-pops-with-special-guests-motherland"
+      "description": "Motherland Saturn Sunrise Champagne Minivan Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/motherland-saturn-sunrise-champagne-minivan"
     },
     {
       "source": "irenes",
@@ -2619,12 +2467,12 @@
     },
     {
       "source": "irenes",
-      "title": "Jesse Greene with Special Guest Jay Bleus",
+      "title": "Greene & Blues Jesse Greene and Jay Blues (full band 4 piece)",
       "date": "2026-08-14",
       "rawDate": "Aug 14",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Jesse Greene",
+      "description": "Jesse Greene Jay Blues Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/jesse-greene-with-special-guest-jay-bleus"
     },
     {
@@ -2684,7 +2532,7 @@
       "rawDate": "Aug 21",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Start",
+      "description": "The Start Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-start-2"
     },
     {
@@ -2744,17 +2592,17 @@
       "rawDate": "Aug 28",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Thomas Duxbury & The New Mother Nature The Berns Out By Lucy",
+      "description": "Thomas Duxbury & The New Mother Nature The Berns Out By Lucy Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-bern-with-special-guests"
     },
     {
       "source": "irenes",
-      "title": "August John with Special Guests",
+      "title": "August John with Special Guests Supersum & The Louies",
       "date": "2026-08-29",
       "rawDate": "Aug 29",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "August John",
+      "description": "August John Supersum The Louies Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/august-john-with-special-guests"
     },
     {
@@ -3096,26 +2944,6 @@
       "venue": "Ottawa Pops Orchestra",
       "description": "Buy Tickets on Eventbrite\n\n\n    June 26, 7:30PM\n\n\n\n\n    var exampleCallback = function() {\n        console.log('Order complete!');\n    };\n\n    window.EBWidgets.createWidget({\n        widgetType: 'chec",
       "url": "https://www.ottawapopsorchestra.ca/events/a-knight-at-the-symphony"
-    },
-    {
-      "source": "thirteenstrings",
-      "title": "Vivaldi meets Piazzolla",
-      "date": "2026-05-13",
-      "rawDate": "May 13, 2026",
-      "time": "7:30 pm",
-      "venue": "Thirteen Strings",
-      "description": null,
-      "url": "https://thirteenstrings.ca/product/vivaldi-meets-piazzolla/"
-    },
-    {
-      "source": "thirteenstrings",
-      "title": "Fundraising Reception forThirteen Strings",
-      "date": "2026-06-11",
-      "rawDate": "June 11, 2026",
-      "time": "8:00 pm",
-      "venue": "Thirteen Strings",
-      "description": null,
-      "url": "https://thirteenstrings.ca/product/fundraising-reception-for-thirteen-strings/"
     },
     {
       "source": "manual",
@@ -4614,278 +4442,8 @@
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
     },
     {
-      "source": "bronson",
-      "title": "Taj Mahal & the Phantom Blues Band",
-      "date": "2026-07-03",
-      "rawDate": "Friday, Jul 3, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/taj-mahal-and-the-phantom-blues-band/"
-    },
-    {
-      "source": "bronson",
-      "title": "OFF CAMPUS NIGHT",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, Jul 4, Doors: 9pm",
-      "time": "21:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/off-campus-night/"
-    },
-    {
-      "source": "bronson",
-      "title": "Otoboke Beaver",
-      "date": "2026-07-21",
-      "rawDate": "Tuesday, Jul 21, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/otoboke-beaver/"
-    },
-    {
-      "source": "bronson",
-      "title": "Magic Men – Canada Tour 2026",
-      "date": "2026-07-31",
-      "rawDate": "Friday, Jul 31, Doors: 7:30pm",
-      "time": "19:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/magic-men-canada-tour-2026/"
-    },
-    {
-      "source": "bronson",
-      "title": "DAAAM! The Hip Hop Party with Special Guests Tha Alkaholiks",
-      "date": "2026-08-07",
-      "rawDate": "Friday, Aug 7, Doors: 8pm",
-      "time": "20:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/daaam-the-hip-hop-party-with-special-guests-tha-alkaholiks/"
-    },
-    {
-      "source": "bronson",
-      "title": "Rock of the 80s w/ China Crisis, Big Country, The Icicle Works, The Vapors",
-      "date": "2026-08-19",
-      "rawDate": "Wednesday, Aug 19, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/rock-of-80s-w-china-crisis-big-country-the-icicle-works-the-vapors/"
-    },
-    {
-      "source": "bronson",
-      "title": "Swervedriver",
-      "date": "2026-08-20",
-      "rawDate": "Thursday, Aug 20, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/swervedriver/"
-    },
-    {
-      "source": "bronson",
-      "title": "PITBULL! PRIDE OTTAWA",
-      "date": "2026-08-29",
-      "rawDate": "Saturday, Aug 29, Doors: 10pm",
-      "time": "22:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/pitbull-pride-ottawa/"
-    },
-    {
-      "source": "bronson",
-      "title": "Michel Pagliaro – Deux Voix Une Capitale",
-      "date": "2026-09-05",
-      "rawDate": "Saturday, Sep 5, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/michel-pagliaro-deux-voix-une-capital/"
-    },
-    {
-      "source": "bronson",
-      "title": "Jon Spencer",
-      "date": "2026-09-09",
-      "rawDate": "Wednesday, Sep 9, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/jon-spencer/"
-    },
-    {
-      "source": "bronson",
-      "title": "SUN KIL MOON (FKA/AKA: Mark Kozelek)",
-      "date": "2026-09-11",
-      "rawDate": "Friday, Sep 11, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/sun-kil-moon-fka-aka-mark-kozelek/"
-    },
-    {
-      "source": "bronson",
-      "title": "HATEBREED: SUMMER SLAUGHTER TOUR 2025",
-      "date": "2026-09-12",
-      "rawDate": "Saturday, Sep 12, Doors: 4:30pm",
-      "time": "16:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/hatebreed-summer-slaughter-tour-2025/"
-    },
-    {
-      "source": "bronson",
-      "title": "Tinariwen",
-      "date": "2026-09-16",
-      "rawDate": "Wednesday, Sep 16, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/tinariwen/"
-    },
-    {
-      "source": "bronson",
-      "title": "ERRA",
-      "date": "2026-09-22",
-      "rawDate": "Tuesday, Sep 22, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/erra/"
-    },
-    {
-      "source": "bronson",
-      "title": "The Story Of Nirvana w/El Niven",
-      "date": "2026-09-25",
-      "rawDate": "Friday, Sep 25, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/the-story-of-nirvana/"
-    },
-    {
-      "source": "bronson",
-      "title": "Daniel Lanois",
-      "date": "2026-09-27",
-      "rawDate": "Sunday, Sep 27, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/daniel-lanois-deux-voix-une-capitale/"
-    },
-    {
-      "source": "bronson",
-      "title": "DESPISED ICON",
-      "date": "2026-10-10",
-      "rawDate": "Saturday, Oct 10, Doors: 6pm",
-      "time": "18:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/despised-icon-2/"
-    },
-    {
-      "source": "bronson",
-      "title": "Buffalo Traffic Jam",
-      "date": "2026-10-12",
-      "rawDate": "Monday, Oct 12, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/buffalo-traffic-jam/"
-    },
-    {
-      "source": "bronson",
-      "title": "Bob The Drag Queen – Early Show",
-      "date": "2026-10-16",
-      "rawDate": "Friday, Oct 16, Doors: 6pm",
-      "time": "18:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/now-clap-bob-the-drag-queens-on-tour/"
-    },
-    {
-      "source": "bronson",
-      "title": "Bob The Drag Queen – Late Show added !",
-      "date": "2026-10-16",
-      "rawDate": "Friday, Oct 16, Doors: 9pm",
-      "time": "21:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/bob-the-drag-queen-late-show-added/"
-    },
-    {
-      "source": "bronson",
-      "title": "Joep Beving",
-      "date": "2026-10-17",
-      "rawDate": "Saturday, Oct 17, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/joep-beving/"
-    },
-    {
-      "source": "bronson",
-      "title": "AMBLE",
-      "date": "2026-11-03",
-      "rawDate": "Tuesday, Nov 3, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/amble/"
-    },
-    {
-      "source": "bronson",
-      "title": "The Record Company",
-      "date": "2026-11-13",
-      "rawDate": "Friday, Nov 13, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/the-record-company/"
-    },
-    {
-      "source": "bronson",
-      "title": "MODI",
-      "date": "2026-11-19",
-      "rawDate": "Thursday, Nov 19, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/modi/"
-    },
-    {
-      "source": "bronson",
-      "title": "Akaash Singh",
-      "date": "2026-11-21",
-      "rawDate": "Saturday, Nov 21, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/akaash-singh/"
-    },
-    {
-      "source": "bronson",
-      "title": "A Skydiggers Christmas",
-      "date": "2026-12-05",
-      "rawDate": "Saturday, Dec 5, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/a-skydiggers-christmas/"
-    },
-    {
-      "source": "bronson",
-      "title": "THE BOUNCING SOULS with The Suicide Machines",
-      "date": "2026-12-06",
-      "rawDate": "Sunday, Dec 6, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/the-bouncing-souls-with-the-suicide-machines/"
-    },
-    {
       "source": "chamberfest",
-      "title": "VOCES8 at the Isabel",
+      "title": "SOLD OUT! | VOCES8 at the Isabel",
       "date": "2026-07-05",
       "rawDate": "Jul 5 2026",
       "time": "19:30",
