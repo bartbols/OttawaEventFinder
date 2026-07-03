@@ -1,19 +1,8 @@
 {
-  "scrapedAt": "2026-07-02T09:21:20.827Z",
-  "totalEvents": 556,
+  "scrapedAt": "2026-07-03T09:27:11.749Z",
+  "totalEvents": 553,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Shelley, Ehnes, Altstaedt",
-      "subtitle": "Clara, Robert, Johannes: Coda",
-      "date": "2026-07-02",
-      "rawDate": "2026-07-02",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "Clara, Robert, Johannes: Coda",
-      "url": "https://nac-cna.ca/en/event/38433"
-    },
     {
       "source": "nac",
       "title": "Miguel de Armas",
@@ -1974,86 +1963,6 @@
     },
     {
       "source": "gigs",
-      "title": "Free Happy Hour with DomLand",
-      "date": "2026-07-02",
-      "rawDate": "Thursday, July 2, 2026",
-      "time": "17:30",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Soul",
-      "url": "https://ottawagigs.ca/gig/soul-bar-robo-domland-2-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Art of the Duo",
-      "date": "2026-07-02",
-      "rawDate": "Thursday, July 2, 2026",
-      "time": "19:30",
-      "venue": "GigSpace",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-gigspace-tim-bedner-and-bill-coon-2-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Lennie Gallant LIVE @ Motel Chelsea!",
-      "date": "2026-07-02",
-      "rawDate": "Thursday, July 2, 2026",
-      "time": "19:30",
-      "venue": "Motel Chelsea",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-lennie-gallant-2-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Ardèche with Paco Dvoi Altfolk Duo at Night Oat",
-      "date": "2026-07-02",
-      "rawDate": "Thursday, July 2, 2026",
-      "time": "19:30",
-      "venue": "Night Oat",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/acoustic-night-oat-on-gladstone-avenue-2026-07-02"
-    },
-    {
-      "source": "gigs",
-      "title": "Shelley, Ehnes, Altstaedt | Clara, Robert, Johannes: Coda",
-      "date": "2026-07-02",
-      "rawDate": "Thursday, July 2, 2026",
-      "time": "20:00",
-      "venue": "National Arts Centre",
-      "description": "Genre: Classical",
-      "url": "https://ottawagigs.ca/gig/classical-national-arts-centre-james-ehnes-2-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Rouge Productions Presents: Open Stage Burlesque",
-      "date": "2026-07-02",
-      "rawDate": "Thursday, July 2, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-house-of-targ-open-stage-burlesque-2-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Kieran Carson and the Major Turns",
-      "date": "2026-07-02",
-      "rawDate": "Thursday, July 2, 2026",
-      "time": "20:00",
-      "venue": "LIVE! on Elgin",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-live-on-elgin-kieran-carson-and-the-major-turns-2-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Sir Kingfish + Polarized + Title Screen",
-      "date": "2026-07-02",
-      "rawDate": "Thursday, July 2, 2026",
-      "time": "20:30",
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Funk",
-      "url": "https://ottawagigs.ca/gig/funk-avant-garde-bar-sir-kingfish-2-july"
-    },
-    {
-      "source": "gigs",
       "title": "Latin Jazz with Pimienta",
       "date": "2026-07-03",
       "rawDate": "Friday, July 3, 2026",
@@ -2161,6 +2070,86 @@
       "venue": "City at Night",
       "description": "Genre: Electronic",
       "url": "https://ottawagigs.ca/gig/electronic-city-at-night-ben-gold-3-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Overdrive Metal Festival",
+      "date": "2026-07-04",
+      "rawDate": "Saturday, July 4, 2026",
+      "time": "18:00",
+      "venue": "Club SAW",
+      "description": "Genre: Metal",
+      "url": "https://ottawagigs.ca/gig/metal-club-saw-crimson-shadows-4-july"
+    },
+    {
+      "source": "gigs",
+      "title": "The Tea Party",
+      "date": "2026-07-04",
+      "rawDate": "Saturday, July 4, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-the-tea-party-4-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Mike Rud Trio",
+      "date": "2026-07-04",
+      "rawDate": "Saturday, July 4, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-mike-rud-4-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Pillow Talk: Slumber Party-themed Drag Show + Dance Party",
+      "date": "2026-07-04",
+      "rawDate": "Saturday, July 4, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Pop",
+      "url": "https://ottawagigs.ca/gig/pop-house-of-targ-aimee-yonce-shennel-4-july"
+    },
+    {
+      "source": "gigs",
+      "title": "NIGHT ONE: Fred Eaglesmith LIVE @ Motel Chelsea!",
+      "date": "2026-07-04",
+      "rawDate": "Saturday, July 4, 2026",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-motel-chelsea-fred-eaglesmith-4-july"
+    },
+    {
+      "source": "gigs",
+      "title": "The RockPhiles",
+      "date": "2026-07-04",
+      "rawDate": "Saturday, July 4, 2026",
+      "time": "20:00",
+      "venue": "Other",
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/gig/tribute-covers-homestead-pub-embrun-on-2026-07-04"
+    },
+    {
+      "source": "gigs",
+      "title": "4DAYWKND + Out By Lucy",
+      "date": "2026-07-04",
+      "rawDate": "Saturday, July 4, 2026",
+      "time": "20:00",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-rainbow-bistro-4daywknd-4-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Four Eyed Muscle Man with Special Guests",
+      "date": "2026-07-04",
+      "rawDate": "Saturday, July 4, 2026",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-irenes-four-eyed-muscle-man-4-july"
     },
     {
       "source": "redbird",
@@ -2491,26 +2480,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-06-30",
-      "rawDate": "Jun 30",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm"
-    },
-    {
-      "source": "irenes",
-      "title": "Canada Day - Closed",
-      "date": "2026-07-01",
-      "rawDate": "Jul 1",
-      "time": "12:00",
-      "venue": "Irene's Pub",
-      "description": null,
-      "url": "https://irenespub.ca/events/canada-day-closed"
     },
     {
       "source": "irenes",
@@ -2864,13 +2833,13 @@
     },
     {
       "source": "irenes",
-      "title": "Kevin O’Meara - Matinée",
+      "title": "Tea & Oranges, Dahlia Ave. and Kevin O'Meara - Matinée",
       "date": "2026-08-09",
       "rawDate": "Aug 9",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": null,
-      "url": "https://irenespub.ca/events/kevin-omeara-matine"
+      "description": "Tea & Oranges Dahlia Ave. Kevin O'Meara Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/kevin-omeara-matinee-tea-and-oranges-dahlia-ave"
     },
     {
       "source": "irenes",
@@ -3061,6 +3030,26 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp"
+    },
+    {
+      "source": "irenes",
+      "title": "Canada Day - Closed",
+      "date": "2026-07-01",
+      "rawDate": "Jul 1",
+      "time": "12:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/canada-day-closed"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-06-30",
+      "rawDate": "Jun 30",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm"
     },
     {
       "source": "irenes",
@@ -3341,26 +3330,6 @@
       "venue": "Irene's Pub",
       "description": "Wicked Grin Bonecat Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/wicked-grin-with-special-guests"
-    },
-    {
-      "source": "irenes",
-      "title": "CAPO All-Stars Matinee in support of Ottawa Blues for Youth",
-      "date": "2026-05-30",
-      "rawDate": "May 30",
-      "time": "15:00",
-      "venue": "Irene's Pub",
-      "description": "CAPO Ottawa Blues for Youth Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/capo-all-stars-matinee-in-support-of-ottawa-blues-for-youth"
-    },
-    {
-      "source": "irenes",
-      "title": "John Allaire and The Campistas with Special Guest K Dilla - Rock n’ Beat Show and Book Launch",
-      "date": "2026-05-29",
-      "rawDate": "May 29",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "John Allaire K Dilla Motel Matchbooks Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/john-allaire-the-campistas-with-sg-k-dilla"
     },
     {
       "source": "gctc",
