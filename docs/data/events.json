@@ -1,19 +1,8 @@
 {
-  "scrapedAt": "2026-07-04T08:44:56.263Z",
-  "totalEvents": 792,
+  "scrapedAt": "2026-07-05T09:13:41.862Z",
+  "totalEvents": 823,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Miguel de Armas",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-07-04",
-      "rawDate": "2026-07-04",
-      "time": "16:30",
-      "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40976"
-    },
     {
       "source": "nac",
       "title": "The Collected Strands: Room for Wonder",
@@ -1974,96 +1963,6 @@
     },
     {
       "source": "gigs",
-      "title": "Overdrive Metal Festival",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, July 4, 2026",
-      "time": "18:00",
-      "venue": "Club SAW",
-      "description": "Genre: Metal",
-      "url": "https://ottawagigs.ca/gig/metal-club-saw-crimson-shadows-4-july"
-    },
-    {
-      "source": "gigs",
-      "title": "The Tea Party",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, July 4, 2026",
-      "time": "19:00",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-the-tea-party-4-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Mike Rud Trio",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, July 4, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-mike-rud-4-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Pillow Talk: Slumber Party-themed Drag Show + Dance Party",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, July 4, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Pop",
-      "url": "https://ottawagigs.ca/gig/pop-house-of-targ-aimee-yonce-shennel-4-july"
-    },
-    {
-      "source": "gigs",
-      "title": "NIGHT ONE: Fred Eaglesmith LIVE @ Motel Chelsea!",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, July 4, 2026",
-      "time": "20:00",
-      "venue": "Motel Chelsea",
-      "description": "Genre: Country",
-      "url": "https://ottawagigs.ca/gig/country-motel-chelsea-fred-eaglesmith-4-july"
-    },
-    {
-      "source": "gigs",
-      "title": "The RockPhiles",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, July 4, 2026",
-      "time": "20:00",
-      "venue": "Other",
-      "description": "Genre: Tribute/Covers",
-      "url": "https://ottawagigs.ca/gig/tribute-covers-homestead-pub-embrun-on-2026-07-04"
-    },
-    {
-      "source": "gigs",
-      "title": "4DAYWKND + Out By Lucy",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, July 4, 2026",
-      "time": "20:00",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Indie",
-      "url": "https://ottawagigs.ca/gig/indie-rainbow-bistro-4daywknd-4-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Four Eyed Muscle Man with Special Guests",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, July 4, 2026",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-irenes-four-eyed-muscle-man-4-july"
-    },
-    {
-      "source": "gigs",
-      "title": "After the Goldrush as Neil Young",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, July 4, 2026",
-      "time": "21:30",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Tribute/Covers",
-      "url": "https://ottawagigs.ca/gig/cover-tribute-hard-rock-ottawa-after-the-goldrush-4-july"
-    },
-    {
-      "source": "gigs",
       "title": "QUEEN KONG at The Black Sheep Inn",
       "date": "2026-07-05",
       "rawDate": "Sunday, July 5, 2026",
@@ -2161,6 +2060,66 @@
       "venue": "27 Club",
       "description": "Genre: Indie",
       "url": "https://ottawagigs.ca/gig/indie-27-club-northcote-8-july"
+    },
+    {
+      "source": "gigs",
+      "title": "YOO II avec Nolan Potter au Minotaure",
+      "date": "2026-07-08",
+      "rawDate": "Wednesday, July 8, 2026",
+      "time": "20:00",
+      "venue": "Minotaure",
+      "description": "Genre: Experimental",
+      "url": "https://ottawagigs.ca/gig/experimental-minotaure-yoo-doo-right-8-july"
+    },
+    {
+      "source": "gigs",
+      "title": "RESTLESS ENDANGERMENT + Static + Sir Kingfish",
+      "date": "2026-07-08",
+      "rawDate": "Wednesday, July 8, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-house-of-targ-restless-endangerment-8-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Rita Baga, une paillette à la fois",
+      "date": "2026-07-09",
+      "rawDate": "Thursday, July 9, 2026",
+      "time": "19:00",
+      "venue": "Club SAW",
+      "description": "Genre: Pop",
+      "url": "https://ottawagigs.ca/gig/pop-club-saw-rita-baga-9-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Blues Double Bill at The Rainbow: The Joel Dupuis Band & The Justin Saladino Band",
+      "date": "2026-07-09",
+      "rawDate": "Thursday, July 9, 2026",
+      "time": "19:30",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Blues",
+      "url": "https://ottawagigs.ca/gig/blues-rainbow-bistro-the-joel-dupuis-band-9-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Live & Local: Woodshed Jazz @ Motel Chelsea!",
+      "date": "2026-07-09",
+      "rawDate": "Thursday, July 9, 2026",
+      "time": "19:30",
+      "venue": "Motel Chelsea",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-motel-chelsea-woodshed-jazz-9-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Peter Hum Quartet",
+      "date": "2026-07-10",
+      "rawDate": "Friday, July 10, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-peter-hum-quartet-10-july"
     },
     {
       "source": "redbird",
@@ -3357,7 +3316,7 @@
       "title": "TAYLOR SWIFT : The Eras Tour",
       "date": "2026-07-11",
       "rawDate": "Jul 11, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Jimmy Moore Drag",
       "url": "https://thegladstone.ca/shows/jimmy-moore-drag-presents-taylor-swift-the-eras-tour/"
@@ -3367,7 +3326,7 @@
       "title": "Confidential Musical Theatre Project",
       "date": "2026-07-18",
       "rawDate": "Jul 18, 2026",
-      "time": null,
+      "time": "19:30",
       "venue": "The Gladstone Theatre",
       "description": "Zucchini Productions",
       "url": "https://thegladstone.ca/shows/confidential-musical-theatre-project-2/"
@@ -3377,7 +3336,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-03",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3387,7 +3346,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-04",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3397,7 +3356,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-05",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3407,7 +3366,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-06",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3417,7 +3376,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-07",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3427,7 +3386,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-08",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3437,7 +3396,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-09",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3447,7 +3406,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-10",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3457,7 +3416,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-11",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3467,7 +3426,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-12",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3477,7 +3436,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-13",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3487,7 +3446,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-14",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3497,7 +3456,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-15",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3507,7 +3466,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-16",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3517,7 +3476,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-17",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3527,7 +3486,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-18",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3537,7 +3496,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-19",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3547,7 +3506,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-20",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3557,7 +3516,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-21",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3567,7 +3526,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-22",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3577,7 +3536,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-23",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3587,7 +3546,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-24",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3597,7 +3556,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-25",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3607,7 +3566,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-26",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3617,7 +3576,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-27",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3627,7 +3586,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-28",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3637,7 +3596,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-29",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3647,7 +3606,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-30",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3657,7 +3616,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-07-31",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3667,7 +3626,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-01",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3677,7 +3636,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-02",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3687,7 +3646,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-03",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3697,7 +3656,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-04",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3707,7 +3666,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-05",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3717,7 +3676,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-06",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3727,7 +3686,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-07",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3737,7 +3696,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-08",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3747,7 +3706,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-09",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3757,7 +3716,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-10",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3767,7 +3726,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-11",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3777,7 +3736,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-12",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3787,7 +3746,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-13",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3797,7 +3756,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-14",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3807,7 +3766,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-15",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3817,7 +3776,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-16",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3827,7 +3786,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-17",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3837,7 +3796,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-18",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3847,7 +3806,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-19",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3857,7 +3816,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-20",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3867,7 +3826,7 @@
       "title": "The Academy for Musical Theatre Summer Series 2026",
       "date": "2026-08-21",
       "rawDate": "Jul 3, 2026",
-      "time": null,
+      "time": "13:30",
       "venue": "The Gladstone Theatre",
       "description": "The Academy for Musical Theatre",
       "url": "https://thegladstone.ca/shows/the-academy-for-musical-theatre-summer-series-2026/"
@@ -3877,7 +3836,7 @@
       "title": "The Unedited Woman",
       "date": "2026-09-13",
       "rawDate": "Sep 13, 2026",
-      "time": null,
+      "time": "44:30",
       "venue": "The Gladstone Theatre",
       "description": "4th Annual Curated Performance Series of Local Women’s True Voices",
       "url": "https://thegladstone.ca/shows/unedited-womans-4th-annual-curated-performance-series-of-local-womens-true-voices/"
@@ -3887,7 +3846,7 @@
       "title": "Divining Spirits",
       "date": "2026-09-17",
       "rawDate": "Sep 17, 2026",
-      "time": null,
+      "time": "19:00",
       "venue": "The Gladstone Theatre",
       "description": "Part of the 2026 Gleanings series \"Heroes & Villains\"",
       "url": "https://thegladstone.ca/shows/divining-spirits/"
@@ -3897,7 +3856,7 @@
       "title": "6th Annual All-Star Ottawa Blues for Youth Fundraiser",
       "date": "2026-09-19",
       "rawDate": "Sep 19, 2026",
-      "time": null,
+      "time": "19:00",
       "venue": "The Gladstone Theatre",
       "description": "in support of Youth Suicide Prevention through The Royal",
       "url": "https://thegladstone.ca/shows/6th-annual-all-star-ottawa-blues-for-youth-fundraiser/"
@@ -3907,7 +3866,7 @@
       "title": "New Life",
       "date": "2026-09-23",
       "rawDate": "Sep 23, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Lost Baggage Musical Theatre",
       "url": "https://thegladstone.ca/shows/new-life/"
@@ -3917,7 +3876,7 @@
       "title": "New Life",
       "date": "2026-09-24",
       "rawDate": "Sep 23, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Lost Baggage Musical Theatre",
       "url": "https://thegladstone.ca/shows/new-life/"
@@ -3927,7 +3886,7 @@
       "title": "New Life",
       "date": "2026-09-25",
       "rawDate": "Sep 23, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Lost Baggage Musical Theatre",
       "url": "https://thegladstone.ca/shows/new-life/"
@@ -3937,7 +3896,7 @@
       "title": "New Life",
       "date": "2026-09-26",
       "rawDate": "Sep 23, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Lost Baggage Musical Theatre",
       "url": "https://thegladstone.ca/shows/new-life/"
@@ -3947,7 +3906,7 @@
       "title": "Constant Companions",
       "date": "2026-09-30",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -3957,7 +3916,7 @@
       "title": "Constant Companions",
       "date": "2026-10-01",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -3967,7 +3926,7 @@
       "title": "Constant Companions",
       "date": "2026-10-02",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -3977,7 +3936,7 @@
       "title": "Constant Companions",
       "date": "2026-10-03",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -3987,7 +3946,7 @@
       "title": "Constant Companions",
       "date": "2026-10-04",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -3997,7 +3956,7 @@
       "title": "Constant Companions",
       "date": "2026-10-05",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -4007,7 +3966,7 @@
       "title": "Constant Companions",
       "date": "2026-10-06",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -4017,7 +3976,7 @@
       "title": "Constant Companions",
       "date": "2026-10-07",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -4027,7 +3986,7 @@
       "title": "Constant Companions",
       "date": "2026-10-08",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -4037,7 +3996,7 @@
       "title": "Constant Companions",
       "date": "2026-10-09",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -4047,7 +4006,7 @@
       "title": "Constant Companions",
       "date": "2026-10-10",
       "rawDate": "Sep 30, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/constant-companions/"
@@ -4057,7 +4016,7 @@
       "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
       "date": "2026-10-16",
       "rawDate": "Oct 16, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "TotoToo Theatre",
       "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
@@ -4067,7 +4026,7 @@
       "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
       "date": "2026-10-17",
       "rawDate": "Oct 16, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "TotoToo Theatre",
       "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
@@ -4077,7 +4036,7 @@
       "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
       "date": "2026-10-18",
       "rawDate": "Oct 16, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "TotoToo Theatre",
       "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
@@ -4087,7 +4046,7 @@
       "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
       "date": "2026-10-19",
       "rawDate": "Oct 16, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "TotoToo Theatre",
       "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
@@ -4097,7 +4056,7 @@
       "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
       "date": "2026-10-20",
       "rawDate": "Oct 16, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "TotoToo Theatre",
       "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
@@ -4107,7 +4066,7 @@
       "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
       "date": "2026-10-21",
       "rawDate": "Oct 16, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "TotoToo Theatre",
       "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
@@ -4117,7 +4076,7 @@
       "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
       "date": "2026-10-22",
       "rawDate": "Oct 16, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "TotoToo Theatre",
       "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
@@ -4127,7 +4086,7 @@
       "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
       "date": "2026-10-23",
       "rawDate": "Oct 16, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "TotoToo Theatre",
       "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
@@ -4137,7 +4096,7 @@
       "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
       "date": "2026-10-24",
       "rawDate": "Oct 16, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "TotoToo Theatre",
       "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
@@ -4147,7 +4106,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-10-28",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4157,7 +4116,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-10-29",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4167,7 +4126,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-10-30",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4177,7 +4136,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-10-31",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4187,7 +4146,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-11-01",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4197,7 +4156,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-11-02",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4207,7 +4166,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-11-03",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4217,7 +4176,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-11-04",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4227,7 +4186,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-11-05",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4237,7 +4196,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-11-06",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4247,7 +4206,7 @@
       "title": "Leonard Cohen: Ten Years Gone",
       "date": "2026-11-07",
       "rawDate": "Oct 28, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A musical tribute by Bear & Co.",
       "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
@@ -4257,7 +4216,7 @@
       "title": "Dracula",
       "date": "2026-11-11",
       "rawDate": "Nov 11, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Adapted by Stephen Hotchner",
       "url": "https://thegladstone.ca/shows/dracula/"
@@ -4267,7 +4226,7 @@
       "title": "Dracula",
       "date": "2026-11-12",
       "rawDate": "Nov 11, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Adapted by Stephen Hotchner",
       "url": "https://thegladstone.ca/shows/dracula/"
@@ -4277,7 +4236,7 @@
       "title": "Dracula",
       "date": "2026-11-13",
       "rawDate": "Nov 11, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Adapted by Stephen Hotchner",
       "url": "https://thegladstone.ca/shows/dracula/"
@@ -4287,7 +4246,7 @@
       "title": "Dracula",
       "date": "2026-11-14",
       "rawDate": "Nov 11, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Adapted by Stephen Hotchner",
       "url": "https://thegladstone.ca/shows/dracula/"
@@ -4297,7 +4256,7 @@
       "title": "Skin Flick",
       "date": "2026-11-20",
       "rawDate": "Nov 20, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/skin-flick/"
@@ -4307,7 +4266,7 @@
       "title": "Skin Flick",
       "date": "2026-11-21",
       "rawDate": "Nov 20, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/skin-flick/"
@@ -4317,7 +4276,7 @@
       "title": "Skin Flick",
       "date": "2026-11-22",
       "rawDate": "Nov 20, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/skin-flick/"
@@ -4327,7 +4286,7 @@
       "title": "Skin Flick",
       "date": "2026-11-23",
       "rawDate": "Nov 20, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/skin-flick/"
@@ -4337,7 +4296,7 @@
       "title": "Skin Flick",
       "date": "2026-11-24",
       "rawDate": "Nov 20, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/skin-flick/"
@@ -4347,7 +4306,7 @@
       "title": "Skin Flick",
       "date": "2026-11-25",
       "rawDate": "Nov 20, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/skin-flick/"
@@ -4357,7 +4316,7 @@
       "title": "Skin Flick",
       "date": "2026-11-26",
       "rawDate": "Nov 20, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/skin-flick/"
@@ -4367,7 +4326,7 @@
       "title": "Skin Flick",
       "date": "2026-11-27",
       "rawDate": "Nov 20, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/skin-flick/"
@@ -4377,7 +4336,7 @@
       "title": "Skin Flick",
       "date": "2026-11-28",
       "rawDate": "Nov 20, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/skin-flick/"
@@ -4387,7 +4346,7 @@
       "title": "Miracle on 34th Street",
       "date": "2026-12-01",
       "rawDate": "Dec 1, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A Live Radio Show",
       "url": "https://thegladstone.ca/shows/miracle-on-34th-street/"
@@ -4397,7 +4356,7 @@
       "title": "Miracle on 34th Street",
       "date": "2026-12-02",
       "rawDate": "Dec 1, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A Live Radio Show",
       "url": "https://thegladstone.ca/shows/miracle-on-34th-street/"
@@ -4407,7 +4366,7 @@
       "title": "Miracle on 34th Street",
       "date": "2026-12-03",
       "rawDate": "Dec 1, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A Live Radio Show",
       "url": "https://thegladstone.ca/shows/miracle-on-34th-street/"
@@ -4417,7 +4376,7 @@
       "title": "Miracle on 34th Street",
       "date": "2026-12-04",
       "rawDate": "Dec 1, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A Live Radio Show",
       "url": "https://thegladstone.ca/shows/miracle-on-34th-street/"
@@ -4427,7 +4386,7 @@
       "title": "Miracle on 34th Street",
       "date": "2026-12-05",
       "rawDate": "Dec 1, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A Live Radio Show",
       "url": "https://thegladstone.ca/shows/miracle-on-34th-street/"
@@ -4437,7 +4396,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-18",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4447,7 +4406,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-19",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4457,7 +4416,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-20",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4467,7 +4426,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-21",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4477,7 +4436,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-22",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4487,7 +4446,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-23",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4497,7 +4456,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-24",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4507,7 +4466,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-25",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4517,7 +4476,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-26",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4527,7 +4486,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-27",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4537,7 +4496,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-28",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4547,7 +4506,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-29",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4557,7 +4516,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-30",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4567,7 +4526,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2026-12-31",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4577,7 +4536,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2027-01-01",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4587,7 +4546,7 @@
       "title": "The Lion, the Witch and the Wardrobe",
       "date": "2027-01-02",
       "rawDate": "Dec 18, 2026",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Aslan is on the move...",
       "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
@@ -4597,7 +4556,7 @@
       "title": "The Snow Queen",
       "date": "2027-01-13",
       "rawDate": "Jan 13, 2027",
-      "time": null,
+      "time": "14:30",
       "venue": "The Gladstone Theatre",
       "description": "A Heartwarming Winter Fairytale for the Whole Family",
       "url": "https://thegladstone.ca/shows/the-snow-queen/"
@@ -4607,7 +4566,7 @@
       "title": "The Snow Queen",
       "date": "2027-01-14",
       "rawDate": "Jan 13, 2027",
-      "time": null,
+      "time": "14:30",
       "venue": "The Gladstone Theatre",
       "description": "A Heartwarming Winter Fairytale for the Whole Family",
       "url": "https://thegladstone.ca/shows/the-snow-queen/"
@@ -4617,7 +4576,7 @@
       "title": "The Snow Queen",
       "date": "2027-01-15",
       "rawDate": "Jan 13, 2027",
-      "time": null,
+      "time": "14:30",
       "venue": "The Gladstone Theatre",
       "description": "A Heartwarming Winter Fairytale for the Whole Family",
       "url": "https://thegladstone.ca/shows/the-snow-queen/"
@@ -4627,7 +4586,7 @@
       "title": "The Snow Queen",
       "date": "2027-01-16",
       "rawDate": "Jan 13, 2027",
-      "time": null,
+      "time": "14:30",
       "venue": "The Gladstone Theatre",
       "description": "A Heartwarming Winter Fairytale for the Whole Family",
       "url": "https://thegladstone.ca/shows/the-snow-queen/"
@@ -4637,7 +4596,7 @@
       "title": "OTTAWA SUITE",
       "date": "2027-01-21",
       "rawDate": "Jan 21, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Rob Frayne and Paul Rainville",
       "url": "https://thegladstone.ca/shows/ottawa-suite/"
@@ -4647,7 +4606,7 @@
       "title": "OTTAWA SUITE",
       "date": "2027-01-22",
       "rawDate": "Jan 21, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Rob Frayne and Paul Rainville",
       "url": "https://thegladstone.ca/shows/ottawa-suite/"
@@ -4657,7 +4616,7 @@
       "title": "OTTAWA SUITE",
       "date": "2027-01-23",
       "rawDate": "Jan 21, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Rob Frayne and Paul Rainville",
       "url": "https://thegladstone.ca/shows/ottawa-suite/"
@@ -4667,7 +4626,7 @@
       "title": "OTTAWA SUITE",
       "date": "2027-01-24",
       "rawDate": "Jan 21, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Rob Frayne and Paul Rainville",
       "url": "https://thegladstone.ca/shows/ottawa-suite/"
@@ -4677,7 +4636,7 @@
       "title": "SWEAT",
       "date": "2027-01-27",
       "rawDate": "Jan 27, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Marginally Fit Productions",
       "url": "https://thegladstone.ca/shows/sweat/"
@@ -4687,7 +4646,7 @@
       "title": "SWEAT",
       "date": "2027-01-28",
       "rawDate": "Jan 27, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Marginally Fit Productions",
       "url": "https://thegladstone.ca/shows/sweat/"
@@ -4697,7 +4656,7 @@
       "title": "SWEAT",
       "date": "2027-01-29",
       "rawDate": "Jan 27, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Marginally Fit Productions",
       "url": "https://thegladstone.ca/shows/sweat/"
@@ -4707,7 +4666,7 @@
       "title": "SWEAT",
       "date": "2027-01-30",
       "rawDate": "Jan 27, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Marginally Fit Productions",
       "url": "https://thegladstone.ca/shows/sweat/"
@@ -4717,7 +4676,7 @@
       "title": "JOSIAH",
       "date": "2027-02-02",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4727,7 +4686,7 @@
       "title": "JOSIAH",
       "date": "2027-02-03",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4737,7 +4696,7 @@
       "title": "JOSIAH",
       "date": "2027-02-04",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4747,7 +4706,7 @@
       "title": "JOSIAH",
       "date": "2027-02-05",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4757,7 +4716,7 @@
       "title": "JOSIAH",
       "date": "2027-02-06",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4767,7 +4726,7 @@
       "title": "JOSIAH",
       "date": "2027-02-07",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4777,7 +4736,7 @@
       "title": "JOSIAH",
       "date": "2027-02-08",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4787,7 +4746,7 @@
       "title": "JOSIAH",
       "date": "2027-02-09",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4797,7 +4756,7 @@
       "title": "JOSIAH",
       "date": "2027-02-10",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4807,7 +4766,7 @@
       "title": "JOSIAH",
       "date": "2027-02-11",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4817,7 +4776,7 @@
       "title": "JOSIAH",
       "date": "2027-02-12",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4827,7 +4786,7 @@
       "title": "JOSIAH",
       "date": "2027-02-13",
       "rawDate": "Feb 2, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Thousand Miles of Bricks Productions",
       "url": "https://thegladstone.ca/shows/josiah-2/"
@@ -4837,7 +4796,7 @@
       "title": "The Crucible",
       "date": "2027-02-17",
       "rawDate": "Feb 17, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Salem is Burning. Will You Lie to Save Yourself?",
       "url": "https://thegladstone.ca/shows/the-crucible/"
@@ -4847,7 +4806,7 @@
       "title": "The Crucible",
       "date": "2027-02-18",
       "rawDate": "Feb 17, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Salem is Burning. Will You Lie to Save Yourself?",
       "url": "https://thegladstone.ca/shows/the-crucible/"
@@ -4857,7 +4816,7 @@
       "title": "The Crucible",
       "date": "2027-02-19",
       "rawDate": "Feb 17, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Salem is Burning. Will You Lie to Save Yourself?",
       "url": "https://thegladstone.ca/shows/the-crucible/"
@@ -4867,7 +4826,7 @@
       "title": "The Crucible",
       "date": "2027-02-20",
       "rawDate": "Feb 17, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Salem is Burning. Will You Lie to Save Yourself?",
       "url": "https://thegladstone.ca/shows/the-crucible/"
@@ -4877,7 +4836,7 @@
       "title": "Half-Cracked",
       "date": "2027-02-24",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4887,7 +4846,7 @@
       "title": "Half-Cracked",
       "date": "2027-02-25",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4897,7 +4856,7 @@
       "title": "Half-Cracked",
       "date": "2027-02-26",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4907,7 +4866,7 @@
       "title": "Half-Cracked",
       "date": "2027-02-27",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4917,7 +4876,7 @@
       "title": "Half-Cracked",
       "date": "2027-02-28",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4927,7 +4886,7 @@
       "title": "Half-Cracked",
       "date": "2027-03-01",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4937,7 +4896,7 @@
       "title": "Half-Cracked",
       "date": "2027-03-02",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4947,7 +4906,7 @@
       "title": "Half-Cracked",
       "date": "2027-03-03",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4957,7 +4916,7 @@
       "title": "Half-Cracked",
       "date": "2027-03-04",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4967,7 +4926,7 @@
       "title": "Half-Cracked",
       "date": "2027-03-05",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4977,7 +4936,7 @@
       "title": "Half-Cracked",
       "date": "2027-03-06",
       "rawDate": "Feb 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Legend of Sissy Mary",
       "url": "https://thegladstone.ca/shows/half-cracked/"
@@ -4987,7 +4946,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-10",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -4997,7 +4956,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-11",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -5007,7 +4966,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-12",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -5017,7 +4976,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-13",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -5027,7 +4986,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-14",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -5037,7 +4996,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-15",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -5047,7 +5006,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-16",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -5057,7 +5016,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-17",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -5067,7 +5026,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-18",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -5077,7 +5036,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-19",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -5087,7 +5046,7 @@
       "title": "Romeo & Juliet",
       "date": "2027-03-20",
       "rawDate": "Mar 10, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "by William Shakespeare",
       "url": "https://thegladstone.ca/shows/romeo-juliet/"
@@ -5097,7 +5056,7 @@
       "title": "Proxima Centauri",
       "date": "2027-03-24",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5107,7 +5066,7 @@
       "title": "Proxima Centauri",
       "date": "2027-03-25",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5117,7 +5076,7 @@
       "title": "Proxima Centauri",
       "date": "2027-03-26",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5127,7 +5086,7 @@
       "title": "Proxima Centauri",
       "date": "2027-03-27",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5137,7 +5096,7 @@
       "title": "Proxima Centauri",
       "date": "2027-03-28",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5147,7 +5106,7 @@
       "title": "Proxima Centauri",
       "date": "2027-03-29",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5157,7 +5116,7 @@
       "title": "Proxima Centauri",
       "date": "2027-03-30",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5167,7 +5126,7 @@
       "title": "Proxima Centauri",
       "date": "2027-03-31",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5177,7 +5136,7 @@
       "title": "Proxima Centauri",
       "date": "2027-04-01",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5187,7 +5146,7 @@
       "title": "Proxima Centauri",
       "date": "2027-04-02",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5197,7 +5156,7 @@
       "title": "Proxima Centauri",
       "date": "2027-04-03",
       "rawDate": "Mar 24, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "The Proxima Centauri Collective",
       "url": "https://thegladstone.ca/shows/3698/"
@@ -5207,7 +5166,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-07",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5217,7 +5176,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-08",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5227,7 +5186,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-09",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5237,7 +5196,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-10",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5247,7 +5206,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-11",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5257,7 +5216,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-12",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5267,7 +5226,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-13",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5277,7 +5236,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-14",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5287,7 +5246,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-15",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5297,7 +5256,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-16",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5307,7 +5266,7 @@
       "title": "Alice in Wonderland",
       "date": "2027-04-17",
       "rawDate": "Apr 7, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "An adventure through nonsense",
       "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
@@ -5317,7 +5276,7 @@
       "title": "RED",
       "date": "2027-04-23",
       "rawDate": "Apr 23, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/red/"
@@ -5327,7 +5286,7 @@
       "title": "RED",
       "date": "2027-04-24",
       "rawDate": "Apr 23, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/red/"
@@ -5337,7 +5296,7 @@
       "title": "RED",
       "date": "2027-04-25",
       "rawDate": "Apr 23, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/red/"
@@ -5347,7 +5306,7 @@
       "title": "RED",
       "date": "2027-04-26",
       "rawDate": "Apr 23, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/red/"
@@ -5357,7 +5316,7 @@
       "title": "RED",
       "date": "2027-04-27",
       "rawDate": "Apr 23, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/red/"
@@ -5367,7 +5326,7 @@
       "title": "RED",
       "date": "2027-04-28",
       "rawDate": "Apr 23, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/red/"
@@ -5377,7 +5336,7 @@
       "title": "RED",
       "date": "2027-04-29",
       "rawDate": "Apr 23, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/red/"
@@ -5387,7 +5346,7 @@
       "title": "RED",
       "date": "2027-04-30",
       "rawDate": "Apr 23, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/red/"
@@ -5397,7 +5356,7 @@
       "title": "RED",
       "date": "2027-05-01",
       "rawDate": "Apr 23, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Phoenix Players",
       "url": "https://thegladstone.ca/shows/red/"
@@ -5407,7 +5366,7 @@
       "title": "The Cripple of Inishmaan",
       "date": "2027-05-06",
       "rawDate": "May 6, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
@@ -5417,7 +5376,7 @@
       "title": "The Cripple of Inishmaan",
       "date": "2027-05-07",
       "rawDate": "May 6, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
@@ -5427,7 +5386,7 @@
       "title": "The Cripple of Inishmaan",
       "date": "2027-05-08",
       "rawDate": "May 6, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
@@ -5437,7 +5396,7 @@
       "title": "The Cripple of Inishmaan",
       "date": "2027-05-09",
       "rawDate": "May 6, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
@@ -5447,7 +5406,7 @@
       "title": "The Cripple of Inishmaan",
       "date": "2027-05-10",
       "rawDate": "May 6, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
@@ -5457,7 +5416,7 @@
       "title": "The Cripple of Inishmaan",
       "date": "2027-05-11",
       "rawDate": "May 6, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
@@ -5467,7 +5426,7 @@
       "title": "The Cripple of Inishmaan",
       "date": "2027-05-12",
       "rawDate": "May 6, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
@@ -5477,7 +5436,7 @@
       "title": "The Cripple of Inishmaan",
       "date": "2027-05-13",
       "rawDate": "May 6, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
@@ -5487,7 +5446,7 @@
       "title": "The Cripple of Inishmaan",
       "date": "2027-05-14",
       "rawDate": "May 6, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
@@ -5497,7 +5456,7 @@
       "title": "The Cripple of Inishmaan",
       "date": "2027-05-15",
       "rawDate": "May 6, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Tullamore Productions",
       "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
@@ -5507,7 +5466,7 @@
       "title": "Frankenstein Ai",
       "date": "2027-05-20",
       "rawDate": "May 20, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "More than Human. Less than Alive.",
       "url": "https://thegladstone.ca/shows/frankenstein-ai/"
@@ -5517,7 +5476,7 @@
       "title": "Frankenstein Ai",
       "date": "2027-05-21",
       "rawDate": "May 20, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "More than Human. Less than Alive.",
       "url": "https://thegladstone.ca/shows/frankenstein-ai/"
@@ -5527,7 +5486,7 @@
       "title": "Frankenstein Ai",
       "date": "2027-05-22",
       "rawDate": "May 20, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "More than Human. Less than Alive.",
       "url": "https://thegladstone.ca/shows/frankenstein-ai/"
@@ -5537,7 +5496,7 @@
       "title": "Frankenstein Ai",
       "date": "2027-05-23",
       "rawDate": "May 20, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "More than Human. Less than Alive.",
       "url": "https://thegladstone.ca/shows/frankenstein-ai/"
@@ -5547,7 +5506,7 @@
       "title": "Frankenstein Ai",
       "date": "2027-05-24",
       "rawDate": "May 20, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "More than Human. Less than Alive.",
       "url": "https://thegladstone.ca/shows/frankenstein-ai/"
@@ -5557,7 +5516,7 @@
       "title": "Frankenstein Ai",
       "date": "2027-05-25",
       "rawDate": "May 20, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "More than Human. Less than Alive.",
       "url": "https://thegladstone.ca/shows/frankenstein-ai/"
@@ -5567,7 +5526,7 @@
       "title": "Frankenstein Ai",
       "date": "2027-05-26",
       "rawDate": "May 20, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "More than Human. Less than Alive.",
       "url": "https://thegladstone.ca/shows/frankenstein-ai/"
@@ -5577,7 +5536,7 @@
       "title": "Frankenstein Ai",
       "date": "2027-05-27",
       "rawDate": "May 20, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "More than Human. Less than Alive.",
       "url": "https://thegladstone.ca/shows/frankenstein-ai/"
@@ -5587,7 +5546,7 @@
       "title": "Frankenstein Ai",
       "date": "2027-05-28",
       "rawDate": "May 20, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "More than Human. Less than Alive.",
       "url": "https://thegladstone.ca/shows/frankenstein-ai/"
@@ -5597,7 +5556,7 @@
       "title": "Frankenstein Ai",
       "date": "2027-05-29",
       "rawDate": "May 20, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "More than Human. Less than Alive.",
       "url": "https://thegladstone.ca/shows/frankenstein-ai/"
@@ -5607,7 +5566,7 @@
       "title": "Dear Elizabeth",
       "date": "2027-06-09",
       "rawDate": "Jun 9, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A sort of a love story.",
       "url": "https://thegladstone.ca/shows/dear-elizabeth/"
@@ -5617,7 +5576,7 @@
       "title": "Dear Elizabeth",
       "date": "2027-06-10",
       "rawDate": "Jun 9, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A sort of a love story.",
       "url": "https://thegladstone.ca/shows/dear-elizabeth/"
@@ -5627,7 +5586,7 @@
       "title": "Dear Elizabeth",
       "date": "2027-06-11",
       "rawDate": "Jun 9, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A sort of a love story.",
       "url": "https://thegladstone.ca/shows/dear-elizabeth/"
@@ -5637,7 +5596,7 @@
       "title": "Dear Elizabeth",
       "date": "2027-06-12",
       "rawDate": "Jun 9, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "A sort of a love story.",
       "url": "https://thegladstone.ca/shows/dear-elizabeth/"
@@ -5647,7 +5606,7 @@
       "title": "Animal KinkDom",
       "date": "2027-06-18",
       "rawDate": "Jun 18, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Come get Wild",
       "url": "https://thegladstone.ca/shows/animal-kinkdom/"
@@ -5657,7 +5616,7 @@
       "title": "Animal KinkDom",
       "date": "2027-06-19",
       "rawDate": "Jun 18, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Come get Wild",
       "url": "https://thegladstone.ca/shows/animal-kinkdom/"
@@ -5667,7 +5626,7 @@
       "title": "Animal KinkDom",
       "date": "2027-06-20",
       "rawDate": "Jun 18, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Come get Wild",
       "url": "https://thegladstone.ca/shows/animal-kinkdom/"
@@ -5677,7 +5636,7 @@
       "title": "Animal KinkDom",
       "date": "2027-06-21",
       "rawDate": "Jun 18, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Come get Wild",
       "url": "https://thegladstone.ca/shows/animal-kinkdom/"
@@ -5687,7 +5646,7 @@
       "title": "Animal KinkDom",
       "date": "2027-06-22",
       "rawDate": "Jun 18, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Come get Wild",
       "url": "https://thegladstone.ca/shows/animal-kinkdom/"
@@ -5697,7 +5656,7 @@
       "title": "Animal KinkDom",
       "date": "2027-06-23",
       "rawDate": "Jun 18, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Come get Wild",
       "url": "https://thegladstone.ca/shows/animal-kinkdom/"
@@ -5707,7 +5666,7 @@
       "title": "Animal KinkDom",
       "date": "2027-06-24",
       "rawDate": "Jun 18, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Come get Wild",
       "url": "https://thegladstone.ca/shows/animal-kinkdom/"
@@ -5717,7 +5676,7 @@
       "title": "Animal KinkDom",
       "date": "2027-06-25",
       "rawDate": "Jun 18, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Come get Wild",
       "url": "https://thegladstone.ca/shows/animal-kinkdom/"
@@ -5727,7 +5686,7 @@
       "title": "Animal KinkDom",
       "date": "2027-06-26",
       "rawDate": "Jun 18, 2027",
-      "time": null,
+      "time": "11:00",
       "venue": "The Gladstone Theatre",
       "description": "Come get Wild",
       "url": "https://thegladstone.ca/shows/animal-kinkdom/"
@@ -7260,16 +7219,6 @@
     },
     {
       "source": "bronson",
-      "title": "OFF CAMPUS NIGHT",
-      "date": "2026-07-04",
-      "rawDate": "Saturday, Jul 4, Doors: 9pm",
-      "time": "21:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/off-campus-night/"
-    },
-    {
-      "source": "bronson",
       "title": "Otoboke Beaver",
       "date": "2026-07-21",
       "rawDate": "Tuesday, Jul 21, Doors: 7pm",
@@ -8127,6 +8076,366 @@
       "venue": "Club SAW",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/festival-close-raphael-weinroth-browne/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Emily Jean Flack",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Steph Strings",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Nicolas Pellerin & Les Grands Hurleurs",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Marcus King Band",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Ashley Macisaac",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Alabama Shakes",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Fine Food Market",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Sam Drysdale",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "The Codas",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Stella Lefty",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "The White Buffalo",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Cameron Whitcomb",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Tennyson King",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "The New Hires",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Gwenifer Raymond",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Carson Cameron",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Switchfoot",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Jensen Mcrae",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Carson Cameron",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Third Eye Blind",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Teilhard Frost",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Ken Presse",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Jobi Riccio",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Vicki Brittle",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Angus & Julia Stone",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Pokey Lafarge",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Vicki Brittle",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Of Monsters And Men",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Steady Rain",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Bad Nerves",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Panic Shack",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "David James Allen",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Sex Pistols (steve Jones, Paul Cook, Glen Matlock) Featuring Frank Carter",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Amigo The Devil",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "David James Allen",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Alice Cooper",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
     },
     {
       "source": "motelchelsea",
