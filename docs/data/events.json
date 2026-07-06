@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-07-05T09:13:41.862Z",
-  "totalEvents": 823,
+  "scrapedAt": "2026-07-06T10:47:12.151Z",
+  "totalEvents": 821,
   "errors": [],
   "events": [
     {
@@ -1963,76 +1963,6 @@
     },
     {
       "source": "gigs",
-      "title": "QUEEN KONG at The Black Sheep Inn",
-      "date": "2026-07-05",
-      "rawDate": "Sunday, July 5, 2026",
-      "time": "14:00",
-      "venue": "The Black Sheep Inn",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-black-sheep-inn-queen-kong-5-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Mike Rud & Roddy Ellias: Guitar Geniuses",
-      "date": "2026-07-05",
-      "rawDate": "Sunday, July 5, 2026",
-      "time": "14:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-mike-rud-roddy-ellias-5-july"
-    },
-    {
-      "source": "gigs",
-      "title": "NIGHT TWO: Fred Eaglesmith LIVE @ Motel Chelsea!",
-      "date": "2026-07-05",
-      "rawDate": "Sunday, July 5, 2026",
-      "time": "16:30",
-      "venue": "Motel Chelsea",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-fred-eaglesmith-5-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Steve Marriner",
-      "date": "2026-07-05",
-      "rawDate": "Sunday, July 5, 2026",
-      "time": "19:00",
-      "venue": "Ottawa Tennis Club",
-      "description": "Genre: Blues",
-      "url": "https://ottawagigs.ca/gig/blues-ottawa-tennis-club-176-cameron-ave-0ttawa-2026-07-05"
-    },
-    {
-      "source": "gigs",
-      "title": "Chuck Ragan",
-      "date": "2026-07-05",
-      "rawDate": "Sunday, July 5, 2026",
-      "time": "19:30",
-      "venue": "27 Club",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-27-club-chuck-ragan-5-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Fundraiser For Highjinx",
-      "date": "2026-07-05",
-      "rawDate": "Sunday, July 5, 2026",
-      "time": "19:30",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-rainbow-bistro-jai-vinyl-5-july"
-    },
-    {
-      "source": "gigs",
-      "title": "The Sunday Night Revue",
-      "date": "2026-07-05",
-      "rawDate": "Sunday, July 5, 2026",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-irenes-the-sunday-night-revue-5-july"
-    },
-    {
-      "source": "gigs",
       "title": "The Folk Collusion: Kate Greenland & Loch Nisse Monster",
       "date": "2026-07-07",
       "rawDate": "Tuesday, July 7, 2026",
@@ -2120,6 +2050,66 @@
       "venue": "The Robo Lounge",
       "description": "Genre: Jazz",
       "url": "https://ottawagigs.ca/gig/jazz-bar-robo-peter-hum-quartet-10-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Knitting (MTL) + Mairi (OTT)",
+      "date": "2026-07-10",
+      "rawDate": "Friday, July 10, 2026",
+      "time": "19:00",
+      "venue": "Fono",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-fono-knitting-10-july"
+    },
+    {
+      "source": "gigs",
+      "title": "80s DANCE PARTY w DJ Remi Royale + One Vision (80s Pop Hitz Live)",
+      "date": "2026-07-10",
+      "rawDate": "Friday, July 10, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Pop",
+      "url": "https://ottawagigs.ca/gig/pop-house-of-targ-dj-remi-royale-10-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Rachael Kilgour LIVE @ Motel Chelsea!",
+      "date": "2026-07-10",
+      "rawDate": "Friday, July 10, 2026",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-rachael-kilgour-10-july"
+    },
+    {
+      "source": "gigs",
+      "title": "White Wolf Entertainment 3 Year Anniversary Party",
+      "date": "2026-07-10",
+      "rawDate": "Friday, July 10, 2026",
+      "time": "20:00",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Hip Hop",
+      "url": "https://ottawagigs.ca/gig/hip-hop-rainbow-bistro-dev-l-10-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Ambush",
+      "date": "2026-07-10",
+      "rawDate": "Friday, July 10, 2026",
+      "time": "21:30",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-ambush-10-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Emo Night Ottawa - Divorced Dad Rock Night",
+      "date": "2026-07-10",
+      "rawDate": "Friday, July 10, 2026",
+      "time": "22:00",
+      "venue": "27 Club",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-27-club-limp-bizkit-unofficial-10-july"
     },
     {
       "source": "redbird",
@@ -7469,16 +7459,6 @@
     },
     {
       "source": "chamberfest",
-      "title": "SOLD OUT! | VOCES8 at the Isabel",
-      "date": "2026-07-05",
-      "rawDate": "Jul 5 2026",
-      "time": "19:30",
-      "venue": "Isabel Bader Centre for the Performing Arts",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2025/voces8-isabel/"
-    },
-    {
-      "source": "chamberfest",
       "title": "Prime Time: Gryphon Trio",
       "date": "2026-07-23",
       "rawDate": "Jul 23 2026",
@@ -8439,23 +8419,23 @@
     },
     {
       "source": "motelchelsea",
-      "title": "The Paugan Dames with Special Opener Paul Hampsey",
-      "date": "2027-07-03",
-      "rawDate": "JULY 03",
-      "time": "20:00",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/friday-july-3-the-paugan-dames-with-special-opener-paul-hampsey-8-00pm"
-    },
-    {
-      "source": "motelchelsea",
       "title": "Love to FolkPRIME Fred Eaglesmith",
-      "date": "2026-07-05",
+      "date": "2027-07-05",
       "rawDate": "JULY 05",
       "time": "16:30",
       "venue": "Motel Chelsea",
       "description": null,
       "url": "https://www.motelchelsea.com/post/sunday-july-5-fred-eaglesmith-4-30pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "Rachael Kilgour",
+      "date": "2026-07-10",
+      "rawDate": "JULY 10",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/friday-july-10-rachael-kilgour-8-00pm"
     }
   ]
 }
