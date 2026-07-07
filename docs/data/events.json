@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-07-06T10:47:12.151Z",
-  "totalEvents": 821,
+  "scrapedAt": "2026-07-07T09:52:00.090Z",
+  "totalEvents": 820,
   "errors": [],
   "events": [
     {
@@ -1973,6 +1973,16 @@
     },
     {
       "source": "gigs",
+      "title": "World Famous Open Mic",
+      "date": "2026-07-07",
+      "rawDate": "Tuesday, July 7, 2026",
+      "time": "20:00",
+      "venue": "The Laff",
+      "description": "Genre: Alternative",
+      "url": "https://ottawagigs.ca/gig/alternative-the-laff-john-carroll-7-july"
+    },
+    {
+      "source": "gigs",
       "title": "Free happy hour show! Dave Plays Elton!",
       "date": "2026-07-08",
       "rawDate": "Wednesday, July 8, 2026",
@@ -2013,6 +2023,16 @@
     },
     {
       "source": "gigs",
+      "title": "The John Carroll Show",
+      "date": "2026-07-08",
+      "rawDate": "Wednesday, July 8, 2026",
+      "time": "20:00",
+      "venue": "The Laff",
+      "description": "Genre: Blues",
+      "url": "https://ottawagigs.ca/gig/blues-the-laff-john-carroll-8-july"
+    },
+    {
+      "source": "gigs",
       "title": "Rita Baga, une paillette à la fois",
       "date": "2026-07-09",
       "rawDate": "Thursday, July 9, 2026",
@@ -2040,6 +2060,26 @@
       "venue": "Motel Chelsea",
       "description": "Genre: Jazz",
       "url": "https://ottawagigs.ca/gig/jazz-motel-chelsea-woodshed-jazz-9-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Thursday Night Live: Nick Cooper Duo",
+      "date": "2026-07-09",
+      "rawDate": "Thursday, July 9, 2026",
+      "time": "21:00",
+      "venue": "The Laff",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-the-laff-nick-cooper-duo-9-july"
+    },
+    {
+      "source": "gigs",
+      "title": "the world's most amazing music: It Shines, Buy Her Candy, Bitter Half, and Prairie Princess",
+      "date": "2026-07-10",
+      "rawDate": "Friday, July 10, 2026",
+      "time": "16:30",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-avant-garde-bar-it-shines-10-july"
     },
     {
       "source": "gigs",
@@ -2080,36 +2120,6 @@
       "venue": "Motel Chelsea",
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-rachael-kilgour-10-july"
-    },
-    {
-      "source": "gigs",
-      "title": "White Wolf Entertainment 3 Year Anniversary Party",
-      "date": "2026-07-10",
-      "rawDate": "Friday, July 10, 2026",
-      "time": "20:00",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Hip Hop",
-      "url": "https://ottawagigs.ca/gig/hip-hop-rainbow-bistro-dev-l-10-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Ambush",
-      "date": "2026-07-10",
-      "rawDate": "Friday, July 10, 2026",
-      "time": "21:30",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-ambush-10-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Emo Night Ottawa - Divorced Dad Rock Night",
-      "date": "2026-07-10",
-      "rawDate": "Friday, July 10, 2026",
-      "time": "22:00",
-      "venue": "27 Club",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-27-club-limp-bizkit-unofficial-10-july"
     },
     {
       "source": "redbird",
@@ -2180,6 +2190,16 @@
       "venue": "Red Bird Live",
       "description": "\n“An introspective, homespun philosopher” - New York Times\nSteve Forbert is a true American musical treasure, underscored by the new album, Daylight Savings Time. Like all his albums, it's saturated w",
       "url": "https://www.showpass.com/steve-forbert-2/"
+    },
+    {
+      "source": "redbird",
+      "title": "Steve Forbert",
+      "date": "2026-07-18",
+      "rawDate": "2026-07-18",
+      "time": "6:00 p.m.",
+      "venue": "Red Bird Live",
+      "description": "\n“An introspective, homespun philosopher” - New York Times\nSteve Forbert is a true American musical treasure, underscored by the new album, Daylight Savings Time. Like all his albums, it's saturated w",
+      "url": "https://www.showpass.com/steve-forbert-4/"
     },
     {
       "source": "redbird",
@@ -2460,36 +2480,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "The Rembros Present an Evening of The Stones with Special Guest Side Pocket (Side Pocket has Cancelled due to illness).",
-      "date": "2026-07-03",
-      "rawDate": "Jul 3",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "The Rembros Side Pocket Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/the-rembros-1"
-    },
-    {
-      "source": "irenes",
-      "title": "Four Eyed Muscle Man with Special Guests Mama Mush",
-      "date": "2026-07-04",
-      "rawDate": "Jul 4",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Four Eyed Muscle Man Mama Mush Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/four-eyed-muscle-man"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue with Special Guests Koromanti & The North Star",
-      "date": "2026-07-05",
-      "rawDate": "Jul 5",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night RevueKoromanti & The North Star",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-xd3tz"
     },
     {
       "source": "irenes",
@@ -3003,6 +2993,36 @@
     },
     {
       "source": "irenes",
+      "title": "The Sunday Night Revue with Special Guests Koromanti & The North Star",
+      "date": "2026-07-05",
+      "rawDate": "Jul 5",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night RevueKoromanti & The North Star",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-xd3tz"
+    },
+    {
+      "source": "irenes",
+      "title": "Four Eyed Muscle Man with Special Guests Mama Mush",
+      "date": "2026-07-04",
+      "rawDate": "Jul 4",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Four Eyed Muscle Man Mama Mush Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/four-eyed-muscle-man"
+    },
+    {
+      "source": "irenes",
+      "title": "The Rembros Present an Evening of The Stones with Special Guest Side Pocket (Side Pocket has Cancelled due to illness).",
+      "date": "2026-07-03",
+      "rawDate": "Jul 3",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Rembros Side Pocket Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/the-rembros-1"
+    },
+    {
+      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Gregor Sneddon",
       "date": "2026-07-02",
       "rawDate": "Jul 2",
@@ -3270,36 +3290,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-gdl77"
-    },
-    {
-      "source": "irenes",
-      "title": "Ottawa Jazz Festival Homegrown Local Club Series Presents Loon Choir",
-      "date": "2026-06-01",
-      "rawDate": "Jun 1",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "FREE SHOW !! Ottawa Jazz Festival Loon Choir",
-      "url": "https://irenespub.ca/events/ottawa-jazz-festival-home-grown-series"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue with Special Guest Joe Abbott",
-      "date": "2026-05-31",
-      "rawDate": "May 31",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-nnc8a"
-    },
-    {
-      "source": "irenes",
-      "title": "Ali McCormick & Vicki Brittle w/ special guest Mudfish",
-      "date": "2026-05-31",
-      "rawDate": "May 31",
-      "time": "15:00",
-      "venue": "Irene's Pub",
-      "description": "Ali McCormick Vicki Brittle Mudfish Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/ali-mccormick-with-vicki-brittle-mudfish"
     },
     {
       "source": "gladstone",
@@ -3858,7 +3848,7 @@
       "rawDate": "Sep 23, 2026",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "Lost Baggage Musical Theatre",
+      "description": "A Musical",
       "url": "https://thegladstone.ca/shows/new-life/"
     },
     {
@@ -3868,7 +3858,7 @@
       "rawDate": "Sep 23, 2026",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "Lost Baggage Musical Theatre",
+      "description": "A Musical",
       "url": "https://thegladstone.ca/shows/new-life/"
     },
     {
@@ -3878,7 +3868,7 @@
       "rawDate": "Sep 23, 2026",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "Lost Baggage Musical Theatre",
+      "description": "A Musical",
       "url": "https://thegladstone.ca/shows/new-life/"
     },
     {
@@ -3888,7 +3878,7 @@
       "rawDate": "Sep 23, 2026",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "Lost Baggage Musical Theatre",
+      "description": "A Musical",
       "url": "https://thegladstone.ca/shows/new-life/"
     },
     {
