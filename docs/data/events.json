@@ -1,63 +1,8 @@
 {
-  "scrapedAt": "2026-07-20T09:23:31.287Z",
-  "totalEvents": 691,
+  "scrapedAt": "2026-07-21T08:37:42.313Z",
+  "totalEvents": 715,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop in Halifax",
-      "subtitle": "with Mary Ellen MacLean",
-      "date": "2026-07-20",
-      "rawDate": "2026-07-20",
-      "time": "10:00",
-      "venue": "Universalist Unitarian Community of Halifax Communauté unitarienne universaliste d'Halifax",
-      "description": "with Mary Ellen MacLean",
-      "url": "https://nac-cna.ca/en/event/41696"
-    },
-    {
-      "source": "nac",
-      "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop in Halifax",
-      "subtitle": "with Mary Ellen MacLean",
-      "date": "2026-07-21",
-      "rawDate": "2026-07-21",
-      "time": "10:00",
-      "venue": "Universalist Unitarian Community of Halifax Communauté unitarienne universaliste d'Halifax",
-      "description": "with Mary Ellen MacLean",
-      "url": "https://nac-cna.ca/en/event/41696"
-    },
-    {
-      "source": "nac",
-      "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop in Halifax",
-      "subtitle": "with Mary Ellen MacLean",
-      "date": "2026-07-22",
-      "rawDate": "2026-07-22",
-      "time": "10:00",
-      "venue": "Universalist Unitarian Community of Halifax Communauté unitarienne universaliste d'Halifax",
-      "description": "with Mary Ellen MacLean",
-      "url": "https://nac-cna.ca/en/event/41696"
-    },
-    {
-      "source": "nac",
-      "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop in Halifax",
-      "subtitle": "with Mary Ellen MacLean",
-      "date": "2026-07-23",
-      "rawDate": "2026-07-23",
-      "time": "10:00",
-      "venue": "Universalist Unitarian Community of Halifax Communauté unitarienne universaliste d'Halifax",
-      "description": "with Mary Ellen MacLean",
-      "url": "https://nac-cna.ca/en/event/41696"
-    },
-    {
-      "source": "nac",
-      "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop in Halifax",
-      "subtitle": "with Mary Ellen MacLean",
-      "date": "2026-07-24",
-      "rawDate": "2026-07-24",
-      "time": "10:00",
-      "venue": "Universalist Unitarian Community of Halifax Communauté unitarienne universaliste d'Halifax",
-      "description": "with Mary Ellen MacLean",
-      "url": "https://nac-cna.ca/en/event/41696"
-    },
     {
       "source": "nac",
       "title": "Brìghde Chaimbeul",
@@ -1049,6 +994,17 @@
       "url": "https://nac-cna.ca/en/event/41708"
     },
     {
+      "source": "nac",
+      "title": "True Mountain Laurel",
+      "subtitle": "Haley Blais & Sam Lynch",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Haley Blais & Sam Lynch",
+      "url": "https://nac-cna.ca/en/event/41853"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2026-08-12",
@@ -1070,26 +1026,6 @@
     },
     {
       "source": "gigs",
-      "title": "Francis Baptiste, with GFRN and Adam Fortas",
-      "date": "2026-07-20",
-      "rawDate": "Monday, July 20, 2026",
-      "time": "19:00",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Indie",
-      "url": "https://ottawagigs.ca/gig/indie-rainbow-bistro-francis-baptiste-20-july"
-    },
-    {
-      "source": "gigs",
-      "title": "5 Star Monday Band",
-      "date": "2026-07-20",
-      "rawDate": "Monday, July 20, 2026",
-      "time": "20:00",
-      "venue": "The Laff",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-the-laff-five-star-monday-band-20-july"
-    },
-    {
-      "source": "gigs",
       "title": "Aneurysm- A Tribute To Nirvana + The Bloodshots",
       "date": "2026-07-21",
       "rawDate": "Tuesday, July 21, 2026",
@@ -1097,16 +1033,6 @@
       "venue": "Rainbow Bistro",
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/gig/rock-rainbow-bistro-aneurysm-21-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Otoboke Beaver",
-      "date": "2026-07-21",
-      "rawDate": "Tuesday, July 21, 2026",
-      "time": "19:00",
-      "venue": "Bronson Centre",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/gig/punk-bronson-centre-otoboke-beaver-21-july"
     },
     {
       "source": "gigs",
@@ -1247,6 +1173,26 @@
       "venue": "Motel Chelsea",
       "description": "Genre: Folk",
       "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-christine-graves-23-july"
+    },
+    {
+      "source": "gigs",
+      "title": "KINGFISHER + Bill McNeal + Twenty Paces Apart",
+      "date": "2026-07-23",
+      "rawDate": "Thursday, July 23, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Punk",
+      "url": "https://ottawagigs.ca/gig/punk-house-of-targ-kingfisher-23-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Third Rail Transmission + Paraphonique",
+      "date": "2026-07-23",
+      "rawDate": "Thursday, July 23, 2026",
+      "time": "20:00",
+      "venue": "Fono",
+      "description": "Genre: Experimental",
+      "url": "https://ottawagigs.ca/gig/experimental-fono-third-rail-transmission-23-july"
     },
     {
       "source": "redbird",
@@ -1765,7 +1711,7 @@
       "rawDate": "Aug 5",
       "time": "20:30",
       "venue": "Irene's Pub",
-      "description": "The Prime Rib Big Band",
+      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/r9dz9pm5t8pr7el6sn6ebwl9jrscgk"
     },
     {
@@ -1790,12 +1736,12 @@
     },
     {
       "source": "irenes",
-      "title": "Gabriel Comba with Special Guests Good Co. and  James & The Hermits",
+      "title": "Gabriel Comba with Special Guests John Fog & Good Co.",
       "date": "2026-08-08",
       "rawDate": "Aug 8",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Gabriel Comba Good Co. James & The Hermits Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Gabriel Comba Good Co. John Fog Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/gabriel-comba-with-special-guests-1"
     },
     {
@@ -4669,6 +4615,26 @@
       "url": "https://www.gctc.ca/events/jagged-little-pill"
     },
     {
+      "source": "thirteenstrings",
+      "title": "Vivaldi meets Piazzolla",
+      "date": "2026-05-13",
+      "rawDate": "May 13, 2026",
+      "time": "7:30 pm",
+      "venue": "Thirteen Strings",
+      "description": null,
+      "url": "https://thirteenstrings.ca/product/vivaldi-meets-piazzolla/"
+    },
+    {
+      "source": "thirteenstrings",
+      "title": "Fundraising Reception forThirteen Strings",
+      "date": "2026-06-11",
+      "rawDate": "June 11, 2026",
+      "time": "8:00 pm",
+      "venue": "Thirteen Strings",
+      "description": null,
+      "url": "https://thirteenstrings.ca/product/fundraising-reception-for-thirteen-strings/"
+    },
+    {
       "source": "manual",
       "title": "DJMC",
       "date": "2026-07-09",
@@ -6165,6 +6131,276 @@
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
     },
     {
+      "source": "bronson",
+      "title": "Otoboke Beaver",
+      "date": "2026-07-21",
+      "rawDate": "Tuesday, Jul 21, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/otoboke-beaver/"
+    },
+    {
+      "source": "bronson",
+      "title": "Magic Men – Canada Tour 2026",
+      "date": "2026-07-31",
+      "rawDate": "Friday, Jul 31, Doors: 7:30pm",
+      "time": "19:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/magic-men-canada-tour-2026/"
+    },
+    {
+      "source": "bronson",
+      "title": "DAAAM! The Hip Hop Party with Special Guests Tha Alkaholiks",
+      "date": "2026-08-07",
+      "rawDate": "Friday, Aug 7, Doors: 8pm",
+      "time": "20:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/daaam-the-hip-hop-party-with-special-guests-tha-alkaholiks/"
+    },
+    {
+      "source": "bronson",
+      "title": "Rock of the 80s w/ China Crisis, Big Country, The Icicle Works, The Vapors",
+      "date": "2026-08-19",
+      "rawDate": "Wednesday, Aug 19, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/rock-of-80s-w-china-crisis-big-country-the-icicle-works-the-vapors/"
+    },
+    {
+      "source": "bronson",
+      "title": "Swervedriver",
+      "date": "2026-08-20",
+      "rawDate": "Thursday, Aug 20, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/swervedriver/"
+    },
+    {
+      "source": "bronson",
+      "title": "PITBULL! PRIDE OTTAWA",
+      "date": "2026-08-29",
+      "rawDate": "Saturday, Aug 29, Doors: 10pm",
+      "time": "22:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/pitbull-pride-ottawa/"
+    },
+    {
+      "source": "bronson",
+      "title": "Michel Pagliaro – Deux Voix Une Capitale",
+      "date": "2026-09-05",
+      "rawDate": "Saturday, Sep 5, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/michel-pagliaro-deux-voix-une-capital/"
+    },
+    {
+      "source": "bronson",
+      "title": "Jon Spencer",
+      "date": "2026-09-09",
+      "rawDate": "Wednesday, Sep 9, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jon-spencer/"
+    },
+    {
+      "source": "bronson",
+      "title": "SUN KIL MOON (FKA/AKA: Mark Kozelek)",
+      "date": "2026-09-11",
+      "rawDate": "Friday, Sep 11, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/sun-kil-moon-fka-aka-mark-kozelek/"
+    },
+    {
+      "source": "bronson",
+      "title": "HATEBREED: SUMMER SLAUGHTER TOUR 2025",
+      "date": "2026-09-12",
+      "rawDate": "Saturday, Sep 12, Doors: 4:30pm",
+      "time": "16:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/hatebreed-summer-slaughter-tour-2025/"
+    },
+    {
+      "source": "bronson",
+      "title": "Tinariwen",
+      "date": "2026-09-16",
+      "rawDate": "Wednesday, Sep 16, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/tinariwen/"
+    },
+    {
+      "source": "bronson",
+      "title": "ERRA",
+      "date": "2026-09-22",
+      "rawDate": "Tuesday, Sep 22, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/erra/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Story Of Nirvana w/El Niven",
+      "date": "2026-09-25",
+      "rawDate": "Friday, Sep 25, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-story-of-nirvana/"
+    },
+    {
+      "source": "bronson",
+      "title": "Daniel Lanois",
+      "date": "2026-09-27",
+      "rawDate": "Sunday, Sep 27, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/daniel-lanois-deux-voix-une-capitale/"
+    },
+    {
+      "source": "bronson",
+      "title": "DESPISED ICON",
+      "date": "2026-10-10",
+      "rawDate": "Saturday, Oct 10, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/despised-icon-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "Buffalo Traffic Jam",
+      "date": "2026-10-12",
+      "rawDate": "Monday, Oct 12, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/buffalo-traffic-jam/"
+    },
+    {
+      "source": "bronson",
+      "title": "cleopatrick",
+      "date": "2026-10-15",
+      "rawDate": "Thursday, Oct 15, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/cleopatrick/"
+    },
+    {
+      "source": "bronson",
+      "title": "Bob The Drag Queen – Early Show",
+      "date": "2026-10-16",
+      "rawDate": "Friday, Oct 16, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/now-clap-bob-the-drag-queens-on-tour/"
+    },
+    {
+      "source": "bronson",
+      "title": "Bob The Drag Queen – Late Show added !",
+      "date": "2026-10-16",
+      "rawDate": "Friday, Oct 16, Doors: 9pm",
+      "time": "21:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/bob-the-drag-queen-late-show-added/"
+    },
+    {
+      "source": "bronson",
+      "title": "Joep Beving",
+      "date": "2026-10-17",
+      "rawDate": "Saturday, Oct 17, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/joep-beving/"
+    },
+    {
+      "source": "bronson",
+      "title": "AMBLE",
+      "date": "2026-11-03",
+      "rawDate": "Tuesday, Nov 3, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/amble/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Record Company",
+      "date": "2026-11-13",
+      "rawDate": "Friday, Nov 13, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-record-company/"
+    },
+    {
+      "source": "bronson",
+      "title": "MODI",
+      "date": "2026-11-19",
+      "rawDate": "Thursday, Nov 19, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/modi/"
+    },
+    {
+      "source": "bronson",
+      "title": "Akaash Singh",
+      "date": "2026-11-21",
+      "rawDate": "Saturday, Nov 21, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/akaash-singh/"
+    },
+    {
+      "source": "bronson",
+      "title": "A Skydiggers Christmas",
+      "date": "2026-12-05",
+      "rawDate": "Saturday, Dec 5, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/a-skydiggers-christmas/"
+    },
+    {
+      "source": "bronson",
+      "title": "THE BOUNCING SOULS with The Suicide Machines",
+      "date": "2026-12-06",
+      "rawDate": "Sunday, Dec 6, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-bouncing-souls-with-the-suicide-machines/"
+    },
+    {
+      "source": "bronson",
+      "title": "TroyBoi",
+      "date": "2026-12-17",
+      "rawDate": "Thursday, Dec 17, Doors: 9pm",
+      "time": "21:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
+    },
+    {
       "source": "chamberfest",
       "title": "Prime Time: Gryphon Trio",
       "date": "2026-07-23",
@@ -6286,13 +6522,13 @@
     },
     {
       "source": "chamberfest",
-      "title": "Chamber Chat: Odesa Classics – Alexey Botvinov & Anna Pompeeva",
+      "title": "Chamber Chat: Odesa Classics – Anna Sagalova & Anna Pompeeva",
       "date": "2026-07-25",
       "rawDate": "Jul 25 2026",
       "time": "17:30",
       "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
-      "url": "https://www.chamberfest.com/event/2026/chamber-chat-odesa-classics-alexey-botvinov-anna-pompeeva/"
+      "url": "https://www.chamberfest.com/event/2026/chamber-chat-odesa-classics-anna-sagalova-anna-pompeeva/"
     },
     {
       "source": "chamberfest",
