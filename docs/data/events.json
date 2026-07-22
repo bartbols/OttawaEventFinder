@@ -1,63 +1,8 @@
 {
-  "scrapedAt": "2026-07-21T08:37:42.313Z",
-  "totalEvents": 715,
+  "scrapedAt": "2026-07-22T08:37:32.297Z",
+  "totalEvents": 739,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Brìghde Chaimbeul",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-07-21",
-      "rawDate": "2026-07-21",
-      "time": "12:00",
-      "venue": "Atrium O’Brien Atrium O’Brien",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40949"
-    },
-    {
-      "source": "nac",
-      "title": "Flávia Nascimento and Tio Chorinho",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-07-21",
-      "rawDate": "2026-07-21",
-      "time": "19:30",
-      "venue": "Wood Terrace Terrasse en bois",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40946"
-    },
-    {
-      "source": "nac",
-      "title": "Flávia Nascimento and Tio Chorinho",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-07-22",
-      "rawDate": "2026-07-22",
-      "time": "19:30",
-      "venue": "Wood Terrace Terrasse en bois",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40946"
-    },
-    {
-      "source": "nac",
-      "title": "Flávia Nascimento and Tio Chorinho",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-07-23",
-      "rawDate": "2026-07-23",
-      "time": "19:30",
-      "venue": "Wood Terrace Terrasse en bois",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40946"
-    },
-    {
-      "source": "nac",
-      "title": "Brìghde Chaimbeul",
-      "subtitle": "A master of the Scottish smallpipes",
-      "date": "2026-07-21",
-      "rawDate": "2026-07-21",
-      "time": "19:30",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "A master of the Scottish smallpipes",
-      "url": "https://nac-cna.ca/en/event/40977"
-    },
     {
       "source": "nac",
       "title": "Flávia Nascimento and Tio Chorinho",
@@ -1026,36 +971,6 @@
     },
     {
       "source": "gigs",
-      "title": "Aneurysm- A Tribute To Nirvana + The Bloodshots",
-      "date": "2026-07-21",
-      "rawDate": "Tuesday, July 21, 2026",
-      "time": "19:00",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-rainbow-bistro-aneurysm-21-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Summer of Folk!",
-      "date": "2026-07-21",
-      "rawDate": "Tuesday, July 21, 2026",
-      "time": "19:00",
-      "venue": "Night Oat",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-night-oat-gladstone-2026-07-21"
-    },
-    {
-      "source": "gigs",
-      "title": "World Famous Open Mic",
-      "date": "2026-07-21",
-      "rawDate": "Tuesday, July 21, 2026",
-      "time": "20:00",
-      "venue": "The Laff",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-the-laff-john-carroll-21-july"
-    },
-    {
-      "source": "gigs",
       "title": "Dave Restivo with Roddy Ellias",
       "date": "2026-07-22",
       "rawDate": "Wednesday, July 22, 2026",
@@ -1195,14 +1110,54 @@
       "url": "https://ottawagigs.ca/gig/experimental-fono-third-rail-transmission-23-july"
     },
     {
-      "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-07-22",
-      "rawDate": "2026-07-22",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": " \n\nRed Bird's Weekly Open Stage is BACK!!\n \nHere is what's continuing:\n\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo",
-      "url": "https://www.showpass.com/open-stage-7-26-07-21-20-4336/"
+      "source": "gigs",
+      "title": "Annapura (Mexico City HC Punk)",
+      "date": "2026-07-23",
+      "rawDate": "Thursday, July 23, 2026",
+      "time": "20:00",
+      "venue": "Dominion Tavern",
+      "description": "Genre: Punk",
+      "url": "https://ottawagigs.ca/gig/punk-dominion-tavern-annapura-mexico-city-hc-punk--23-july"
+    },
+    {
+      "source": "gigs",
+      "title": "CONCEPTHURSDAY",
+      "date": "2026-07-23",
+      "rawDate": "Thursday, July 23, 2026",
+      "time": "21:00",
+      "venue": "Gridwrks",
+      "description": "Genre: Electronic",
+      "url": "https://ottawagigs.ca/gig/electronic-gridwrks-concepthursday-23-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Thursday Night Live",
+      "date": "2026-07-23",
+      "rawDate": "Thursday, July 23, 2026",
+      "time": "21:00",
+      "venue": "The Laff",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-the-laff-tbd-23-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Lo & The High Road – Fireside Folk at Robo Lounge",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Celtic",
+      "url": "https://ottawagigs.ca/gig/celtic-bar-robo-lo-the-high-road-24-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Trooper",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-trooper-24-july"
     },
     {
       "source": "redbird",
@@ -1841,7 +1796,7 @@
       "rawDate": "Aug 19",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Fruit Cake",
+      "description": "Fruit Cake Tickets",
       "url": "https://irenespub.ca/events/fruit-cake-1"
     },
     {
@@ -1943,6 +1898,296 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-09-01",
+      "rawDate": "Sep 1",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-cnh7b"
+    },
+    {
+      "source": "irenes",
+      "title": "The Prime Rib Big Band",
+      "date": "2026-09-02",
+      "rawDate": "Sep 2",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/x8r53ksa6fjdhn28nnwlpgb386m3r2"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "date": "2026-09-03",
+      "rawDate": "Sep 3",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye"
+    },
+    {
+      "source": "irenes",
+      "title": "Nostalgia Night",
+      "date": "2026-09-04",
+      "rawDate": "Sep 4",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/4xtiw2klwt64el51rv28dfkq5z9kdy"
+    },
+    {
+      "source": "irenes",
+      "title": "No Quiet Endings with Joshua Isaac, Bitterhalf & Adam Fortais",
+      "date": "2026-09-05",
+      "rawDate": "Sep 5",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Joshua Isaac Bitterhalf Adam Fortais Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/no-quiet-endings-with-joshua-isaac-bitterhalf-adam-fortais"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-09-06",
+      "rawDate": "Sep 6",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-mzlly"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-09-08",
+      "rawDate": "Sep 8",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-93xjy"
+    },
+    {
+      "source": "irenes",
+      "title": "Jazz Jam with The Beeched Wailers",
+      "date": "2026-09-09",
+      "rawDate": "Sep 9",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Beeched Wailers",
+      "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-5-dl78w-77rwg"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "date": "2026-09-10",
+      "rawDate": "Sep 10",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-kg326"
+    },
+    {
+      "source": "irenes",
+      "title": "Sun Dried Flies with Special Guests",
+      "date": "2026-09-11",
+      "rawDate": "Sep 11",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Sun Dried Flies",
+      "url": "https://irenespub.ca/events/sundried-flies-with-special-guests"
+    },
+    {
+      "source": "irenes",
+      "title": "Willy Nilly with Special Guests",
+      "date": "2026-09-12",
+      "rawDate": "Sep 12",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Willy Nilly",
+      "url": "https://irenespub.ca/events/willy-nilly-with-special-guests"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Fundraiser for Ottawa Dog Rescue",
+      "date": "2026-09-13",
+      "rawDate": "Sep 13",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "Ottawa Dog Rescue",
+      "url": "https://irenespub.ca/events/trivia-fundraiser-for-ottawa-dog-rescue"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-09-13",
+      "rawDate": "Sep 13",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-gf35z"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-09-15",
+      "rawDate": "Sep 15",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-xtttt"
+    },
+    {
+      "source": "irenes",
+      "title": "TBA",
+      "date": "2026-09-16",
+      "rawDate": "Sep 16",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/tbd"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "date": "2026-09-17",
+      "rawDate": "Sep 17",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-4hlze"
+    },
+    {
+      "source": "irenes",
+      "title": "Stereo Mary with Special Guests",
+      "date": "2026-09-18",
+      "rawDate": "Sep 18",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Stereo Mary",
+      "url": "https://irenespub.ca/events/stereo-mary-with-special-guests"
+    },
+    {
+      "source": "irenes",
+      "title": "Smelloship",
+      "date": "2026-09-19",
+      "rawDate": "Sep 19",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Smelloship",
+      "url": "https://irenespub.ca/events/smelloship-2"
+    },
+    {
+      "source": "irenes",
+      "title": "I Spell It Nature with S/G Modern Dinosaurs - Matinée",
+      "date": "2026-09-20",
+      "rawDate": "Sep 20",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "I Spell It Nature Modern Dinosaurs",
+      "url": "https://irenespub.ca/events/i-spell-it-nature-with-sg"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-09-20",
+      "rawDate": "Sep 20",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-lph38"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-09-22",
+      "rawDate": "Sep 22",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-nzbpc"
+    },
+    {
+      "source": "irenes",
+      "title": "Tipsy Scholars",
+      "date": "2026-09-23",
+      "rawDate": "Sep 23",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Tipsy Scholars",
+      "url": "https://irenespub.ca/events/tipsy-scholars"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "date": "2026-09-24",
+      "rawDate": "Sep 24",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9"
+    },
+    {
+      "source": "irenes",
+      "title": "Mecca of Stank with Special Guests",
+      "date": "2026-09-25",
+      "rawDate": "Sep 25",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Mecca of Stank",
+      "url": "https://irenespub.ca/events/mecca-of-stank-with-sg"
+    },
+    {
+      "source": "irenes",
+      "title": "Liam Lloyd",
+      "date": "2026-09-26",
+      "rawDate": "Sep 26",
+      "time": "18:00",
+      "venue": "Irene's Pub",
+      "description": "Liam Lloyd",
+      "url": "https://irenespub.ca/events/liam-lloyd"
+    },
+    {
+      "source": "irenes",
+      "title": "Glebe Centre Trivia Fundrasier",
+      "date": "2026-09-27",
+      "rawDate": "Sep 27",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/glebe-centre-trivia-fundrasier"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-09-27",
+      "rawDate": "Sep 27",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-95ry4"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-09-29",
+      "rawDate": "Sep 29",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy"
+    },
+    {
+      "source": "irenes",
+      "title": "Small Fish - A Comedy & Variety Show",
+      "date": "2026-09-30",
+      "rawDate": "Sep 30",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Small Fish Show",
+      "url": "https://irenespub.ca/events/gm573gxgs3lxmgj47dxakg6nkjc5rd"
     },
     {
       "source": "irenes",
@@ -6132,16 +6377,6 @@
     },
     {
       "source": "bronson",
-      "title": "Otoboke Beaver",
-      "date": "2026-07-21",
-      "rawDate": "Tuesday, Jul 21, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/otoboke-beaver/"
-    },
-    {
-      "source": "bronson",
       "title": "Magic Men – Canada Tour 2026",
       "date": "2026-07-31",
       "rawDate": "Friday, Jul 31, Doors: 7:30pm",
@@ -6812,7 +7047,7 @@
     },
     {
       "source": "chamberfest",
-      "title": "Historical Keyboard Workshop: Mélisande McNabney, harpsichord and fortepiano",
+      "title": "Harpsichord Workshop: Mélisande McNabney",
       "date": "2026-07-31",
       "rawDate": "Jul 31 2026",
       "time": "15:00",
