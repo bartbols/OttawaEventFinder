@@ -1,19 +1,8 @@
 {
-  "scrapedAt": "2026-07-22T08:37:32.297Z",
-  "totalEvents": 739,
+  "scrapedAt": "2026-07-23T08:39:10.188Z",
+  "totalEvents": 737,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Flávia Nascimento and Tio Chorinho",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-07-22",
-      "rawDate": "2026-07-22",
-      "time": "12:00",
-      "venue": "Atrium O’Brien Atrium O’Brien",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40945"
-    },
     {
       "source": "nac",
       "title": "Dance at Zibi – K-pop with Synaptik Dance Crew",
@@ -971,86 +960,6 @@
     },
     {
       "source": "gigs",
-      "title": "Dave Restivo with Roddy Ellias",
-      "date": "2026-07-22",
-      "rawDate": "Wednesday, July 22, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-dave-restivo-22-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Celtic Celebration Featuring Ryan Young and Alanna Jenish",
-      "date": "2026-07-22",
-      "rawDate": "Wednesday, July 22, 2026",
-      "time": "19:00",
-      "venue": "Red Bird",
-      "description": "Genre: Celtic",
-      "url": "https://ottawagigs.ca/gig/celtic-red-bird-ryan-young-22-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Spaced (NY Hardcore)",
-      "date": "2026-07-22",
-      "rawDate": "Wednesday, July 22, 2026",
-      "time": "19:00",
-      "venue": "Dominion Tavern",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/gig/punk-dominion-tavern-spaced-ny-hardcore--22-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Jazz Nite in the HiFi Lounge",
-      "date": "2026-07-22",
-      "rawDate": "Wednesday, July 22, 2026",
-      "time": "19:00",
-      "venue": "Fono",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-fono-field-notes-jazz-duo-22-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Night Oat Jazz Jam",
-      "date": "2026-07-22",
-      "rawDate": "Wednesday, July 22, 2026",
-      "time": "19:30",
-      "venue": "Night Oat",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-night-oat-2026-07-22"
-    },
-    {
-      "source": "gigs",
-      "title": "MEGA Live",
-      "date": "2026-07-22",
-      "rawDate": "Wednesday, July 22, 2026",
-      "time": "20:00",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Pop",
-      "url": "https://ottawagigs.ca/gig/pop-rainbow-bistro-mega-22-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Girls+ to the Front",
-      "date": "2026-07-22",
-      "rawDate": "Wednesday, July 22, 2026",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-irenes-girls-to-the-front-22-july"
-    },
-    {
-      "source": "gigs",
-      "title": "The John Carroll Show",
-      "date": "2026-07-22",
-      "rawDate": "Wednesday, July 22, 2026",
-      "time": "20:00",
-      "venue": "The Laff",
-      "description": "Genre: Blues",
-      "url": "https://ottawagigs.ca/gig/blues-the-laff-john-carroll-22-july"
-    },
-    {
-      "source": "gigs",
       "title": "Django Libre Live!",
       "date": "2026-07-23",
       "rawDate": "Thursday, July 23, 2026",
@@ -1158,6 +1067,96 @@
       "venue": "Hard Rock Hotel & Casino Ottawa",
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-trooper-24-july"
+    },
+    {
+      "source": "gigs",
+      "title": "The Arrogant Worms",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "19:00",
+      "venue": "Red Bird",
+      "description": "Genre: Satire",
+      "url": "https://ottawagigs.ca/gig/satire-red-bird-the-arrogant-worms-24-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Return of the Light",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "19:00",
+      "venue": "Other",
+      "description": "Genre: Classical",
+      "url": "https://ottawagigs.ca/gig/classical-carleton-dominion-chalmers-centre-26-07-24"
+    },
+    {
+      "source": "gigs",
+      "title": "25th Anniversary Show",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "20:00",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/hard-rock-rainbow-bistro-2026-07-24"
+    },
+    {
+      "source": "gigs",
+      "title": "BLACK METAL & NEOFOLK Qlipha + Black Market Fossil + Gróa Willing @ Avant-Garde",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "20:00",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Metal",
+      "url": "https://ottawagigs.ca/gig/metal-avant-garde-bar-qlipha-24-july"
+    },
+    {
+      "source": "gigs",
+      "title": "July 24th 🥳 Double Debut of Debauchery!",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "20:00",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-avant-garde-bar-hangry-holly-24-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Saccage (Unholy Blasting Filth)",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "20:00",
+      "venue": "Dominion Tavern",
+      "description": "Genre: Metal",
+      "url": "https://ottawagigs.ca/gig/metal-dominion-tavern-saccage-unholy-blasting-filth--24-july"
+    },
+    {
+      "source": "gigs",
+      "title": "80s DANCE PARTY w DJ Remi Royale + The Breakfast Club (80s Chartbusters)",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Tribute/Covers",
+      "url": "https://ottawagigs.ca/gig/cover-tribute-house-of-targ-the-breakfast-club-24-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Joe Gaspar All-Stars",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Genre: R&B",
+      "url": "https://ottawagigs.ca/gig/r-b-irenes-joe-gaspar-all-stars-24-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Unplugged In Ottawa: Gabriel Comba, The Desert Island Big Band, Leeny & Maude",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "21:00",
+      "venue": "LIVE! on Elgin",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-live-on-elgin-the-desert-island-big-band-24-july"
     },
     {
       "source": "redbird",
@@ -1511,16 +1510,6 @@
     },
     {
       "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-07-21",
-      "rawDate": "Jul 21",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-eaajj"
-    },
-    {
-      "source": "irenes",
       "title": "Girls+ to the Front with host Kristine St. Pierre and Special Guests Ali McCormick & Jillian Allinson",
       "date": "2026-07-22",
       "rawDate": "Jul 22",
@@ -1558,16 +1547,6 @@
       "venue": "Irene's Pub",
       "description": "The Lockmasters Washboard Hank Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-lochmasters-with-sg-washboard-hank"
-    },
-    {
-      "source": "irenes",
-      "title": "Capital Kingdom Presents All Ages Drag King Brunch",
-      "date": "2026-07-26",
-      "rawDate": "Jul 26",
-      "time": "12:00",
-      "venue": "Irene's Pub",
-      "description": "Capital Kingdom Tickets",
-      "url": "https://irenespub.ca/events/capital-kingdom-drag-brunch-3"
     },
     {
       "source": "irenes",
@@ -2191,6 +2170,16 @@
     },
     {
       "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-07-21",
+      "rawDate": "Jul 21",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-eaajj"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-07-19",
       "rawDate": "Jul 19",
@@ -2478,16 +2467,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-ebp6b"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue with Special Guest Sam SInger",
-      "date": "2026-06-14",
-      "rawDate": "Jun 14",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue Sam Singer",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-dj63l"
     },
     {
       "source": "gladstone",
