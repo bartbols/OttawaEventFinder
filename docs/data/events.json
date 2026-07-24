@@ -1,30 +1,8 @@
 {
-  "scrapedAt": "2026-07-23T08:39:10.188Z",
-  "totalEvents": 737,
+  "scrapedAt": "2026-07-24T08:34:51.494Z",
+  "totalEvents": 736,
   "errors": [],
   "events": [
-    {
-      "source": "nac",
-      "title": "Dance at Zibi – K-pop with Synaptik Dance Crew",
-      "subtitle": "The Best of BTS",
-      "date": "2026-07-23",
-      "rawDate": "2026-07-23",
-      "time": "19:00",
-      "venue": "Head Street Square – Zibi Head Street Square – Zibi",
-      "description": "The Best of BTS",
-      "url": "https://nac-cna.ca/en/event/41083"
-    },
-    {
-      "source": "nac",
-      "title": "La Pambelé",
-      "subtitle": "A new approach to old-school salsa",
-      "date": "2026-07-23",
-      "rawDate": "2026-07-23",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "A new approach to old-school salsa",
-      "url": "https://nac-cna.ca/en/event/41186"
-    },
     {
       "source": "nac",
       "title": "Miguel de Armas",
@@ -939,6 +917,17 @@
       "url": "https://nac-cna.ca/en/event/41853"
     },
     {
+      "source": "nac",
+      "title": "David Suzuki’s Playlist",
+      "subtitle": "With the NAC Orchestra, in association with Why Not Theatre",
+      "date": "2026-09-22",
+      "rawDate": "2026-09-22",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "With the NAC Orchestra, in association with Why Not Theatre",
+      "url": "https://nac-cna.ca/en/event/40397"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2026-08-12",
@@ -957,96 +946,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/34388-FASOCANA"
-    },
-    {
-      "source": "gigs",
-      "title": "Django Libre Live!",
-      "date": "2026-07-23",
-      "rawDate": "Thursday, July 23, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Jazz",
-      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-django-libre-23-july"
-    },
-    {
-      "source": "gigs",
-      "title": "The Neverminds, sundayclub, Laveda, Cardamom Years",
-      "date": "2026-07-23",
-      "rawDate": "Thursday, July 23, 2026",
-      "time": "19:30",
-      "venue": "27 Club",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-27-club-the-neverminds-23-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Afraid of Drones",
-      "date": "2026-07-23",
-      "rawDate": "Thursday, July 23, 2026",
-      "time": "19:30",
-      "venue": "LIVE! on Elgin",
-      "description": "Genre: Indie",
-      "url": "https://ottawagigs.ca/gig/indie-live-on-elgin-afraid-of-drones-23-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Open Stage w/ Christine Graves @ Motel Chelsea!",
-      "date": "2026-07-23",
-      "rawDate": "Thursday, July 23, 2026",
-      "time": "19:30",
-      "venue": "Motel Chelsea",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-christine-graves-23-july"
-    },
-    {
-      "source": "gigs",
-      "title": "KINGFISHER + Bill McNeal + Twenty Paces Apart",
-      "date": "2026-07-23",
-      "rawDate": "Thursday, July 23, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/gig/punk-house-of-targ-kingfisher-23-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Third Rail Transmission + Paraphonique",
-      "date": "2026-07-23",
-      "rawDate": "Thursday, July 23, 2026",
-      "time": "20:00",
-      "venue": "Fono",
-      "description": "Genre: Experimental",
-      "url": "https://ottawagigs.ca/gig/experimental-fono-third-rail-transmission-23-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Annapura (Mexico City HC Punk)",
-      "date": "2026-07-23",
-      "rawDate": "Thursday, July 23, 2026",
-      "time": "20:00",
-      "venue": "Dominion Tavern",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/gig/punk-dominion-tavern-annapura-mexico-city-hc-punk--23-july"
-    },
-    {
-      "source": "gigs",
-      "title": "CONCEPTHURSDAY",
-      "date": "2026-07-23",
-      "rawDate": "Thursday, July 23, 2026",
-      "time": "21:00",
-      "venue": "Gridwrks",
-      "description": "Genre: Electronic",
-      "url": "https://ottawagigs.ca/gig/electronic-gridwrks-concepthursday-23-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Thursday Night Live",
-      "date": "2026-07-23",
-      "rawDate": "Thursday, July 23, 2026",
-      "time": "21:00",
-      "venue": "The Laff",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-the-laff-tbd-23-july"
     },
     {
       "source": "gigs",
@@ -1157,6 +1056,86 @@
       "venue": "LIVE! on Elgin",
       "description": "Genre: Indie",
       "url": "https://ottawagigs.ca/gig/indie-live-on-elgin-the-desert-island-big-band-24-july"
+    },
+    {
+      "source": "gigs",
+      "title": "JOHN 00 FLEMING",
+      "date": "2026-07-24",
+      "rawDate": "Friday, July 24, 2026",
+      "time": "22:00",
+      "venue": "City at Night",
+      "description": "Genre: Electronic",
+      "url": "https://ottawagigs.ca/gig/electronic-city-at-night-john-00-fleming-24-july"
+    },
+    {
+      "source": "gigs",
+      "title": "6th Annual Inaugural Munsterfest",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "13:00",
+      "venue": "Other",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-roots-rock-blues-tin-bangers-26-07-25"
+    },
+    {
+      "source": "gigs",
+      "title": "Ugly Carnival Tour",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "16:00",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-avant-garde-2026-07-25"
+    },
+    {
+      "source": "gigs",
+      "title": "Elvis Costello's Juliet Letters",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "18:30",
+      "venue": "Other",
+      "description": "Genre: Classical",
+      "url": "https://ottawagigs.ca/gig/classical-great-canadian-theatre-company-26-07-25"
+    },
+    {
+      "source": "gigs",
+      "title": "B•L•U•S•H With Enemies of the Crow & Pareidolia",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "19:00",
+      "venue": "LIVE! on Elgin",
+      "description": "Genre: Alternative",
+      "url": "https://ottawagigs.ca/gig/alternative-live-on-elgin-b-l-u-s-h-25-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Souls of Mischief",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "19:00",
+      "venue": "Overflow Brewing",
+      "description": "Genre: Hip Hop",
+      "url": "https://ottawagigs.ca/gig/hip-hop-overflow-brewing-souls-of-mischief-25-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Dom Doyon+ Augustine May  + Mellow Casualty",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "20:00",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-rainbow-bistro-dom-doyon-25-july"
+    },
+    {
+      "source": "gigs",
+      "title": "NIGHT ONE: Great Lake Swimmers LIVE @ Motel Chelsea!",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-great-lake-swimmers-25-july"
     },
     {
       "source": "redbird",
@@ -1320,6 +1299,16 @@
     },
     {
       "source": "redbird",
+      "title": "Celtic Celebration Featuring Pierre Schryer, Ian Clark and Danielle Enblom",
+      "date": "2026-08-27",
+      "rawDate": "2026-08-27",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Join us for an evening of Celtic Music played by some of the best in the region. There will be a concert from 8pm to 10pm, with a jam to follow, so bring your instruments and get in on the fun.\n\nThe e",
+      "url": "https://www.showpass.com/celtic-celebration-featuring-pierre-schryer-ian-clark-and-danielle-enblom/"
+    },
+    {
+      "source": "redbird",
       "title": "Mimi O'Bonsawin",
       "date": "2026-08-29",
       "rawDate": "2026-08-29",
@@ -1450,6 +1439,16 @@
     },
     {
       "source": "redbird",
+      "title": "sheila&lucile",
+      "date": "2026-10-11",
+      "rawDate": "2026-10-11",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "sheila&amp;lucile are delighted to celebrate the release of their new album, Wavelength.\nA mix of celtic and contemporary music from Canada, Scotland and Ireland - including a new piece written for th",
+      "url": "https://www.showpass.com/sheilalucile/"
+    },
+    {
+      "source": "redbird",
       "title": "The Grapes of Wrath Acoustic Duo",
       "date": "2026-10-12",
       "rawDate": "2026-10-12",
@@ -1507,16 +1506,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "Girls+ to the Front with host Kristine St. Pierre and Special Guests Ali McCormick & Jillian Allinson",
-      "date": "2026-07-22",
-      "rawDate": "Jul 22",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "PWYC Kristine St. Pierre Ali McCormick Jillian Allinson",
-      "url": "https://irenespub.ca/events/girls-to-the-front-kristine-st-pierre-ali-mccormick-jillian-allinson"
     },
     {
       "source": "irenes",
@@ -2170,6 +2159,36 @@
     },
     {
       "source": "irenes",
+      "title": "Renée Landry & the Cool Presents Back to Black - A Tribute to Any Winehouse",
+      "date": "2026-10-23",
+      "rawDate": "Oct 23",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-any-winehouse"
+    },
+    {
+      "source": "irenes",
+      "title": "Renée Landry & The Cool Presents Back to Black - A Tribute to Amy Winehouse",
+      "date": "2026-10-24",
+      "rawDate": "Oct 24",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-amy-winehouse-1"
+    },
+    {
+      "source": "irenes",
+      "title": "Girls+ to the Front with host Kristine St. Pierre and Special Guests Ali McCormick & Jillian Allinson",
+      "date": "2026-07-22",
+      "rawDate": "Jul 22",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "PWYC Kristine St. Pierre Ali McCormick Jillian Allinson",
+      "url": "https://irenespub.ca/events/girls-to-the-front-kristine-st-pierre-ali-mccormick-jillian-allinson"
+    },
+    {
+      "source": "irenes",
       "title": "Trivia Tuesday",
       "date": "2026-07-21",
       "rawDate": "Jul 21",
@@ -2457,16 +2476,6 @@
       "venue": "Irene's Pub",
       "description": "Maggie May Harder Tickets",
       "url": "https://irenespub.ca/events/fruit-cake-a-gay-ass-variety-show-2"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-06-16",
-      "rawDate": "Jun 16",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-ebp6b"
     },
     {
       "source": "gladstone",
@@ -6613,26 +6622,6 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Prime Time: Gryphon Trio",
-      "date": "2026-07-23",
-      "rawDate": "Jul 23 2026",
-      "time": "13:00",
-      "venue": "The Robo Lounge",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/prime-time-gryphon-trio/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Opening Night Opera: Dido and Aeneas",
-      "date": "2026-07-23",
-      "rawDate": "Jul 23 2026",
-      "time": "19:00",
-      "venue": "Carleton Dominion-Chalmers Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/opening-night-opera-dido-and-aeneas/"
     },
     {
       "source": "chamberfest",
