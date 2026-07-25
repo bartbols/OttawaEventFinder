@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-07-24T08:34:51.494Z",
-  "totalEvents": 736,
+  "scrapedAt": "2026-07-25T08:14:10.415Z",
+  "totalEvents": 734,
   "errors": [],
   "events": [
     {
@@ -420,6 +420,28 @@
       "venue": "Southam Hall Salle Southam",
       "description": "The Immaculate Collection",
       "url": "https://nac-cna.ca/en/event/40599"
+    },
+    {
+      "source": "nac",
+      "title": "The OG500 Poetry Slam",
+      "subtitle": null,
+      "date": "2026-08-21",
+      "rawDate": "2026-08-21",
+      "time": "21:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41873"
+    },
+    {
+      "source": "nac",
+      "title": "Act Out! A Whacking Battle",
+      "subtitle": "Pride Edition",
+      "date": "2026-08-21",
+      "rawDate": "2026-08-21",
+      "time": "21:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "Pride Edition",
+      "url": "https://nac-cna.ca/en/event/41875"
     },
     {
       "source": "nac",
@@ -949,126 +971,6 @@
     },
     {
       "source": "gigs",
-      "title": "Lo & The High Road – Fireside Folk at Robo Lounge",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Celtic",
-      "url": "https://ottawagigs.ca/gig/celtic-bar-robo-lo-the-high-road-24-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Trooper",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "19:00",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-trooper-24-july"
-    },
-    {
-      "source": "gigs",
-      "title": "The Arrogant Worms",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "19:00",
-      "venue": "Red Bird",
-      "description": "Genre: Satire",
-      "url": "https://ottawagigs.ca/gig/satire-red-bird-the-arrogant-worms-24-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Return of the Light",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "19:00",
-      "venue": "Other",
-      "description": "Genre: Classical",
-      "url": "https://ottawagigs.ca/gig/classical-carleton-dominion-chalmers-centre-26-07-24"
-    },
-    {
-      "source": "gigs",
-      "title": "25th Anniversary Show",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "20:00",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/hard-rock-rainbow-bistro-2026-07-24"
-    },
-    {
-      "source": "gigs",
-      "title": "BLACK METAL & NEOFOLK Qlipha + Black Market Fossil + Gróa Willing @ Avant-Garde",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "20:00",
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Metal",
-      "url": "https://ottawagigs.ca/gig/metal-avant-garde-bar-qlipha-24-july"
-    },
-    {
-      "source": "gigs",
-      "title": "July 24th 🥳 Double Debut of Debauchery!",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "20:00",
-      "venue": "Avant-Garde Bar",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-avant-garde-bar-hangry-holly-24-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Saccage (Unholy Blasting Filth)",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "20:00",
-      "venue": "Dominion Tavern",
-      "description": "Genre: Metal",
-      "url": "https://ottawagigs.ca/gig/metal-dominion-tavern-saccage-unholy-blasting-filth--24-july"
-    },
-    {
-      "source": "gigs",
-      "title": "80s DANCE PARTY w DJ Remi Royale + The Breakfast Club (80s Chartbusters)",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Tribute/Covers",
-      "url": "https://ottawagigs.ca/gig/cover-tribute-house-of-targ-the-breakfast-club-24-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Joe Gaspar All-Stars",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Genre: R&B",
-      "url": "https://ottawagigs.ca/gig/r-b-irenes-joe-gaspar-all-stars-24-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Unplugged In Ottawa: Gabriel Comba, The Desert Island Big Band, Leeny & Maude",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "21:00",
-      "venue": "LIVE! on Elgin",
-      "description": "Genre: Indie",
-      "url": "https://ottawagigs.ca/gig/indie-live-on-elgin-the-desert-island-big-band-24-july"
-    },
-    {
-      "source": "gigs",
-      "title": "JOHN 00 FLEMING",
-      "date": "2026-07-24",
-      "rawDate": "Friday, July 24, 2026",
-      "time": "22:00",
-      "venue": "City at Night",
-      "description": "Genre: Electronic",
-      "url": "https://ottawagigs.ca/gig/electronic-city-at-night-john-00-fleming-24-july"
-    },
-    {
-      "source": "gigs",
       "title": "6th Annual Inaugural Munsterfest",
       "date": "2026-07-25",
       "rawDate": "Saturday, July 25, 2026",
@@ -1138,14 +1040,124 @@
       "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-great-lake-swimmers-25-july"
     },
     {
-      "source": "redbird",
-      "title": "The Arrogant Worms",
+      "source": "gigs",
+      "title": "Remi's Dance Floor Time Machine - A 50s, 60s 70s, 80s, 90s, 00s Dance Party",
       "date": "2026-07-25",
-      "rawDate": "2026-07-25",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "The Arrogant Worms have spent over three decades making fun of a big dumb world. Their songs have been played on the radio, the internet, and in outer space (on the space shuttle Endeavour). The Worms",
-      "url": "https://www.showpass.com/the-arrogant-worms-7/"
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Dance Party",
+      "url": "https://ottawagigs.ca/gig/dance-party-house-of-targ-dj-remi-royale-25-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Trenchfoot (Metal)",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "20:00",
+      "venue": "Dominion Tavern",
+      "description": "Genre: Metal",
+      "url": "https://ottawagigs.ca/gig/metal-dominion-tavern-trenchfoot-metal--25-july"
+    },
+    {
+      "source": "gigs",
+      "title": "VIOLATOUR - AVANT GARDE BAR - GHIDORAH/PARADISE SPRITES/SIR KINGFISH",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "20:30",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Alternative",
+      "url": "https://ottawagigs.ca/gig/alternative-avant-garde-bar-ghidorah-25-july"
+    },
+    {
+      "source": "gigs",
+      "title": "The Lochmasters with S/G Washboard Hank",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Genre: Celtic",
+      "url": "https://ottawagigs.ca/gig/celtic-irenes-the-lochmasters-25-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Shrek Rave",
+      "date": "2026-07-25",
+      "rawDate": "Saturday, July 25, 2026",
+      "time": "22:00",
+      "venue": "27 Club",
+      "description": "Genre: Dance Party",
+      "url": "https://ottawagigs.ca/gig/dance-party-27-club-shrek-rave-25-july-841b5"
+    },
+    {
+      "source": "gigs",
+      "title": "Legendary Sunday Afternoon Blues Jam",
+      "date": "2026-07-26",
+      "rawDate": "Sunday, July 26, 2026",
+      "time": "13:00",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Blues",
+      "url": "https://ottawagigs.ca/gig/blues-rainbow-bistro-plain-jane-and-the-crossroad-blues-band-26-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Sundays on the Patio with Raymundo Pizaña",
+      "date": "2026-07-26",
+      "rawDate": "Sunday, July 26, 2026",
+      "time": "13:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Flamenco",
+      "url": "https://ottawagigs.ca/gig/flamenco-bar-robo-raymundo-piza-a-26-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Dan Kelly, Julie Stella, Woods of Light",
+      "date": "2026-07-26",
+      "rawDate": "Sunday, July 26, 2026",
+      "time": "14:00",
+      "venue": "The Black Sheep Inn",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-black-sheep-inn-dan-kelly-26-july"
+    },
+    {
+      "source": "gigs",
+      "title": "The Songbird Coven Songwriter Series Summer Bash & Fundraiser",
+      "date": "2026-07-26",
+      "rawDate": "Sunday, July 26, 2026",
+      "time": "15:00",
+      "venue": "Other",
+      "description": "Genre: Storytelling",
+      "url": "https://ottawagigs.ca/gig/storytelling-broadway-bar-grill-prince-of-wales-2026-07-26"
+    },
+    {
+      "source": "gigs",
+      "title": "NIGHT TWO: Great Lake Swimmers LIVE @ Motel Chelsea! (Matinee)",
+      "date": "2026-07-26",
+      "rawDate": "Sunday, July 26, 2026",
+      "time": "16:30",
+      "venue": "Motel Chelsea",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-great-lake-swimmers-26-july"
+    },
+    {
+      "source": "gigs",
+      "title": "The Songbird Coven Summer Bash",
+      "date": "2026-07-26",
+      "rawDate": "Sunday, July 26, 2026",
+      "time": "18:00",
+      "venue": "Broadway Prince of Wales",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-broadway-prince-of-wales-the-songbird-coven-26-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Mativetsky, Amiri & Pagé",
+      "date": "2026-07-26",
+      "rawDate": "Sunday, July 26, 2026",
+      "time": "18:30",
+      "venue": "Other",
+      "description": "Genre: Classical",
+      "url": "https://ottawagigs.ca/gig/classical-great-canadian-theatre-company-26-07-26"
     },
     {
       "source": "redbird",
@@ -1506,16 +1518,6 @@
       "venue": "Red Bird Live",
       "description": "Step into an evening of rich harmonies, thoughtful songwriting, and timeless folk music with Jessica Rhaye, Bill Preeper and Sandy MacKay – together known as Preeper Rhaye MacKay.\nFrom New Brunswick, ",
       "url": "https://www.showpass.com/rhaye-preeper-mackay/"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Brother Paul",
-      "date": "2026-07-23",
-      "rawDate": "Jul 23",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb-9hh8e"
     },
     {
       "source": "irenes",
@@ -2179,6 +2181,16 @@
     },
     {
       "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Brother Paul",
+      "date": "2026-07-23",
+      "rawDate": "Jul 23",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb-9hh8e"
+    },
+    {
+      "source": "irenes",
       "title": "Girls+ to the Front with host Kristine St. Pierre and Special Guests Ali McCormick & Jillian Allinson",
       "date": "2026-07-22",
       "rawDate": "Jul 22",
@@ -2466,16 +2478,6 @@
       "venue": "Irene's Pub",
       "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-xwprh"
-    },
-    {
-      "source": "irenes",
-      "title": "Fruit Cake - A Gay Ass Variety Show",
-      "date": "2026-06-17",
-      "rawDate": "Jun 17",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Maggie May Harder Tickets",
-      "url": "https://irenespub.ca/events/fruit-cake-a-gay-ass-variety-show-2"
     },
     {
       "source": "gladstone",
@@ -4848,6 +4850,46 @@
       "url": "https://www.gctc.ca/events/jagged-little-pill"
     },
     {
+      "source": "ottawapops",
+      "title": "Saturday Morning Cartoons",
+      "date": "2026-10-23",
+      "rawDate": "2026-10-23T23:30:00.919Z",
+      "time": "23:30",
+      "venue": "Ottawa Pops Orchestra",
+      "description": "The Symphony in Your Living Room \n              \n\n              \n                A nostalgic celebration of the music behind generations of animated classics.&nbsp;\n              \n\n              \n\n   ",
+      "url": "https://www.ottawapopsorchestra.ca/events/saturday-morning-cartoons"
+    },
+    {
+      "source": "ottawapops",
+      "title": "The Music of John Williams",
+      "date": "2027-02-27",
+      "rawDate": "2027-02-27T00:30:00.919Z",
+      "time": "00:30",
+      "venue": "Ottawa Pops Orchestra",
+      "description": "Concert Celebration of the Music of John Williams&nbsp;\n              \n\n              \n                The unforgettable music behind cinema's greatest adventures.\n              \n\n              \n\n    ",
+      "url": "https://www.ottawapopsorchestra.ca/events/the-music-of-john-williams"
+    },
+    {
+      "source": "ottawapops",
+      "title": "Ghibli Symphony : Part III",
+      "date": "2027-04-16",
+      "rawDate": "2027-04-16T23:30:00.919Z",
+      "time": "23:30",
+      "venue": "Ottawa Pops Orchestra",
+      "description": "A symphonic celebration of the music of Studio Ghibli.\n              \n\n              \n                The music of Joe Hisaishi returns in the third chapter of our celebrated series.\n              \n\n ",
+      "url": "https://www.ottawapopsorchestra.ca/events/ghibli-symphony-part-iii"
+    },
+    {
+      "source": "ottawapops",
+      "title": "West Side Story : In Concert",
+      "date": "2027-06-10",
+      "rawDate": "2027-06-10T23:30:00.919Z",
+      "time": "23:30",
+      "venue": "Ottawa Pops Orchestra",
+      "description": "Semi-Staged Concert Production\n              \n\n              \n                Leonard Bernstein's original Broadway orchestration performed live.\n              \n\n              \n\n            \n         ",
+      "url": "https://www.ottawapopsorchestra.ca/events/west-side-story-in-concert"
+    },
+    {
       "source": "thirteenstrings",
       "title": "Vivaldi meets Piazzolla",
       "date": "2026-05-13",
@@ -6622,66 +6664,6 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Chamber Chat: John Estacio",
-      "date": "2026-07-24",
-      "rawDate": "Jul 24 2026",
-      "time": "10:30",
-      "venue": "Carleton Dominion-Chalmers Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/chamber-chat-john-estacio/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "NMN I: John Estacio at 60",
-      "date": "2026-07-24",
-      "rawDate": "Jul 24 2026",
-      "time": "12:00",
-      "venue": "Carleton Dominion-Chalmers Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/nmn-john-estacio-at-60/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Record Centre: Kathryn Patricia Cobbler",
-      "date": "2026-07-24",
-      "rawDate": "Jul 24 2026",
-      "time": "17:00",
-      "venue": "The Record Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/record-centre-kathryn-patricia-cobbler/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Chamber Chat: Ian Cusson",
-      "date": "2026-07-24",
-      "rawDate": "Jul 24 2026",
-      "time": "17:30",
-      "venue": "Carleton Dominion-Chalmers Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/chamber-chat-ian-cusson/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Philip Chiu and Janelle Fung: Return of the Light",
-      "date": "2026-07-24",
-      "rawDate": "Jul 24 2026",
-      "time": "19:00",
-      "venue": "Carleton Dominion-Chalmers Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/philip-chiu-janelle-fung-return-of-the-light/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "collectif9 + Ronny Desinor",
-      "date": "2026-07-24",
-      "rawDate": "Jul 24 2026",
-      "time": "21:30",
-      "venue": "Great Canadian Theatre Company",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/collectif9-ronny-desinor/"
     },
     {
       "source": "chamberfest",
