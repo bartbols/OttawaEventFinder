@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-07-26T08:34:07.006Z",
-  "totalEvents": 726,
+  "scrapedAt": "2026-07-27T10:01:20.928Z",
+  "totalEvents": 724,
   "errors": [],
   "events": [
     {
@@ -950,6 +950,61 @@
       "url": "https://nac-cna.ca/en/event/41582"
     },
     {
+      "source": "nac",
+      "title": "Mommy, le retour",
+      "subtitle": "Gore, rap and political musical satire",
+      "date": "2026-09-25",
+      "rawDate": "2026-09-25",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Gore, rap and political musical satire",
+      "url": "https://nac-cna.ca/en/event/40440"
+    },
+    {
+      "source": "nac",
+      "title": "Mommy, le retour",
+      "subtitle": "Gore, rap and political musical satire",
+      "date": "2026-09-26",
+      "rawDate": "2026-09-26",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Gore, rap and political musical satire",
+      "url": "https://nac-cna.ca/en/event/40440"
+    },
+    {
+      "source": "nac",
+      "title": "MÁM",
+      "subtitle": "Teaċ Daṁsa │Michael Keegan-Dolan",
+      "date": "2026-09-25",
+      "rawDate": "2026-09-25",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Teaċ Daṁsa │Michael Keegan-Dolan",
+      "url": "https://nac-cna.ca/en/event/40372"
+    },
+    {
+      "source": "nac",
+      "title": "MÁM",
+      "subtitle": "Teaċ Daṁsa │Michael Keegan-Dolan",
+      "date": "2026-09-26",
+      "rawDate": "2026-09-26",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Teaċ Daṁsa │Michael Keegan-Dolan",
+      "url": "https://nac-cna.ca/en/event/40372"
+    },
+    {
+      "source": "nac",
+      "title": "Post-show Dance Party",
+      "subtitle": "Traditional music and dance with La Déferlance and Yaëlle Azoulay",
+      "date": "2026-09-25",
+      "rawDate": "2026-09-25",
+      "time": "21:30",
+      "venue": "Canal Lobby Foyer du canal",
+      "description": "Traditional music and dance with La Déferlance and Yaëlle Azoulay",
+      "url": "https://nac-cna.ca/en/event/41759"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2026-08-12",
@@ -968,126 +1023,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/34388-FASOCANA"
-    },
-    {
-      "source": "gigs",
-      "title": "Legendary Sunday Afternoon Blues Jam",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "13:00",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Blues",
-      "url": "https://ottawagigs.ca/gig/blues-rainbow-bistro-plain-jane-and-the-crossroad-blues-band-26-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Sundays on the Patio with Raymundo Pizaña",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "13:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Flamenco",
-      "url": "https://ottawagigs.ca/gig/flamenco-bar-robo-raymundo-piza-a-26-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Dan Kelly, Julie Stella, Woods of Light",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "14:00",
-      "venue": "The Black Sheep Inn",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-black-sheep-inn-dan-kelly-26-july"
-    },
-    {
-      "source": "gigs",
-      "title": "The Songbird Coven Songwriter Series Summer Bash & Fundraiser",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "15:00",
-      "venue": "Other",
-      "description": "Genre: Storytelling",
-      "url": "https://ottawagigs.ca/gig/storytelling-broadway-bar-grill-prince-of-wales-2026-07-26"
-    },
-    {
-      "source": "gigs",
-      "title": "NIGHT TWO: Great Lake Swimmers LIVE @ Motel Chelsea! (Matinee)",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "16:30",
-      "venue": "Motel Chelsea",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-great-lake-swimmers-26-july"
-    },
-    {
-      "source": "gigs",
-      "title": "The Songbird Coven Summer Bash",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "18:00",
-      "venue": "Broadway Prince of Wales",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-broadway-prince-of-wales-the-songbird-coven-26-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Mativetsky, Amiri & Pagé",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "18:30",
-      "venue": "Other",
-      "description": "Genre: Classical",
-      "url": "https://ottawagigs.ca/gig/classical-great-canadian-theatre-company-26-07-26"
-    },
-    {
-      "source": "gigs",
-      "title": "Jessica Pearson & the East Wind",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "19:00",
-      "venue": "Ottawa Tennis Club",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-ottawa-tennis-club-176-cameron-ave-0ttawa-26-07-26"
-    },
-    {
-      "source": "gigs",
-      "title": "Diesel Boy (Playing Entire First Album)",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "19:00",
-      "venue": "Dominion Tavern",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/gig/punk-dominion-tavern-diesel-boy-playing-entire-first-album--26-july"
-    },
-    {
-      "source": "gigs",
-      "title": "The Gentlemen of the Woods",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "19:00",
-      "venue": "The Robo Lounge",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-bar-robo-the-gentlemen-of-the-woods-26-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Heavy Lungs (UK punk)",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "19:30",
-      "venue": "LIVE! on Elgin",
-      "description": "Genre: Punk",
-      "url": "https://ottawagigs.ca/gig/punk-live-on-elgin-heavy-lungs-26-july"
-    },
-    {
-      "source": "gigs",
-      "title": "Ten02 at Rainbow Bistro",
-      "date": "2026-07-26",
-      "rawDate": "Sunday, July 26, 2026",
-      "time": "19:30",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-rainbow-bistro-ten02-26-july"
     },
     {
       "source": "gigs",
@@ -1148,6 +1083,126 @@
       "venue": "Rainbow Bistro",
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/gig/rock-rainbow-bistro-awesome-360-29-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Free happy hour show: Spanish Guitar with Raymundo",
+      "date": "2026-07-29",
+      "rawDate": "Wednesday, July 29, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Flamenco",
+      "url": "https://ottawagigs.ca/gig/flamenco-bar-robo-raymundo-pizana-29-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Death and the Maiden",
+      "date": "2026-07-30",
+      "rawDate": "Thursday, July 30, 2026",
+      "time": "19:00",
+      "venue": "Other",
+      "description": "Genre: Classical",
+      "url": "https://ottawagigs.ca/gig/classical-carleton-dominion-chalmers-centre-26-07-30"
+    },
+    {
+      "source": "gigs",
+      "title": "Free show with Jessy Lindsay!",
+      "date": "2026-07-30",
+      "rawDate": "Thursday, July 30, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-jessy-lindsay-30-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Napoleon (Metalcore)",
+      "date": "2026-07-30",
+      "rawDate": "Thursday, July 30, 2026",
+      "time": "20:00",
+      "venue": "Dominion Tavern",
+      "description": "Genre: Metal",
+      "url": "https://ottawagigs.ca/gig/metal-dominion-tavern-napoleon-metalcore--30-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Polarized + Sun Dried Flies + Tristan Walkling",
+      "date": "2026-07-30",
+      "rawDate": "Thursday, July 30, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-house-of-targ-polarized-30-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Ryan Young LIVE @ Motel Chelsea!",
+      "date": "2026-07-30",
+      "rawDate": "Thursday, July 30, 2026",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-ryan-young-30-july"
+    },
+    {
+      "source": "gigs",
+      "title": "SOFAR Mystery Show - Summer Soul Sessions",
+      "date": "2026-07-30",
+      "rawDate": "Thursday, July 30, 2026",
+      "time": "20:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Soul",
+      "url": "https://ottawagigs.ca/gig/soul-bar-robo-summer-soul-sessions-30-july"
+    },
+    {
+      "source": "gigs",
+      "title": "SOFAR Mystery Show",
+      "date": "2026-07-30",
+      "rawDate": "Thursday, July 30, 2026",
+      "time": "20:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Soul",
+      "url": "https://ottawagigs.ca/gig/soul-bar-robo-summer-soul-sessions-30-july-64d7c"
+    },
+    {
+      "source": "gigs",
+      "title": "VORTEX PRESENTS: JESKA",
+      "date": "2026-07-31",
+      "rawDate": "Friday, July 31, 2026",
+      "time": "11:00",
+      "venue": "Gridwrks",
+      "description": "Genre: Electronic",
+      "url": "https://ottawagigs.ca/gig/electronic-gridwrks-jeska-31-july"
+    },
+    {
+      "source": "gigs",
+      "title": "Mozart to Oscar Peterson",
+      "date": "2026-07-31",
+      "rawDate": "Friday, July 31, 2026",
+      "time": "19:00",
+      "venue": "Other",
+      "description": "Genre: Classical",
+      "url": "https://ottawagigs.ca/gig/classical-carleton-dominion-chalmers-centre-26-07-31"
+    },
+    {
+      "source": "gigs",
+      "title": "Ritmos del Corazón: Miguel de Armas Live",
+      "date": "2026-07-31",
+      "rawDate": "Friday, July 31, 2026",
+      "time": "19:00",
+      "venue": "The Robo Lounge",
+      "description": "Genre: Jazz",
+      "url": "https://ottawagigs.ca/gig/jazz-bar-robo-miguel-de-armas-31-july"
+    },
+    {
+      "source": "gigs",
+      "title": "METEOR HEIST at The Black Sheep Inn",
+      "date": "2026-07-31",
+      "rawDate": "Friday, July 31, 2026",
+      "time": "20:00",
+      "venue": "The Black Sheep Inn",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-black-sheep-inn-meteor-heist-31-july"
     },
     {
       "source": "redbird",
@@ -1554,7 +1609,7 @@
       "title": "Trivia Tuesday",
       "date": "2026-07-28",
       "rawDate": "Jul 28",
-      "time": "19:00",
+      "time": null,
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w"
@@ -6657,76 +6712,6 @@
     },
     {
       "source": "chamberfest",
-      "title": "Yolanda Bruno & Michael Bridge: It’s a Girl!",
-      "date": "2026-07-26",
-      "rawDate": "Jul 26 2026",
-      "time": "11:00",
-      "venue": "Beechwood Sacred Space",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/yolanda-bruno-michael-bridge/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Adaptive Concert: Jenna Richards & Beth Silver – Sea to Sky",
-      "date": "2026-07-26",
-      "rawDate": "Jul 26 2026",
-      "time": "13:30",
-      "venue": "Beechwood Sacred Space",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/adaptive-concert-jenna-richards-beth-silver/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "NMN II: Fresh Ink",
-      "date": "2026-07-26",
-      "rawDate": "Jul 26 2026",
-      "time": "14:30",
-      "venue": "Great Canadian Theatre Company",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/nmn-fresh-ink/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "NMN III: The Happenstancers",
-      "date": "2026-07-26",
-      "rawDate": "Jul 26 2026",
-      "time": "16:00",
-      "venue": "Great Canadian Theatre Company",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/nmn-the-happenstancers/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "National Youth Orchestra of Canada: Canadiana Tour",
-      "date": "2026-07-26",
-      "rawDate": "Jul 26 2026",
-      "time": "19:00",
-      "venue": "Carleton Dominion-Chalmers Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/national-youth-orchestra-of-canada-canadiana-tour/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Cancelled: Mativetsky, Amiri & Pagé",
-      "date": "2026-07-26",
-      "rawDate": "Jul 26 2026",
-      "time": "21:30",
-      "venue": "Great Canadian Theatre Company",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/mativetsky-amiri-page/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Cimbalom Fire: Alexandru Sura Quintet",
-      "date": "2026-07-26",
-      "rawDate": "Jul 26 2026",
-      "time": "21:30",
-      "venue": "Great Canadian Theatre Company",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/cimbalom-fire-alexandru-sura-quintet/"
-    },
-    {
-      "source": "chamberfest",
       "title": "Prime Time: NYOC Chamber Ensembles",
       "date": "2026-07-27",
       "rawDate": "Jul 27 2026",
@@ -7478,7 +7463,7 @@
     {
       "source": "motelchelsea",
       "title": "Great Lake Swimmers (Matinee)",
-      "date": "2026-07-26",
+      "date": "2027-07-26",
       "rawDate": "JULY 26",
       "time": "16:30",
       "venue": "Motel Chelsea",
