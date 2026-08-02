@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-01T08:27:12.128Z",
-  "totalEvents": 420,
+  "scrapedAt": "2026-08-02T08:34:19.923Z",
+  "totalEvents": 421,
   "errors": [],
   "events": [
     {
@@ -895,6 +895,28 @@
       "url": "https://nac-cna.ca/en/event/41478"
     },
     {
+      "source": "nac",
+      "title": "Rheostatics",
+      "subtitle": null,
+      "date": "2026-10-01",
+      "rawDate": "2026-10-01",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41187"
+    },
+    {
+      "source": "nac",
+      "title": "Les Charbonniers de l'enfer",
+      "subtitle": "The F-I FI, N-I NI show",
+      "date": "2026-10-01",
+      "rawDate": "2026-10-01",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "The F-I FI, N-I NI show",
+      "url": "https://nac-cna.ca/en/event/41048"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2026-08-12",
@@ -913,86 +935,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/34388-FASOCANA"
-    },
-    {
-      "source": "gigs",
-      "title": "Cameron Earnshaw",
-      "date": "2026-08-01",
-      "rawDate": "Saturday, August 1, 2026",
-      "time": "18:30",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Country",
-      "url": "https://ottawagigs.ca/gig/country-hard-rock-ottawa-cameron-earnshaw-1-august"
-    },
-    {
-      "source": "gigs",
-      "title": "Cole Swindell",
-      "date": "2026-08-01",
-      "rawDate": "Saturday, August 1, 2026",
-      "time": "19:00",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Country",
-      "url": "https://ottawagigs.ca/gig/country-hard-rock-ottawa-cole-swindell-1-august"
-    },
-    {
-      "source": "gigs",
-      "title": "Mac Saturn",
-      "date": "2026-08-01",
-      "rawDate": "Saturday, August 1, 2026",
-      "time": "19:00",
-      "venue": "27 Club",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-27-club-mac-saturn-1-august"
-    },
-    {
-      "source": "gigs",
-      "title": "NOICE! Vol. 1: A Night Of Inuit Circumpolar Excellence",
-      "date": "2026-08-01",
-      "rawDate": "Saturday, August 1, 2026",
-      "time": "19:00",
-      "venue": "Club SAW",
-      "description": "Genre: Global",
-      "url": "https://ottawagigs.ca/gig/global-club-saw-riit-1-august"
-    },
-    {
-      "source": "gigs",
-      "title": "Runaway Kit with Varitones & Special Guests",
-      "date": "2026-08-01",
-      "rawDate": "Saturday, August 1, 2026",
-      "time": "19:30",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-rainbow-bistro-runaway-kit-1-august"
-    },
-    {
-      "source": "gigs",
-      "title": "IANOS au Minotaure",
-      "date": "2026-08-01",
-      "rawDate": "Saturday, August 1, 2026",
-      "time": "20:00",
-      "venue": "Minotaure",
-      "description": "Genre: Rock",
-      "url": "https://ottawagigs.ca/gig/rock-minotaure-ianos-1-august"
-    },
-    {
-      "source": "gigs",
-      "title": "Bodysnatchers - Radiohead Tribute",
-      "date": "2026-08-01",
-      "rawDate": "Saturday, August 1, 2026",
-      "time": "20:00",
-      "venue": "The Black Sheep Inn",
-      "description": "Genre: Tribute/Covers",
-      "url": "https://ottawagigs.ca/gig/cover-tribute-black-sheep-inn-bodysnatchers-1-august"
-    },
-    {
-      "source": "gigs",
-      "title": "RAWR! Animal Print Party + Drag Show",
-      "date": "2026-08-01",
-      "rawDate": "Saturday, August 1, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Dance Party",
-      "url": "https://ottawagigs.ca/gig/dance-party-house-of-targ-sunshine-glitterchild-1-august"
     },
     {
       "source": "gigs",
@@ -1063,6 +1005,116 @@
       "venue": "House of Targ",
       "description": "Genre: Reggae",
       "url": "https://ottawagigs.ca/gig/reggae-house-of-targ-miss-patience-plush-5-august"
+    },
+    {
+      "source": "gigs",
+      "title": "Hollywood Undead",
+      "date": "2026-08-06",
+      "rawDate": "Thursday, August 6, 2026",
+      "time": "19:00",
+      "venue": "Hard Rock Hotel & Casino Ottawa",
+      "description": "Genre: Alternative",
+      "url": "https://ottawagigs.ca/gig/alternative-hard-rock-ottawa-hollywood-undead-6-august"
+    },
+    {
+      "source": "gigs",
+      "title": "Live & Local: Eva Danielson!",
+      "date": "2026-08-06",
+      "rawDate": "Thursday, August 6, 2026",
+      "time": "19:00",
+      "venue": "Motel Chelsea",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-eva-danielson-6-august"
+    },
+    {
+      "source": "gigs",
+      "title": "SPELLS (Denver Pop-Punk) + Audio Visceral + Seth Anderson + Prospect Nelson",
+      "date": "2026-08-06",
+      "rawDate": "Thursday, August 6, 2026",
+      "time": "20:00",
+      "venue": "House of Targ",
+      "description": "Genre: Pop Punk",
+      "url": "https://ottawagigs.ca/gig/pop-punk-house-of-targ-spells-6-august"
+    },
+    {
+      "source": "gigs",
+      "title": "Zooloo and The Seaweeds",
+      "date": "2026-08-06",
+      "rawDate": "Thursday, August 6, 2026",
+      "time": "20:00",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Blues",
+      "url": "https://ottawagigs.ca/gig/blues-rainbow-bistro-zooloo-and-the-seaweeds-6-august"
+    },
+    {
+      "source": "gigs",
+      "title": "Cantrip",
+      "date": "2026-08-07",
+      "rawDate": "Friday, August 7, 2026",
+      "time": "19:00",
+      "venue": "Red Bird",
+      "description": "Genre: Celtic",
+      "url": "https://ottawagigs.ca/gig/celtic-red-bird-cantrip-7-august"
+    },
+    {
+      "source": "gigs",
+      "title": "SAVE FERRIS + THE DIVETONES",
+      "date": "2026-08-07",
+      "rawDate": "Friday, August 7, 2026",
+      "time": "19:00",
+      "venue": "Rainbow Bistro",
+      "description": "Genre: Ska",
+      "url": "https://ottawagigs.ca/gig/ska-rainbow-bistro-save-ferris-7-august"
+    },
+    {
+      "source": "gigs",
+      "title": "Navan Fair",
+      "date": "2026-08-07",
+      "rawDate": "Friday, August 7, 2026",
+      "time": "19:30",
+      "venue": "Other",
+      "description": "Genre: Rock",
+      "url": "https://ottawagigs.ca/gig/rock-1279-colonial-road-navan-fairgrounds-26-08-07"
+    },
+    {
+      "source": "gigs",
+      "title": "Zach Top: Cold Beer & Country Music Tour 2026",
+      "date": "2026-08-07",
+      "rawDate": "Friday, August 7, 2026",
+      "time": "20:00",
+      "venue": "Canadian Tire Centre",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-canadian-tire-centre-zach-top-7-august"
+    },
+    {
+      "source": "gigs",
+      "title": "Geneviève Racette and Jessica Pearson and the East Wind",
+      "date": "2026-08-07",
+      "rawDate": "Friday, August 7, 2026",
+      "time": "20:00",
+      "venue": "The Black Sheep Inn",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-black-sheep-inn-genevi-ve-racette-7-august"
+    },
+    {
+      "source": "gigs",
+      "title": "DAAAM! The Hip Hop Party with Special Guests Tha Alkaholiks",
+      "date": "2026-08-07",
+      "rawDate": "Friday, August 7, 2026",
+      "time": "20:00",
+      "venue": "Bronson Centre",
+      "description": "Genre: Hip Hop",
+      "url": "https://ottawagigs.ca/gig/hip-hop-bronson-centre-tha-alkaholiks-7-august"
+    },
+    {
+      "source": "gigs",
+      "title": "Campbell, Austin Camp, and TBA",
+      "date": "2026-08-07",
+      "rawDate": "Friday, August 7, 2026",
+      "time": "20:00",
+      "venue": "LIVE! on Elgin",
+      "description": "Genre: Folk",
+      "url": "https://ottawagigs.ca/gig/folk-live-on-elgin-campbell-7-august"
     },
     {
       "source": "redbird",
@@ -2393,26 +2445,6 @@
       "venue": "Ottawa Pops Orchestra",
       "description": "Semi-Staged Concert Production\n              \n\n              \n                Leonard Bernstein's original Broadway orchestration performed live.\n              \n\n              \n\n            \n         ",
       "url": "https://www.ottawapopsorchestra.ca/events/west-side-story-in-concert"
-    },
-    {
-      "source": "thirteenstrings",
-      "title": "Vivaldi meets Piazzolla",
-      "date": "2026-05-13",
-      "rawDate": "May 13, 2026",
-      "time": "7:30 pm",
-      "venue": "Thirteen Strings",
-      "description": null,
-      "url": "https://thirteenstrings.ca/product/vivaldi-meets-piazzolla/"
-    },
-    {
-      "source": "thirteenstrings",
-      "title": "Fundraising Reception forThirteen Strings",
-      "date": "2026-06-11",
-      "rawDate": "June 11, 2026",
-      "time": "8:00 pm",
-      "venue": "Thirteen Strings",
-      "description": null,
-      "url": "https://thirteenstrings.ca/product/fundraising-reception-for-thirteen-strings/"
     },
     {
       "source": "manual",
@@ -3911,386 +3943,6 @@
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
     },
     {
-      "source": "bronson",
-      "title": "MOVED to DEC 12th – DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS",
-      "date": "2026-08-07",
-      "rawDate": "Friday, Aug 7, Doors: 8pm",
-      "time": "20:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/daaam-the-hip-hop-party-with-special-guests-tha-alkaholiks/"
-    },
-    {
-      "source": "bronson",
-      "title": "Rock of the 80s w/ China Crisis, Big Country, The Icicle Works, The Vapors",
-      "date": "2026-08-19",
-      "rawDate": "Wednesday, Aug 19, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/rock-of-80s-w-china-crisis-big-country-the-icicle-works-the-vapors/"
-    },
-    {
-      "source": "bronson",
-      "title": "Swervedriver",
-      "date": "2026-08-20",
-      "rawDate": "Thursday, Aug 20, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/swervedriver/"
-    },
-    {
-      "source": "bronson",
-      "title": "PITBULL! PRIDE OTTAWA",
-      "date": "2026-08-29",
-      "rawDate": "Saturday, Aug 29, Doors: 10pm",
-      "time": "22:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/pitbull-pride-ottawa/"
-    },
-    {
-      "source": "bronson",
-      "title": "Jackson Dean",
-      "date": "2026-09-04",
-      "rawDate": "Friday, Sep 4, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/jackson-dean/"
-    },
-    {
-      "source": "bronson",
-      "title": "Michel Pagliaro – Deux Voix Une Capitale",
-      "date": "2026-09-05",
-      "rawDate": "Saturday, Sep 5, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/michel-pagliaro-deux-voix-une-capital/"
-    },
-    {
-      "source": "bronson",
-      "title": "Jon Spencer",
-      "date": "2026-09-09",
-      "rawDate": "Wednesday, Sep 9, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/jon-spencer/"
-    },
-    {
-      "source": "bronson",
-      "title": "SUN KIL MOON (FKA/AKA: Mark Kozelek)",
-      "date": "2026-09-11",
-      "rawDate": "Friday, Sep 11, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/sun-kil-moon-fka-aka-mark-kozelek/"
-    },
-    {
-      "source": "bronson",
-      "title": "HATEBREED: SUMMER SLAUGHTER TOUR 2025",
-      "date": "2026-09-12",
-      "rawDate": "Saturday, Sep 12, Doors: 4:30pm",
-      "time": "16:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/hatebreed-summer-slaughter-tour-2025/"
-    },
-    {
-      "source": "bronson",
-      "title": "Tinariwen",
-      "date": "2026-09-16",
-      "rawDate": "Wednesday, Sep 16, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/tinariwen/"
-    },
-    {
-      "source": "bronson",
-      "title": "ERRA",
-      "date": "2026-09-22",
-      "rawDate": "Tuesday, Sep 22, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/erra/"
-    },
-    {
-      "source": "bronson",
-      "title": "The Story Of Nirvana w/El Niven",
-      "date": "2026-09-25",
-      "rawDate": "Friday, Sep 25, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/the-story-of-nirvana/"
-    },
-    {
-      "source": "bronson",
-      "title": "Daniel Lanois",
-      "date": "2026-09-27",
-      "rawDate": "Sunday, Sep 27, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/daniel-lanois-deux-voix-une-capitale/"
-    },
-    {
-      "source": "bronson",
-      "title": "Ya Levis",
-      "date": "2026-10-02",
-      "rawDate": "Friday, Oct 2, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/ya-levis/"
-    },
-    {
-      "source": "bronson",
-      "title": "DESPISED ICON",
-      "date": "2026-10-10",
-      "rawDate": "Saturday, Oct 10, Doors: 5:30pm",
-      "time": "17:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/despised-icon-2/"
-    },
-    {
-      "source": "bronson",
-      "title": "Buffalo Traffic Jam",
-      "date": "2026-10-12",
-      "rawDate": "Monday, Oct 12, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/buffalo-traffic-jam/"
-    },
-    {
-      "source": "bronson",
-      "title": "cleopatrick",
-      "date": "2026-10-15",
-      "rawDate": "Thursday, Oct 15, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/cleopatrick/"
-    },
-    {
-      "source": "bronson",
-      "title": "Bob The Drag Queen – Early Show",
-      "date": "2026-10-16",
-      "rawDate": "Friday, Oct 16, Doors: 6pm",
-      "time": "18:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/now-clap-bob-the-drag-queens-on-tour/"
-    },
-    {
-      "source": "bronson",
-      "title": "Bob The Drag Queen – Late Show added !",
-      "date": "2026-10-16",
-      "rawDate": "Friday, Oct 16, Doors: 9pm",
-      "time": "21:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/bob-the-drag-queen-late-show-added/"
-    },
-    {
-      "source": "bronson",
-      "title": "Joep Beving",
-      "date": "2026-10-17",
-      "rawDate": "Saturday, Oct 17, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/joep-beving/"
-    },
-    {
-      "source": "bronson",
-      "title": "Tyler Braden",
-      "date": "2026-10-30",
-      "rawDate": "Friday, Oct 30, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/tyler-braden/"
-    },
-    {
-      "source": "bronson",
-      "title": "AMBLE",
-      "date": "2026-11-03",
-      "rawDate": "Tuesday, Nov 3, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/amble/"
-    },
-    {
-      "source": "bronson",
-      "title": "The Record Company",
-      "date": "2026-11-13",
-      "rawDate": "Friday, Nov 13, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/the-record-company/"
-    },
-    {
-      "source": "bronson",
-      "title": "MODI",
-      "date": "2026-11-19",
-      "rawDate": "Thursday, Nov 19, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/modi/"
-    },
-    {
-      "source": "bronson",
-      "title": "Akaash Singh",
-      "date": "2026-11-21",
-      "rawDate": "Saturday, Nov 21, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/akaash-singh/"
-    },
-    {
-      "source": "bronson",
-      "title": "A Skydiggers Christmas",
-      "date": "2026-12-05",
-      "rawDate": "Saturday, Dec 5, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/a-skydiggers-christmas/"
-    },
-    {
-      "source": "bronson",
-      "title": "THE BOUNCING SOULS with The Suicide Machines",
-      "date": "2026-12-06",
-      "rawDate": "Sunday, Dec 6, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/the-bouncing-souls-with-the-suicide-machines/"
-    },
-    {
-      "source": "bronson",
-      "title": "DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS ~ NEW DATE ~",
-      "date": "2026-12-12",
-      "rawDate": "Saturday, Dec 12, Doors: 8pm",
-      "time": "20:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks-new-date/"
-    },
-    {
-      "source": "bronson",
-      "title": "TroyBoi",
-      "date": "2026-12-17",
-      "rawDate": "Thursday, Dec 17, Doors: 9pm",
-      "time": "21:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Yoga + Cello: Anna Petersen and Raphael Weinroth-Browne",
-      "date": "2026-08-01",
-      "rawDate": "Aug 1 2026",
-      "time": "09:00",
-      "venue": "Ottawa City Hall, Lisgar Field",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/yoga-cello-anna-petersen-and-raphael-weinroth-browne-3/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Meet the Makers: Exhibition of Canadian Violins & Bows",
-      "date": "2026-08-01",
-      "rawDate": "Aug 1 2026",
-      "time": "10:00",
-      "venue": "Carleton Dominion-Chalmers Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/meet-the-makers-exhibition-of-canadian-violins-bows/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Bring the Kids: SHHH!! Ensemble",
-      "date": "2026-08-01",
-      "rawDate": "Aug 1 2026",
-      "time": "10:30",
-      "venue": "Ottawa City Hall, Jean Pigott Place",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/bring-the-kids-shhh-ensemble-3/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "The Forest: Carson Becke, Allyson McHardy, and Meghan Lindsay",
-      "date": "2026-08-01",
-      "rawDate": "Aug 1 2026",
-      "time": "13:00",
-      "venue": "Carleton Dominion-Chalmers Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/the-forest-carson-becke-allyson-mchardy-meghan-lindsay/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Rideau Hall: Kathryn Patricia Cobbler (2:00PM)",
-      "date": "2026-08-01",
-      "rawDate": "Aug 1 2026",
-      "time": "14:00",
-      "venue": "Rideau Hall",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/rideau-hall-kathryn-patricia-cobbler/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Record Centre: Cris Derksen’s “The Visit” Listening Session",
-      "date": "2026-08-01",
-      "rawDate": "Aug 1 2026",
-      "time": "15:00",
-      "venue": "The Record Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/record-centre-cris-derksen-the-visit-listening-session/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Rideau Hall: Kathryn Patricia Cobbler (3:30PM)",
-      "date": "2026-08-01",
-      "rawDate": "Aug 1 2026",
-      "time": "15:30",
-      "venue": "Rideau Hall",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/rideau-hall-kathryn-patricia-cobbler-2/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Introducing the Chamberfest Camerata",
-      "date": "2026-08-01",
-      "rawDate": "Aug 1 2026",
-      "time": "19:00",
-      "venue": "Carleton Dominion-Chalmers Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/chamberfest-camerata/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Angelique Francis",
-      "date": "2026-08-01",
-      "rawDate": "Aug 1 2026",
-      "time": "21:30",
-      "venue": "Great Canadian Theatre Company",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/angelique-francis/"
-    },
-    {
       "source": "chamberfest",
       "title": "Community in C: A Free Outdoor Festival Finale",
       "date": "2026-08-02",
@@ -4388,7 +4040,7 @@
       "time": "19:00",
       "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
-      "url": "https://www.chamberfest.com/event/2026/gala-noel-all-is-bright/"
+      "url": "https://www.chamberfest.com/event/2026/gala-noel/"
     },
     {
       "source": "chamberfest",
@@ -4409,6 +4061,366 @@
       "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/kronos-quartet/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Emily Jean Flack",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Steph Strings",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Nicolas Pellerin & Les Grands Hurleurs",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Marcus King Band",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Ashley Macisaac",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Alabama Shakes",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Fine Food Market",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Sam Drysdale",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "The Codas",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Stella Lefty",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "The White Buffalo",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Cameron Whitcomb",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Tennyson King",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "The New Hires",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Gwenifer Raymond",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Carson Cameron",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Switchfoot",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Jensen Mcrae",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Carson Cameron",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Third Eye Blind",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Teilhard Frost",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Ken Presse",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Jobi Riccio",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Vicki Brittle",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Angus & Julia Stone",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Pokey Lafarge",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Vicki Brittle",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Of Monsters And Men",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Steady Rain",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Bad Nerves",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Panic Shack",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "David James Allen",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Sex Pistols (steve Jones, Paul Cook, Glen Matlock) Featuring Frank Carter",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Amigo The Devil",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "David James Allen",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Alice Cooper",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
     },
     {
       "source": "motelchelsea",
