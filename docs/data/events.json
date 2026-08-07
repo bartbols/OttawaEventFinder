@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-06T08:44:31.288Z",
-  "totalEvents": 401,
+  "scrapedAt": "2026-08-07T07:24:32.503Z",
+  "totalEvents": 400,
   "errors": [],
   "events": [
     {
@@ -927,46 +927,6 @@
     },
     {
       "source": "gigs",
-      "title": "Hollywood Undead",
-      "date": "2026-08-06",
-      "rawDate": "Thursday, August 6, 2026",
-      "time": "19:00",
-      "venue": "Hard Rock Hotel & Casino Ottawa",
-      "description": "Genre: Alternative",
-      "url": "https://ottawagigs.ca/gig/alternative-hard-rock-ottawa-hollywood-undead-6-august"
-    },
-    {
-      "source": "gigs",
-      "title": "Live & Local: Eva Danielson!",
-      "date": "2026-08-06",
-      "rawDate": "Thursday, August 6, 2026",
-      "time": "19:00",
-      "venue": "Motel Chelsea",
-      "description": "Genre: Folk",
-      "url": "https://ottawagigs.ca/gig/folk-motel-chelsea-eva-danielson-6-august"
-    },
-    {
-      "source": "gigs",
-      "title": "SPELLS (Denver Pop-Punk) + Audio Visceral + Seth Anderson + Prospect Nelson",
-      "date": "2026-08-06",
-      "rawDate": "Thursday, August 6, 2026",
-      "time": "20:00",
-      "venue": "House of Targ",
-      "description": "Genre: Pop Punk",
-      "url": "https://ottawagigs.ca/gig/pop-punk-house-of-targ-spells-6-august"
-    },
-    {
-      "source": "gigs",
-      "title": "Zooloo and The Seaweeds",
-      "date": "2026-08-06",
-      "rawDate": "Thursday, August 6, 2026",
-      "time": "20:00",
-      "venue": "Rainbow Bistro",
-      "description": "Genre: Blues",
-      "url": "https://ottawagigs.ca/gig/blues-rainbow-bistro-zooloo-and-the-seaweeds-6-august"
-    },
-    {
-      "source": "gigs",
       "title": "Cantrip",
       "date": "2026-08-07",
       "rawDate": "Friday, August 7, 2026",
@@ -1124,6 +1084,36 @@
       "venue": "Hard Rock Hotel & Casino Ottawa",
       "description": "Genre: Rock",
       "url": "https://ottawagigs.ca/gig/rock-hard-rock-ottawa-honeymoon-suite-8-august"
+    },
+    {
+      "source": "gigs",
+      "title": "Kobo Town",
+      "date": "2026-08-08",
+      "rawDate": "Saturday, August 8, 2026",
+      "time": "19:00",
+      "venue": "Red Bird",
+      "description": "Genre: Ska",
+      "url": "https://ottawagigs.ca/gig/ska-red-bird-kobo-town-8-august"
+    },
+    {
+      "source": "gigs",
+      "title": "Navan Fair",
+      "date": "2026-08-08",
+      "rawDate": "Saturday, August 8, 2026",
+      "time": "19:30",
+      "venue": "Other",
+      "description": "Genre: Country",
+      "url": "https://ottawagigs.ca/gig/country-1279-colonial-road-navan-fairgrounds-2026-08-08"
+    },
+    {
+      "source": "gigs",
+      "title": "Friend Live! at Avant-Garde Bar in Ottawa",
+      "date": "2026-08-08",
+      "rawDate": "Saturday, August 8, 2026",
+      "time": "20:00",
+      "venue": "Avant-Garde Bar",
+      "description": "Genre: Indie",
+      "url": "https://ottawagigs.ca/gig/indie-avant-garde-bar-friend-8-august"
     },
     {
       "source": "redbird",
@@ -1467,16 +1457,6 @@
     },
     {
       "source": "irenes",
-      "title": "The Prime Rib Big Band",
-      "date": "2026-08-05",
-      "rawDate": "Aug 5",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/r9dz9pm5t8pr7el6sn6ebwl9jrscgk"
-    },
-    {
-      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Jamieson Mackay",
       "date": "2026-08-06",
       "rawDate": "Aug 6",
@@ -1802,7 +1782,7 @@
       "rawDate": "Sep 11",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Sun Dried Flies",
+      "description": "Sun Dried Flies Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/sundried-flies-with-special-guests"
     },
     {
@@ -2024,6 +2004,16 @@
       "venue": "Irene's Pub",
       "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-amy-winehouse-1"
+    },
+    {
+      "source": "irenes",
+      "title": "The Prime Rib Big Band",
+      "date": "2026-08-05",
+      "rawDate": "Aug 5",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/r9dz9pm5t8pr7el6sn6ebwl9jrscgk"
     },
     {
       "source": "irenes",
@@ -2314,16 +2304,6 @@
       "venue": "Irene's Pub",
       "description": "The Rembros Side Pocket Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-rembros-1"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Gregor Sneddon",
-      "date": "2026-07-02",
-      "rawDate": "Jul 2",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb"
     },
     {
       "source": "gctc",
@@ -4170,6 +4150,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Mary Wallopers",
+      "date": "2027-03-10",
+      "rawDate": "Wednesday, Mar 10, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-mary-wallopers/"
     },
     {
       "source": "chamberfest",
