@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-09T07:06:28.620Z",
-  "totalEvents": 354,
+  "scrapedAt": "2026-08-10T07:49:54.543Z",
+  "totalEvents": 388,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -953,6 +953,39 @@
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "Autofiction between here and Africa",
       "url": "https://nac-cna.ca/en/event/40441"
+    },
+    {
+      "source": "nac",
+      "title": "John Cleese and the Holy Grail at 50",
+      "subtitle": "Not dead yet!",
+      "date": "2026-10-09",
+      "rawDate": "2026-10-09",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Not dead yet!",
+      "url": "https://nac-cna.ca/en/event/40850"
+    },
+    {
+      "source": "nac",
+      "title": "John Cleese and the Holy Grail at 50",
+      "subtitle": "Not dead yet!",
+      "date": "2026-10-10",
+      "rawDate": "2026-10-10",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Not dead yet!",
+      "url": "https://nac-cna.ca/en/event/40850"
+    },
+    {
+      "source": "nac",
+      "title": "Capital Music Awards",
+      "subtitle": "Ottawa Music Industry Coalition",
+      "date": "2026-10-09",
+      "rawDate": "2026-10-09",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Ottawa Music Industry Coalition",
+      "url": "https://nac-cna.ca/en/event/41535"
     },
     {
       "source": "jazz",
@@ -2213,6 +2246,26 @@
       "venue": "Ottawa Pops Orchestra",
       "description": "Semi-Staged Concert Production\n              \n\n              \n                Leonard Bernstein's original Broadway orchestration performed live.\n              \n\n              \n\n            \n         ",
       "url": "https://www.ottawapopsorchestra.ca/events/west-side-story-in-concert"
+    },
+    {
+      "source": "thirteenstrings",
+      "title": "Vivaldi meets Piazzolla",
+      "date": "2026-05-13",
+      "rawDate": "May 13, 2026",
+      "time": "7:30 pm",
+      "venue": "Thirteen Strings",
+      "description": null,
+      "url": "https://thirteenstrings.ca/product/vivaldi-meets-piazzolla/"
+    },
+    {
+      "source": "thirteenstrings",
+      "title": "Fundraising Reception forThirteen Strings",
+      "date": "2026-06-11",
+      "rawDate": "June 11, 2026",
+      "time": "8:00 pm",
+      "venue": "Thirteen Strings",
+      "description": null,
+      "url": "https://thirteenstrings.ca/product/fundraising-reception-for-thirteen-strings/"
     },
     {
       "source": "manual",
@@ -3711,6 +3764,296 @@
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
     },
     {
+      "source": "bronson",
+      "title": "Rock of the 80s w/ China Crisis, Big Country, The Icicle Works, The Vapors",
+      "date": "2026-08-19",
+      "rawDate": "Wednesday, Aug 19, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/rock-of-80s-w-china-crisis-big-country-the-icicle-works-the-vapors/"
+    },
+    {
+      "source": "bronson",
+      "title": "Swervedriver",
+      "date": "2026-08-20",
+      "rawDate": "Thursday, Aug 20, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/swervedriver/"
+    },
+    {
+      "source": "bronson",
+      "title": "PITBULL! PRIDE OTTAWA",
+      "date": "2026-08-29",
+      "rawDate": "Saturday, Aug 29, Doors: 10pm",
+      "time": "22:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/pitbull-pride-ottawa/"
+    },
+    {
+      "source": "bronson",
+      "title": "Jackson Dean",
+      "date": "2026-09-04",
+      "rawDate": "Friday, Sep 4, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jackson-dean/"
+    },
+    {
+      "source": "bronson",
+      "title": "Michel Pagliaro – Deux Voix Une Capitale",
+      "date": "2026-09-05",
+      "rawDate": "Saturday, Sep 5, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/michel-pagliaro-deux-voix-une-capital/"
+    },
+    {
+      "source": "bronson",
+      "title": "Jon Spencer",
+      "date": "2026-09-09",
+      "rawDate": "Wednesday, Sep 9, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jon-spencer/"
+    },
+    {
+      "source": "bronson",
+      "title": "Talib Kweli",
+      "date": "2026-09-10",
+      "rawDate": "Thursday, Sep 10, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/talib-kweli/"
+    },
+    {
+      "source": "bronson",
+      "title": "SUN KIL MOON (FKA/AKA: Mark Kozelek)",
+      "date": "2026-09-11",
+      "rawDate": "Friday, Sep 11, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/sun-kil-moon-fka-aka-mark-kozelek/"
+    },
+    {
+      "source": "bronson",
+      "title": "HATEBREED: SUMMER SLAUGHTER TOUR 2025",
+      "date": "2026-09-12",
+      "rawDate": "Saturday, Sep 12, Doors: 4:30pm",
+      "time": "16:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/hatebreed-summer-slaughter-tour-2025/"
+    },
+    {
+      "source": "bronson",
+      "title": "Tinariwen",
+      "date": "2026-09-16",
+      "rawDate": "Wednesday, Sep 16, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/tinariwen/"
+    },
+    {
+      "source": "bronson",
+      "title": "ERRA",
+      "date": "2026-09-22",
+      "rawDate": "Tuesday, Sep 22, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/erra/"
+    },
+    {
+      "source": "bronson",
+      "title": "Daniel Lanois",
+      "date": "2026-09-27",
+      "rawDate": "Sunday, Sep 27, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/daniel-lanois-deux-voix-une-capitale/"
+    },
+    {
+      "source": "bronson",
+      "title": "Ya Levis",
+      "date": "2026-10-02",
+      "rawDate": "Friday, Oct 2, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/ya-levis/"
+    },
+    {
+      "source": "bronson",
+      "title": "DESPISED ICON",
+      "date": "2026-10-10",
+      "rawDate": "Saturday, Oct 10, Doors: 5:30pm",
+      "time": "17:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/despised-icon-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "Buffalo Traffic Jam",
+      "date": "2026-10-12",
+      "rawDate": "Monday, Oct 12, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/buffalo-traffic-jam/"
+    },
+    {
+      "source": "bronson",
+      "title": "cleopatrick",
+      "date": "2026-10-15",
+      "rawDate": "Thursday, Oct 15, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/cleopatrick/"
+    },
+    {
+      "source": "bronson",
+      "title": "Bob The Drag Queen – Early Show",
+      "date": "2026-10-16",
+      "rawDate": "Friday, Oct 16, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/now-clap-bob-the-drag-queens-on-tour/"
+    },
+    {
+      "source": "bronson",
+      "title": "Bob The Drag Queen – Late Show added !",
+      "date": "2026-10-16",
+      "rawDate": "Friday, Oct 16, Doors: 9pm",
+      "time": "21:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/bob-the-drag-queen-late-show-added/"
+    },
+    {
+      "source": "bronson",
+      "title": "Joep Beving",
+      "date": "2026-10-17",
+      "rawDate": "Saturday, Oct 17, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/joep-beving/"
+    },
+    {
+      "source": "bronson",
+      "title": "Tyler Braden",
+      "date": "2026-10-30",
+      "rawDate": "Friday, Oct 30, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/tyler-braden/"
+    },
+    {
+      "source": "bronson",
+      "title": "AMBLE",
+      "date": "2026-11-03",
+      "rawDate": "Tuesday, Nov 3, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/amble/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Record Company",
+      "date": "2026-11-13",
+      "rawDate": "Friday, Nov 13, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-record-company/"
+    },
+    {
+      "source": "bronson",
+      "title": "MODI",
+      "date": "2026-11-19",
+      "rawDate": "Thursday, Nov 19, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/modi/"
+    },
+    {
+      "source": "bronson",
+      "title": "Akaash Singh",
+      "date": "2026-11-21",
+      "rawDate": "Saturday, Nov 21, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/akaash-singh/"
+    },
+    {
+      "source": "bronson",
+      "title": "A Skydiggers Christmas",
+      "date": "2026-12-05",
+      "rawDate": "Saturday, Dec 5, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/a-skydiggers-christmas/"
+    },
+    {
+      "source": "bronson",
+      "title": "THE BOUNCING SOULS with The Suicide Machines",
+      "date": "2026-12-06",
+      "rawDate": "Sunday, Dec 6, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-bouncing-souls-with-the-suicide-machines/"
+    },
+    {
+      "source": "bronson",
+      "title": "DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS ~ NEW DATE ~",
+      "date": "2026-12-12",
+      "rawDate": "Saturday, Dec 12, Doors: 8pm",
+      "time": "20:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks-new-date/"
+    },
+    {
+      "source": "bronson",
+      "title": "TroyBoi",
+      "date": "2026-12-17",
+      "rawDate": "Thursday, Dec 17, Doors: 9pm",
+      "time": "21:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Mary Wallopers",
+      "date": "2027-03-10",
+      "rawDate": "Wednesday, Mar 10, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-mary-wallopers/"
+    },
+    {
       "source": "chamberfest",
       "title": "Janina Fialkowska Celebrates 75",
       "date": "2026-10-13",
@@ -3763,7 +4106,7 @@
     {
       "source": "motelchelsea",
       "title": "Alysha Brilla",
-      "date": "2026-08-09",
+      "date": "2027-08-09",
       "rawDate": "AUGUST 09",
       "time": "16:30",
       "venue": "Motel Chelsea",
