@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-11T07:17:25.810Z",
-  "totalEvents": 657,
+  "scrapedAt": "2026-08-12T07:39:41.267Z",
+  "totalEvents": 653,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,61 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Grace Petrie",
-      "subtitle": null,
-      "date": "2026-08-11",
-      "rawDate": "2026-08-11",
-      "time": "19:30",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40950"
-    },
-    {
-      "source": "nac",
-      "title": "Grace Petrie",
-      "subtitle": null,
-      "date": "2026-08-12",
-      "rawDate": "2026-08-12",
-      "time": "19:30",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40950"
-    },
-    {
-      "source": "nac",
-      "title": "Turkwaz & Medusa",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-08-11",
-      "rawDate": "2026-08-11",
-      "time": "19:30",
-      "venue": "Wood Terrace Terrasse en bois",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40970"
-    },
-    {
-      "source": "nac",
-      "title": "Turkwaz & Medusa",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-08-12",
-      "rawDate": "2026-08-12",
-      "time": "19:30",
-      "venue": "Wood Terrace Terrasse en bois",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40970"
-    },
-    {
-      "source": "nac",
-      "title": "Turkwaz & Medusa",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-08-13",
-      "rawDate": "2026-08-13",
-      "time": "19:30",
-      "venue": "Wood Terrace Terrasse en bois",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40970"
-    },
     {
       "source": "nac",
       "title": "Turkwaz",
@@ -1021,16 +966,6 @@
     {
       "source": "redbird",
       "title": "Open Stage",
-      "date": "2026-08-12",
-      "rawDate": "2026-08-12",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": " \n\nRed Bird's Weekly Open Stage is BACK!!\n \nHere is what's continuing:\n\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo",
-      "url": "https://www.showpass.com/open-stage-7-26-08-11-20-8877/"
-    },
-    {
-      "source": "redbird",
-      "title": "Open Stage",
       "date": "2026-08-19",
       "rawDate": "2026-08-19",
       "time": "12:00 a.m.",
@@ -1640,12 +1575,12 @@
     },
     {
       "source": "irenes",
-      "title": "Sun Dried Flies with Special Guests",
+      "title": "Sun Dried Flies with Special Guests Bella Donna",
       "date": "2026-09-11",
       "rawDate": "Sep 11",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Sun Dried Flies Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Sun Dried Flies Bella Donna Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/sundried-flies-with-special-guests"
     },
     {
@@ -1735,7 +1670,7 @@
       "rawDate": "Sep 20",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "I Spell It Nature Modern Dinosaurs",
+      "description": "I Spell It Nature Modern Dinosaurs Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/i-spell-it-nature-with-sg"
     },
     {
@@ -1813,7 +1748,7 @@
       "title": "Glebe Centre Trivia Fundrasier",
       "date": "2026-09-27",
       "rawDate": "Sep 27",
-      "time": "15:00",
+      "time": "14:00",
       "venue": "Irene's Pub",
       "description": null,
       "url": "https://irenespub.ca/events/glebe-centre-trivia-fundrasier"
@@ -2670,6 +2605,96 @@
     },
     {
       "source": "gladstone",
+      "title": "Small Fish",
+      "date": "2026-09-08",
+      "rawDate": "Sep 8, 2026",
+      "time": "21:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Small Fish",
+      "url": "https://thegladstone.ca/shows/small-fish/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Small Fish",
+      "date": "2026-09-09",
+      "rawDate": "Sep 8, 2026",
+      "time": "21:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Small Fish",
+      "url": "https://thegladstone.ca/shows/small-fish/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Small Fish",
+      "date": "2026-09-10",
+      "rawDate": "Sep 8, 2026",
+      "time": "21:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Small Fish",
+      "url": "https://thegladstone.ca/shows/small-fish/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Small Fish",
+      "date": "2026-09-11",
+      "rawDate": "Sep 8, 2026",
+      "time": "21:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Small Fish",
+      "url": "https://thegladstone.ca/shows/small-fish/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Small Fish",
+      "date": "2026-09-12",
+      "rawDate": "Sep 8, 2026",
+      "time": "21:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Small Fish",
+      "url": "https://thegladstone.ca/shows/small-fish/"
+    },
+    {
+      "source": "gladstone",
+      "title": "La tragédie du Brise-Glace",
+      "date": "2026-09-09",
+      "rawDate": "Sep 9, 2026",
+      "time": "19:00",
+      "venue": "The Gladstone Theatre",
+      "description": "The Ice-Breaker Tragedy",
+      "url": "https://thegladstone.ca/shows/la-tragedie-du-brise-glace/"
+    },
+    {
+      "source": "gladstone",
+      "title": "La tragédie du Brise-Glace",
+      "date": "2026-09-10",
+      "rawDate": "Sep 9, 2026",
+      "time": "19:00",
+      "venue": "The Gladstone Theatre",
+      "description": "The Ice-Breaker Tragedy",
+      "url": "https://thegladstone.ca/shows/la-tragedie-du-brise-glace/"
+    },
+    {
+      "source": "gladstone",
+      "title": "La tragédie du Brise-Glace",
+      "date": "2026-09-11",
+      "rawDate": "Sep 9, 2026",
+      "time": "19:00",
+      "venue": "The Gladstone Theatre",
+      "description": "The Ice-Breaker Tragedy",
+      "url": "https://thegladstone.ca/shows/la-tragedie-du-brise-glace/"
+    },
+    {
+      "source": "gladstone",
+      "title": "La tragédie du Brise-Glace",
+      "date": "2026-09-12",
+      "rawDate": "Sep 9, 2026",
+      "time": "19:00",
+      "venue": "The Gladstone Theatre",
+      "description": "The Ice-Breaker Tragedy",
+      "url": "https://thegladstone.ca/shows/la-tragedie-du-brise-glace/"
+    },
+    {
+      "source": "gladstone",
       "title": "The Unedited Woman",
       "date": "2026-09-13",
       "rawDate": "Sep 13, 2026",
@@ -2677,6 +2702,16 @@
       "venue": "The Gladstone Theatre",
       "description": "4th Annual Curated Performance Series of Local Women’s True Voices",
       "url": "https://thegladstone.ca/shows/unedited-womans-4th-annual-curated-performance-series-of-local-womens-true-voices/"
+    },
+    {
+      "source": "gladstone",
+      "title": "A Maverick’s Tribute",
+      "date": "2026-09-16",
+      "rawDate": "Sep 16, 2026",
+      "time": "79:30",
+      "venue": "The Gladstone Theatre",
+      "description": "Performed by Black Pearl",
+      "url": "https://thegladstone.ca/shows/the-mavericks-tribute-show/"
     },
     {
       "source": "gladstone",
@@ -4437,96 +4472,6 @@
       "venue": "The Gladstone Theatre",
       "description": "A sort of a love story.",
       "url": "https://thegladstone.ca/shows/dear-elizabeth/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Animal KinkDom",
-      "date": "2027-06-18",
-      "rawDate": "Jun 18, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Come get Wild",
-      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Animal KinkDom",
-      "date": "2027-06-19",
-      "rawDate": "Jun 18, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Come get Wild",
-      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Animal KinkDom",
-      "date": "2027-06-20",
-      "rawDate": "Jun 18, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Come get Wild",
-      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Animal KinkDom",
-      "date": "2027-06-21",
-      "rawDate": "Jun 18, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Come get Wild",
-      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Animal KinkDom",
-      "date": "2027-06-22",
-      "rawDate": "Jun 18, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Come get Wild",
-      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Animal KinkDom",
-      "date": "2027-06-23",
-      "rawDate": "Jun 18, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Come get Wild",
-      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Animal KinkDom",
-      "date": "2027-06-24",
-      "rawDate": "Jun 18, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Come get Wild",
-      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Animal KinkDom",
-      "date": "2027-06-25",
-      "rawDate": "Jun 18, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Come get Wild",
-      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Animal KinkDom",
-      "date": "2027-06-26",
-      "rawDate": "Jun 18, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Come get Wild",
-      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
     },
     {
       "source": "gctc",
@@ -6323,6 +6268,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/modi/"
+    },
+    {
+      "source": "bronson",
+      "title": "Protest The Hero",
+      "date": "2026-11-20",
+      "rawDate": "Friday, Nov 20, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/protest-the-hero-3/"
     },
     {
       "source": "bronson",
