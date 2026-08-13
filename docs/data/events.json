@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-12T07:39:41.267Z",
-  "totalEvents": 653,
+  "scrapedAt": "2026-08-13T07:43:32.351Z",
+  "totalEvents": 657,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Turkwaz",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-08-12",
-      "rawDate": "2026-08-12",
-      "time": "12:00",
-      "venue": "Atrium O’Brien Atrium O’Brien",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40975"
-    },
     {
       "source": "nac",
       "title": "Medusa Quartet",
@@ -946,7 +935,7 @@
     {
       "source": "jazz",
       "title": "BRASS TAXX",
-      "date": "2026-08-12",
+      "date": "2027-08-12",
       "rawDate": "Wed, Aug 12, 7:00 p.m.",
       "time": "19:00",
       "venue": "Ottawa Jazz Festival",
@@ -3930,7 +3919,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -3940,7 +3929,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -3950,7 +3939,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -3960,7 +3949,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -3970,7 +3959,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -3980,7 +3969,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -3990,7 +3979,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -4000,7 +3989,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -4010,7 +3999,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -4020,7 +4009,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -4030,7 +4019,7 @@
       "rawDate": "Mar 24, 2027",
       "time": "11:00",
       "venue": "The Gladstone Theatre",
-      "description": "The Proxima Centauri Collective",
+      "description": "Plosive Productions",
       "url": "https://thegladstone.ca/shows/3698/"
     },
     {
@@ -4475,9 +4464,59 @@
     },
     {
       "source": "gctc",
+      "title": "Rogers v. Rogers (Oct 20 - Nov 1, 2026)",
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
+      "time": "19:30",
+      "venue": "GCTC",
+      "description": "  Rogers v. Rogers   A Crow’s Theatre Production  Adapted for the stage by  Michael Healey , based on Rogers v. Rogers: The Battle for Control of Canada’s Telecom Empire by Alexandra Posadzki  Directe",
+      "url": "https://www.gctc.ca/shows/rogers-v-rogers"
+    },
+    {
+      "source": "gctc",
+      "title": "Liars at a Funeral (Dec 1 - 13, 2026)",
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
+      "time": "19:30",
+      "venue": "GCTC",
+      "description": "  Liars at a Funeral   Written by  Sophia Fabiilli   Directed by  Hugh Neilson   When an estranged family gathers to mourn the passing of their matriarch, the funeral erupts into more of a dysfunction",
+      "url": "https://www.gctc.ca/shows/liars-at-a-funeral"
+    },
+    {
+      "source": "gctc",
+      "title": "Hurricane Diane (Feb 9 - 21, 2027)",
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
+      "time": "19:30",
+      "venue": "GCTC",
+      "description": "  Hurricane Diane   Written by  Madeleine George   Directed by  Sarah Kitz   Starring  Margo MacDonald   Meet Diane, a permaculture gardener dripping with butch charm. She’s got supernatural abilities",
+      "url": "https://www.gctc.ca/shows/hurricane-diane"
+    },
+    {
+      "source": "gctc",
+      "title": "Age is a Feeling (Apr 6 - 18, 2027)",
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
+      "time": "19:30",
+      "venue": "GCTC",
+      "description": "  Age is a Feeling   Written by  Haley McGee   Directed by  Lucy Coren     How many chances do you get to change the course of your life?  What will you leave unsaid when you go?  Beginning on the day",
+      "url": "https://www.gctc.ca/shows/age-is-a-feeling"
+    },
+    {
+      "source": "gctc",
+      "title": "Waiting for Godot- Inuktitut (May 19 - 29, 2027 @ NAC)",
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
+      "time": "20:00",
+      "venue": "GCTC",
+      "description": "  Waiting for Godot - Inuktitut   A 662 OVA (Nunavut) and Volcano (Toronto) creative collaboration, produced in association with Great Canadian Theatre Company, NAC Indigenous Theatre and the NAC’s Na",
+      "url": "https://www.gctc.ca/shows/waiting-for-godot-inuktitut"
+    },
+    {
+      "source": "gctc",
       "title": "Jagged Little Pill (Tototoo Theatre)",
-      "date": "2026-09-24",
-      "rawDate": "2026-09-24",
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
       "time": "19:30",
       "venue": "GCTC",
       "description": "  TotoToo Theatre is proud to present Jagged Little Pill, the electrifying Tony Award-winning musical inspired by the groundbreaking music of Alanis Morissette.  ",
