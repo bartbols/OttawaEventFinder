@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-14T07:40:55.601Z",
-  "totalEvents": 416,
+  "scrapedAt": "2026-08-15T06:47:21.981Z",
+  "totalEvents": 388,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -922,6 +922,50 @@
       "url": "https://nac-cna.ca/en/event/41793"
     },
     {
+      "source": "nac",
+      "title": "danses vagabondes",
+      "subtitle": "Louise Lacavalier │Fou Glorieux",
+      "date": "2026-10-14",
+      "rawDate": "2026-10-14",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Louise Lacavalier │Fou Glorieux",
+      "url": "https://nac-cna.ca/en/event/40368"
+    },
+    {
+      "source": "nac",
+      "title": "danses vagabondes",
+      "subtitle": "Louise Lacavalier │Fou Glorieux",
+      "date": "2026-10-15",
+      "rawDate": "2026-10-15",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Louise Lacavalier │Fou Glorieux",
+      "url": "https://nac-cna.ca/en/event/40368"
+    },
+    {
+      "source": "nac",
+      "title": "Roderick Cox and the Scottish Symphony",
+      "subtitle": "With the NAC Orchestra",
+      "date": "2026-10-14",
+      "rawDate": "2026-10-14",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "With the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40396"
+    },
+    {
+      "source": "nac",
+      "title": "Roderick Cox and the Scottish Symphony",
+      "subtitle": "With the NAC Orchestra",
+      "date": "2026-10-15",
+      "rawDate": "2026-10-15",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "With the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40396"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2027-08-12",
@@ -1280,6 +1324,16 @@
       "venue": "Red Bird Live",
       "description": "THE JUBILATION POTPOURRI Album Release Tour\nDAVID JAMES ALLEN &amp; THE GROWING MACHINE w/ Pascal Desgagne on Pedal Steel\nWith Special Guest RILEY BURNS (DUO)\nDavid James Allen is a Canadian songwrite",
       "url": "https://www.showpass.com/david-james-allen-with-riley-burns/"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Gerri Trimble",
+      "date": "2026-08-13",
+      "rawDate": "Aug 13",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-h8l26"
     },
     {
       "source": "irenes",
@@ -1753,16 +1807,6 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Gerri Trimble",
-      "date": "2026-08-13",
-      "rawDate": "Aug 13",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-h8l26"
-    },
-    {
-      "source": "irenes",
       "title": "Jazz Jam with The Beeched Wailers",
       "date": "2026-08-12",
       "rawDate": "Aug 12",
@@ -2050,6 +2094,16 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night RevueAurelia Anne Cohen",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-tc7mx"
+    },
+    {
+      "source": "irenes",
+      "title": "The Decomposers",
+      "date": "2026-07-11",
+      "rawDate": "Jul 11",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Decomposers Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/the-decomposers-1"
     },
     {
       "source": "gctc",
@@ -3779,6 +3833,16 @@
     },
     {
       "source": "bronson",
+      "title": "Hannibal Buress",
+      "date": "2026-09-24",
+      "rawDate": "Thursday, Sep 24, Doors: 12am",
+      "time": "00:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/hannibal-buress/"
+    },
+    {
+      "source": "bronson",
       "title": "Daniel Lanois",
       "date": "2026-09-27",
       "rawDate": "Sunday, Sep 27, Doors: 7pm",
@@ -3876,6 +3940,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/amble/"
+    },
+    {
+      "source": "bronson",
+      "title": "DZIDZIO",
+      "date": "2026-11-12",
+      "rawDate": "Thursday, Nov 12, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/dzidzio/"
     },
     {
       "source": "bronson",
@@ -4018,374 +4092,24 @@
       "url": "https://www.chamberfest.com/event/2026/kronos-quartet/"
     },
     {
-      "source": "cityfolk",
-      "title": "Emily Jean Flack",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
+      "source": "motelchelsea",
+      "title": "Graven & Teilhard Frost",
+      "date": "2027-08-14",
+      "rawDate": "AUGUST 14",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
       "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Steph Strings",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Nicolas Pellerin & Les Grands Hurleurs",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Marcus King Band",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Ashley Macisaac",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Alabama Shakes",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Fine Food Market",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Sam Drysdale",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "The Codas",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Stella Lefty",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "The White Buffalo",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Cameron Whitcomb",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Tennyson King",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "The New Hires",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Gwenifer Raymond",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Carson Cameron",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Switchfoot",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Jensen Mcrae",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Carson Cameron",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Third Eye Blind",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Teilhard Frost",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Ken Presse",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Jobi Riccio",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Vicki Brittle",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Angus & Julia Stone",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Pokey Lafarge",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Vicki Brittle",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Of Monsters And Men",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Steady Rain",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Bad Nerves",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Panic Shack",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "David James Allen",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Sex Pistols (steve Jones, Paul Cook, Glen Matlock) Featuring Frank Carter",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Amigo The Devil",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "David James Allen",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Alice Cooper",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
+      "url": "https://www.motelchelsea.com/post/friday-august-14-graven-teilhard-frost-8-00pm"
     },
     {
       "source": "motelchelsea",
-      "title": "Alysha Brilla",
-      "date": "2027-08-09",
-      "rawDate": "AUGUST 09",
-      "time": "16:30",
+      "title": "Garnet Rogers",
+      "date": "2026-08-21",
+      "rawDate": "AUGUST 21",
+      "time": "20:00",
       "venue": "Motel Chelsea",
       "description": null,
-      "url": "https://www.motelchelsea.com/post/sunday-august-9-alysha-brilla-4-30pm"
+      "url": "https://www.motelchelsea.com/post/friday-september-25-garnet-rogers-8-00pm"
     }
   ]
 }
