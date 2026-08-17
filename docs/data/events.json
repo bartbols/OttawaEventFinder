@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-16T06:47:30.763Z",
-  "totalEvents": 659,
+  "scrapedAt": "2026-08-17T07:05:57.362Z",
+  "totalEvents": 658,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -944,6 +944,28 @@
       "url": "https://nac-cna.ca/en/event/40396"
     },
     {
+      "source": "nac",
+      "title": "Bruce Cockburn",
+      "subtitle": null,
+      "date": "2026-10-16",
+      "rawDate": "2026-10-16",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40662"
+    },
+    {
+      "source": "nac",
+      "title": "Sarah Hagen",
+      "subtitle": "Goldberg Variations",
+      "date": "2026-10-16",
+      "rawDate": "2026-10-16",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Goldberg Variations",
+      "url": "https://nac-cna.ca/en/event/41584"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2027-08-12",
@@ -1302,36 +1324,6 @@
       "venue": "Red Bird Live",
       "description": "THE JUBILATION POTPOURRI Album Release Tour\nDAVID JAMES ALLEN &amp; THE GROWING MACHINE w/ Pascal Desgagne on Pedal Steel\nWith Special Guest RILEY BURNS (DUO)\nDavid James Allen is a Canadian songwrite",
       "url": "https://www.showpass.com/david-james-allen-with-riley-burns/"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Gerri Trimble",
-      "date": "2026-08-13",
-      "rawDate": "Aug 13",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-h8l26"
-    },
-    {
-      "source": "irenes",
-      "title": "Greene & Bleus - Jesse Greene and Jay Bleus",
-      "date": "2026-08-14",
-      "rawDate": "Aug 14",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Jesse Greene Jay Bleus Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/jesse-greene-with-special-guest-jay-bleus"
-    },
-    {
-      "source": "irenes",
-      "title": "Lives Like Skyscrapers with Special Guests Third Rail Transmission & Paul Anthony",
-      "date": "2026-08-15",
-      "rawDate": "Aug 15",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Lives Like Skyscrapers Third Rail Transmission Paul Anthony Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/third-rail-transmission"
     },
     {
       "source": "irenes",
@@ -1785,6 +1777,36 @@
     },
     {
       "source": "irenes",
+      "title": "Lives Like Skyscrapers with Special Guests Third Rail Transmission & Paul Anthony",
+      "date": "2026-08-15",
+      "rawDate": "Aug 15",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Lives Like Skyscrapers Third Rail Transmission Paul Anthony Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/third-rail-transmission"
+    },
+    {
+      "source": "irenes",
+      "title": "Greene & Bleus - Jesse Greene and Jay Bleus",
+      "date": "2026-08-14",
+      "rawDate": "Aug 14",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Jesse Greene Jay Bleus Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/jesse-greene-with-special-guest-jay-bleus"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Gerri Trimble",
+      "date": "2026-08-13",
+      "rawDate": "Aug 13",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-h8l26"
+    },
+    {
+      "source": "irenes",
       "title": "Jazz Jam with The Beeched Wailers",
       "date": "2026-08-12",
       "rawDate": "Aug 12",
@@ -2052,36 +2074,6 @@
       "venue": "Irene's Pub",
       "description": "The Beeched Wailers",
       "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-5"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-07-14",
-      "rawDate": "Jul 14",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-sr24z"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue with Special Guest Aurelia Anne Cohen",
-      "date": "2026-07-12",
-      "rawDate": "Jul 12",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night RevueAurelia Anne Cohen",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-tc7mx"
-    },
-    {
-      "source": "irenes",
-      "title": "The Decomposers",
-      "date": "2026-07-11",
-      "rawDate": "Jul 11",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "The Decomposers Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/the-decomposers-1"
     },
     {
       "source": "gladstone",
