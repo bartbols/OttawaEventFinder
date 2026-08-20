@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-19T06:53:59.478Z",
-  "totalEvents": 390,
+  "scrapedAt": "2026-08-20T06:57:57.437Z",
+  "totalEvents": 405,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "La Famille Leblanc",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-08-19",
-      "rawDate": "2026-08-19",
-      "time": "12:00",
-      "venue": "Atrium O’Brien Atrium O’Brien",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/41300"
-    },
     {
       "source": "nac",
       "title": "Dance at Zibi – Tango with Siempre Tango Ottawa",
@@ -604,6 +593,17 @@
     },
     {
       "source": "nac",
+      "title": "Dreamcatcher Workshop",
+      "subtitle": "with Bougie Birch",
+      "date": "2026-09-23",
+      "rawDate": "2026-09-23",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Bougie Birch",
+      "url": "https://nac-cna.ca/en/event/41874"
+    },
+    {
+      "source": "nac",
       "title": "Céleste Lévis",
       "subtitle": "Si elle",
       "date": "2026-09-24",
@@ -681,6 +681,28 @@
     },
     {
       "source": "nac",
+      "title": "Beaded Orange Shirt Pin Workshop",
+      "subtitle": "with Stephanie Peltier",
+      "date": "2026-09-28",
+      "rawDate": "2026-09-28",
+      "time": "18:00",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Stephanie Peltier",
+      "url": "https://nac-cna.ca/en/event/41876"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Strawberry Earring Workshop",
+      "subtitle": "with Kaylee Smoke",
+      "date": "2026-09-29",
+      "rawDate": "2026-09-29",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Kaylee Smoke",
+      "url": "https://nac-cna.ca/en/event/41877"
+    },
+    {
+      "source": "nac",
       "title": "Women, Truth & Reconciliation",
       "subtitle": "With Rose LeMay and Tanya Talaga",
       "date": "2026-09-30",
@@ -755,6 +777,171 @@
       "venue": "Southam Hall Salle Southam",
       "description": "The Stranger",
       "url": "https://nac-cna.ca/en/event/41891"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-06",
+      "rawDate": "2026-10-06",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-07",
+      "rawDate": "2026-10-07",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-08",
+      "rawDate": "2026-10-08",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-09",
+      "rawDate": "2026-10-09",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-10",
+      "rawDate": "2026-10-10",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-11",
+      "rawDate": "2026-10-11",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-12",
+      "rawDate": "2026-10-12",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-13",
+      "rawDate": "2026-10-13",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-14",
+      "rawDate": "2026-10-14",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-15",
+      "rawDate": "2026-10-15",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-16",
+      "rawDate": "2026-10-16",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-17",
+      "rawDate": "2026-10-17",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-18",
+      "rawDate": "2026-10-18",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-19",
+      "rawDate": "2026-10-19",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Vamp and Moccasin Workshop",
+      "subtitle": "with Colleen Nolan",
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Colleen Nolan",
+      "url": "https://nac-cna.ca/en/event/41878"
     },
     {
       "source": "nac",
@@ -1371,16 +1558,6 @@
     },
     {
       "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-08-18",
-      "rawDate": "Aug 18",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-pz2z5"
-    },
-    {
-      "source": "irenes",
       "title": "Fruit Cake - A Gay Ass Variety",
       "date": "2026-08-19",
       "rawDate": "Aug 19",
@@ -1591,7 +1768,7 @@
     },
     {
       "source": "irenes",
-      "title": "TBA",
+      "title": "GRFN with Special Guests",
       "date": "2026-09-12",
       "rawDate": "Sep 12",
       "time": "21:00",
@@ -1808,6 +1985,16 @@
       "venue": "Irene's Pub",
       "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-amy-winehouse-1"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-08-18",
+      "rawDate": "Aug 18",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-pz2z5"
     },
     {
       "source": "irenes",
@@ -2098,16 +2285,6 @@
       "venue": "Irene's Pub",
       "description": "Ethan Mitchell Mama Mush Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/ethan-mitchell-with-sg"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Terry Gillespie",
-      "date": "2026-07-16",
-      "rawDate": "Jul 16",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb-hd4d7"
     },
     {
       "source": "gctc",
@@ -3724,16 +3901,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "Rock of the 80s w/ China Crisis, Big Country, The Icicle Works, The Vapors",
-      "date": "2026-08-19",
-      "rawDate": "Wednesday, Aug 19, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/rock-of-80s-w-china-crisis-big-country-the-icicle-works-the-vapors/"
     },
     {
       "source": "bronson",
