@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-22T06:48:02.886Z",
-  "totalEvents": 642,
+  "scrapedAt": "2026-08-23T06:50:36.665Z",
+  "totalEvents": 639,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,39 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "ANTIDIVA: The Carole Pope Confessions",
-      "subtitle": "Film screening",
-      "date": "2026-08-22",
-      "rawDate": "2026-08-22",
-      "time": "16:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "Film screening",
-      "url": "https://nac-cna.ca/en/event/41890"
-    },
-    {
-      "source": "nac",
-      "title": "Miguel de Armas",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-08-22",
-      "rawDate": "2026-08-22",
-      "time": "16:30",
-      "venue": "Along the Rideau Canal Sur le long du Canal Rideau",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/41087"
-    },
-    {
-      "source": "nac",
-      "title": "Pride Pageant",
-      "subtitle": null,
-      "date": "2026-08-22",
-      "rawDate": "2026-08-22",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41763"
-    },
     {
       "source": "nac",
       "title": "ElderQueers (2SLGBTQIA+) Storytelling Workshop",
@@ -1197,6 +1164,50 @@
       "url": "https://nac-cna.ca/en/event/41197"
     },
     {
+      "source": "nac",
+      "title": "STAR WARS and beyond",
+      "subtitle": "The music of John Williams",
+      "date": "2026-10-22",
+      "rawDate": "2026-10-22",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "The music of John Williams",
+      "url": "https://nac-cna.ca/en/event/40413"
+    },
+    {
+      "source": "nac",
+      "title": "STAR WARS and beyond",
+      "subtitle": "The music of John Williams",
+      "date": "2026-10-23",
+      "rawDate": "2026-10-23",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "The music of John Williams",
+      "url": "https://nac-cna.ca/en/event/40413"
+    },
+    {
+      "source": "nac",
+      "title": "STAR WARS and beyond",
+      "subtitle": "The music of John Williams",
+      "date": "2026-10-24",
+      "rawDate": "2026-10-24",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "The music of John Williams",
+      "url": "https://nac-cna.ca/en/event/40413"
+    },
+    {
+      "source": "nac",
+      "title": "Dana Sipos",
+      "subtitle": null,
+      "date": "2026-10-22",
+      "rawDate": "2026-10-22",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41654"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2027-08-12",
@@ -1215,16 +1226,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/34388-FASOCANA"
-    },
-    {
-      "source": "redbird",
-      "title": "JW-Jones Plays the Hits",
-      "date": "2026-08-23",
-      "rawDate": "2026-08-23",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": " \nJW-JONES PLAYS THE HITS\nPetty • Hendrix • Cash • Stones • ZZ Top &amp; More\nFeaturing JW-Jones in a special one night only performance unlike anything the band has presented before.\nA Billboard Top ",
-      "url": "https://www.showpass.com/jw-jones/"
     },
     {
       "source": "redbird",
@@ -1568,36 +1569,6 @@
     },
     {
       "source": "irenes",
-      "title": "Fruit Cake - A Gay Ass Variety",
-      "date": "2026-08-19",
-      "rawDate": "Aug 19",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Fruit Cake Tickets",
-      "url": "https://irenespub.ca/events/fruit-cake-1"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Lucas Haneman",
-      "date": "2026-08-20",
-      "rawDate": "Aug 20",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-9sfz2"
-    },
-    {
-      "source": "irenes",
-      "title": "Music for a Cure with The Start - A Benefit for Breast Cancer Research",
-      "date": "2026-08-21",
-      "rawDate": "Aug 21",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "The Start CIBC Run for a Cure Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/the-start-2"
-    },
-    {
-      "source": "irenes",
       "title": "Sam Salmon & the Grand Manan Bandits with Special Guests Jack & The Backburners",
       "date": "2026-08-22",
       "rawDate": "Aug 22",
@@ -1848,12 +1819,12 @@
     },
     {
       "source": "irenes",
-      "title": "Smelloship",
+      "title": "Funk Nite with Smelloship",
       "date": "2026-09-19",
       "rawDate": "Sep 19",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Smelloship",
+      "description": "Smelloship Smelloship is a 6-piece instromonstrosity from Ottawa and Gatineau, Canada. Channeling 70s funk, soul, and southern rock, Smelloship rides a starfield where vintage tone and second-line swa",
       "url": "https://irenespub.ca/events/smelloship-2"
     },
     {
@@ -1995,6 +1966,36 @@
       "venue": "Irene's Pub",
       "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-amy-winehouse-1"
+    },
+    {
+      "source": "irenes",
+      "title": "Music for a Cure with The Start - A Benefit for Breast Cancer Research",
+      "date": "2026-08-21",
+      "rawDate": "Aug 21",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Start CIBC Run for a Cure Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/the-start-2"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Lucas Haneman",
+      "date": "2026-08-20",
+      "rawDate": "Aug 20",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-9sfz2"
+    },
+    {
+      "source": "irenes",
+      "title": "Fruit Cake - A Gay Ass Variety",
+      "date": "2026-08-19",
+      "rawDate": "Aug 19",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Fruit Cake Tickets",
+      "url": "https://irenespub.ca/events/fruit-cake-1"
     },
     {
       "source": "irenes",
@@ -2265,36 +2266,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-eaajj"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-07-19",
-      "rawDate": "Jul 19",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-84rps"
-    },
-    {
-      "source": "irenes",
-      "title": "John Carroll & the Ionospheric Propagators ft. Philippe Charbonneau, Peter Von Althen, Fred Guignon & Special Guest Joe Ray McDonald",
-      "date": "2026-07-18",
-      "rawDate": "Jul 18",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "John Carroll Joe Ray McDonald Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/john-carroll"
-    },
-    {
-      "source": "irenes",
-      "title": "Ethan Mitchell’s Love Triangle with S/G Mama Mush",
-      "date": "2026-07-17",
-      "rawDate": "Jul 17",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Ethan Mitchell Mama Mush Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/ethan-mitchell-with-sg"
     },
     {
       "source": "gladstone",
@@ -6654,16 +6625,6 @@
     },
     {
       "source": "motelchelsea",
-      "title": "Garnet Rogers",
-      "date": "2027-08-21",
-      "rawDate": "AUGUST 21",
-      "time": "20:00",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/friday-september-25-garnet-rogers-8-00pm"
-    },
-    {
-      "source": "motelchelsea",
       "title": "Garnet Rogers (Matinee)",
       "date": "2026-08-23",
       "rawDate": "AUGUST 23",
@@ -6671,6 +6632,16 @@
       "venue": "Motel Chelsea",
       "description": null,
       "url": "https://www.motelchelsea.com/post/sunday-september-26-garnet-rogers-matinee-4-30pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "The Salt Cellars",
+      "date": "2026-08-28",
+      "rawDate": "AUGUST 28",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/friday-august-28-the-salt-cellars-8-00pm"
     }
   ]
 }
