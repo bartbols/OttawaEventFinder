@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-23T06:50:36.665Z",
-  "totalEvents": 639,
+  "scrapedAt": "2026-08-24T07:08:08.381Z",
+  "totalEvents": 665,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -1208,6 +1208,28 @@
       "url": "https://nac-cna.ca/en/event/41654"
     },
     {
+      "source": "nac",
+      "title": "Gabriella Olivo",
+      "subtitle": "Reflexiones",
+      "date": "2026-10-23",
+      "rawDate": "2026-10-23",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Reflexiones",
+      "url": "https://nac-cna.ca/en/event/41588"
+    },
+    {
+      "source": "nac",
+      "title": "Charlotte Cornfield",
+      "subtitle": null,
+      "date": "2026-10-23",
+      "rawDate": "2026-10-23",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41695"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2027-08-12",
@@ -1226,26 +1248,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/34388-FASOCANA"
-    },
-    {
-      "source": "redbird",
-      "title": "JW-Jones Plays the Hits",
-      "date": "2026-08-23",
-      "rawDate": "2026-08-23",
-      "time": "11:00 p.m.",
-      "venue": "Red Bird Live",
-      "description": " \nJW-JONES PLAYS THE HITS\nPetty • Hendrix • Cash • Stones • ZZ Top &amp; More\nFeaturing JW-Jones in a special one night only performance unlike anything the band has presented before.\nA Billboard Top ",
-      "url": "https://www.showpass.com/jw-jones-plays-the-hits/"
-    },
-    {
-      "source": "redbird",
-      "title": "JW-Jones Plays the Hits",
-      "date": "2026-08-24",
-      "rawDate": "2026-08-24",
-      "time": "11:00 p.m.",
-      "venue": "Red Bird Live",
-      "description": " \nJW-JONES PLAYS THE HITS\nPetty • Hendrix • Cash • Stones • ZZ Top &amp; More\nFeaturing JW-Jones in a special one night only performance unlike anything the band has presented before.\nA Billboard Top ",
-      "url": "https://www.showpass.com/jw-jones-plays-the-hits/"
     },
     {
       "source": "redbird",
@@ -1569,16 +1571,6 @@
     },
     {
       "source": "irenes",
-      "title": "Sam Salmon & the Grand Manan Bandits with Special Guests Jack & The Backburners",
-      "date": "2026-08-22",
-      "rawDate": "Aug 22",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Sam Salmon & the Grand Manan Bandits Jack & The Backburners Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/sam-salmon-the-manan-bandits"
-    },
-    {
-      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-08-23",
       "rawDate": "Aug 23",
@@ -1604,7 +1596,7 @@
       "rawDate": "Aug 26",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Small Fish Tickets",
+      "description": "Small Fish Tickets Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/shbeyp4snb7exh5hjldshrxynxndgj"
     },
     {
@@ -1624,7 +1616,7 @@
       "rawDate": "Aug 28",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Thomas Duxbury & The New Mother Nature The Berns Out By Lucy Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Thomas Duxbury & The New Mother Nature The Berns Out By Lucy Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/the-bern-with-special-guests"
     },
     {
@@ -1634,7 +1626,7 @@
       "rawDate": "Aug 29",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "August John Supersum The Louies Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "August John Supersum The Louies Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/august-john-with-special-guests"
     },
     {
@@ -1684,7 +1676,7 @@
       "rawDate": "Sep 4",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Chantal Celine Jai Vinyl Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Chantal Celine Jai Vinyl Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/4xtiw2klwt64el51rv28dfkq5z9kdy"
     },
     {
@@ -1694,7 +1686,7 @@
       "rawDate": "Sep 5",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Joshua Isaac Bitterhalf Adam Fortais Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Joshua Isaac Bitterhalf Adam Fortais Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/no-quiet-endings-with-joshua-isaac-bitterhalf-adam-fortais"
     },
     {
@@ -1739,12 +1731,12 @@
     },
     {
       "source": "irenes",
-      "title": "Sun Dried Flies with Special Guests Bella Donna",
+      "title": "Sun Dried Flies with Special Guests Bella Donna & Dom Doyon",
       "date": "2026-09-11",
       "rawDate": "Sep 11",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Sun Dried Flies Bella Donna Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Sun Dried Flies Bella Donna Dom Doyon Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/sundried-flies-with-special-guests"
     },
     {
@@ -1754,7 +1746,7 @@
       "rawDate": "Sep 12",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/willy-nilly-with-special-guests"
     },
     {
@@ -1789,16 +1781,6 @@
     },
     {
       "source": "irenes",
-      "title": "TBA",
-      "date": "2026-09-16",
-      "rawDate": "Sep 16",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": null,
-      "url": "https://irenespub.ca/events/tbd"
-    },
-    {
-      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Leslie Rohonczy",
       "date": "2026-09-17",
       "rawDate": "Sep 17",
@@ -1814,7 +1796,7 @@
       "rawDate": "Sep 18",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Stereo Mary Loch Nisse Monster",
+      "description": "Stereo Mary Loch Nisse Monster Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/stereo-mary-with-special-guests"
     },
     {
@@ -1834,7 +1816,7 @@
       "rawDate": "Sep 20",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "I Spell It Nature Modern Dinosaurs Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "I Spell It Nature Modern Dinosaurs Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/i-spell-it-nature-with-sg"
     },
     {
@@ -1869,7 +1851,7 @@
     },
     {
       "source": "irenes",
-      "title": "Carleton University’s Faculty of Public and Global Affairs Presents Author Meets Readers",
+      "title": "Carleton University’s Faculty of Public and Global Affairs Presents Author Meets Readers - The Record Keepers: Digging for Stories in Canada’s Record Stores",
       "date": "2026-09-24",
       "rawDate": "Sep 24",
       "time": "17:00",
@@ -1894,7 +1876,7 @@
       "rawDate": "Sep 25",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Mecca of Stank Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Mecca of Stank Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/mecca-of-stank-with-sg"
     },
     {
@@ -1944,8 +1926,218 @@
       "rawDate": "Sep 30",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Small Fish Show",
+      "description": "Small Fish Show Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/gm573gxgs3lxmgj47dxakg6nkjc5rd"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Rusty McCarthy",
+      "date": "2026-10-01",
+      "rawDate": "Oct 1",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-bhhzs"
+    },
+    {
+      "source": "irenes",
+      "title": "Run Coyote with Special Guests The Berns & Leeny Jones",
+      "date": "2026-10-02",
+      "rawDate": "Oct 2",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/run-coyote-with-special-guests-the-berns-leeny-jones"
+    },
+    {
+      "source": "irenes",
+      "title": "Kaiday EP Release with Special Guests",
+      "date": "2026-10-03",
+      "rawDate": "Oct 3",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Kaiday Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/kaede-ep-release-with-special-guests"
+    },
+    {
+      "source": "irenes",
+      "title": "Bec & Rusty - Matinée",
+      "date": "2026-10-04",
+      "rawDate": "Oct 4",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "Rebecca Campbell Russell Levia Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/bec-rusty"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-10-04",
+      "rawDate": "Oct 4",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/2mbrb49k55mn8x6"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-10-06",
+      "rawDate": "Oct 6",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-7lepl"
+    },
+    {
+      "source": "irenes",
+      "title": "The Prime Rib Big Band",
+      "date": "2026-10-07",
+      "rawDate": "Oct 7",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/dwyaz5e8e73gagray63ad6zwkcnc6h"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Scott Amey",
+      "date": "2026-10-08",
+      "rawDate": "Oct 8",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-p2zma"
+    },
+    {
+      "source": "irenes",
+      "title": "TBA",
+      "date": "2026-10-09",
+      "rawDate": "Oct 9",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/tba-4"
+    },
+    {
+      "source": "irenes",
+      "title": "Mama Mush with Special Guests",
+      "date": "2026-10-10",
+      "rawDate": "Oct 10",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Mama Mush Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/mama-mush-with-special-guests"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-10-11",
+      "rawDate": "Oct 11",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/ezxj459cgel5w32"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-10-13",
+      "rawDate": "Oct 13",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-3ybrt"
+    },
+    {
+      "source": "irenes",
+      "title": "Jazz Jam with The Beeched Wailers",
+      "date": "2026-10-14",
+      "rawDate": "Oct 14",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "The Beeched Wailers",
+      "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-5-dl78w-77rwg-kp2g5"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Mark Crissinger",
+      "date": "2026-10-15",
+      "rawDate": "Oct 15",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-cycd7"
+    },
+    {
+      "source": "irenes",
+      "title": "The Social Distance with Special Guests",
+      "date": "2026-10-16",
+      "rawDate": "Oct 16",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Social Distance Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/the-social-distance"
+    },
+    {
+      "source": "irenes",
+      "title": "Blues Harmonica showcase",
+      "date": "2026-10-17",
+      "rawDate": "Oct 17",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/blues-harmonica-showcase"
+    },
+    {
+      "source": "irenes",
+      "title": "Keith Glass Band - Matinée",
+      "date": "2026-10-18",
+      "rawDate": "Oct 18",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "Keith Glass Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/keith-glass-band-matine"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-10-18",
+      "rawDate": "Oct 18",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/rm8a7td9b58z9ba"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-10-20",
+      "rawDate": "Oct 20",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-a6522"
+    },
+    {
+      "source": "irenes",
+      "title": "Ian Tamblyn",
+      "date": "2026-10-21",
+      "rawDate": "Oct 21",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Ian Tamblyn",
+      "url": "https://irenespub.ca/events/ian-tamblyn-1"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Murray Kinsley",
+      "date": "2026-10-22",
+      "rawDate": "Oct 22",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw"
     },
     {
       "source": "irenes",
@@ -1954,7 +2146,7 @@
       "rawDate": "Oct 23",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-any-winehouse"
     },
     {
@@ -1964,8 +2156,88 @@
       "rawDate": "Oct 24",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-amy-winehouse-1"
+    },
+    {
+      "source": "irenes",
+      "title": "Capital Kingdom Drag Brunch",
+      "date": "2026-10-25",
+      "rawDate": "Oct 25",
+      "time": "12:00",
+      "venue": "Irene's Pub",
+      "description": "Capital Kingdom",
+      "url": "https://irenespub.ca/events/capital-kingdom-drag-brunch-3"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-10-25",
+      "rawDate": "Oct 25",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-10-27",
+      "rawDate": "Oct 27",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk"
+    },
+    {
+      "source": "irenes",
+      "title": "Meat Market - A Dating Show",
+      "date": "2026-10-28",
+      "rawDate": "Oct 28",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Meat Market",
+      "url": "https://irenespub.ca/events/cdgjrrox6zcphnahcf6ct55ik4gk6j"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Mark Wessenger",
+      "date": "2026-10-29",
+      "rawDate": "Oct 29",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw-6nazf"
+    },
+    {
+      "source": "irenes",
+      "title": "Revenant Dan & the Murder Crows",
+      "date": "2026-10-30",
+      "rawDate": "Oct 30",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Revenant Dan Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/revenant-dan-the-murder-crowa"
+    },
+    {
+      "source": "irenes",
+      "title": "The Electric Co. Halloween Party",
+      "date": "2026-10-31",
+      "rawDate": "Oct 31",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Electric Co. Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/the-electric-co-halloween-party"
+    },
+    {
+      "source": "irenes",
+      "title": "Sam Salmon & the Grand Manan Bandits with Special Guests Jack & The Backburners",
+      "date": "2026-08-22",
+      "rawDate": "Aug 22",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Sam Salmon & the Grand Manan Bandits Jack & The Backburners Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/sam-salmon-the-manan-bandits"
     },
     {
       "source": "irenes",
@@ -2256,16 +2528,6 @@
       "venue": "Irene's Pub",
       "description": "PWYC Kristine St. Pierre Ali McCormick Jillian Allinson",
       "url": "https://irenespub.ca/events/girls-to-the-front-kristine-st-pierre-ali-mccormick-jillian-allinson"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-07-21",
-      "rawDate": "Jul 21",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-eaajj"
     },
     {
       "source": "gladstone",
@@ -6626,7 +6888,7 @@
     {
       "source": "motelchelsea",
       "title": "Garnet Rogers (Matinee)",
-      "date": "2026-08-23",
+      "date": "2027-08-23",
       "rawDate": "AUGUST 23",
       "time": "16:30",
       "venue": "Motel Chelsea",
