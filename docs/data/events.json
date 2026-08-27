@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-26T07:03:15.116Z",
-  "totalEvents": 393,
+  "scrapedAt": "2026-08-27T17:30:26.674Z",
+  "totalEvents": 488,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Aviva Chernick and La Serena Quartet",
-      "subtitle": "The Feeling of Free",
-      "date": "2026-08-26",
-      "rawDate": "2026-08-26",
-      "time": "12:00",
-      "venue": "Atrium O’Brien Atrium O’Brien",
-      "description": "The Feeling of Free",
-      "url": "https://nac-cna.ca/en/event/40940"
-    },
     {
       "source": "nac",
       "title": "SoundScape",
@@ -1196,16 +1185,6 @@
     },
     {
       "source": "redbird",
-      "title": "Celtic Celebration Featuring Pierre Schryer, Ian Clark and Danielle Enblom",
-      "date": "2026-08-27",
-      "rawDate": "2026-08-27",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Join us for an evening of Celtic Music played by some of the best in the region. There will be a concert from 8pm to 10pm, with a jam to follow, so bring your instruments and get in on the fun.\n\nThe e",
-      "url": "https://www.showpass.com/celtic-celebration-featuring-pierre-schryer-ian-clark-and-danielle-enblom/"
-    },
-    {
-      "source": "redbird",
       "title": "Mimi O'Bonsawin",
       "date": "2026-08-29",
       "rawDate": "2026-08-29",
@@ -1513,26 +1492,6 @@
       "venue": "Red Bird Live",
       "description": "THE JUBILATION POTPOURRI Album Release Tour\nDAVID JAMES ALLEN &amp; THE GROWING MACHINE w/ Pascal Desgagne on Pedal Steel\nWith Special Guest RILEY BURNS (DUO)\nDavid James Allen is a Canadian songwrite",
       "url": "https://www.showpass.com/david-james-allen-with-riley-burns/"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-08-25",
-      "rawDate": "Aug 25",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd"
-    },
-    {
-      "source": "irenes",
-      "title": "Small Fish - A Comedy & Variety Show",
-      "date": "2026-08-26",
-      "rawDate": "Aug 26",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Small Fish Tickets Ticket price subject to change at the door",
-      "url": "https://irenespub.ca/events/shbeyp4snb7exh5hjldshrxynxndgj"
     },
     {
       "source": "irenes",
@@ -2166,6 +2125,26 @@
     },
     {
       "source": "irenes",
+      "title": "Small Fish - A Comedy & Variety Show",
+      "date": "2026-08-26",
+      "rawDate": "Aug 26",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Small Fish Tickets Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/shbeyp4snb7exh5hjldshrxynxndgj"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-08-25",
+      "rawDate": "Aug 25",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-08-23",
       "rawDate": "Aug 23",
@@ -2445,24 +2424,284 @@
       "url": "https://irenespub.ca/events/the-lochmasters-with-sg-washboard-hank"
     },
     {
-      "source": "irenes",
-      "title": "Joe Gaspar All-Stars - Album Release",
-      "date": "2026-07-24",
-      "rawDate": "Jul 24",
+      "source": "gladstone",
+      "title": "Small Fish",
+      "date": "2026-09-12",
+      "rawDate": "Sep 12, 2026",
       "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Joe Gaspar All-Stars Ottawa's star trio \"Joe Gaspar All-Stars\" showcases Joe's exceptional talents as the lead vocalist, bassist, plus the incredibly gifted Lucas Haneman on guitar and the skilled dru",
-      "url": "https://irenespub.ca/events/joe-gaspar-all-stars"
+      "venue": "The Gladstone Theatre",
+      "description": "Small Fish",
+      "url": "https://thegladstone.ca/shows/small-fish/"
     },
     {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Brother Paul",
-      "date": "2026-07-23",
-      "rawDate": "Jul 23",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb-9hh8e"
+      "source": "gladstone",
+      "title": "La tragédie du Brise-Glace",
+      "date": "2026-09-12",
+      "rawDate": "Sep 12, 2026",
+      "time": "19:00",
+      "venue": "The Gladstone Theatre",
+      "description": "The Ice-Breaker Tragedy",
+      "url": "https://thegladstone.ca/shows/la-tragedie-du-brise-glace/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Unedited Woman",
+      "date": "2026-09-13",
+      "rawDate": "Sep 13, 2026",
+      "time": "14:30",
+      "venue": "The Gladstone Theatre",
+      "description": "4th Annual Curated Performance Series of Local Women’s True Voices",
+      "url": "https://thegladstone.ca/shows/unedited-womans-4th-annual-curated-performance-series-of-local-womens-true-voices/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Maverick’s Tribute Show",
+      "date": "2026-09-16",
+      "rawDate": "Sep 16, 2026",
+      "time": "19:30",
+      "venue": "The Gladstone Theatre",
+      "description": "Performed by Black Pearl",
+      "url": "https://thegladstone.ca/shows/the-mavericks-tribute-show/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Divining Spirits",
+      "date": "2026-09-17",
+      "rawDate": "Sep 17, 2026",
+      "time": "19:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Part of the 2026 Gleanings series \"Heroes & Villains\"",
+      "url": "https://thegladstone.ca/shows/divining-spirits/"
+    },
+    {
+      "source": "gladstone",
+      "title": "6th Annual All-Star Ottawa Blues for Youth Fundraiser",
+      "date": "2026-09-19",
+      "rawDate": "Sep 19, 2026",
+      "time": "19:00",
+      "venue": "The Gladstone Theatre",
+      "description": "in support of Youth Suicide Prevention through The Royal",
+      "url": "https://thegladstone.ca/shows/6th-annual-all-star-ottawa-blues-for-youth-fundraiser/"
+    },
+    {
+      "source": "gladstone",
+      "title": "New Life",
+      "date": "2026-09-26",
+      "rawDate": "Sep 26, 2026",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "A Musical",
+      "url": "https://thegladstone.ca/shows/new-life/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Constant Companions",
+      "date": "2026-10-10",
+      "rawDate": "Oct 10, 2026",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Plosive Productions",
+      "url": "https://thegladstone.ca/shows/constant-companions/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
+      "date": "2026-10-24",
+      "rawDate": "Oct 24, 2026",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "TotoToo Theatre",
+      "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Leonard Cohen: Ten Years Gone",
+      "date": "2026-11-07",
+      "rawDate": "Nov 7, 2026",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "A musical tribute by Bear & Co.",
+      "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Dracula",
+      "date": "2026-11-14",
+      "rawDate": "Nov 14, 2026",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Adapted by Stephen Hotchner",
+      "url": "https://thegladstone.ca/shows/dracula/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Skin Flick",
+      "date": "2026-11-28",
+      "rawDate": "Nov 28, 2026",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Phoenix Players",
+      "url": "https://thegladstone.ca/shows/skin-flick/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Miracle on 34th Street",
+      "date": "2026-12-05",
+      "rawDate": "Dec 5, 2026",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "A Live Radio Show",
+      "url": "https://thegladstone.ca/shows/miracle-on-34th-street/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Lion, the Witch and the Wardrobe",
+      "date": "2027-01-02",
+      "rawDate": "Jan 2, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Aslan is on the move...",
+      "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Snow Queen",
+      "date": "2027-01-16",
+      "rawDate": "Jan 16, 2027",
+      "time": "14:30",
+      "venue": "The Gladstone Theatre",
+      "description": "A Heartwarming Winter Fairytale for the Whole Family",
+      "url": "https://thegladstone.ca/shows/the-snow-queen/"
+    },
+    {
+      "source": "gladstone",
+      "title": "OTTAWA SUITE",
+      "date": "2027-01-23",
+      "rawDate": "Jan 23, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Rob Frayne and Paul Rainville",
+      "url": "https://thegladstone.ca/shows/ottawa-suite/"
+    },
+    {
+      "source": "gladstone",
+      "title": "SWEAT",
+      "date": "2027-01-30",
+      "rawDate": "Jan 30, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Marginally Fit Productions",
+      "url": "https://thegladstone.ca/shows/sweat/"
+    },
+    {
+      "source": "gladstone",
+      "title": "JOSIAH",
+      "date": "2027-02-13",
+      "rawDate": "Feb 13, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Thousand Miles of Bricks Productions",
+      "url": "https://thegladstone.ca/shows/josiah-2/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Crucible",
+      "date": "2027-02-20",
+      "rawDate": "Feb 20, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Salem is Burning. Will You Lie to Save Yourself?",
+      "url": "https://thegladstone.ca/shows/the-crucible/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Half-Cracked",
+      "date": "2027-03-06",
+      "rawDate": "Mar 6, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "The Legend of Sissy Mary",
+      "url": "https://thegladstone.ca/shows/half-cracked/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Romeo & Juliet",
+      "date": "2027-03-20",
+      "rawDate": "Mar 20, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "by William Shakespeare",
+      "url": "https://thegladstone.ca/shows/romeo-juliet/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Proxima Centauri",
+      "date": "2027-04-03",
+      "rawDate": "Apr 3, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Plosive Productions",
+      "url": "https://thegladstone.ca/shows/3698/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Alice in Wonderland",
+      "date": "2027-04-17",
+      "rawDate": "Apr 17, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "An adventure through nonsense",
+      "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
+    },
+    {
+      "source": "gladstone",
+      "title": "RED",
+      "date": "2027-05-01",
+      "rawDate": "May 1, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Phoenix Players",
+      "url": "https://thegladstone.ca/shows/red/"
+    },
+    {
+      "source": "gladstone",
+      "title": "The Cripple of Inishmaan",
+      "date": "2027-05-15",
+      "rawDate": "May 15, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Tullamore Productions",
+      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Frankenstein Ai",
+      "date": "2027-05-29",
+      "rawDate": "May 29, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "More than Human. Less than Alive.",
+      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Dear Elizabeth",
+      "date": "2027-06-12",
+      "rawDate": "Jun 12, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "A sort of a love story.",
+      "url": "https://thegladstone.ca/shows/dear-elizabeth/"
+    },
+    {
+      "source": "gladstone",
+      "title": "Animal KinkDom",
+      "date": "2027-06-26",
+      "rawDate": "Jun 26, 2027",
+      "time": "11:00",
+      "venue": "The Gladstone Theatre",
+      "description": "Come get Wild",
+      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
     },
     {
       "source": "gctc",
@@ -4111,6 +4350,356 @@
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
     },
     {
+      "source": "bronson",
+      "title": "PITBULL! PRIDE OTTAWA",
+      "date": "2026-08-29",
+      "rawDate": "Saturday, Aug 29, Doors: 10pm",
+      "time": "22:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/pitbull-pride-ottawa/"
+    },
+    {
+      "source": "bronson",
+      "title": "Jackson Dean",
+      "date": "2026-09-04",
+      "rawDate": "Friday, Sep 4, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jackson-dean/"
+    },
+    {
+      "source": "bronson",
+      "title": "Michel Pagliaro – Deux Voix Une Capitale",
+      "date": "2026-09-05",
+      "rawDate": "Saturday, Sep 5, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/michel-pagliaro-deux-voix-une-capital/"
+    },
+    {
+      "source": "bronson",
+      "title": "Jon Spencer",
+      "date": "2026-09-09",
+      "rawDate": "Wednesday, Sep 9, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jon-spencer/"
+    },
+    {
+      "source": "bronson",
+      "title": "Talib Kweli",
+      "date": "2026-09-10",
+      "rawDate": "Thursday, Sep 10, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/talib-kweli/"
+    },
+    {
+      "source": "bronson",
+      "title": "SUN KIL MOON (FKA/AKA: Mark Kozelek)",
+      "date": "2026-09-11",
+      "rawDate": "Friday, Sep 11, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/sun-kil-moon-fka-aka-mark-kozelek/"
+    },
+    {
+      "source": "bronson",
+      "title": "HATEBREED: SUMMER SLAUGHTER TOUR 2025",
+      "date": "2026-09-12",
+      "rawDate": "Saturday, Sep 12, Doors: 4:30pm",
+      "time": "16:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/hatebreed-summer-slaughter-tour-2025/"
+    },
+    {
+      "source": "bronson",
+      "title": "Tinariwen",
+      "date": "2026-09-16",
+      "rawDate": "Wednesday, Sep 16, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/tinariwen/"
+    },
+    {
+      "source": "bronson",
+      "title": "ERRA",
+      "date": "2026-09-22",
+      "rawDate": "Tuesday, Sep 22, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/erra/"
+    },
+    {
+      "source": "bronson",
+      "title": "Hannibal Buress",
+      "date": "2026-09-24",
+      "rawDate": "Thursday, Sep 24, Doors: 12am",
+      "time": "00:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/hannibal-buress/"
+    },
+    {
+      "source": "bronson",
+      "title": "Daniel Lanois",
+      "date": "2026-09-27",
+      "rawDate": "Sunday, Sep 27, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/daniel-lanois-deux-voix-une-capitale/"
+    },
+    {
+      "source": "bronson",
+      "title": "Ya Levis",
+      "date": "2026-10-02",
+      "rawDate": "Friday, Oct 2, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/ya-levis/"
+    },
+    {
+      "source": "bronson",
+      "title": "Danny Bhoy – Night 1",
+      "date": "2026-10-07",
+      "rawDate": "Wednesday, Oct 7, Doors: 7:30pm",
+      "time": "19:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-1/"
+    },
+    {
+      "source": "bronson",
+      "title": "Danny Bhoy – Night 2",
+      "date": "2026-10-08",
+      "rawDate": "Thursday, Oct 8, Doors: 7:30pm",
+      "time": "19:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "DESPISED ICON",
+      "date": "2026-10-10",
+      "rawDate": "Saturday, Oct 10, Doors: 5:30pm",
+      "time": "17:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/despised-icon-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "Buffalo Traffic Jam",
+      "date": "2026-10-12",
+      "rawDate": "Monday, Oct 12, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/buffalo-traffic-jam/"
+    },
+    {
+      "source": "bronson",
+      "title": "cleopatrick",
+      "date": "2026-10-15",
+      "rawDate": "Thursday, Oct 15, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/cleopatrick/"
+    },
+    {
+      "source": "bronson",
+      "title": "Bob The Drag Queen – Early Show",
+      "date": "2026-10-16",
+      "rawDate": "Friday, Oct 16, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/now-clap-bob-the-drag-queens-on-tour/"
+    },
+    {
+      "source": "bronson",
+      "title": "Bob The Drag Queen – Late Show added !",
+      "date": "2026-10-16",
+      "rawDate": "Friday, Oct 16, Doors: 9pm",
+      "time": "21:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/bob-the-drag-queen-late-show-added/"
+    },
+    {
+      "source": "bronson",
+      "title": "Joep Beving",
+      "date": "2026-10-17",
+      "rawDate": "Saturday, Oct 17, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/joep-beving/"
+    },
+    {
+      "source": "bronson",
+      "title": "Waylon Wyatt",
+      "date": "2026-10-26",
+      "rawDate": "Monday, Oct 26, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/waylon-wyatt/"
+    },
+    {
+      "source": "bronson",
+      "title": "Tyler Braden",
+      "date": "2026-10-30",
+      "rawDate": "Friday, Oct 30, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/tyler-braden/"
+    },
+    {
+      "source": "bronson",
+      "title": "AMBLE",
+      "date": "2026-11-03",
+      "rawDate": "Tuesday, Nov 3, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/amble/"
+    },
+    {
+      "source": "bronson",
+      "title": "DZIDZIO",
+      "date": "2026-11-12",
+      "rawDate": "Thursday, Nov 12, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/dzidzio/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Record Company",
+      "date": "2026-11-13",
+      "rawDate": "Friday, Nov 13, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-record-company/"
+    },
+    {
+      "source": "bronson",
+      "title": "Ottawa Outdoor Film Festival",
+      "date": "2026-11-15",
+      "rawDate": "Sunday, Nov 15, Doors: 5pm",
+      "time": "17:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/ottawa-outdoor-film-festival/"
+    },
+    {
+      "source": "bronson",
+      "title": "MODI",
+      "date": "2026-11-19",
+      "rawDate": "Thursday, Nov 19, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/modi/"
+    },
+    {
+      "source": "bronson",
+      "title": "Protest The Hero",
+      "date": "2026-11-20",
+      "rawDate": "Friday, Nov 20, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/protest-the-hero-3/"
+    },
+    {
+      "source": "bronson",
+      "title": "Akaash Singh",
+      "date": "2026-11-21",
+      "rawDate": "Saturday, Nov 21, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/akaash-singh/"
+    },
+    {
+      "source": "bronson",
+      "title": "STVW – PUNK RAVE – OTTAWA",
+      "date": "2026-11-27",
+      "rawDate": "Friday, Nov 27, Doors: 9:30pm",
+      "time": "21:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/stvw-punk-rave-ottawa/"
+    },
+    {
+      "source": "bronson",
+      "title": "A Skydiggers Christmas",
+      "date": "2026-12-05",
+      "rawDate": "Saturday, Dec 5, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/a-skydiggers-christmas/"
+    },
+    {
+      "source": "bronson",
+      "title": "THE BOUNCING SOULS with The Suicide Machines",
+      "date": "2026-12-06",
+      "rawDate": "Sunday, Dec 6, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-bouncing-souls-with-the-suicide-machines/"
+    },
+    {
+      "source": "bronson",
+      "title": "DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS ~ NEW DATE ~",
+      "date": "2026-12-12",
+      "rawDate": "Saturday, Dec 12, Doors: 8pm",
+      "time": "20:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks-new-date/"
+    },
+    {
+      "source": "bronson",
+      "title": "TroyBoi",
+      "date": "2026-12-17",
+      "rawDate": "Thursday, Dec 17, Doors: 9pm",
+      "time": "21:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Mary Wallopers",
+      "date": "2027-03-10",
+      "rawDate": "Wednesday, Mar 10, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-mary-wallopers/"
+    },
+    {
       "source": "chamberfest",
       "title": "Janina Fialkowska Celebrates 75",
       "date": "2026-10-13",
@@ -4159,6 +4748,366 @@
       "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/kronos-quartet/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Emily Jean Flack",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Steph Strings",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Nicolas Pellerin & Les Grands Hurleurs",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Marcus King Band",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Ashley Macisaac",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Alabama Shakes",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Fine Food Market",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Sam Drysdale",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "The Codas",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Stella Lefty",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "The White Buffalo",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Cameron Whitcomb",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Tennyson King",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "The New Hires",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Gwenifer Raymond",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Carson Cameron",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Switchfoot",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Jensen Mcrae",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Carson Cameron",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Third Eye Blind",
+      "date": "2026-09-18",
+      "rawDate": "2026-09-18",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Teilhard Frost",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Ken Presse",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Jobi Riccio",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Vicki Brittle",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Angus & Julia Stone",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Pokey Lafarge",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Vicki Brittle",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Of Monsters And Men",
+      "date": "2026-09-19",
+      "rawDate": "2026-09-19",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Steady Rain",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Bad Nerves",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Panic Shack",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "David James Allen",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Sex Pistols (steve Jones, Paul Cook, Glen Matlock) Featuring Frank Carter",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Amigo The Devil",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "David James Allen",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
+    },
+    {
+      "source": "cityfolk",
+      "title": "Alice Cooper",
+      "date": "2026-09-20",
+      "rawDate": "2026-09-20",
+      "time": null,
+      "venue": "CityFolk Festival",
+      "description": null,
+      "url": "https://cityfolkfestival.com/schedule/"
     },
     {
       "source": "motelchelsea",
