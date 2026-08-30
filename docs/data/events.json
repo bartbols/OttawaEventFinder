@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-29T12:33:11.567Z",
-  "totalEvents": 487,
+  "scrapedAt": "2026-08-30T11:37:47.168Z",
+  "totalEvents": 491,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -1153,6 +1153,72 @@
       "url": "https://nac-cna.ca/en/event/41399"
     },
     {
+      "source": "nac",
+      "title": "Pre-Show Chat: Stravinsky Stories",
+      "subtitle": "With Christopher Stowell and Ming Luke",
+      "date": "2026-10-29",
+      "rawDate": "2026-10-29",
+      "time": "19:00",
+      "venue": null,
+      "description": "With Christopher Stowell and Ming Luke",
+      "url": "https://nac-cna.ca/en/event/41809"
+    },
+    {
+      "source": "nac",
+      "title": "CBC Massey Lectures 2026",
+      "subtitle": "Housing Inc.: A Global Takeover and Our Fight for Home",
+      "date": "2026-10-29",
+      "rawDate": "2026-10-29",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Housing Inc.: A Global Takeover and Our Fight for Home",
+      "url": "https://nac-cna.ca/en/event/41745"
+    },
+    {
+      "source": "nac",
+      "title": "Stravinsky Stories",
+      "subtitle": "Canada’s Royal Winnipeg Ballet",
+      "date": "2026-10-29",
+      "rawDate": "2026-10-29",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Canada’s Royal Winnipeg Ballet",
+      "url": "https://nac-cna.ca/en/event/40371"
+    },
+    {
+      "source": "nac",
+      "title": "Stravinsky Stories",
+      "subtitle": "Canada’s Royal Winnipeg Ballet",
+      "date": "2026-10-30",
+      "rawDate": "2026-10-30",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Canada’s Royal Winnipeg Ballet",
+      "url": "https://nac-cna.ca/en/event/40371"
+    },
+    {
+      "source": "nac",
+      "title": "Stravinsky Stories",
+      "subtitle": "Canada’s Royal Winnipeg Ballet",
+      "date": "2026-10-31",
+      "rawDate": "2026-10-31",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Canada’s Royal Winnipeg Ballet",
+      "url": "https://nac-cna.ca/en/event/40371"
+    },
+    {
+      "source": "nac",
+      "title": "Passarim",
+      "subtitle": null,
+      "date": "2026-10-29",
+      "rawDate": "2026-10-29",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41963"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2027-08-12",
@@ -1474,16 +1540,6 @@
     },
     {
       "source": "irenes",
-      "title": "Thomas Duxbury & the New Mother Nature with Special Guests The Berns & Out By Lucy",
-      "date": "2026-08-28",
-      "rawDate": "Aug 28",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Thomas Duxbury & The New Mother Nature The Berns Out By Lucy Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
-      "url": "https://irenespub.ca/events/the-bern-with-special-guests"
-    },
-    {
-      "source": "irenes",
       "title": "August John with Special Guests Supersum & The Louies",
       "date": "2026-08-29",
       "rawDate": "Aug 29",
@@ -1599,7 +1655,7 @@
       "rawDate": "Sep 11",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Sun Dried Flies Bella Donna Dom Doyon Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "Sun Dried Flies Bella Donna Dom Doyon Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door Dom Doyon is a singer-songwriter from Ottawa, ON, known",
       "url": "https://irenespub.ca/events/sundried-flies-with-special-guests"
     },
     {
@@ -2094,6 +2150,16 @@
     },
     {
       "source": "irenes",
+      "title": "Thomas Duxbury & the New Mother Nature with Special Guests The Berns & Out By Lucy",
+      "date": "2026-08-28",
+      "rawDate": "Aug 28",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Thomas Duxbury & The New Mother Nature The Berns Out By Lucy Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/the-bern-with-special-guests"
+    },
+    {
+      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Jeff Rixx Graham",
       "date": "2026-08-27",
       "rawDate": "Aug 27",
@@ -2381,16 +2447,6 @@
       "venue": "Irene's Pub",
       "description": "Boyhood Eliza Niemi Potions Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/boyhood-with-special-guests-eliza-nimi"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-07-26",
-      "rawDate": "Jul 26",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg"
     },
     {
       "source": "gladstone",
@@ -4327,16 +4383,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "PITBULL! PRIDE OTTAWA",
-      "date": "2026-08-29",
-      "rawDate": "Saturday, Aug 29, Doors: 10pm",
-      "time": "22:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/pitbull-pride-ottawa/"
     },
     {
       "source": "bronson",
