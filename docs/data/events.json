@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-30T11:37:47.168Z",
-  "totalEvents": 491,
+  "scrapedAt": "2026-08-31T13:16:38.702Z",
+  "totalEvents": 492,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -1219,6 +1219,17 @@
       "url": "https://nac-cna.ca/en/event/41963"
     },
     {
+      "source": "nac",
+      "title": "Afro-Andean Funk",
+      "subtitle": "Todo Migra Tour",
+      "date": "2026-10-30",
+      "rawDate": "2026-10-30",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Todo Migra Tour",
+      "url": "https://nac-cna.ca/en/event/41185"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2027-08-12",
@@ -1537,16 +1548,6 @@
       "venue": "Red Bird Live",
       "description": "THE JUBILATION POTPOURRI Album Release Tour\nDAVID JAMES ALLEN &amp; THE GROWING MACHINE w/ Pascal Desgagne on Pedal Steel\nWith Special Guest RILEY BURNS (DUO)\nDavid James Allen is a Canadian songwrite",
       "url": "https://www.showpass.com/david-james-allen-with-riley-burns/"
-    },
-    {
-      "source": "irenes",
-      "title": "August John with Special Guests Supersum & The Louies",
-      "date": "2026-08-29",
-      "rawDate": "Aug 29",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "August John Supersum The Louies Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
-      "url": "https://irenespub.ca/events/august-john-with-special-guests"
     },
     {
       "source": "irenes",
@@ -2120,6 +2121,16 @@
     },
     {
       "source": "irenes",
+      "title": "Carleton University’s Faculty of Public and Global Affairs Presents Author Meets Readers",
+      "date": "2026-10-29",
+      "rawDate": "Oct 29",
+      "time": "17:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/x8pwykpofqpmcvjnafwh4pjw9f8dp5"
+    },
+    {
+      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Mark Wessenger",
       "date": "2026-10-29",
       "rawDate": "Oct 29",
@@ -2147,6 +2158,16 @@
       "venue": "Irene's Pub",
       "description": "The Electric Co. Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/the-electric-co-halloween-party"
+    },
+    {
+      "source": "irenes",
+      "title": "August John with Special Guests Supersum & The Louies",
+      "date": "2026-08-29",
+      "rawDate": "Aug 29",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "August John Supersum The Louies Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "url": "https://irenespub.ca/events/august-john-with-special-guests"
     },
     {
       "source": "irenes",
@@ -2437,16 +2458,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w"
-    },
-    {
-      "source": "irenes",
-      "title": "Boyhood with Special Guests Eliza Niemi & Potions",
-      "date": "2026-07-27",
-      "rawDate": "Jul 27",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Boyhood Eliza Niemi Potions Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/boyhood-with-special-guests-eliza-nimi"
     },
     {
       "source": "gladstone",
