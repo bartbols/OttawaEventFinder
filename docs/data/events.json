@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-31T13:16:38.702Z",
-  "totalEvents": 492,
+  "scrapedAt": "2026-09-01T11:24:34.377Z",
+  "totalEvents": 433,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -1230,6 +1230,39 @@
       "url": "https://nac-cna.ca/en/event/41185"
     },
     {
+      "source": "nac",
+      "title": "À poils",
+      "subtitle": "Explosive, immersive stage experience you can dive straight into",
+      "date": "2026-10-31",
+      "rawDate": "2026-10-31",
+      "time": "11:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Explosive, immersive stage experience you can dive straight into",
+      "url": "https://nac-cna.ca/en/event/40431"
+    },
+    {
+      "source": "nac",
+      "title": "À poils",
+      "subtitle": "Explosive, immersive stage experience you can dive straight into",
+      "date": "2026-11-01",
+      "rawDate": "2026-11-01",
+      "time": "11:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Explosive, immersive stage experience you can dive straight into",
+      "url": "https://nac-cna.ca/en/event/40431"
+    },
+    {
+      "source": "nac",
+      "title": "The Irish Descendants",
+      "subtitle": "Tribute to Stan Rogers",
+      "date": "2026-10-31",
+      "rawDate": "2026-10-31",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Tribute to Stan Rogers",
+      "url": "https://nac-cna.ca/en/event/41599"
+    },
+    {
       "source": "jazz",
       "title": "BRASS TAXX",
       "date": "2027-08-12",
@@ -1481,6 +1514,16 @@
     },
     {
       "source": "redbird",
+      "title": "Tina Dico",
+      "date": "2026-10-23",
+      "rawDate": "2026-10-23",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Danish star, Tina Dico, makes her highly anticipated debut in Ottawa for a rare, intimate performance at Red Bird, to launch her new album Balancing Small Things On Sharp Edges, that is set for releas",
+      "url": "https://www.showpass.com/tina-dico/"
+    },
+    {
+      "source": "redbird",
       "title": "Cara Luft",
       "date": "2026-10-24",
       "rawDate": "2026-10-24",
@@ -1521,6 +1564,16 @@
     },
     {
       "source": "redbird",
+      "title": "Allison Lupton Band",
+      "date": "2026-11-07",
+      "rawDate": "2026-11-07",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Allison Lupton hails from the heart of rural Ontario, Canada where her love for music took root in church choirs and local sessions.  From playing for community dances to soloing with orchestras, Alli",
+      "url": "https://www.showpass.com/allison-upton-band/"
+    },
+    {
+      "source": "redbird",
       "title": "Rhaye Preeper MacKay",
       "date": "2026-11-08",
       "rawDate": "2026-11-08",
@@ -1548,16 +1601,6 @@
       "venue": "Red Bird Live",
       "description": "THE JUBILATION POTPOURRI Album Release Tour\nDAVID JAMES ALLEN &amp; THE GROWING MACHINE w/ Pascal Desgagne on Pedal Steel\nWith Special Guest RILEY BURNS (DUO)\nDavid James Allen is a Canadian songwrite",
       "url": "https://www.showpass.com/david-james-allen-with-riley-burns/"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-08-30",
-      "rawDate": "Aug 30",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp"
     },
     {
       "source": "irenes",
@@ -1596,7 +1639,7 @@
       "rawDate": "Sep 4",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Chantal Celine Jai Vinyl Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "Chantal Celine Jai Vinyl Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/4xtiw2klwt64el51rv28dfkq5z9kdy"
     },
     {
@@ -1606,7 +1649,7 @@
       "rawDate": "Sep 5",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Joshua Isaac Bitterhalf Adam Fortais Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "Joshua Isaac Bitterhalf Adam Fortais Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/no-quiet-endings-with-joshua-isaac-bitterhalf-adam-fortais"
     },
     {
@@ -1656,7 +1699,7 @@
       "rawDate": "Sep 11",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Sun Dried Flies Bella Donna Dom Doyon Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door Dom Doyon is a singer-songwriter from Ottawa, ON, known",
+      "description": "Sun Dried Flies Bella Donna Dom Doyon Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price. Dom Doyon is a singer-songwrite",
       "url": "https://irenespub.ca/events/sundried-flies-with-special-guests"
     },
     {
@@ -1666,7 +1709,7 @@
       "rawDate": "Sep 12",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "GRFN The Extensions Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "GRFN The Extensions Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/willy-nilly-with-special-guests"
     },
     {
@@ -1676,7 +1719,7 @@
       "rawDate": "Sep 13",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Ottawa Dog Rescue Tickets",
+      "description": "Ottawa Dog Rescue Tickets Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/trivia-fundraiser-for-ottawa-dog-rescue"
     },
     {
@@ -1711,13 +1754,13 @@
     },
     {
       "source": "irenes",
-      "title": "Stereo Mary with Special Guest Loch Nisse Monster",
+      "title": "Loch Nisse Monster with S/G Gasper & Austin Camp",
       "date": "2026-09-18",
       "rawDate": "Sep 18",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Stereo Mary Loch Nisse Monster Ticket price subject to change at the door",
-      "url": "https://irenespub.ca/events/stereo-mary-with-special-guests"
+      "description": "Loch Nisse Monster Gasper Austin Camp Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "url": "https://irenespub.ca/events/loch-nisse-monster-gasper-austin-camp"
     },
     {
       "source": "irenes",
@@ -1736,7 +1779,7 @@
       "rawDate": "Sep 20",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "I Spell It Nature Modern Dinosaurs Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "I Spell It Nature Modern Dinosaurs Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/i-spell-it-nature-with-sg"
     },
     {
@@ -1796,7 +1839,7 @@
       "rawDate": "Sep 25",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Mecca of Stank Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "Mecca of Stank Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/mecca-of-stank-with-sg"
     },
     {
@@ -1846,7 +1889,7 @@
       "rawDate": "Sep 30",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Small Fish Show Ticket price subject to change at the door",
+      "description": "Small Fish Show Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/gm573gxgs3lxmgj47dxakg6nkjc5rd"
     },
     {
@@ -1866,7 +1909,7 @@
       "rawDate": "Oct 2",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/run-coyote-with-special-guests-the-berns-leeny-jones"
     },
     {
@@ -1876,7 +1919,7 @@
       "rawDate": "Oct 3",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Kaiday Isaac Baronikian Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "Kaiday Isaac Baronikian Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/kaede-ep-release-with-special-guests"
     },
     {
@@ -1886,7 +1929,7 @@
       "rawDate": "Oct 4",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Rebecca Campbell Russell Levia Ticket price subject to change at the door",
+      "description": "Rebecca Campbell Russell Levia Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/bec-rusty"
     },
     {
@@ -1931,12 +1974,12 @@
     },
     {
       "source": "irenes",
-      "title": "TBA",
+      "title": "The Haylofters with Special Guest Andrew Jones",
       "date": "2026-10-09",
       "rawDate": "Oct 9",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Ticket price subject to change at the door",
+      "description": "The Haylofters Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/tba-4"
     },
     {
@@ -1946,7 +1989,7 @@
       "rawDate": "Oct 10",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Mama Mush Ticket price subject to change at the door",
+      "description": "Mama Mush Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/mama-mush-with-special-guests"
     },
     {
@@ -1996,7 +2039,7 @@
       "rawDate": "Oct 16",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Social Distance Ticket price subject to change at the door",
+      "description": "The Social Distance Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/the-social-distance"
     },
     {
@@ -2006,7 +2049,7 @@
       "rawDate": "Oct 17",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/blues-harmonica-showcase"
     },
     {
@@ -2016,7 +2059,7 @@
       "rawDate": "Oct 18",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Keith Glass Ticket price subject to change at the door",
+      "description": "Keith Glass Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/keith-glass-band-matine"
     },
     {
@@ -2041,12 +2084,12 @@
     },
     {
       "source": "irenes",
-      "title": "Ian Tamblyn",
+      "title": "Ian Tamblyn Band",
       "date": "2026-10-21",
       "rawDate": "Oct 21",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Ian Tamblyn",
+      "description": "Ian Tamblyn Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/ian-tamblyn-1"
     },
     {
@@ -2066,7 +2109,7 @@
       "rawDate": "Oct 23",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-any-winehouse"
     },
     {
@@ -2076,7 +2119,7 @@
       "rawDate": "Oct 24",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
+      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-amy-winehouse-1"
     },
     {
@@ -2086,7 +2129,7 @@
       "rawDate": "Oct 25",
       "time": "12:00",
       "venue": "Irene's Pub",
-      "description": "Capital Kingdom",
+      "description": "Capital Kingdom Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/capital-kingdom-drag-brunch-3"
     },
     {
@@ -2116,7 +2159,7 @@
       "rawDate": "Oct 28",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Meat Market",
+      "description": "Meat Market Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/cdgjrrox6zcphnahcf6ct55ik4gk6j"
     },
     {
@@ -2146,7 +2189,7 @@
       "rawDate": "Oct 30",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Revenant Dan Ticket price subject to change at the door",
+      "description": "Revenant Dan Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/revenant-dan-the-murder-crowa"
     },
     {
@@ -2156,8 +2199,18 @@
       "rawDate": "Oct 31",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Electric Co. Ticket price subject to change at the door",
+      "description": "The Electric Co. Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/the-electric-co-halloween-party"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-08-30",
+      "rawDate": "Aug 30",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp"
     },
     {
       "source": "irenes",
@@ -2448,296 +2501,6 @@
       "venue": "Irene's Pub",
       "description": "Small fish Show Tickets",
       "url": "https://irenespub.ca/events/small-fish-a-comedy-variety-show-5"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-07-28",
-      "rawDate": "Jul 28",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w"
-    },
-    {
-      "source": "gladstone",
-      "title": "Small Fish",
-      "date": "2026-09-12",
-      "rawDate": "Sep 12, 2026",
-      "time": "21:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Small Fish",
-      "url": "https://thegladstone.ca/shows/small-fish/"
-    },
-    {
-      "source": "gladstone",
-      "title": "La tragédie du Brise-Glace",
-      "date": "2026-09-12",
-      "rawDate": "Sep 12, 2026",
-      "time": "19:00",
-      "venue": "The Gladstone Theatre",
-      "description": "The Ice-Breaker Tragedy",
-      "url": "https://thegladstone.ca/shows/la-tragedie-du-brise-glace/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Unedited Woman",
-      "date": "2026-09-13",
-      "rawDate": "Sep 13, 2026",
-      "time": "14:30",
-      "venue": "The Gladstone Theatre",
-      "description": "4th Annual Curated Performance Series of Local Women’s True Voices",
-      "url": "https://thegladstone.ca/shows/unedited-womans-4th-annual-curated-performance-series-of-local-womens-true-voices/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Maverick’s Tribute Show",
-      "date": "2026-09-16",
-      "rawDate": "Sep 16, 2026",
-      "time": "19:30",
-      "venue": "The Gladstone Theatre",
-      "description": "Performed by Black Pearl",
-      "url": "https://thegladstone.ca/shows/the-mavericks-tribute-show/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Divining Spirits",
-      "date": "2026-09-17",
-      "rawDate": "Sep 17, 2026",
-      "time": "19:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Part of the 2026 Gleanings series \"Heroes & Villains\"",
-      "url": "https://thegladstone.ca/shows/divining-spirits/"
-    },
-    {
-      "source": "gladstone",
-      "title": "6th Annual All-Star Ottawa Blues for Youth Fundraiser",
-      "date": "2026-09-19",
-      "rawDate": "Sep 19, 2026",
-      "time": "19:00",
-      "venue": "The Gladstone Theatre",
-      "description": "in support of Youth Suicide Prevention through The Royal",
-      "url": "https://thegladstone.ca/shows/6th-annual-all-star-ottawa-blues-for-youth-fundraiser/"
-    },
-    {
-      "source": "gladstone",
-      "title": "New Life",
-      "date": "2026-09-26",
-      "rawDate": "Sep 26, 2026",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "A Musical",
-      "url": "https://thegladstone.ca/shows/new-life/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Constant Companions",
-      "date": "2026-10-10",
-      "rawDate": "Oct 10, 2026",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Plosive Productions",
-      "url": "https://thegladstone.ca/shows/constant-companions/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Richard O’Brien’s THE ROCKY HORROR SHOW",
-      "date": "2026-10-24",
-      "rawDate": "Oct 24, 2026",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "TotoToo Theatre",
-      "url": "https://thegladstone.ca/shows/richard-obriens-the-rocky-horror-show-2/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Leonard Cohen: Ten Years Gone",
-      "date": "2026-11-07",
-      "rawDate": "Nov 7, 2026",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "A musical tribute by Bear & Co.",
-      "url": "https://thegladstone.ca/shows/leonard-cohen-ten-years-gone/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Dracula",
-      "date": "2026-11-14",
-      "rawDate": "Nov 14, 2026",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Adapted by Stephen Hotchner",
-      "url": "https://thegladstone.ca/shows/dracula/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Skin Flick",
-      "date": "2026-11-28",
-      "rawDate": "Nov 28, 2026",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Phoenix Players",
-      "url": "https://thegladstone.ca/shows/skin-flick/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Miracle on 34th Street",
-      "date": "2026-12-05",
-      "rawDate": "Dec 5, 2026",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "A Live Radio Show",
-      "url": "https://thegladstone.ca/shows/miracle-on-34th-street/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Lion, the Witch and the Wardrobe",
-      "date": "2027-01-02",
-      "rawDate": "Jan 2, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Aslan is on the move...",
-      "url": "https://thegladstone.ca/shows/the-lion-the-witch-and-the-wardrobe/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Snow Queen",
-      "date": "2027-01-16",
-      "rawDate": "Jan 16, 2027",
-      "time": "14:30",
-      "venue": "The Gladstone Theatre",
-      "description": "A Heartwarming Winter Fairytale for the Whole Family",
-      "url": "https://thegladstone.ca/shows/the-snow-queen/"
-    },
-    {
-      "source": "gladstone",
-      "title": "OTTAWA SUITE",
-      "date": "2027-01-23",
-      "rawDate": "Jan 23, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Rob Frayne and Paul Rainville",
-      "url": "https://thegladstone.ca/shows/ottawa-suite/"
-    },
-    {
-      "source": "gladstone",
-      "title": "SWEAT",
-      "date": "2027-01-30",
-      "rawDate": "Jan 30, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Marginally Fit Productions",
-      "url": "https://thegladstone.ca/shows/sweat/"
-    },
-    {
-      "source": "gladstone",
-      "title": "JOSIAH",
-      "date": "2027-02-13",
-      "rawDate": "Feb 13, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Thousand Miles of Bricks Productions",
-      "url": "https://thegladstone.ca/shows/josiah-2/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Crucible",
-      "date": "2027-02-20",
-      "rawDate": "Feb 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Salem is Burning. Will You Lie to Save Yourself?",
-      "url": "https://thegladstone.ca/shows/the-crucible/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Half-Cracked",
-      "date": "2027-03-06",
-      "rawDate": "Mar 6, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "The Legend of Sissy Mary",
-      "url": "https://thegladstone.ca/shows/half-cracked/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Romeo & Juliet",
-      "date": "2027-03-20",
-      "rawDate": "Mar 20, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "by William Shakespeare",
-      "url": "https://thegladstone.ca/shows/romeo-juliet/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Proxima Centauri",
-      "date": "2027-04-03",
-      "rawDate": "Apr 3, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Plosive Productions",
-      "url": "https://thegladstone.ca/shows/3698/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Alice in Wonderland",
-      "date": "2027-04-17",
-      "rawDate": "Apr 17, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "An adventure through nonsense",
-      "url": "https://thegladstone.ca/shows/alice-in-wonderland/"
-    },
-    {
-      "source": "gladstone",
-      "title": "RED",
-      "date": "2027-05-01",
-      "rawDate": "May 1, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Phoenix Players",
-      "url": "https://thegladstone.ca/shows/red/"
-    },
-    {
-      "source": "gladstone",
-      "title": "The Cripple of Inishmaan",
-      "date": "2027-05-15",
-      "rawDate": "May 15, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Tullamore Productions",
-      "url": "https://thegladstone.ca/shows/the-cripple-of-inishmaan/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Frankenstein Ai",
-      "date": "2027-05-29",
-      "rawDate": "May 29, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "More than Human. Less than Alive.",
-      "url": "https://thegladstone.ca/shows/frankenstein-ai/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Dear Elizabeth",
-      "date": "2027-06-12",
-      "rawDate": "Jun 12, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "A sort of a love story.",
-      "url": "https://thegladstone.ca/shows/dear-elizabeth/"
-    },
-    {
-      "source": "gladstone",
-      "title": "Animal KinkDom",
-      "date": "2027-06-26",
-      "rawDate": "Jun 26, 2027",
-      "time": "11:00",
-      "venue": "The Gladstone Theatre",
-      "description": "Come get Wild",
-      "url": "https://thegladstone.ca/shows/animal-kinkdom/"
     },
     {
       "source": "gctc",
@@ -4537,7 +4300,7 @@
     },
     {
       "source": "bronson",
-      "title": "Buffalo Traffic Jam",
+      "title": "Buffalo Traffic Jam – SOLD OUT",
       "date": "2026-10-12",
       "rawDate": "Monday, Oct 12, Doors: 7pm",
       "time": "19:00",
@@ -4617,7 +4380,7 @@
     },
     {
       "source": "bronson",
-      "title": "AMBLE",
+      "title": "AMBLE – SOLD OUT",
       "date": "2026-11-03",
       "rawDate": "Tuesday, Nov 3, Doors: 7pm",
       "time": "19:00",
@@ -4796,384 +4559,34 @@
       "url": "https://www.chamberfest.com/event/2026/kronos-quartet/"
     },
     {
-      "source": "cityfolk",
-      "title": "Emily Jean Flack",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Steph Strings",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Nicolas Pellerin & Les Grands Hurleurs",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Marcus King Band",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Ashley Macisaac",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Alabama Shakes",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Fine Food Market",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Sam Drysdale",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "The Codas",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Stella Lefty",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "The White Buffalo",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Cameron Whitcomb",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Tennyson King",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "The New Hires",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Gwenifer Raymond",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Carson Cameron",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Switchfoot",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Jensen Mcrae",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Carson Cameron",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Third Eye Blind",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Teilhard Frost",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Ken Presse",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Jobi Riccio",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Vicki Brittle",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Angus & Julia Stone",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Pokey Lafarge",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Vicki Brittle",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Of Monsters And Men",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Steady Rain",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Bad Nerves",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Panic Shack",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "David James Allen",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Sex Pistols (steve Jones, Paul Cook, Glen Matlock) Featuring Frank Carter",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Amigo The Devil",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "David James Allen",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
-      "source": "cityfolk",
-      "title": "Alice Cooper",
-      "date": "2026-09-20",
-      "rawDate": "2026-09-20",
-      "time": null,
-      "venue": "CityFolk Festival",
-      "description": null,
-      "url": "https://cityfolkfestival.com/schedule/"
-    },
-    {
       "source": "motelchelsea",
-      "title": "Garnet Rogers (Matinee)",
-      "date": "2027-08-23",
-      "rawDate": "AUGUST 23",
-      "time": "16:30",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/sunday-september-26-garnet-rogers-matinee-4-30pm"
-    },
-    {
-      "source": "motelchelsea",
-      "title": "The Salt Cellars",
-      "date": "2027-08-28",
-      "rawDate": "AUGUST 28",
+      "title": "JANGUS COMEDY: Battle of the Provinces",
+      "date": "2026-09-04",
+      "rawDate": "SEPTEMBER 04",
       "time": "20:00",
       "venue": "Motel Chelsea",
       "description": null,
-      "url": "https://www.motelchelsea.com/post/friday-august-28-the-salt-cellars-8-00pm"
+      "url": "https://www.motelchelsea.com/post/friday-september-4-jangus-comedy-battle-of-the-provinces-8-00pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "The Grievous Angels",
+      "date": "2026-09-06",
+      "rawDate": "SEPTEMBER 06",
+      "time": "15:30",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/sunday-september-6-the-grievous-angels-3-30pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "Lazarettes & Ron Hawkins",
+      "date": "2026-09-11",
+      "rawDate": "SEPTEMBER 11",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/friday-september-11-lazarettes-ron-hawkins-8-00pm"
     }
   ]
 }
