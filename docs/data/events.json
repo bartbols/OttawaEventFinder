@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-01T11:24:34.377Z",
-  "totalEvents": 433,
+  "scrapedAt": "2026-09-02T11:00:34.451Z",
+  "totalEvents": 435,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,6 +8,17 @@
     }
   ],
   "events": [
+    {
+      "source": "nac",
+      "title": "An evening with Tom Wilson",
+      "subtitle": null,
+      "date": "2026-09-08",
+      "rawDate": "2026-09-08",
+      "time": "18:30",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42018"
+    },
     {
       "source": "nac",
       "title": "The Great Gatsby",
@@ -1022,6 +1033,17 @@
     },
     {
       "source": "nac",
+      "title": "Ottawa Citizen Best Restaurants 2026",
+      "subtitle": "In partnership with NAC",
+      "date": "2026-10-19",
+      "rawDate": "2026-10-19",
+      "time": "18:00",
+      "venue": "Canal Lobby Foyer du canal",
+      "description": "In partnership with NAC",
+      "url": "https://nac-cna.ca/en/event/41904"
+    },
+    {
+      "source": "nac",
       "title": "Loreena McKennitt",
       "subtitle": "The Mask and Mirror: 30th Anniversary Tour",
       "date": "2026-10-20",
@@ -1264,33 +1286,13 @@
     },
     {
       "source": "jazz",
-      "title": "BRASS TAXX",
-      "date": "2027-08-12",
-      "rawDate": "Wed, Aug 12, 7:00 p.m.",
-      "time": "19:00",
-      "venue": "Ottawa Jazz Festival",
-      "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34387-BRASS-TAXX"
-    },
-    {
-      "source": "jazz",
-      "title": "FASOCANA",
+      "title": "Miranda Ceara & The Odd Fellows Orchestra",
       "date": "2026-09-09",
       "rawDate": "Wed, Sep 9, 7:00 p.m.",
       "time": "19:00",
       "venue": "Ottawa Jazz Festival",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/34388-FASOCANA"
-    },
-    {
-      "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-09-02",
-      "rawDate": "2026-09-02",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": " \n\nRed Bird's Weekly Open Stage is BACK!!\n \nHere is what's continuing:\n\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo",
-      "url": "https://www.showpass.com/open-stage-7-26-09-01-20-6885/"
+      "url": "https://program.ottawajazzfestival.com/item/36596-Miranda-Ceara-The-Odd-Fellows-Orchestra"
     },
     {
       "source": "redbird",
@@ -2595,8 +2597,8 @@
     {
       "source": "ottawapops",
       "title": "Ghibli Symphony : Part III",
-      "date": "2027-04-16",
-      "rawDate": "2027-04-16T23:30:00.919Z",
+      "date": "2027-04-09",
+      "rawDate": "2027-04-09T23:30:00.919Z",
       "time": "23:30",
       "venue": "Ottawa Pops Orchestra",
       "description": "A symphonic celebration of the music of Studio Ghibli.\n              \n\n              \n                The music of Joe Hisaishi returns in the third chapter of our celebrated series.\n              \n\n ",
@@ -4380,6 +4382,16 @@
     },
     {
       "source": "bronson",
+      "title": "The Wrecks",
+      "date": "2026-11-01",
+      "rawDate": "Sunday, Nov 1, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-wrecks/"
+    },
+    {
+      "source": "bronson",
       "title": "AMBLE – SOLD OUT",
       "date": "2026-11-03",
       "rawDate": "Tuesday, Nov 3, Doors: 7pm",
@@ -4407,6 +4419,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/the-record-company/"
+    },
+    {
+      "source": "bronson",
+      "title": "Matt Hansen",
+      "date": "2026-11-14",
+      "rawDate": "Saturday, Nov 14, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/matt-hansen/"
     },
     {
       "source": "bronson",
