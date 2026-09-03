@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-02T11:00:34.451Z",
-  "totalEvents": 435,
+  "scrapedAt": "2026-09-03T10:59:46.177Z",
+  "totalEvents": 432,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -202,7 +202,7 @@
       "date": "2026-09-15",
       "rawDate": "2026-09-15",
       "time": "18:00",
-      "venue": "Salon Salon",
+      "venue": "Rossy Pavilion Pavillon Rossy",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41792"
     },
@@ -879,7 +879,7 @@
     },
     {
       "source": "nac",
-      "title": "BON Chat: Entre deux mondes",
+      "title": "BON Chat: Between Two Worlds?",
       "subtitle": "A free pre-show conversation exploring migration, identity, and belonging (in French)",
       "date": "2026-10-10",
       "rawDate": "2026-10-10",
@@ -945,24 +945,24 @@
     },
     {
       "source": "nac",
-      "title": "Roderick Cox and the Scottish Symphony",
-      "subtitle": "With the NAC Orchestra",
+      "title": "Toni Morrison Songs & Mendelssohn's Scottish Symphony",
+      "subtitle": "feat. Vuvu Mpofu, Roderick Cox, and the NAC Orchestra",
       "date": "2026-10-14",
       "rawDate": "2026-10-14",
       "time": "20:00",
       "venue": "Southam Hall Salle Southam",
-      "description": "With the NAC Orchestra",
+      "description": "feat. Vuvu Mpofu, Roderick Cox, and the NAC Orchestra",
       "url": "https://nac-cna.ca/en/event/40396"
     },
     {
       "source": "nac",
-      "title": "Roderick Cox and the Scottish Symphony",
-      "subtitle": "With the NAC Orchestra",
+      "title": "Toni Morrison Songs & Mendelssohn's Scottish Symphony",
+      "subtitle": "feat. Vuvu Mpofu, Roderick Cox, and the NAC Orchestra",
       "date": "2026-10-15",
       "rawDate": "2026-10-15",
       "time": "20:00",
       "venue": "Southam Hall Salle Southam",
-      "description": "With the NAC Orchestra",
+      "description": "feat. Vuvu Mpofu, Roderick Cox, and the NAC Orchestra",
       "url": "https://nac-cna.ca/en/event/40396"
     },
     {
@@ -1296,26 +1296,6 @@
     },
     {
       "source": "redbird",
-      "title": "Bluegrass Wednesdays ft. Pete Deachman and Handsome Molly",
-      "date": "2026-09-02",
-      "rawDate": "2026-09-02",
-      "time": "11:30 p.m.",
-      "venue": "Red Bird Live",
-      "description": "Each month Bluegrass Wednesdays begins with a 2 hour concert followed by a jam session.\nAlways a good time - always a good crowd!\nWant to hear a great Bluegrass band that always has fun, are excellent",
-      "url": "https://www.showpass.com/bluegrass-wednesdays-ft-pete-deachman-and-handsome-molly-2/"
-    },
-    {
-      "source": "redbird",
-      "title": "Bluegrass Wednesdays ft. Pete Deachman and Handsome Molly",
-      "date": "2026-09-03",
-      "rawDate": "2026-09-03",
-      "time": "11:30 p.m.",
-      "venue": "Red Bird Live",
-      "description": "Each month Bluegrass Wednesdays begins with a 2 hour concert followed by a jam session.\nAlways a good time - always a good crowd!\nWant to hear a great Bluegrass band that always has fun, are excellent",
-      "url": "https://www.showpass.com/bluegrass-wednesdays-ft-pete-deachman-and-handsome-molly-2/"
-    },
-    {
-      "source": "redbird",
       "title": "Jane and Kyle",
       "date": "2026-09-04",
       "rawDate": "2026-09-04",
@@ -1603,16 +1583,6 @@
       "venue": "Red Bird Live",
       "description": "THE JUBILATION POTPOURRI Album Release Tour\nDAVID JAMES ALLEN &amp; THE GROWING MACHINE w/ Pascal Desgagne on Pedal Steel\nWith Special Guest RILEY BURNS (DUO)\nDavid James Allen is a Canadian songwrite",
       "url": "https://www.showpass.com/david-james-allen-with-riley-burns/"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-09-01",
-      "rawDate": "Sep 1",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-cnh7b"
     },
     {
       "source": "irenes",
@@ -1911,7 +1881,7 @@
       "rawDate": "Oct 2",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price. The Berns:The Berns are an Ottawa-ba",
       "url": "https://irenespub.ca/events/run-coyote-with-special-guests-the-berns-leeny-jones"
     },
     {
@@ -1931,7 +1901,7 @@
       "rawDate": "Oct 4",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Rebecca Campbell Russell Levia Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Rebecca Campbell Russell Levia Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/bec-rusty"
     },
     {
@@ -2203,6 +2173,16 @@
       "venue": "Irene's Pub",
       "description": "The Electric Co. Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/the-electric-co-halloween-party"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-09-01",
+      "rawDate": "Sep 1",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-cnh7b"
     },
     {
       "source": "irenes",
@@ -2493,16 +2473,6 @@
       "venue": "Irene's Pub",
       "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb-9hh8e-fnbts"
-    },
-    {
-      "source": "irenes",
-      "title": "Small Fish - A Comedy & Variety Show",
-      "date": "2026-07-29",
-      "rawDate": "Jul 29",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Small fish Show Tickets",
-      "url": "https://irenespub.ca/events/small-fish-a-comedy-variety-show-5"
     },
     {
       "source": "gctc",
@@ -4222,7 +4192,7 @@
     },
     {
       "source": "bronson",
-      "title": "Tinariwen",
+      "title": "Tinariwen – POSTPONED",
       "date": "2026-09-16",
       "rawDate": "Wednesday, Sep 16, Doors: 7pm",
       "time": "19:00",
