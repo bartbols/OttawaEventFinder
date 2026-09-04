@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-03T10:59:46.177Z",
-  "totalEvents": 432,
+  "scrapedAt": "2026-09-04T11:30:22.688Z",
+  "totalEvents": 462,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -194,6 +194,17 @@
       "venue": "Babs Asper Babs Asper",
       "description": "By Tom Wilson and Shaun Smyth",
       "url": "https://nac-cna.ca/en/event/40384"
+    },
+    {
+      "source": "nac",
+      "title": "Indigenous Art Mini-Market",
+      "subtitle": null,
+      "date": "2026-09-11",
+      "rawDate": "2026-09-11",
+      "time": "18:30",
+      "venue": "Fountain Lobby Fontaine-foyer du studio",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42032"
     },
     {
       "source": "nac",
@@ -480,6 +491,17 @@
       "venue": "Canal Lobby Foyer du canal",
       "description": "Traditional music and dance with La Déferlance and Yaëlle Azoulay",
       "url": "https://nac-cna.ca/en/event/41759"
+    },
+    {
+      "source": "nac",
+      "title": "Dance for All",
+      "subtitle": "With Teaċ Daṁsa's Rachel Poirier",
+      "date": "2026-09-26",
+      "rawDate": "2026-09-26",
+      "time": "12:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "With Teaċ Daṁsa's Rachel Poirier",
+      "url": "https://nac-cna.ca/en/event/42038"
     },
     {
       "source": "nac",
@@ -879,7 +901,7 @@
     },
     {
       "source": "nac",
-      "title": "BON Chat: Between Two Worlds?",
+      "title": "BON Chat: Between Two Worlds",
       "subtitle": "A free pre-show conversation exploring migration, identity, and belonging (in French)",
       "date": "2026-10-10",
       "rawDate": "2026-10-10",
@@ -1285,6 +1307,182 @@
       "url": "https://nac-cna.ca/en/event/41599"
     },
     {
+      "source": "nac",
+      "title": "Powwow Life-Drawing",
+      "subtitle": null,
+      "date": "2026-11-03",
+      "rawDate": "2026-11-03",
+      "time": "18:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41794"
+    },
+    {
+      "source": "nac",
+      "title": "Haydn: The Creation",
+      "subtitle": "with John Storgårds",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Southam Hall Salle Southam",
+      "description": "with John Storgårds",
+      "url": "https://nac-cna.ca/en/event/40401"
+    },
+    {
+      "source": "nac",
+      "title": "Hilary Hahn, Storgårds & Tchaikovsky",
+      "subtitle": "With the NAC Orchestra",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Southam Hall Salle Southam",
+      "description": "With the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40424"
+    },
+    {
+      "source": "nac",
+      "title": "Les Petites Filles modernes (titre provisoire)",
+      "subtitle": "Fantastical tale with hypnotic imagery, directed by Joël Pommerat",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Babs Asper Babs Asper",
+      "description": "Fantastical tale with hypnotic imagery, directed by Joël Pommerat",
+      "url": "https://nac-cna.ca/en/event/40438"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa Jazz Orchestra",
+      "subtitle": "Heatwave Hits",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Heatwave Hits",
+      "url": "https://nac-cna.ca/en/event/41713"
+    },
+    {
+      "source": "nac",
+      "title": "Flots, tout ce qui brille voit",
+      "subtitle": "Multidisciplinary daydream for toddlers",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Multidisciplinary daydream for toddlers",
+      "url": "https://nac-cna.ca/en/event/40434"
+    },
+    {
+      "source": "nac",
+      "title": "Disney’s Beauty & The Beast",
+      "subtitle": null,
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40619"
+    },
+    {
+      "source": "nac",
+      "title": "Matriarchs Uprising",
+      "subtitle": "the eggstravaganza + WHAKAHĀ",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "the eggstravaganza + WHAKAHĀ",
+      "url": "https://nac-cna.ca/en/event/40374"
+    },
+    {
+      "source": "nac",
+      "title": "Toronto Comedy All Stars",
+      "subtitle": "Celebrating 12 years of sold out shows",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Celebrating 12 years of sold out shows",
+      "url": "https://nac-cna.ca/en/event/41919"
+    },
+    {
+      "source": "nac",
+      "title": "Giggle and Stomp",
+      "subtitle": "Kinderconcert Series",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Kinderconcert Series",
+      "url": "https://nac-cna.ca/en/event/40400"
+    },
+    {
+      "source": "nac",
+      "title": "Giggle and Stomp",
+      "subtitle": "Kinderconcert Series",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Kinderconcert Series",
+      "url": "https://nac-cna.ca/en/event/40667"
+    },
+    {
+      "source": "nac",
+      "title": "Shelley Conducts Mahler",
+      "subtitle": "With the NAC Orchestra",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Southam Hall Salle Southam",
+      "description": "With the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40418"
+    },
+    {
+      "source": "nac",
+      "title": "Shelley, Strauss & Ravel",
+      "subtitle": "with the NAC Orchestra",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40419"
+    },
+    {
+      "source": "nac",
+      "title": "WolfGANG Sessions #32",
+      "subtitle": "A Wild Night of Chamber Music",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Club SAW Club SAW",
+      "description": "A Wild Night of Chamber Music",
+      "url": "https://nac-cna.ca/en/event/40430"
+    },
+    {
+      "source": "nac",
+      "title": "How to Train Your Dragon in Concert",
+      "subtitle": "with the NAC Orchestra",
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40403"
+    },
+    {
+      "source": "nac",
+      "title": "The Outsiders",
+      "subtitle": null,
+      "date": null,
+      "rawDate": null,
+      "time": null,
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40620"
+    },
+    {
       "source": "jazz",
       "title": "Miranda Ceara & The Odd Fellows Orchestra",
       "date": "2026-09-09",
@@ -1296,13 +1494,13 @@
     },
     {
       "source": "redbird",
-      "title": "Jane and Kyle",
-      "date": "2026-09-04",
-      "rawDate": "2026-09-04",
+      "title": "Open Stage",
+      "date": "2026-09-09",
+      "rawDate": "2026-09-09",
       "time": "12:00 a.m.",
       "venue": "Red Bird Live",
-      "description": "\nCanadian fiddle champions Jane &amp; Kyle return to Red Bird with special guests Alanna Jenish (guitar, step dance) and Tyson Chen (piano). Renowned for their lush twin fiddle harmonies and high-ener",
-      "url": "https://www.showpass.com/jane-and-kyle-2/"
+      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
+      "url": "https://www.showpass.com/open-stage-7-26-09-08-20-3401/"
     },
     {
       "source": "redbird",
@@ -1336,6 +1534,26 @@
     },
     {
       "source": "redbird",
+      "title": "Open Stage",
+      "date": "2026-09-16",
+      "rawDate": "2026-09-16",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
+      "url": "https://www.showpass.com/open-stage-7-26-09-15-20-7301/"
+    },
+    {
+      "source": "redbird",
+      "title": "Bronwyn's Big Bad Beautiful Choir",
+      "date": "2026-09-17",
+      "rawDate": "2026-09-17",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nWelcome to Bronwyn's Big Bad Beautiful Choir!\nA monthly drop-in choir for everyone who loves to sing. No auditions. No commitment. And no, you don’t have to be any good!\nOnce a month, Bronwyn will le",
+      "url": "https://www.showpass.com/bronwyns-big-bad-beautiful-choir/"
+    },
+    {
+      "source": "redbird",
       "title": "Harry Manx",
       "date": "2026-09-18",
       "rawDate": "2026-09-18",
@@ -1353,6 +1571,16 @@
       "venue": "Red Bird Live",
       "description": "Joe McLeod is a Canadian songwriter and multi-instrumentalist whose work is defined by emotional clarity, patience, and craft. His songs move easily between intimate reflection and open-hearted, melod",
       "url": "https://www.showpass.com/joe-mcleod-with-the-public-service-duo/"
+    },
+    {
+      "source": "redbird",
+      "title": "Open Stage",
+      "date": "2026-09-23",
+      "rawDate": "2026-09-23",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
+      "url": "https://www.showpass.com/open-stage-7-26-09-22-20-6850/"
     },
     {
       "source": "redbird",
@@ -1396,6 +1624,16 @@
     },
     {
       "source": "redbird",
+      "title": "Open Stage",
+      "date": "2026-09-30",
+      "rawDate": "2026-09-30",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
+      "url": "https://www.showpass.com/open-stage-7-26-09-29-20-1000/"
+    },
+    {
+      "source": "redbird",
       "title": "Catherine MacLellan",
       "date": "2026-10-02",
       "rawDate": "2026-10-02",
@@ -1426,6 +1664,16 @@
     },
     {
       "source": "redbird",
+      "title": "Open Stage",
+      "date": "2026-10-07",
+      "rawDate": "2026-10-07",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
+      "url": "https://www.showpass.com/open-stage-7-26-10-06-20-9398/"
+    },
+    {
+      "source": "redbird",
       "title": "Ray Bonneville",
       "date": "2026-10-09",
       "rawDate": "2026-10-09",
@@ -1453,6 +1701,16 @@
       "venue": "Red Bird Live",
       "description": "The Grapes Of Wrath: unplugged\nAfter bonding over a mutual love of The Beatles, drummer Chris Hooper introduced Kevin Kane to his younger brother Tom Hooper in 1977. While still attending elementary a",
       "url": "https://www.showpass.com/the-grapes-of-wrath-acoustic-duo-5/"
+    },
+    {
+      "source": "redbird",
+      "title": "Open Stage",
+      "date": "2026-10-14",
+      "rawDate": "2026-10-14",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
+      "url": "https://www.showpass.com/open-stage-7-26-10-13-20-8497/"
     },
     {
       "source": "redbird",
@@ -1496,6 +1754,16 @@
     },
     {
       "source": "redbird",
+      "title": "Open Stage",
+      "date": "2026-10-21",
+      "rawDate": "2026-10-21",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
+      "url": "https://www.showpass.com/open-stage-7-26-10-20-20-4237/"
+    },
+    {
+      "source": "redbird",
       "title": "Tina Dico",
       "date": "2026-10-23",
       "rawDate": "2026-10-23",
@@ -1526,6 +1794,16 @@
     },
     {
       "source": "redbird",
+      "title": "Open Stage",
+      "date": "2026-10-28",
+      "rawDate": "2026-10-28",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
+      "url": "https://www.showpass.com/open-stage-7-26-10-27-20-8969/"
+    },
+    {
+      "source": "redbird",
       "title": "Gentlemen of the Woods",
       "date": "2026-10-31",
       "rawDate": "2026-10-31",
@@ -1543,6 +1821,16 @@
       "venue": "Red Bird Live",
       "description": "\nThe Gentlemen of the Woods began nearly a decade ago as a long-simmering idea among friends ready to refocus their creative energy and see what would happen if they fully committed to making music. W",
       "url": "https://www.showpass.com/gentlemen-of-the-woods-4/"
+    },
+    {
+      "source": "redbird",
+      "title": "Open Stage",
+      "date": "2026-11-04",
+      "rawDate": "2026-11-04",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
+      "url": "https://www.showpass.com/open-stage-7-26-11-03-20-9542/"
     },
     {
       "source": "redbird",
@@ -1566,6 +1854,16 @@
     },
     {
       "source": "redbird",
+      "title": "Open Stage",
+      "date": "2026-11-11",
+      "rawDate": "2026-11-11",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
+      "url": "https://www.showpass.com/open-stage-7-26-11-10-20-7188/"
+    },
+    {
+      "source": "redbird",
       "title": "Lynne Hanson",
       "date": "2026-11-13",
       "rawDate": "2026-11-13",
@@ -1585,14 +1883,34 @@
       "url": "https://www.showpass.com/david-james-allen-with-riley-burns/"
     },
     {
-      "source": "irenes",
-      "title": "The Prime Rib Big Band",
-      "date": "2026-09-02",
-      "rawDate": "Sep 2",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/x8r53ksa6fjdhn28nnwlpgb386m3r2"
+      "source": "redbird",
+      "title": "Sam Polley and The Old Tomorrows",
+      "date": "2026-11-16",
+      "rawDate": "2026-11-16",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Being the youngest member of a musical family, Sam Polley grew up in the music industry, but took his own time to join the family business. Forming Sam Polley and The Old Tomorrows in downtown Toronto",
+      "url": "https://www.showpass.com/sam-polley-and-the-old-tomorrows/"
+    },
+    {
+      "source": "redbird",
+      "title": "Lynn Miles with The Decomposers",
+      "date": "2026-11-21",
+      "rawDate": "2026-11-21",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Juno award winning singer/songwriter Lynn Miles will be joined by the genre-bending string quintet and drums known as The Decomposers,  for an evening of her music. \nLynn says “it’s gonna be epic”",
+      "url": "https://www.showpass.com/lynn-miles-with-the-decomposers/"
+    },
+    {
+      "source": "redbird",
+      "title": "Bill Kirchen's Honky Tonk Holiday",
+      "date": "2026-12-05",
+      "rawDate": "2026-12-05",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Forget the Nutcracker and Handel's Messiah. For a real taste of seasonal cheer, nothing says joy to the world like Bill Kirchen singing Daddy's Drinkin' Up Our Christmas.  Featured is a sleigh-full of",
+      "url": "https://www.showpass.com/bill-kirchens-honky-tonk-holiday/"
     },
     {
       "source": "irenes",
@@ -1731,7 +2049,7 @@
       "rawDate": "Sep 18",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Loch Nisse Monster Gasper Austin Camp Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Loch Nisse Monster Gasper Austin Camp Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price. Loch Nisse Monster is an Ottawa",
       "url": "https://irenespub.ca/events/loch-nisse-monster-gasper-austin-camp"
     },
     {
@@ -1886,7 +2204,7 @@
     },
     {
       "source": "irenes",
-      "title": "Kaiday with Special Guests Isaac Baronikian and Édouardo Labbé Trio",
+      "title": "Kaiday with Special Guests Isaac Baronikian and Eduardo Labbé Trio",
       "date": "2026-10-03",
       "rawDate": "Oct 3",
       "time": "21:00",
@@ -2026,12 +2344,12 @@
     },
     {
       "source": "irenes",
-      "title": "Keith Glass Band - Matinée",
+      "title": "Keith Glass Band CD Release Party - Matinée",
       "date": "2026-10-18",
       "rawDate": "Oct 18",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Keith Glass Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Keith Glass Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/keith-glass-band-matine"
     },
     {
@@ -2173,6 +2491,16 @@
       "venue": "Irene's Pub",
       "description": "The Electric Co. Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/the-electric-co-halloween-party"
+    },
+    {
+      "source": "irenes",
+      "title": "The Prime Rib Big Band",
+      "date": "2026-09-02",
+      "rawDate": "Sep 2",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/x8r53ksa6fjdhn28nnwlpgb386m3r2"
     },
     {
       "source": "irenes",
@@ -2463,16 +2791,6 @@
       "venue": "Irene's Pub",
       "description": "Hunks & Punks Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/hunks-punks"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Luke Ambridge",
-      "date": "2026-07-30",
-      "rawDate": "Jul 30",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-jeff-haggerman-a5r69-pn2fw-4gk5n-dddps-psj5j-72pxd-6zely-493jb-9hh8e-fnbts"
     },
     {
       "source": "gctc",
