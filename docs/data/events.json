@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-04T11:30:22.688Z",
-  "totalEvents": 462,
+  "scrapedAt": "2026-09-05T10:20:07.561Z",
+  "totalEvents": 454,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -560,6 +560,17 @@
     },
     {
       "source": "nac",
+      "title": "Symphony in Your Neighbourhood - Carleton Dominion Chalmers Centre",
+      "subtitle": "$10 Tickets. World Class Music.",
+      "date": "2026-09-29",
+      "rawDate": "2026-09-29",
+      "time": "19:00",
+      "venue": "Carleton Dominion-Chalmers Centre Centre Carleton Dominion-Chalmers",
+      "description": "$10 Tickets. World Class Music.",
+      "url": "https://nac-cna.ca/en/event/42001"
+    },
+    {
+      "source": "nac",
       "title": "Women, Truth & Reconciliation",
       "subtitle": "With Rose LeMay and Tanya Talaga",
       "date": "2026-09-30",
@@ -568,6 +579,17 @@
       "venue": "Babs Asper Babs Asper",
       "description": "With Rose LeMay and Tanya Talaga",
       "url": "https://nac-cna.ca/en/event/41478"
+    },
+    {
+      "source": "nac",
+      "title": "Symphony in Your Neighbourhood - Shenkman Arts Centre",
+      "subtitle": "$10 Tickets. World Class Music.",
+      "date": "2026-10-01",
+      "rawDate": "2026-10-01",
+      "time": "19:00",
+      "venue": "Shenkman Arts Centre Centre des arts Shenkman",
+      "description": "$10 Tickets. World Class Music.",
+      "url": "https://nac-cna.ca/en/event/41999"
     },
     {
       "source": "nac",
@@ -1319,168 +1341,36 @@
     },
     {
       "source": "nac",
-      "title": "Haydn: The Creation",
-      "subtitle": "with John Storgårds",
-      "date": null,
-      "rawDate": null,
-      "time": null,
+      "title": "Dreamcatcher Workshop",
+      "subtitle": "with Bougie Birch",
+      "date": "2026-11-04",
+      "rawDate": "2026-11-04",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Bougie Birch",
+      "url": "https://nac-cna.ca/en/event/41879"
+    },
+    {
+      "source": "nac",
+      "title": "Storgårds, Beethoven & Dvořák",
+      "subtitle": "and Élisabeth Pion's Debut",
+      "date": "2026-11-04",
+      "rawDate": "2026-11-04",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
-      "description": "with John Storgårds",
-      "url": "https://nac-cna.ca/en/event/40401"
+      "description": "and Élisabeth Pion's Debut",
+      "url": "https://nac-cna.ca/en/event/40423"
     },
     {
       "source": "nac",
-      "title": "Hilary Hahn, Storgårds & Tchaikovsky",
-      "subtitle": "With the NAC Orchestra",
-      "date": null,
-      "rawDate": null,
-      "time": null,
+      "title": "Storgårds, Beethoven & Dvořák",
+      "subtitle": "and Élisabeth Pion's Debut",
+      "date": "2026-11-05",
+      "rawDate": "2026-11-05",
+      "time": "20:00",
       "venue": "Southam Hall Salle Southam",
-      "description": "With the NAC Orchestra",
-      "url": "https://nac-cna.ca/en/event/40424"
-    },
-    {
-      "source": "nac",
-      "title": "Les Petites Filles modernes (titre provisoire)",
-      "subtitle": "Fantastical tale with hypnotic imagery, directed by Joël Pommerat",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Babs Asper Babs Asper",
-      "description": "Fantastical tale with hypnotic imagery, directed by Joël Pommerat",
-      "url": "https://nac-cna.ca/en/event/40438"
-    },
-    {
-      "source": "nac",
-      "title": "Ottawa Jazz Orchestra",
-      "subtitle": "Heatwave Hits",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "Heatwave Hits",
-      "url": "https://nac-cna.ca/en/event/41713"
-    },
-    {
-      "source": "nac",
-      "title": "Flots, tout ce qui brille voit",
-      "subtitle": "Multidisciplinary daydream for toddlers",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "Multidisciplinary daydream for toddlers",
-      "url": "https://nac-cna.ca/en/event/40434"
-    },
-    {
-      "source": "nac",
-      "title": "Disney’s Beauty & The Beast",
-      "subtitle": null,
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Southam Hall Salle Southam",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40619"
-    },
-    {
-      "source": "nac",
-      "title": "Matriarchs Uprising",
-      "subtitle": "the eggstravaganza + WHAKAHĀ",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "the eggstravaganza + WHAKAHĀ",
-      "url": "https://nac-cna.ca/en/event/40374"
-    },
-    {
-      "source": "nac",
-      "title": "Toronto Comedy All Stars",
-      "subtitle": "Celebrating 12 years of sold out shows",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "Celebrating 12 years of sold out shows",
-      "url": "https://nac-cna.ca/en/event/41919"
-    },
-    {
-      "source": "nac",
-      "title": "Giggle and Stomp",
-      "subtitle": "Kinderconcert Series",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "Kinderconcert Series",
-      "url": "https://nac-cna.ca/en/event/40400"
-    },
-    {
-      "source": "nac",
-      "title": "Giggle and Stomp",
-      "subtitle": "Kinderconcert Series",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "Kinderconcert Series",
-      "url": "https://nac-cna.ca/en/event/40667"
-    },
-    {
-      "source": "nac",
-      "title": "Shelley Conducts Mahler",
-      "subtitle": "With the NAC Orchestra",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Southam Hall Salle Southam",
-      "description": "With the NAC Orchestra",
-      "url": "https://nac-cna.ca/en/event/40418"
-    },
-    {
-      "source": "nac",
-      "title": "Shelley, Strauss & Ravel",
-      "subtitle": "with the NAC Orchestra",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Southam Hall Salle Southam",
-      "description": "with the NAC Orchestra",
-      "url": "https://nac-cna.ca/en/event/40419"
-    },
-    {
-      "source": "nac",
-      "title": "WolfGANG Sessions #32",
-      "subtitle": "A Wild Night of Chamber Music",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Club SAW Club SAW",
-      "description": "A Wild Night of Chamber Music",
-      "url": "https://nac-cna.ca/en/event/40430"
-    },
-    {
-      "source": "nac",
-      "title": "How to Train Your Dragon in Concert",
-      "subtitle": "with the NAC Orchestra",
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Southam Hall Salle Southam",
-      "description": "with the NAC Orchestra",
-      "url": "https://nac-cna.ca/en/event/40403"
-    },
-    {
-      "source": "nac",
-      "title": "The Outsiders",
-      "subtitle": null,
-      "date": null,
-      "rawDate": null,
-      "time": null,
-      "venue": "Southam Hall Salle Southam",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40620"
+      "description": "and Élisabeth Pion's Debut",
+      "url": "https://nac-cna.ca/en/event/40423"
     },
     {
       "source": "jazz",
@@ -4450,16 +4340,6 @@
     },
     {
       "source": "bronson",
-      "title": "Jackson Dean",
-      "date": "2026-09-04",
-      "rawDate": "Friday, Sep 4, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/jackson-dean/"
-    },
-    {
-      "source": "bronson",
       "title": "Michel Pagliaro – Deux Voix Une Capitale",
       "date": "2026-09-05",
       "rawDate": "Saturday, Sep 5, Doors: 7pm",
@@ -4560,6 +4440,26 @@
     },
     {
       "source": "bronson",
+      "title": "Ricky Kej ~ Celebrating GANDHI through Music",
+      "date": "2026-10-04",
+      "rawDate": "Sunday, Oct 4, Doors: 5pm",
+      "time": "17:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/ricky-kej-celebrating-gandhi-through-music/"
+    },
+    {
+      "source": "bronson",
+      "title": "Danny Bhoy – Night 3",
+      "date": "2026-10-06",
+      "rawDate": "Tuesday, Oct 6, Doors: 7:30pm",
+      "time": "19:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-3/"
+    },
+    {
+      "source": "bronson",
       "title": "Danny Bhoy – Night 1",
       "date": "2026-10-07",
       "rawDate": "Wednesday, Oct 7, Doors: 7:30pm",
@@ -4647,6 +4547,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/jonathan-van-ness/"
+    },
+    {
+      "source": "bronson",
+      "title": "BOOTS ‘N BEATS",
+      "date": "2026-10-24",
+      "rawDate": "Saturday, Oct 24, Doors: 8pm",
+      "time": "20:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/boots-n-beats/"
     },
     {
       "source": "bronson",
@@ -4871,7 +4781,7 @@
     {
       "source": "motelchelsea",
       "title": "JANGUS COMEDY: Battle of the Provinces",
-      "date": "2026-09-04",
+      "date": "2027-09-04",
       "rawDate": "SEPTEMBER 04",
       "time": "20:00",
       "venue": "Motel Chelsea",
