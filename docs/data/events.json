@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-05T10:20:07.561Z",
-  "totalEvents": 454,
+  "scrapedAt": "2026-09-06T10:39:25.834Z",
+  "totalEvents": 459,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -1373,6 +1373,50 @@
       "url": "https://nac-cna.ca/en/event/40423"
     },
     {
+      "source": "nac",
+      "title": "L'Orestie",
+      "subtitle": "The iconic classical trilogy revisited by Alice Ronfard",
+      "date": "2026-11-05",
+      "rawDate": "2026-11-05",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "The iconic classical trilogy revisited by Alice Ronfard",
+      "url": "https://nac-cna.ca/en/event/40439"
+    },
+    {
+      "source": "nac",
+      "title": "L'Orestie",
+      "subtitle": "The iconic classical trilogy revisited by Alice Ronfard",
+      "date": "2026-11-06",
+      "rawDate": "2026-11-06",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "The iconic classical trilogy revisited by Alice Ronfard",
+      "url": "https://nac-cna.ca/en/event/40439"
+    },
+    {
+      "source": "nac",
+      "title": "L'Orestie",
+      "subtitle": "The iconic classical trilogy revisited by Alice Ronfard",
+      "date": "2026-11-07",
+      "rawDate": "2026-11-07",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "The iconic classical trilogy revisited by Alice Ronfard",
+      "url": "https://nac-cna.ca/en/event/40439"
+    },
+    {
+      "source": "nac",
+      "title": "Zachary Lucky",
+      "subtitle": null,
+      "date": "2026-11-05",
+      "rawDate": "2026-11-05",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41786"
+    },
+    {
       "source": "jazz",
       "title": "Miranda Ceara & The Odd Fellows Orchestra",
       "date": "2026-09-09",
@@ -1664,6 +1708,16 @@
     },
     {
       "source": "redbird",
+      "title": "Tina Dico",
+      "date": "2026-10-23",
+      "rawDate": "2026-10-23",
+      "time": "5:00 p.m.",
+      "venue": "Red Bird Live",
+      "description": "Danish star, Tina Dico, makes her highly anticipated debut in Ottawa for a rare, intimate performance at Red Bird, to launch her new album Balancing Small Things On Sharp Edges, that is set for releas",
+      "url": "https://www.showpass.com/tina-dico-2/"
+    },
+    {
+      "source": "redbird",
       "title": "Cara Luft",
       "date": "2026-10-24",
       "rawDate": "2026-10-24",
@@ -1781,6 +1835,16 @@
       "venue": "Red Bird Live",
       "description": "Being the youngest member of a musical family, Sam Polley grew up in the music industry, but took his own time to join the family business. Forming Sam Polley and The Old Tomorrows in downtown Toronto",
       "url": "https://www.showpass.com/sam-polley-and-the-old-tomorrows/"
+    },
+    {
+      "source": "redbird",
+      "title": "Lynn Miles with The Decomposers",
+      "date": "2026-11-20",
+      "rawDate": "2026-11-20",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Juno award winning singer/songwriter Lynn Miles will be joined by the genre-bending string quintet and drums known as The Decomposers,  for an evening of her music. \nLynn says “it’s gonna be epic”",
+      "url": "https://www.showpass.com/lynn-miles-with-the-decomposers-2/"
     },
     {
       "source": "redbird",
@@ -4337,16 +4401,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "Michel Pagliaro – Deux Voix Une Capitale",
-      "date": "2026-09-05",
-      "rawDate": "Saturday, Sep 5, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/michel-pagliaro-deux-voix-une-capital/"
     },
     {
       "source": "bronson",
