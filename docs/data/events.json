@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-06T10:39:25.834Z",
-  "totalEvents": 459,
+  "scrapedAt": "2026-09-07T12:04:45.460Z",
+  "totalEvents": 420,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -1417,6 +1417,28 @@
       "url": "https://nac-cna.ca/en/event/41786"
     },
     {
+      "source": "nac",
+      "title": "Matteo Lane",
+      "subtitle": "We Gotta Catch Up Tour",
+      "date": "2026-11-06",
+      "rawDate": "2026-11-06",
+      "time": "19:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "We Gotta Catch Up Tour",
+      "url": "https://nac-cna.ca/en/event/41169"
+    },
+    {
+      "source": "nac",
+      "title": "Ben Dunnill",
+      "subtitle": null,
+      "date": "2026-11-06",
+      "rawDate": "2026-11-06",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41996"
+    },
+    {
       "source": "jazz",
       "title": "Miranda Ceara & The Odd Fellows Orchestra",
       "date": "2026-09-09",
@@ -1865,36 +1887,6 @@
       "venue": "Red Bird Live",
       "description": "Forget the Nutcracker and Handel's Messiah. For a real taste of seasonal cheer, nothing says joy to the world like Bill Kirchen singing Daddy's Drinkin' Up Our Christmas.  Featured is a sleigh-full of",
       "url": "https://www.showpass.com/bill-kirchens-honky-tonk-holiday/"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Tracey K.",
-      "date": "2026-09-03",
-      "rawDate": "Sep 3",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye"
-    },
-    {
-      "source": "irenes",
-      "title": "Nostalgia Baby! A Celebration of Y2K Hits with Chantal Celine & Jai Vinyl",
-      "date": "2026-09-04",
-      "rawDate": "Sep 4",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Chantal Celine Jai Vinyl Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
-      "url": "https://irenespub.ca/events/4xtiw2klwt64el51rv28dfkq5z9kdy"
-    },
-    {
-      "source": "irenes",
-      "title": "No Quiet Endings with Joshua Isaac, Bitterhalf & Adam Fortais",
-      "date": "2026-09-05",
-      "rawDate": "Sep 5",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Joshua Isaac Bitterhalf Adam Fortais Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
-      "url": "https://irenespub.ca/events/no-quiet-endings-with-joshua-isaac-bitterhalf-adam-fortais"
     },
     {
       "source": "irenes",
@@ -2448,6 +2440,36 @@
     },
     {
       "source": "irenes",
+      "title": "No Quiet Endings with Joshua Isaac, Bitterhalf & Adam Fortais",
+      "date": "2026-09-05",
+      "rawDate": "Sep 5",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Joshua Isaac Bitterhalf Adam Fortais Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "url": "https://irenespub.ca/events/no-quiet-endings-with-joshua-isaac-bitterhalf-adam-fortais"
+    },
+    {
+      "source": "irenes",
+      "title": "Nostalgia Baby! A Celebration of Y2K Hits with Chantal Celine & Jai Vinyl",
+      "date": "2026-09-04",
+      "rawDate": "Sep 4",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Chantal Celine Jai Vinyl Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "url": "https://irenespub.ca/events/4xtiw2klwt64el51rv28dfkq5z9kdy"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Tracey K.",
+      "date": "2026-09-03",
+      "rawDate": "Sep 3",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye"
+    },
+    {
+      "source": "irenes",
       "title": "The Prime Rib Big Band",
       "date": "2026-09-02",
       "rawDate": "Sep 2",
@@ -2715,36 +2737,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-mbxnj"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-08-02",
-      "rawDate": "Aug 2",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-6emeg"
-    },
-    {
-      "source": "irenes",
-      "title": "Sumak Brass Band with Special Guests Miranda Ceara & the Odd Fellows Orchestra",
-      "date": "2026-08-01",
-      "rawDate": "Aug 1",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Sumak Brass Band Miranda Ceara Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/miranda-ceara-the-odd-fellows-orchestra-sumak-brass-band"
-    },
-    {
-      "source": "irenes",
-      "title": "Hunks & Punks",
-      "date": "2026-07-31",
-      "rawDate": "Jul 31",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Hunks & Punks Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/hunks-punks"
     },
     {
       "source": "gctc",
@@ -4403,386 +4395,6 @@
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
     },
     {
-      "source": "bronson",
-      "title": "Jon Spencer",
-      "date": "2026-09-09",
-      "rawDate": "Wednesday, Sep 9, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/jon-spencer/"
-    },
-    {
-      "source": "bronson",
-      "title": "Talib Kweli",
-      "date": "2026-09-10",
-      "rawDate": "Thursday, Sep 10, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/talib-kweli/"
-    },
-    {
-      "source": "bronson",
-      "title": "SUN KIL MOON (FKA/AKA: Mark Kozelek)",
-      "date": "2026-09-11",
-      "rawDate": "Friday, Sep 11, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/sun-kil-moon-fka-aka-mark-kozelek/"
-    },
-    {
-      "source": "bronson",
-      "title": "HATEBREED: SUMMER SLAUGHTER TOUR 2025",
-      "date": "2026-09-12",
-      "rawDate": "Saturday, Sep 12, Doors: 4:30pm",
-      "time": "16:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/hatebreed-summer-slaughter-tour-2025/"
-    },
-    {
-      "source": "bronson",
-      "title": "Tinariwen – POSTPONED",
-      "date": "2026-09-16",
-      "rawDate": "Wednesday, Sep 16, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/tinariwen/"
-    },
-    {
-      "source": "bronson",
-      "title": "ERRA",
-      "date": "2026-09-22",
-      "rawDate": "Tuesday, Sep 22, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/erra/"
-    },
-    {
-      "source": "bronson",
-      "title": "Hannibal Buress",
-      "date": "2026-09-24",
-      "rawDate": "Thursday, Sep 24, Doors: 12am",
-      "time": "00:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/hannibal-buress/"
-    },
-    {
-      "source": "bronson",
-      "title": "Daniel Lanois",
-      "date": "2026-09-27",
-      "rawDate": "Sunday, Sep 27, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/daniel-lanois-deux-voix-une-capitale/"
-    },
-    {
-      "source": "bronson",
-      "title": "Ya Levis",
-      "date": "2026-10-02",
-      "rawDate": "Friday, Oct 2, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/ya-levis/"
-    },
-    {
-      "source": "bronson",
-      "title": "Ricky Kej ~ Celebrating GANDHI through Music",
-      "date": "2026-10-04",
-      "rawDate": "Sunday, Oct 4, Doors: 5pm",
-      "time": "17:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/ricky-kej-celebrating-gandhi-through-music/"
-    },
-    {
-      "source": "bronson",
-      "title": "Danny Bhoy – Night 3",
-      "date": "2026-10-06",
-      "rawDate": "Tuesday, Oct 6, Doors: 7:30pm",
-      "time": "19:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-3/"
-    },
-    {
-      "source": "bronson",
-      "title": "Danny Bhoy – Night 1",
-      "date": "2026-10-07",
-      "rawDate": "Wednesday, Oct 7, Doors: 7:30pm",
-      "time": "19:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-1/"
-    },
-    {
-      "source": "bronson",
-      "title": "Danny Bhoy – Night 2",
-      "date": "2026-10-08",
-      "rawDate": "Thursday, Oct 8, Doors: 7:30pm",
-      "time": "19:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-2/"
-    },
-    {
-      "source": "bronson",
-      "title": "DESPISED ICON",
-      "date": "2026-10-10",
-      "rawDate": "Saturday, Oct 10, Doors: 5:30pm",
-      "time": "17:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/despised-icon-2/"
-    },
-    {
-      "source": "bronson",
-      "title": "Buffalo Traffic Jam – SOLD OUT",
-      "date": "2026-10-12",
-      "rawDate": "Monday, Oct 12, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/buffalo-traffic-jam/"
-    },
-    {
-      "source": "bronson",
-      "title": "cleopatrick",
-      "date": "2026-10-15",
-      "rawDate": "Thursday, Oct 15, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/cleopatrick/"
-    },
-    {
-      "source": "bronson",
-      "title": "Bob The Drag Queen – Early Show",
-      "date": "2026-10-16",
-      "rawDate": "Friday, Oct 16, Doors: 6pm",
-      "time": "18:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/now-clap-bob-the-drag-queens-on-tour/"
-    },
-    {
-      "source": "bronson",
-      "title": "Bob The Drag Queen – Late Show added !",
-      "date": "2026-10-16",
-      "rawDate": "Friday, Oct 16, Doors: 9pm",
-      "time": "21:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/bob-the-drag-queen-late-show-added/"
-    },
-    {
-      "source": "bronson",
-      "title": "Joep Beving",
-      "date": "2026-10-17",
-      "rawDate": "Saturday, Oct 17, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/joep-beving/"
-    },
-    {
-      "source": "bronson",
-      "title": "Jonathan Van Ness",
-      "date": "2026-10-22",
-      "rawDate": "Thursday, Oct 22, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/jonathan-van-ness/"
-    },
-    {
-      "source": "bronson",
-      "title": "BOOTS ‘N BEATS",
-      "date": "2026-10-24",
-      "rawDate": "Saturday, Oct 24, Doors: 8pm",
-      "time": "20:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/boots-n-beats/"
-    },
-    {
-      "source": "bronson",
-      "title": "Waylon Wyatt",
-      "date": "2026-10-26",
-      "rawDate": "Monday, Oct 26, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/waylon-wyatt/"
-    },
-    {
-      "source": "bronson",
-      "title": "Tyler Braden",
-      "date": "2026-10-30",
-      "rawDate": "Friday, Oct 30, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/tyler-braden/"
-    },
-    {
-      "source": "bronson",
-      "title": "The Wrecks",
-      "date": "2026-11-01",
-      "rawDate": "Sunday, Nov 1, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/the-wrecks/"
-    },
-    {
-      "source": "bronson",
-      "title": "AMBLE – SOLD OUT",
-      "date": "2026-11-03",
-      "rawDate": "Tuesday, Nov 3, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/amble/"
-    },
-    {
-      "source": "bronson",
-      "title": "DZIDZIO",
-      "date": "2026-11-12",
-      "rawDate": "Thursday, Nov 12, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/dzidzio/"
-    },
-    {
-      "source": "bronson",
-      "title": "The Record Company",
-      "date": "2026-11-13",
-      "rawDate": "Friday, Nov 13, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/the-record-company/"
-    },
-    {
-      "source": "bronson",
-      "title": "Matt Hansen",
-      "date": "2026-11-14",
-      "rawDate": "Saturday, Nov 14, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/matt-hansen/"
-    },
-    {
-      "source": "bronson",
-      "title": "Ottawa Outdoor Film Festival",
-      "date": "2026-11-15",
-      "rawDate": "Sunday, Nov 15, Doors: 5pm",
-      "time": "17:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/ottawa-outdoor-film-festival/"
-    },
-    {
-      "source": "bronson",
-      "title": "MODI",
-      "date": "2026-11-19",
-      "rawDate": "Thursday, Nov 19, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/modi/"
-    },
-    {
-      "source": "bronson",
-      "title": "Protest The Hero",
-      "date": "2026-11-20",
-      "rawDate": "Friday, Nov 20, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/protest-the-hero-3/"
-    },
-    {
-      "source": "bronson",
-      "title": "Akaash Singh",
-      "date": "2026-11-21",
-      "rawDate": "Saturday, Nov 21, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/akaash-singh/"
-    },
-    {
-      "source": "bronson",
-      "title": "STVW – PUNK RAVE – OTTAWA",
-      "date": "2026-11-27",
-      "rawDate": "Friday, Nov 27, Doors: 9:30pm",
-      "time": "21:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/stvw-punk-rave-ottawa/"
-    },
-    {
-      "source": "bronson",
-      "title": "A Skydiggers Christmas",
-      "date": "2026-12-05",
-      "rawDate": "Saturday, Dec 5, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/a-skydiggers-christmas/"
-    },
-    {
-      "source": "bronson",
-      "title": "THE BOUNCING SOULS with The Suicide Machines",
-      "date": "2026-12-06",
-      "rawDate": "Sunday, Dec 6, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/the-bouncing-souls-with-the-suicide-machines/"
-    },
-    {
-      "source": "bronson",
-      "title": "DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS ~ NEW DATE ~",
-      "date": "2026-12-12",
-      "rawDate": "Saturday, Dec 12, Doors: 8pm",
-      "time": "20:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks-new-date/"
-    },
-    {
-      "source": "bronson",
-      "title": "TroyBoi",
-      "date": "2026-12-17",
-      "rawDate": "Thursday, Dec 17, Doors: 9pm",
-      "time": "21:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
-    },
-    {
-      "source": "bronson",
-      "title": "The Mary Wallopers",
-      "date": "2027-03-10",
-      "rawDate": "Wednesday, Mar 10, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/the-mary-wallopers/"
-    },
-    {
       "source": "chamberfest",
       "title": "Janina Fialkowska Celebrates 75",
       "date": "2026-10-13",
@@ -4845,7 +4457,7 @@
     {
       "source": "motelchelsea",
       "title": "The Grievous Angels",
-      "date": "2026-09-06",
+      "date": "2027-09-06",
       "rawDate": "SEPTEMBER 06",
       "time": "15:30",
       "venue": "Motel Chelsea",
