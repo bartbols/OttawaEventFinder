@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-08T10:57:24.383Z",
-  "totalEvents": 459,
+  "scrapedAt": "2026-09-09T11:03:45.796Z",
+  "totalEvents": 457,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,83 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "An evening with Tom Wilson",
-      "subtitle": null,
-      "date": "2026-09-08",
-      "rawDate": "2026-09-08",
-      "time": "18:30",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42018"
-    },
-    {
-      "source": "nac",
-      "title": "The Great Gatsby",
-      "subtitle": null,
-      "date": "2026-09-08",
-      "rawDate": "2026-09-08",
-      "time": "19:30",
-      "venue": "Southam Hall Salle Southam",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40616"
-    },
-    {
-      "source": "nac",
-      "title": "The Great Gatsby",
-      "subtitle": null,
-      "date": "2026-09-09",
-      "rawDate": "2026-09-09",
-      "time": "19:30",
-      "venue": "Southam Hall Salle Southam",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40616"
-    },
-    {
-      "source": "nac",
-      "title": "The Great Gatsby",
-      "subtitle": null,
-      "date": "2026-09-10",
-      "rawDate": "2026-09-10",
-      "time": "19:30",
-      "venue": "Southam Hall Salle Southam",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40616"
-    },
-    {
-      "source": "nac",
-      "title": "The Great Gatsby",
-      "subtitle": null,
-      "date": "2026-09-11",
-      "rawDate": "2026-09-11",
-      "time": "19:30",
-      "venue": "Southam Hall Salle Southam",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40616"
-    },
-    {
-      "source": "nac",
-      "title": "The Great Gatsby",
-      "subtitle": null,
-      "date": "2026-09-12",
-      "rawDate": "2026-09-12",
-      "time": "19:30",
-      "venue": "Southam Hall Salle Southam",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40616"
-    },
-    {
-      "source": "nac",
-      "title": "The Great Gatsby",
-      "subtitle": null,
-      "date": "2026-09-13",
-      "rawDate": "2026-09-13",
-      "time": "19:30",
-      "venue": "Southam Hall Salle Southam",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/40616"
-    },
     {
       "source": "nac",
       "title": "Beautiful Scars",
@@ -1330,6 +1253,17 @@
     },
     {
       "source": "nac",
+      "title": "Miguel de Armas and Friends",
+      "subtitle": null,
+      "date": "2026-10-31",
+      "rawDate": "2026-10-31",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42028"
+    },
+    {
+      "source": "nac",
       "title": "Powwow Life-Drawing",
       "subtitle": null,
       "date": "2026-11-03",
@@ -1461,6 +1395,28 @@
       "url": "https://nac-cna.ca/en/event/41601"
     },
     {
+      "source": "nac",
+      "title": "Music for a Sunday Afternoon: Fall Edition",
+      "subtitle": "with John Storgårds and members of the NAC Orchestra",
+      "date": "2026-11-08",
+      "rawDate": "2026-11-08",
+      "time": "15:30",
+      "venue": "Carleton Dominion-Chalmers Centre Centre Carleton Dominion-Chalmers",
+      "description": "with John Storgårds and members of the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40409"
+    },
+    {
+      "source": "nac",
+      "title": "The East Pointers",
+      "subtitle": null,
+      "date": "2026-11-08",
+      "rawDate": "2026-11-08",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41146"
+    },
+    {
       "source": "jazz",
       "title": "Miranda Ceara & The Odd Fellows Orchestra",
       "date": "2026-09-09",
@@ -1468,17 +1424,7 @@
       "time": "19:00",
       "venue": "Ottawa Jazz Festival",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/36596-Miranda-Ceara-The-Odd-Fellows-Orchestra"
-    },
-    {
-      "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-09-09",
-      "rawDate": "2026-09-09",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
-      "url": "https://www.showpass.com/open-stage-7-26-09-08-20-3401/"
+      "url": "https://program.ottawajazzfestival.com/item/36631-Miranda-Ceara-The-Odd-Fellows-Orchestra"
     },
     {
       "source": "redbird",
@@ -1902,6 +1848,16 @@
     },
     {
       "source": "redbird",
+      "title": "Boreal",
+      "date": "2026-12-04",
+      "rawDate": "2026-12-04",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nBoreal  is a powerhouse trio of Canadian singer-songwriters Katherine Wheatley, Tannis Slimmon and Angie Nussey. Their new album, “Winterbirds” (March 2025), has earned them Canadian Folk Music Award",
+      "url": "https://www.showpass.com/boreal-5/"
+    },
+    {
+      "source": "redbird",
       "title": "Bill Kirchen's Honky Tonk Holiday",
       "date": "2026-12-05",
       "rawDate": "2026-12-05",
@@ -2292,7 +2248,7 @@
     },
     {
       "source": "irenes",
-      "title": "Ottawa Blues Harmonica Revue - An Evening of Blues Harmonica Featuring: Luke Ambridge, Niel Barrington, Lyle Odjick, Marc Seguin, Catriona Sturton and Rod Williams",
+      "title": "Ottawa Blues Harmonica Revue - An Evening of Blues Harmonica Featuring: Luke Ambridge, Niel Barrington, Marc Seguin, Catriona Sturton and Rod Williams",
       "date": "2026-10-17",
       "rawDate": "Oct 17",
       "time": "21:00",
@@ -4625,6 +4581,26 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/waylon-wyatt/"
+    },
+    {
+      "source": "bronson",
+      "title": "CBC Radio’s The Debaters",
+      "date": "2026-10-27",
+      "rawDate": "Tuesday, Oct 27, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/cbc-radios-the-debaters/"
+    },
+    {
+      "source": "bronson",
+      "title": "CBC Radio’s The Debaters",
+      "date": "2026-10-28",
+      "rawDate": "Wednesday, Oct 28, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/cbc-radios-the-debaters-2/"
     },
     {
       "source": "bronson",
