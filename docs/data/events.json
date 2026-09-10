@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-09T11:03:45.796Z",
-  "totalEvents": 457,
+  "scrapedAt": "2026-09-10T10:58:35.331Z",
+  "totalEvents": 458,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -307,13 +307,13 @@
     },
     {
       "source": "nac",
-      "title": "True Mountain Laurel",
-      "subtitle": "Haley Blais & Sam Lynch",
+      "title": "True Mountain Laurel: Haley Blais & Sam Lynch",
+      "subtitle": "with Lia Pappas-Kemps",
       "date": "2026-09-19",
       "rawDate": "2026-09-19",
       "time": "20:00",
       "venue": "Fourth Stage Quatrième Salle",
-      "description": "Haley Blais & Sam Lynch",
+      "description": "with Lia Pappas-Kemps",
       "url": "https://nac-cna.ca/en/event/41853"
     },
     {
@@ -879,6 +879,17 @@
     },
     {
       "source": "nac",
+      "title": "HERITAGE IN MOTION",
+      "subtitle": null,
+      "date": "2026-10-10",
+      "rawDate": "2026-10-10",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42086"
+    },
+    {
+      "source": "nac",
       "title": "Powwow Life-Drawing",
       "subtitle": null,
       "date": "2026-10-13",
@@ -1419,7 +1430,7 @@
     {
       "source": "jazz",
       "title": "Miranda Ceara & The Odd Fellows Orchestra",
-      "date": "2026-09-09",
+      "date": "2027-09-09",
       "rawDate": "Wed, Sep 9, 7:00 p.m.",
       "time": "19:00",
       "venue": "Ottawa Jazz Festival",
@@ -4364,16 +4375,6 @@
     },
     {
       "source": "bronson",
-      "title": "Jon Spencer",
-      "date": "2026-09-09",
-      "rawDate": "Wednesday, Sep 9, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/jon-spencer/"
-    },
-    {
-      "source": "bronson",
       "title": "Talib Kweli",
       "date": "2026-09-10",
       "rawDate": "Thursday, Sep 10, Doors: 7pm",
@@ -4761,6 +4762,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/the-mary-wallopers/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "“Dear Lara” Film Screening + Conversation with Lara St. John",
+      "date": "2026-10-03",
+      "rawDate": "Oct 3 2026",
+      "time": "15:00",
+      "venue": "Ottawa Art Gallery",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/dear-lara-film-screening-conversation-with-lara-st-john/"
     },
     {
       "source": "chamberfest",
