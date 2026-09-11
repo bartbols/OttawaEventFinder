@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-10T10:58:35.331Z",
-  "totalEvents": 458,
+  "scrapedAt": "2026-09-11T10:55:42.414Z",
+  "totalEvents": 475,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,116 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Beautiful Scars",
-      "subtitle": "By Tom Wilson and Shaun Smyth",
-      "date": "2026-09-10",
-      "rawDate": "2026-09-10",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "By Tom Wilson and Shaun Smyth",
-      "url": "https://nac-cna.ca/en/event/40384"
-    },
-    {
-      "source": "nac",
-      "title": "Beautiful Scars",
-      "subtitle": "By Tom Wilson and Shaun Smyth",
-      "date": "2026-09-11",
-      "rawDate": "2026-09-11",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "By Tom Wilson and Shaun Smyth",
-      "url": "https://nac-cna.ca/en/event/40384"
-    },
-    {
-      "source": "nac",
-      "title": "Beautiful Scars",
-      "subtitle": "By Tom Wilson and Shaun Smyth",
-      "date": "2026-09-12",
-      "rawDate": "2026-09-12",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "By Tom Wilson and Shaun Smyth",
-      "url": "https://nac-cna.ca/en/event/40384"
-    },
-    {
-      "source": "nac",
-      "title": "Beautiful Scars",
-      "subtitle": "By Tom Wilson and Shaun Smyth",
-      "date": "2026-09-13",
-      "rawDate": "2026-09-13",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "By Tom Wilson and Shaun Smyth",
-      "url": "https://nac-cna.ca/en/event/40384"
-    },
-    {
-      "source": "nac",
-      "title": "Beautiful Scars",
-      "subtitle": "By Tom Wilson and Shaun Smyth",
-      "date": "2026-09-14",
-      "rawDate": "2026-09-14",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "By Tom Wilson and Shaun Smyth",
-      "url": "https://nac-cna.ca/en/event/40384"
-    },
-    {
-      "source": "nac",
-      "title": "Beautiful Scars",
-      "subtitle": "By Tom Wilson and Shaun Smyth",
-      "date": "2026-09-15",
-      "rawDate": "2026-09-15",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "By Tom Wilson and Shaun Smyth",
-      "url": "https://nac-cna.ca/en/event/40384"
-    },
-    {
-      "source": "nac",
-      "title": "Beautiful Scars",
-      "subtitle": "By Tom Wilson and Shaun Smyth",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "By Tom Wilson and Shaun Smyth",
-      "url": "https://nac-cna.ca/en/event/40384"
-    },
-    {
-      "source": "nac",
-      "title": "Beautiful Scars",
-      "subtitle": "By Tom Wilson and Shaun Smyth",
-      "date": "2026-09-17",
-      "rawDate": "2026-09-17",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "By Tom Wilson and Shaun Smyth",
-      "url": "https://nac-cna.ca/en/event/40384"
-    },
-    {
-      "source": "nac",
-      "title": "Beautiful Scars",
-      "subtitle": "By Tom Wilson and Shaun Smyth",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "By Tom Wilson and Shaun Smyth",
-      "url": "https://nac-cna.ca/en/event/40384"
-    },
-    {
-      "source": "nac",
-      "title": "Beautiful Scars",
-      "subtitle": "By Tom Wilson and Shaun Smyth",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "By Tom Wilson and Shaun Smyth",
-      "url": "https://nac-cna.ca/en/event/40384"
-    },
     {
       "source": "nac",
       "title": "Indigenous Art Mini-Market",
@@ -340,6 +230,50 @@
     },
     {
       "source": "nac",
+      "title": "Odāwā Tomorrow: Odāwā Wàbang",
+      "subtitle": null,
+      "date": "2026-09-24",
+      "rawDate": "2026-09-24",
+      "time": "19:00",
+      "venue": "Kipnes Lantern Lanterne Kipnes",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42022"
+    },
+    {
+      "source": "nac",
+      "title": "Odāwā Tomorrow: Odāwā Wàbang",
+      "subtitle": null,
+      "date": "2026-09-25",
+      "rawDate": "2026-09-25",
+      "time": "19:00",
+      "venue": "Kipnes Lantern Lanterne Kipnes",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42022"
+    },
+    {
+      "source": "nac",
+      "title": "Odāwā Tomorrow: Odāwā Wàbang",
+      "subtitle": null,
+      "date": "2026-09-26",
+      "rawDate": "2026-09-26",
+      "time": "19:00",
+      "venue": "Kipnes Lantern Lanterne Kipnes",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42022"
+    },
+    {
+      "source": "nac",
+      "title": "Odāwā Tomorrow: Odāwā Wàbang",
+      "subtitle": null,
+      "date": "2026-09-27",
+      "rawDate": "2026-09-27",
+      "time": "19:00",
+      "venue": "Kipnes Lantern Lanterne Kipnes",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42022"
+    },
+    {
+      "source": "nac",
       "title": "Céleste Lévis",
       "subtitle": "Si elle",
       "date": "2026-09-24",
@@ -348,6 +282,314 @@
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Si elle",
       "url": "https://nac-cna.ca/en/event/41582"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-09-25",
+      "rawDate": "2026-09-25",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-09-26",
+      "rawDate": "2026-09-26",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-09-27",
+      "rawDate": "2026-09-27",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-09-28",
+      "rawDate": "2026-09-28",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-09-29",
+      "rawDate": "2026-09-29",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-09-30",
+      "rawDate": "2026-09-30",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-01",
+      "rawDate": "2026-10-01",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-02",
+      "rawDate": "2026-10-02",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-03",
+      "rawDate": "2026-10-03",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-04",
+      "rawDate": "2026-10-04",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-05",
+      "rawDate": "2026-10-05",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-06",
+      "rawDate": "2026-10-06",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-07",
+      "rawDate": "2026-10-07",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-08",
+      "rawDate": "2026-10-08",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-09",
+      "rawDate": "2026-10-09",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-10",
+      "rawDate": "2026-10-10",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-11",
+      "rawDate": "2026-10-11",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-12",
+      "rawDate": "2026-10-12",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-13",
+      "rawDate": "2026-10-13",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-14",
+      "rawDate": "2026-10-14",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-15",
+      "rawDate": "2026-10-15",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-16",
+      "rawDate": "2026-10-16",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-17",
+      "rawDate": "2026-10-17",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-18",
+      "rawDate": "2026-10-18",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-19",
+      "rawDate": "2026-10-19",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-21",
+      "rawDate": "2026-10-21",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa 200 Biodiversity Tree",
+      "subtitle": null,
+      "date": "2026-10-22",
+      "rawDate": "2026-10-22",
+      "time": "00:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42017"
     },
     {
       "source": "nac",
@@ -879,13 +1121,13 @@
     },
     {
       "source": "nac",
-      "title": "HERITAGE IN MOTION",
-      "subtitle": null,
+      "title": "Heritage in Motion",
+      "subtitle": "Created and Presented by the Ishaka Cultural Group",
       "date": "2026-10-10",
       "rawDate": "2026-10-10",
       "time": "20:00",
       "venue": "Southam Hall Salle Southam",
-      "description": null,
+      "description": "Created and Presented by the Ishaka Cultural Group",
       "url": "https://nac-cna.ca/en/event/42086"
     },
     {
@@ -1440,16 +1682,6 @@
     {
       "source": "redbird",
       "title": "Maria Doyle Kennedy",
-      "date": "2026-09-11",
-      "rawDate": "2026-09-11",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Polymath Maria Doyle Kennedy has sustained a varied and eclectic career in the Arts for more than 3 decades .     \nMaria set up her own record label in 2000 and has released 11 solo albums to date. Ma",
-      "url": "https://www.showpass.com/maria-doyle-kennedy-4/"
-    },
-    {
-      "source": "redbird",
-      "title": "Maria Doyle Kennedy",
       "date": "2026-09-12",
       "rawDate": "2026-09-12",
       "time": "12:00 a.m.",
@@ -1876,26 +2108,6 @@
       "venue": "Red Bird Live",
       "description": "Forget the Nutcracker and Handel's Messiah. For a real taste of seasonal cheer, nothing says joy to the world like Bill Kirchen singing Daddy's Drinkin' Up Our Christmas.  Featured is a sleigh-full of",
       "url": "https://www.showpass.com/bill-kirchens-honky-tonk-holiday/"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-09-08",
-      "rawDate": "Sep 8",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-93xjy"
-    },
-    {
-      "source": "irenes",
-      "title": "Jazz Jam with The Beeched Wailers",
-      "date": "2026-09-09",
-      "rawDate": "Sep 9",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Beeched Wailers",
-      "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-5-dl78w-77rwg"
     },
     {
       "source": "irenes",
@@ -2419,6 +2631,26 @@
     },
     {
       "source": "irenes",
+      "title": "Jazz Jam with The Beeched Wailers",
+      "date": "2026-09-09",
+      "rawDate": "Sep 9",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Beeched Wailers",
+      "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-5-dl78w-77rwg"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-09-08",
+      "rawDate": "Sep 8",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-93xjy"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-09-06",
       "rawDate": "Sep 6",
@@ -2696,26 +2928,6 @@
       "venue": "Irene's Pub",
       "description": "JLyallBand Gaelen & Gabriel Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/jeremy-lyall"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Jamieson Mackay",
-      "date": "2026-08-06",
-      "rawDate": "Aug 6",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666"
-    },
-    {
-      "source": "irenes",
-      "title": "The Prime Rib Big Band",
-      "date": "2026-08-05",
-      "rawDate": "Aug 5",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/r9dz9pm5t8pr7el6sn6ebwl9jrscgk"
     },
     {
       "source": "gctc",
@@ -4375,16 +4587,6 @@
     },
     {
       "source": "bronson",
-      "title": "Talib Kweli",
-      "date": "2026-09-10",
-      "rawDate": "Thursday, Sep 10, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/talib-kweli/"
-    },
-    {
-      "source": "bronson",
       "title": "SUN KIL MOON (FKA/AKA: Mark Kozelek)",
       "date": "2026-09-11",
       "rawDate": "Friday, Sep 11, Doors: 7pm",
@@ -4765,16 +4967,6 @@
     },
     {
       "source": "chamberfest",
-      "title": "“Dear Lara” Film Screening + Conversation with Lara St. John",
-      "date": "2026-10-03",
-      "rawDate": "Oct 3 2026",
-      "time": "15:00",
-      "venue": "Ottawa Art Gallery",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/dear-lara-film-screening-conversation-with-lara-st-john/"
-    },
-    {
-      "source": "chamberfest",
       "title": "Janina Fialkowska Celebrates 75",
       "date": "2026-10-13",
       "rawDate": "Oct 13 2026",
@@ -4782,6 +4974,16 @@
       "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/janina-fialkowska-celebrates-75/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Masterclass: Janina Fialkowska",
+      "date": "2026-10-14",
+      "rawDate": "Oct 14 2026",
+      "time": "13:00",
+      "venue": "Freiman Hall, UOttawa",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/masterclass-janina-fialkowska/"
     },
     {
       "source": "chamberfest",
@@ -4825,26 +5027,6 @@
     },
     {
       "source": "motelchelsea",
-      "title": "JANGUS COMEDY: Battle of the Provinces",
-      "date": "2027-09-04",
-      "rawDate": "SEPTEMBER 04",
-      "time": "20:00",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/friday-september-4-jangus-comedy-battle-of-the-provinces-8-00pm"
-    },
-    {
-      "source": "motelchelsea",
-      "title": "The Grievous Angels",
-      "date": "2027-09-06",
-      "rawDate": "SEPTEMBER 06",
-      "time": "15:30",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/sunday-september-6-the-grievous-angels-3-30pm"
-    },
-    {
-      "source": "motelchelsea",
       "title": "Lazarettes & Ron Hawkins",
       "date": "2026-09-11",
       "rawDate": "SEPTEMBER 11",
@@ -4852,6 +5034,16 @@
       "venue": "Motel Chelsea",
       "description": null,
       "url": "https://www.motelchelsea.com/post/friday-september-11-lazarettes-ron-hawkins-8-00pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "Arthur Coates & Kerran Cotterell",
+      "date": "2026-09-13",
+      "rawDate": "SEPTEMBER 13",
+      "time": "16:30",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/sunday-september-13-arthur-coates-kerran-cotterell-4-30pm"
     }
   ]
 }
