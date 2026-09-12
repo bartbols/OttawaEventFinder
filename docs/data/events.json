@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-11T10:55:42.414Z",
-  "totalEvents": 475,
+  "scrapedAt": "2026-09-12T10:23:20.611Z",
+  "totalEvents": 484,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Indigenous Art Mini-Market",
-      "subtitle": null,
-      "date": "2026-09-11",
-      "rawDate": "2026-09-11",
-      "time": "18:30",
-      "venue": "Fountain Lobby Fontaine-foyer du studio",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42032"
-    },
     {
       "source": "nac",
       "title": "Powwow Life-Drawing",
@@ -741,7 +730,7 @@
       "date": "2026-09-30",
       "rawDate": "2026-09-30",
       "time": "17:30",
-      "venue": "Babs Asper Babs Asper",
+      "venue": "Azrieli Studio Studio Azrieli",
       "description": "With Rose LeMay and Tanya Talaga",
       "url": "https://nac-cna.ca/en/event/41478"
     },
@@ -1670,6 +1659,127 @@
       "url": "https://nac-cna.ca/en/event/41146"
     },
     {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-11",
+      "rawDate": "2026-11-11",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-12",
+      "rawDate": "2026-11-12",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-13",
+      "rawDate": "2026-11-13",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-14",
+      "rawDate": "2026-11-14",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-15",
+      "rawDate": "2026-11-15",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-16",
+      "rawDate": "2026-11-16",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-17",
+      "rawDate": "2026-11-17",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-18",
+      "rawDate": "2026-11-18",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-19",
+      "rawDate": "2026-11-19",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-20",
+      "rawDate": "2026-11-20",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
+      "source": "nac",
+      "title": "The King James Bible Play",
+      "subtitle": "Written by Charlotte Corbeil-Coleman",
+      "date": "2026-11-21",
+      "rawDate": "2026-11-21",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Written by Charlotte Corbeil-Coleman",
+      "url": "https://nac-cna.ca/en/event/40376"
+    },
+    {
       "source": "jazz",
       "title": "Miranda Ceara & The Odd Fellows Orchestra",
       "date": "2027-09-09",
@@ -1678,16 +1788,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36631-Miranda-Ceara-The-Odd-Fellows-Orchestra"
-    },
-    {
-      "source": "redbird",
-      "title": "Maria Doyle Kennedy",
-      "date": "2026-09-12",
-      "rawDate": "2026-09-12",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Polymath Maria Doyle Kennedy has sustained a varied and eclectic career in the Arts for more than 3 decades .     \nMaria set up her own record label in 2000 and has released 11 solo albums to date. Ma",
-      "url": "https://www.showpass.com/maria-doyle-kennedy-3/"
     },
     {
       "source": "redbird",
@@ -2111,16 +2211,6 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Chris Breitner",
-      "date": "2026-09-10",
-      "rawDate": "Sep 10",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-kg326"
-    },
-    {
-      "source": "irenes",
       "title": "Sun Dried Flies with Special Guests Bella Donna & Dom Doyon",
       "date": "2026-09-11",
       "rawDate": "Sep 11",
@@ -2356,7 +2446,7 @@
       "rawDate": "Oct 4",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Rebecca Campbell Russell Levia Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Rebecca Campbell Russell Levia Click here to buy ticketsSell tickets online with Ticket Tailor ‍ ‍Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/bec-rusty"
     },
     {
@@ -2551,12 +2641,12 @@
     },
     {
       "source": "irenes",
-      "title": "Capital Kingdom Drag Brunch",
+      "title": "Capital Kingdom Presents All Ages Drag Brunch - Halloween Edition",
       "date": "2026-10-25",
       "rawDate": "Oct 25",
       "time": "12:00",
       "venue": "Irene's Pub",
-      "description": "Capital Kingdom Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Capital Kingdom Tickets ‍ ‍ Ticket price at the door may be higher than advanced ticket price. Capital Kingdom presents All Ages Drag King Brunch : Halloween Edition Trick or treat, smell my feet, giv",
       "url": "https://irenespub.ca/events/capital-kingdom-drag-brunch-3"
     },
     {
@@ -2628,6 +2718,16 @@
       "venue": "Irene's Pub",
       "description": "The Electric Co. Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/the-electric-co-halloween-party"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Chris Breitner",
+      "date": "2026-09-10",
+      "rawDate": "Sep 10",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-kg326"
     },
     {
       "source": "irenes",
@@ -2918,16 +3018,6 @@
       "venue": "Irene's Pub",
       "description": "Gabriel Comba Good Co. John Fog Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/gabriel-comba-with-special-guests-1"
-    },
-    {
-      "source": "irenes",
-      "title": "JLyallBand with Special Guests Gaelen & Gabriel",
-      "date": "2026-08-07",
-      "rawDate": "Aug 7",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "JLyallBand Gaelen & Gabriel Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/jeremy-lyall"
     },
     {
       "source": "gctc",
@@ -4587,16 +4677,6 @@
     },
     {
       "source": "bronson",
-      "title": "SUN KIL MOON (FKA/AKA: Mark Kozelek)",
-      "date": "2026-09-11",
-      "rawDate": "Friday, Sep 11, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/sun-kil-moon-fka-aka-mark-kozelek/"
-    },
-    {
-      "source": "bronson",
       "title": "HATEBREED: SUMMER SLAUGHTER TOUR 2025",
       "date": "2026-09-12",
       "rawDate": "Saturday, Sep 12, Doors: 4:30pm",
@@ -4967,6 +5047,16 @@
     },
     {
       "source": "chamberfest",
+      "title": "“Dear Lara” Film Screening + Conversation with Lara St. John",
+      "date": "2026-10-03",
+      "rawDate": "Oct 3 2026",
+      "time": null,
+      "venue": "Ottawa Art Gallery",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/dear-lara-film-screening-conversation-with-lara-st-john/"
+    },
+    {
+      "source": "chamberfest",
       "title": "Janina Fialkowska Celebrates 75",
       "date": "2026-10-13",
       "rawDate": "Oct 13 2026",
@@ -4984,6 +5074,16 @@
       "venue": "Freiman Hall, UOttawa",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/masterclass-janina-fialkowska/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "The Phantom of the Opera: Silent Film with Live Soundtrack",
+      "date": "2026-10-25",
+      "rawDate": "Oct 25 2026",
+      "time": null,
+      "venue": "Ottawa Art Gallery",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/the-phantom-of-the-opera-silent-film-with-live-soundtrack/"
     },
     {
       "source": "chamberfest",
@@ -5028,7 +5128,7 @@
     {
       "source": "motelchelsea",
       "title": "Lazarettes & Ron Hawkins",
-      "date": "2026-09-11",
+      "date": "2027-09-11",
       "rawDate": "SEPTEMBER 11",
       "time": "20:00",
       "venue": "Motel Chelsea",
