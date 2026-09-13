@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-12T10:23:20.611Z",
+  "scrapedAt": "2026-09-13T11:24:43.568Z",
   "totalEvents": 484,
   "errors": [
     {
@@ -1780,6 +1780,28 @@
       "url": "https://nac-cna.ca/en/event/40376"
     },
     {
+      "source": "nac",
+      "title": "HYPROV: Improv under Hypnosis",
+      "subtitle": "starring Colin Mochrie and Asad Mecci",
+      "date": "2026-11-12",
+      "rawDate": "2026-11-12",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "starring Colin Mochrie and Asad Mecci",
+      "url": "https://nac-cna.ca/en/event/41216"
+    },
+    {
+      "source": "nac",
+      "title": "Gentiane MG",
+      "subtitle": null,
+      "date": "2026-11-12",
+      "rawDate": "2026-11-12",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41612"
+    },
+    {
       "source": "jazz",
       "title": "Miranda Ceara & The Odd Fellows Orchestra",
       "date": "2027-09-09",
@@ -1788,16 +1810,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36631-Miranda-Ceara-The-Odd-Fellows-Orchestra"
-    },
-    {
-      "source": "redbird",
-      "title": "Eric Kane",
-      "date": "2026-09-13",
-      "rawDate": "2026-09-13",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Emerging from Western Canada with a voice steeped in honesty and conviction, Eric Kane is an artist whose music reflects the deeper currents of the human experience.\nMarked by a natural ability to tra",
-      "url": "https://www.showpass.com/eric-kane/"
     },
     {
       "source": "redbird",
@@ -4674,16 +4686,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "HATEBREED: SUMMER SLAUGHTER TOUR 2025",
-      "date": "2026-09-12",
-      "rawDate": "Saturday, Sep 12, Doors: 4:30pm",
-      "time": "16:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/hatebreed-summer-slaughter-tour-2025/"
     },
     {
       "source": "bronson",
