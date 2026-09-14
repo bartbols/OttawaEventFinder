@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-13T11:24:43.568Z",
-  "totalEvents": 484,
+  "scrapedAt": "2026-09-14T12:17:08.165Z",
+  "totalEvents": 487,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -1800,6 +1800,39 @@
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41612"
+    },
+    {
+      "source": "nac",
+      "title": "Rhino",
+      "subtitle": "Out Innerspace",
+      "date": "2026-11-13",
+      "rawDate": "2026-11-13",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Out Innerspace",
+      "url": "https://nac-cna.ca/en/event/40370"
+    },
+    {
+      "source": "nac",
+      "title": "Rhino",
+      "subtitle": "Out Innerspace",
+      "date": "2026-11-14",
+      "rawDate": "2026-11-14",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Out Innerspace",
+      "url": "https://nac-cna.ca/en/event/40370"
+    },
+    {
+      "source": "nac",
+      "title": "Kelly Bado",
+      "subtitle": null,
+      "date": "2026-11-13",
+      "rawDate": "2026-11-13",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41719"
     },
     {
       "source": "jazz",
@@ -5140,7 +5173,7 @@
     {
       "source": "motelchelsea",
       "title": "Arthur Coates & Kerran Cotterell",
-      "date": "2026-09-13",
+      "date": "2027-09-13",
       "rawDate": "SEPTEMBER 13",
       "time": "16:30",
       "venue": "Motel Chelsea",
