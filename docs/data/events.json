@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-15T11:24:51.079Z",
+  "scrapedAt": "2026-09-16T11:10:36.170Z",
   "totalEvents": 484,
   "errors": [
     {
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Powwow Life-Drawing",
-      "subtitle": null,
-      "date": "2026-09-15",
-      "rawDate": "2026-09-15",
-      "time": "18:00",
-      "venue": "Rossy Pavilion Pavillon Rossy",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41792"
-    },
     {
       "source": "nac",
       "title": "Son of a Preacherman",
@@ -1466,7 +1455,7 @@
       "subtitle": "Explosive, immersive stage experience you can dive straight into",
       "date": "2026-10-31",
       "rawDate": "2026-10-31",
-      "time": "15:00",
+      "time": "11:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "Explosive, immersive stage experience you can dive straight into",
       "url": "https://nac-cna.ca/en/event/40431"
@@ -1477,7 +1466,7 @@
       "subtitle": "Explosive, immersive stage experience you can dive straight into",
       "date": "2026-11-01",
       "rawDate": "2026-11-01",
-      "time": "15:00",
+      "time": "11:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "Explosive, immersive stage experience you can dive straight into",
       "url": "https://nac-cna.ca/en/event/40431"
@@ -1847,23 +1836,13 @@
     },
     {
       "source": "jazz",
-      "title": "Miranda Ceara & The Odd Fellows Orchestra",
-      "date": "2027-09-09",
-      "rawDate": "Wed, Sep 9, 7:00 p.m.",
+      "title": "Joep Beving",
+      "date": "2026-10-17",
+      "rawDate": "Sat, Oct 17, 7:00 p.m.",
       "time": "19:00",
       "venue": "Ottawa Jazz Festival",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/36631-Miranda-Ceara-The-Odd-Fellows-Orchestra"
-    },
-    {
-      "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-09-16",
-      "rawDate": "2026-09-16",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
-      "url": "https://www.showpass.com/open-stage-7-26-09-15-20-7301/"
+      "url": "https://program.ottawajazzfestival.com/item/36647-Joep-Beving"
     },
     {
       "source": "redbird",
@@ -2687,7 +2666,7 @@
     },
     {
       "source": "irenes",
-      "title": "Meet Market - A Dating Show",
+      "title": "Meet Market - A Dating & Variety Show",
       "date": "2026-10-28",
       "rawDate": "Oct 28",
       "time": "20:00",
@@ -4993,6 +4972,16 @@
     },
     {
       "source": "bronson",
+      "title": "Arkells",
+      "date": "2026-11-26",
+      "rawDate": "Thursday, Nov 26, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/arkells/"
+    },
+    {
+      "source": "bronson",
       "title": "STVW – PUNK RAVE – OTTAWA",
       "date": "2026-11-27",
       "rawDate": "Friday, Nov 27, Doors: 9:30pm",
@@ -5070,6 +5059,16 @@
       "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/janina-fialkowska-celebrates-75/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "An Evening with Janina Fialkowska – A Historic Farewell",
+      "date": "2026-10-14",
+      "rawDate": "Oct 14 2026",
+      "time": null,
+      "venue": "Chamberfest",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/an-evening-with-janina-fialkowska-a-historic-farewell/"
     },
     {
       "source": "chamberfest",
