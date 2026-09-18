@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-17T11:20:57.959Z",
-  "totalEvents": 430,
+  "scrapedAt": "2026-09-18T10:52:39.527Z",
+  "totalEvents": 501,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -43,11 +43,22 @@
     },
     {
       "source": "nac",
+      "title": "Céleste Lévis",
+      "subtitle": "Si elle",
+      "date": "2026-09-24",
+      "rawDate": "2026-09-24",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Si elle",
+      "url": "https://nac-cna.ca/en/event/41582"
+    },
+    {
+      "source": "nac",
       "title": "Odāwā Tomorrow: Odāwā Wàbang",
       "subtitle": null,
       "date": "2026-09-24",
       "rawDate": "2026-09-24",
-      "time": "19:00",
+      "time": "20:00",
       "venue": "Kipnes Lantern Lanterne Kipnes",
       "description": null,
       "url": "https://nac-cna.ca/en/event/42022"
@@ -58,7 +69,7 @@
       "subtitle": null,
       "date": "2026-09-25",
       "rawDate": "2026-09-25",
-      "time": "19:00",
+      "time": "20:00",
       "venue": "Kipnes Lantern Lanterne Kipnes",
       "description": null,
       "url": "https://nac-cna.ca/en/event/42022"
@@ -69,7 +80,7 @@
       "subtitle": null,
       "date": "2026-09-26",
       "rawDate": "2026-09-26",
-      "time": "19:00",
+      "time": "20:00",
       "venue": "Kipnes Lantern Lanterne Kipnes",
       "description": null,
       "url": "https://nac-cna.ca/en/event/42022"
@@ -80,21 +91,10 @@
       "subtitle": null,
       "date": "2026-09-27",
       "rawDate": "2026-09-27",
-      "time": "19:00",
+      "time": "20:00",
       "venue": "Kipnes Lantern Lanterne Kipnes",
       "description": null,
       "url": "https://nac-cna.ca/en/event/42022"
-    },
-    {
-      "source": "nac",
-      "title": "Céleste Lévis",
-      "subtitle": "Si elle",
-      "date": "2026-09-24",
-      "rawDate": "2026-09-24",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "Si elle",
-      "url": "https://nac-cna.ca/en/event/41582"
     },
     {
       "source": "nac",
@@ -802,7 +802,7 @@
     },
     {
       "source": "nac",
-      "title": "Beethoven, Britten, Bruch & Kerson Leong",
+      "title": "Beethoven & Kerson Leong",
       "subtitle": "With the NAC Orchestra",
       "date": "2026-10-07",
       "rawDate": "2026-10-07",
@@ -813,7 +813,7 @@
     },
     {
       "source": "nac",
-      "title": "Beethoven, Britten, Bruch & Kerson Leong",
+      "title": "Beethoven & Kerson Leong",
       "subtitle": "With the NAC Orchestra",
       "date": "2026-10-08",
       "rawDate": "2026-10-08",
@@ -978,7 +978,7 @@
     },
     {
       "source": "nac",
-      "title": "Toni Morrison Songs & Mendelssohn's Scottish Symphony",
+      "title": "Toni Morrison Songs & Mendelssohn’s “Scottish” Symphony",
       "subtitle": "feat. Vuvu Mpofu, Roderick Cox, and the NAC Orchestra",
       "date": "2026-10-14",
       "rawDate": "2026-10-14",
@@ -989,7 +989,7 @@
     },
     {
       "source": "nac",
-      "title": "Toni Morrison Songs & Mendelssohn's Scottish Symphony",
+      "title": "Toni Morrison Songs & Mendelssohn’s “Scottish” Symphony",
       "subtitle": "feat. Vuvu Mpofu, Roderick Cox, and the NAC Orchestra",
       "date": "2026-10-15",
       "rawDate": "2026-10-15",
@@ -1670,6 +1670,50 @@
       "url": "https://nac-cna.ca/en/event/41888"
     },
     {
+      "source": "nac",
+      "title": "Brahms X Radiohead",
+      "subtitle": "with the NAC Orchestra",
+      "date": "2026-11-17",
+      "rawDate": "2026-11-17",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40392"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa Jazz Orchestra",
+      "subtitle": "Coltrane 100",
+      "date": "2026-11-17",
+      "rawDate": "2026-11-17",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Coltrane 100",
+      "url": "https://nac-cna.ca/en/event/41709"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa Jazz Orchestra",
+      "subtitle": "Coltrane 100",
+      "date": "2026-11-18",
+      "rawDate": "2026-11-18",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Coltrane 100",
+      "url": "https://nac-cna.ca/en/event/41709"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa Jazz Orchestra",
+      "subtitle": "Coltrane 100",
+      "date": "2026-11-19",
+      "rawDate": "2026-11-19",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Coltrane 100",
+      "url": "https://nac-cna.ca/en/event/41709"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -1678,16 +1722,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36647-Joep-Beving"
-    },
-    {
-      "source": "redbird",
-      "title": "Harry Manx",
-      "date": "2026-09-18",
-      "rawDate": "2026-09-18",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nHarry Manx has spent years fusing eastern musical traditions with the blues, switching effortlessly between conventional guitars, harmonica, and banjo and the decidedly different Mohan veena, a 20-st",
-      "url": "https://www.showpass.com/harry-manx-9/"
     },
     {
       "source": "redbird",
@@ -1801,6 +1835,26 @@
     },
     {
       "source": "redbird",
+      "title": "Bluegrass Wednesdays ft.County Road 44",
+      "date": "2026-10-07",
+      "rawDate": "2026-10-07",
+      "time": "11:30 p.m.",
+      "venue": "Red Bird Live",
+      "description": "Each month Bluegrass Wednesdays begins with a 2 hour concert followed by a jam session.\nAlways a good time - always a good crowd!\n \n \nIt's been a while, but we're pleased to announce that our featured",
+      "url": "https://www.showpass.com/bluegrass-wednesdays-ftcounty-road-44/"
+    },
+    {
+      "source": "redbird",
+      "title": "Bluegrass Wednesdays ft.County Road 44",
+      "date": "2026-10-08",
+      "rawDate": "2026-10-08",
+      "time": "11:30 p.m.",
+      "venue": "Red Bird Live",
+      "description": "Each month Bluegrass Wednesdays begins with a 2 hour concert followed by a jam session.\nAlways a good time - always a good crowd!\n \n \nIt's been a while, but we're pleased to announce that our featured",
+      "url": "https://www.showpass.com/bluegrass-wednesdays-ftcounty-road-44/"
+    },
+    {
+      "source": "redbird",
       "title": "Ray Bonneville",
       "date": "2026-10-09",
       "rawDate": "2026-10-09",
@@ -1891,6 +1945,16 @@
     },
     {
       "source": "redbird",
+      "title": "Celtic Celebration Special - Fundraiser for the Gatineau Hills Fiddle Festival",
+      "date": "2026-10-22",
+      "rawDate": "2026-10-22",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Join us for an evening of Celtic Music played by some of the best in the region. There will be a concert from 8pm to 10pm, with a jam to follow, so bring your instruments and get in on the fun.\nPerfor",
+      "url": "https://www.showpass.com/celtic-celebration-special-fundraiser-for-the-gatineau-hills-fiddle-festival/"
+    },
+    {
+      "source": "redbird",
       "title": "Tina Dico",
       "date": "2026-10-23",
       "rawDate": "2026-10-23",
@@ -1968,6 +2032,16 @@
       "venue": "Red Bird Live",
       "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
       "url": "https://www.showpass.com/open-stage-7-26-11-03-20-9542/"
+    },
+    {
+      "source": "redbird",
+      "title": "Bluegrass Wednesdays ft. Maple Hill",
+      "date": "2026-11-05",
+      "rawDate": "2026-11-05",
+      "time": "12:30 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Each month Bluegrass Wednesdays begins with a 2 hour concert followed by a jam session.\nAlways a good time - always a good crowd!\nMaple Hill is an award winning bluegrass band that brings energy, emot",
+      "url": "https://www.showpass.com/bluegrass-wednesdays-ft-maple-hill/"
     },
     {
       "source": "redbird",
@@ -2051,6 +2125,16 @@
     },
     {
       "source": "redbird",
+      "title": "Horsebath",
+      "date": "2026-11-22",
+      "rawDate": "2026-11-22",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "HORSEBATH are a Canadian Americana and folk-rock band with shades of psychedelia, rich harmonies and the loose, instinctive interplay of a band that has spent a lot of time playing together. Since rel",
+      "url": "https://www.showpass.com/horsebath/"
+    },
+    {
+      "source": "redbird",
       "title": "Boreal",
       "date": "2026-12-04",
       "rawDate": "2026-12-04",
@@ -2086,7 +2170,7 @@
       "rawDate": "Sep 18",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Loch Nisse Monster Gasper Austin Camp Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price. Loch Nisse Monster is an Ottawa",
+      "description": "Loch Nisse Monster Gasper Austin Camp Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admissio",
       "url": "https://irenespub.ca/events/loch-nisse-monster-gasper-austin-camp"
     },
     {
@@ -2106,7 +2190,7 @@
       "rawDate": "Sep 20",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "I Spell It Nature Modern Dinosaurs Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "I Spell It Nature Modern Dinosaurs Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. ",
       "url": "https://irenespub.ca/events/i-spell-it-nature-with-sg"
     },
     {
@@ -2136,7 +2220,7 @@
       "rawDate": "Sep 23",
       "time": "18:00",
       "venue": "Irene's Pub",
-      "description": "Tipsy Scholars Sold Out",
+      "description": "Tipsy Scholars Sold Out Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is ",
       "url": "https://irenespub.ca/events/tipsy-scholars"
     },
     {
@@ -2166,7 +2250,7 @@
       "rawDate": "Sep 25",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Mecca of Stank Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Mecca of Stank Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guara",
       "url": "https://irenespub.ca/events/mecca-of-stank-with-sg"
     },
     {
@@ -2176,7 +2260,7 @@
       "rawDate": "Sep 26",
       "time": "18:00",
       "venue": "Irene's Pub",
-      "description": "Liam Lloyd Michel Delage",
+      "description": "Liam Lloyd Michel Delage Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is",
       "url": "https://irenespub.ca/events/liam-lloyd"
     },
     {
@@ -2216,7 +2300,7 @@
       "rawDate": "Sep 30",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Small Fish Show Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Small Fish Show Tickets Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is ",
       "url": "https://irenespub.ca/events/gm573gxgs3lxmgj47dxakg6nkjc5rd"
     },
     {
@@ -2236,7 +2320,7 @@
       "rawDate": "Oct 2",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price. The Berns:The Berns are an Ottawa-ba",
+      "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Se",
       "url": "https://irenespub.ca/events/run-coyote-with-special-guests-the-berns-leeny-jones"
     },
     {
@@ -2246,7 +2330,7 @@
       "rawDate": "Oct 3",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Kaiday Isaac Baronikian Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Kaiday Isaac Baronikian Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is ",
       "url": "https://irenespub.ca/events/kaede-ep-release-with-special-guests"
     },
     {
@@ -2256,7 +2340,7 @@
       "rawDate": "Oct 4",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Rebecca Campbell Russell Levia Click here to buy ticketsSell tickets online with Ticket Tailor ‍ ‍Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Rebecca Campbell Russell Levia Click here to buy ticketsSell tickets online with Ticket Tailor ‍ ‍Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. S",
       "url": "https://irenespub.ca/events/bec-rusty"
     },
     {
@@ -2286,7 +2370,7 @@
       "rawDate": "Oct 7",
       "time": "20:30",
       "venue": "Irene's Pub",
-      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is n",
       "url": "https://irenespub.ca/events/dwyaz5e8e73gagray63ad6zwkcnc6h"
     },
     {
@@ -2294,7 +2378,7 @@
       "title": "Irene's Thursday Blues Sessions with Guest Host Scott Amey",
       "date": "2026-10-08",
       "rawDate": "Oct 8",
-      "time": null,
+      "time": "20:00",
       "venue": "Irene's Pub",
       "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-p2zma"
@@ -2304,9 +2388,9 @@
       "title": "The Haylofters with Special Guest Andrew Jones",
       "date": "2026-10-09",
       "rawDate": "Oct 9",
-      "time": null,
+      "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Haylofters Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "The Haylofters Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guara",
       "url": "https://irenespub.ca/events/tba-4"
     },
     {
@@ -2316,7 +2400,7 @@
       "rawDate": "Oct 10",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Mama Mush Talia Aoude Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Mama Mush Talia Aoude Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is no",
       "url": "https://irenespub.ca/events/mama-mush-with-special-guests"
     },
     {
@@ -2366,7 +2450,7 @@
       "rawDate": "Oct 16",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Social Distance Apollo Envy Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "The Social Distance Apollo Envy Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Sea",
       "url": "https://irenespub.ca/events/the-social-distance"
     },
     {
@@ -2376,7 +2460,7 @@
       "rawDate": "Oct 17",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please c",
       "url": "https://irenespub.ca/events/blues-harmonica-showcase"
     },
     {
@@ -2386,7 +2470,7 @@
       "rawDate": "Oct 18",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Keith Glass Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Keith Glass Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarante",
       "url": "https://irenespub.ca/events/keith-glass-band-matine"
     },
     {
@@ -2416,7 +2500,7 @@
       "rawDate": "Oct 21",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Ian Tamblyn Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Ian Tamblyn Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarante",
       "url": "https://irenespub.ca/events/ian-tamblyn-1"
     },
     {
@@ -2436,7 +2520,7 @@
       "rawDate": "Oct 23",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarant",
       "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-any-winehouse"
     },
     {
@@ -2446,7 +2530,7 @@
       "rawDate": "Oct 24",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Renée Landry Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarant",
       "url": "https://irenespub.ca/events/rene-landry-the-cool-presents-back-to-black-a-tribute-to-amy-winehouse-1"
     },
     {
@@ -2486,7 +2570,7 @@
       "rawDate": "Oct 28",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Meat Market Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Meat Market Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ after 9 ",
       "url": "https://irenespub.ca/events/cdgjrrox6zcphnahcf6ct55ik4gk6j"
     },
     {
@@ -2516,7 +2600,7 @@
       "rawDate": "Oct 30",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Revenant Dan Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "Revenant Dan Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarant",
       "url": "https://irenespub.ca/events/revenant-dan-the-murder-crowa"
     },
     {
@@ -2526,8 +2610,258 @@
       "rawDate": "Oct 31",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Electric Co. Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
+      "description": "The Electric Co. Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not gua",
       "url": "https://irenespub.ca/events/the-electric-co-halloween-party"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-11-01",
+      "rawDate": "Nov 1",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-ka4wx"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-11-03",
+      "rawDate": "Nov 3",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-9d5bg"
+    },
+    {
+      "source": "irenes",
+      "title": "The Prime Rib Big Band",
+      "date": "2026-11-04",
+      "rawDate": "Nov 4",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is n",
+      "url": "https://irenespub.ca/events/dwyaz5e8e73gagray63ad6zwkcnc6h-29ybw"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "date": "2026-11-05",
+      "rawDate": "Nov 5",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw-9ns6w"
+    },
+    {
+      "source": "irenes",
+      "title": "Psychedelic Sundaes",
+      "date": "2026-11-06",
+      "rawDate": "Nov 6",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Psychedelic Sundaes Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not ",
+      "url": "https://irenespub.ca/events/psychedelic-sundaes"
+    },
+    {
+      "source": "irenes",
+      "title": "Tony D Band",
+      "date": "2026-11-07",
+      "rawDate": "Nov 7",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Tony D Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. P",
+      "url": "https://irenespub.ca/events/tony-d-band"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-11-08",
+      "rawDate": "Nov 8",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-kp8f3"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-11-10",
+      "rawDate": "Nov 10",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-ejlzr"
+    },
+    {
+      "source": "irenes",
+      "title": "Jazz Jam with The Beeched Wailers",
+      "date": "2026-11-11",
+      "rawDate": "Nov 11",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "The Beeched Wailers",
+      "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-5-dl78w-77rwg-kp2g5-9t652"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "date": "2026-11-12",
+      "rawDate": "Nov 12",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw-9ns6w-cpbp4"
+    },
+    {
+      "source": "irenes",
+      "title": "TBA",
+      "date": "2026-11-13",
+      "rawDate": "Nov 13",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/5j38bps53ed8n8ml9bdy4lp3n5jty8"
+    },
+    {
+      "source": "irenes",
+      "title": "Push Come Shove - Single Release with S/G Probabilities",
+      "date": "2026-11-14",
+      "rawDate": "Nov 14",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Push Come Shove Probabilities Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seati",
+      "url": "https://irenespub.ca/events/push-come-shove-single-release-with-sg-probabilities"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-11-15",
+      "rawDate": "Nov 15",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-2wjzn"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-11-17",
+      "rawDate": "Nov 17",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-rldw7"
+    },
+    {
+      "source": "irenes",
+      "title": "Tipsy Scholars",
+      "date": "2026-11-18",
+      "rawDate": "Nov 18",
+      "time": "18:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/tipsy-scholars-1"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "date": "2026-11-19",
+      "rawDate": "Nov 19",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw-9ns6w-fztx6"
+    },
+    {
+      "source": "irenes",
+      "title": "Gizmo with Special Guests",
+      "date": "2026-11-20",
+      "rawDate": "Nov 20",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Gizmo Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ after 9 PM",
+      "url": "https://irenespub.ca/events/gizmo-with-special-guests"
+    },
+    {
+      "source": "irenes",
+      "title": "The Big Train Wreck with S/G KJ & The Strayways",
+      "date": "2026-11-21",
+      "rawDate": "Nov 21",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Big Train Wreck KJ & The Strayways Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good s",
+      "url": "https://irenespub.ca/events/the-big-train-wreck-with-sg-kj-the-strayways"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-11-22",
+      "rawDate": "Nov 22",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-ek8ja"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-11-24",
+      "rawDate": "Nov 24",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-279px"
+    },
+    {
+      "source": "irenes",
+      "title": "TBA",
+      "date": "2026-11-25",
+      "rawDate": "Nov 25",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/hzt7l99dx9c7t4msj26gbc2yz6x7zy"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "date": "2026-11-26",
+      "rawDate": "Nov 26",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw-9ns6w-fly36"
+    },
+    {
+      "source": "irenes",
+      "title": "Movember Fundraiser",
+      "date": "2026-11-27",
+      "rawDate": "Nov 27",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ after 9 PM",
+      "url": "https://irenespub.ca/events/movember-fundraiser"
+    },
+    {
+      "source": "irenes",
+      "title": "Atlantis Jazz Ensemble",
+      "date": "2026-11-28",
+      "rawDate": "Nov 28",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Atlantis Jazz Ensemble Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is n",
+      "url": "https://irenespub.ca/events/atlantis-jazz-ensemble-2"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-11-29",
+      "rawDate": "Nov 29",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga"
     },
     {
       "source": "irenes",
@@ -4484,6 +4818,386 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
+    },
+    {
+      "source": "bronson",
+      "title": "ERRA",
+      "date": "2026-09-22",
+      "rawDate": "Tuesday, Sep 22, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/erra/"
+    },
+    {
+      "source": "bronson",
+      "title": "Hannibal Buress",
+      "date": "2026-09-24",
+      "rawDate": "Thursday, Sep 24, Doors: 12am",
+      "time": "00:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/hannibal-buress/"
+    },
+    {
+      "source": "bronson",
+      "title": "Daniel Lanois",
+      "date": "2026-09-27",
+      "rawDate": "Sunday, Sep 27, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/daniel-lanois-deux-voix-une-capitale/"
+    },
+    {
+      "source": "bronson",
+      "title": "Ya Levis",
+      "date": "2026-10-02",
+      "rawDate": "Friday, Oct 2, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/ya-levis/"
+    },
+    {
+      "source": "bronson",
+      "title": "Ricky Kej ~ Celebrating GANDHI through Music",
+      "date": "2026-10-04",
+      "rawDate": "Sunday, Oct 4, Doors: 5pm",
+      "time": "17:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/ricky-kej-celebrating-gandhi-through-music/"
+    },
+    {
+      "source": "bronson",
+      "title": "Danny Bhoy – Night 3",
+      "date": "2026-10-06",
+      "rawDate": "Tuesday, Oct 6, Doors: 7:30pm",
+      "time": "19:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-3/"
+    },
+    {
+      "source": "bronson",
+      "title": "Danny Bhoy – Night 1",
+      "date": "2026-10-07",
+      "rawDate": "Wednesday, Oct 7, Doors: 7:30pm",
+      "time": "19:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-1/"
+    },
+    {
+      "source": "bronson",
+      "title": "Danny Bhoy – Night 2",
+      "date": "2026-10-08",
+      "rawDate": "Thursday, Oct 8, Doors: 7:30pm",
+      "time": "19:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "DESPISED ICON",
+      "date": "2026-10-10",
+      "rawDate": "Saturday, Oct 10, Doors: 5:30pm",
+      "time": "17:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/despised-icon-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "Buffalo Traffic Jam – SOLD OUT",
+      "date": "2026-10-12",
+      "rawDate": "Monday, Oct 12, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/buffalo-traffic-jam/"
+    },
+    {
+      "source": "bronson",
+      "title": "cleopatrick",
+      "date": "2026-10-15",
+      "rawDate": "Thursday, Oct 15, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/cleopatrick/"
+    },
+    {
+      "source": "bronson",
+      "title": "Bob The Drag Queen – Early Show",
+      "date": "2026-10-16",
+      "rawDate": "Friday, Oct 16, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/now-clap-bob-the-drag-queens-on-tour/"
+    },
+    {
+      "source": "bronson",
+      "title": "Bob The Drag Queen – Late Show added !",
+      "date": "2026-10-16",
+      "rawDate": "Friday, Oct 16, Doors: 9pm",
+      "time": "21:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/bob-the-drag-queen-late-show-added/"
+    },
+    {
+      "source": "bronson",
+      "title": "Joep Beving",
+      "date": "2026-10-17",
+      "rawDate": "Saturday, Oct 17, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/joep-beving/"
+    },
+    {
+      "source": "bronson",
+      "title": "Jonathan Van Ness",
+      "date": "2026-10-22",
+      "rawDate": "Thursday, Oct 22, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jonathan-van-ness/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Mahones",
+      "date": "2026-10-23",
+      "rawDate": "Friday, Oct 23, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-mahones/"
+    },
+    {
+      "source": "bronson",
+      "title": "BOOTS ‘N BEATS",
+      "date": "2026-10-24",
+      "rawDate": "Saturday, Oct 24, Doors: 8pm",
+      "time": "20:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/boots-n-beats/"
+    },
+    {
+      "source": "bronson",
+      "title": "Waylon Wyatt",
+      "date": "2026-10-26",
+      "rawDate": "Monday, Oct 26, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/waylon-wyatt/"
+    },
+    {
+      "source": "bronson",
+      "title": "CBC Radio’s The Debaters",
+      "date": "2026-10-27",
+      "rawDate": "Tuesday, Oct 27, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/cbc-radios-the-debaters/"
+    },
+    {
+      "source": "bronson",
+      "title": "CBC Radio’s The Debaters",
+      "date": "2026-10-28",
+      "rawDate": "Wednesday, Oct 28, Doors: 6pm",
+      "time": "18:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/cbc-radios-the-debaters-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "Tyler Braden",
+      "date": "2026-10-30",
+      "rawDate": "Friday, Oct 30, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/tyler-braden/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Wrecks",
+      "date": "2026-11-01",
+      "rawDate": "Sunday, Nov 1, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-wrecks/"
+    },
+    {
+      "source": "bronson",
+      "title": "AMBLE – SOLD OUT",
+      "date": "2026-11-03",
+      "rawDate": "Tuesday, Nov 3, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/amble/"
+    },
+    {
+      "source": "bronson",
+      "title": "Econoline Crush",
+      "date": "2026-11-06",
+      "rawDate": "Friday, Nov 6, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/econoline-crush/"
+    },
+    {
+      "source": "bronson",
+      "title": "DZIDZIO",
+      "date": "2026-11-12",
+      "rawDate": "Thursday, Nov 12, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/dzidzio/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Record Company",
+      "date": "2026-11-13",
+      "rawDate": "Friday, Nov 13, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-record-company/"
+    },
+    {
+      "source": "bronson",
+      "title": "Matt Hansen",
+      "date": "2026-11-14",
+      "rawDate": "Saturday, Nov 14, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/matt-hansen/"
+    },
+    {
+      "source": "bronson",
+      "title": "Ottawa Outdoor Film Festival",
+      "date": "2026-11-15",
+      "rawDate": "Sunday, Nov 15, Doors: 5pm",
+      "time": "17:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/ottawa-outdoor-film-festival/"
+    },
+    {
+      "source": "bronson",
+      "title": "MODI",
+      "date": "2026-11-19",
+      "rawDate": "Thursday, Nov 19, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/modi/"
+    },
+    {
+      "source": "bronson",
+      "title": "Protest The Hero",
+      "date": "2026-11-20",
+      "rawDate": "Friday, Nov 20, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/protest-the-hero-3/"
+    },
+    {
+      "source": "bronson",
+      "title": "Akaash Singh",
+      "date": "2026-11-21",
+      "rawDate": "Saturday, Nov 21, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/akaash-singh/"
+    },
+    {
+      "source": "bronson",
+      "title": "Arkells",
+      "date": "2026-11-26",
+      "rawDate": "Thursday, Nov 26, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/arkells/"
+    },
+    {
+      "source": "bronson",
+      "title": "STVW – PUNK RAVE – OTTAWA",
+      "date": "2026-11-27",
+      "rawDate": "Friday, Nov 27, Doors: 9:30pm",
+      "time": "21:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/stvw-punk-rave-ottawa/"
+    },
+    {
+      "source": "bronson",
+      "title": "A Skydiggers Christmas",
+      "date": "2026-12-05",
+      "rawDate": "Saturday, Dec 5, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/a-skydiggers-christmas/"
+    },
+    {
+      "source": "bronson",
+      "title": "THE BOUNCING SOULS with The Suicide Machines",
+      "date": "2026-12-06",
+      "rawDate": "Sunday, Dec 6, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-bouncing-souls-with-the-suicide-machines/"
+    },
+    {
+      "source": "bronson",
+      "title": "DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS ~ NEW DATE ~",
+      "date": "2026-12-12",
+      "rawDate": "Saturday, Dec 12, Doors: 8pm",
+      "time": "20:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks-new-date/"
+    },
+    {
+      "source": "bronson",
+      "title": "TroyBoi",
+      "date": "2026-12-17",
+      "rawDate": "Thursday, Dec 17, Doors: 9pm",
+      "time": "21:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
+    },
+    {
+      "source": "bronson",
+      "title": "The Mary Wallopers",
+      "date": "2027-03-10",
+      "rawDate": "Wednesday, Mar 10, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/the-mary-wallopers/"
     },
     {
       "source": "chamberfest",
