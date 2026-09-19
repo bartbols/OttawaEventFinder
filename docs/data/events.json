@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-18T10:52:39.527Z",
-  "totalEvents": 501,
+  "scrapedAt": "2026-09-19T10:35:50.751Z",
+  "totalEvents": 513,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -491,6 +491,28 @@
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Oná Ensemble, João Lenhari, and Adis Rodriguez",
       "url": "https://nac-cna.ca/en/event/41964"
+    },
+    {
+      "source": "nac",
+      "title": "Rise Ashen and Iron Cabaret",
+      "subtitle": null,
+      "date": "2026-09-26",
+      "rawDate": "2026-09-26",
+      "time": "21:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42150"
+    },
+    {
+      "source": "nac",
+      "title": "Rise Ashen and Iron Cabaret",
+      "subtitle": null,
+      "date": "2026-09-27",
+      "rawDate": "2026-09-27",
+      "time": "21:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42150"
     },
     {
       "source": "nac",
@@ -1286,6 +1308,17 @@
     },
     {
       "source": "nac",
+      "title": "The Cabaret of Death",
+      "subtitle": "Performed by the Ballet Mexicain du Montreal",
+      "date": "2026-10-30",
+      "rawDate": "2026-10-30",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Performed by the Ballet Mexicain du Montreal",
+      "url": "https://nac-cna.ca/en/event/42151"
+    },
+    {
+      "source": "nac",
       "title": "À poils",
       "subtitle": "Explosive, immersive stage experience you can dive straight into",
       "date": "2026-10-31",
@@ -1714,6 +1747,17 @@
       "url": "https://nac-cna.ca/en/event/41709"
     },
     {
+      "source": "nac",
+      "title": "Echoes of the Opera",
+      "subtitle": "Great Performers Series / Ensemble Studio of the Canadian Opera Company",
+      "date": "2026-11-18",
+      "rawDate": "2026-11-18",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Great Performers Series / Ensemble Studio of the Canadian Opera Company",
+      "url": "https://nac-cna.ca/en/event/40674"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -1722,16 +1766,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36647-Joep-Beving"
-    },
-    {
-      "source": "redbird",
-      "title": "Joe McLeod with The Public Service Duo",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Joe McLeod is a Canadian songwriter and multi-instrumentalist whose work is defined by emotional clarity, patience, and craft. His songs move easily between intimate reflection and open-hearted, melod",
-      "url": "https://www.showpass.com/joe-mcleod-with-the-public-service-duo/"
     },
     {
       "source": "redbird",
@@ -2145,6 +2179,16 @@
     },
     {
       "source": "redbird",
+      "title": "Boreal - Songs for the Snowy Season",
+      "date": "2026-12-04",
+      "rawDate": "2026-12-04",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nBoreal is a powerhouse trio of Canadian singer-songwriters—Tannis Slimmon, Katherine Wheatley and Angie Nussey—blending distinct voices and styles. From beautiful and delicate to powerful and uplifti",
+      "url": "https://www.showpass.com/boreal-songs-for-the-snowy-season/"
+    },
+    {
+      "source": "redbird",
       "title": "Bill Kirchen's Honky Tonk Holiday",
       "date": "2026-12-05",
       "rawDate": "2026-12-05",
@@ -2154,14 +2198,94 @@
       "url": "https://www.showpass.com/bill-kirchens-honky-tonk-holiday/"
     },
     {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Leslie Rohonczy",
-      "date": "2026-09-17",
-      "rawDate": "Sep 17",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-4hlze"
+      "source": "redbird",
+      "title": "David Francey",
+      "date": "2026-12-06",
+      "rawDate": "2026-12-06",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "David Francey is a Scottish-born Canadian carpenter-turned-songwriter, who has become known as “one of Canada’s most revered folk poets and singers” (Toronto Star). Born in Ayrshire, Scotland to paren",
+      "url": "https://www.showpass.com/david-francey-6/"
+    },
+    {
+      "source": "redbird",
+      "title": "The Barrel Boys Bluegrass Christmas",
+      "date": "2026-12-12",
+      "rawDate": "2026-12-12",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nCelebrate the holiday season at Red Bird with The Barrel Boys' Bluegrass Christmas show, featuring treasured melodies and heartwarming harmonies that bring a delightful blend of folk, bluegrass, and ",
+      "url": "https://www.showpass.com/the-barrel-boys-bluegrass-christmas/"
+    },
+    {
+      "source": "redbird",
+      "title": "Maggie's Wake - Spirit of the Season",
+      "date": "2026-12-14",
+      "rawDate": "2026-12-14",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Let Maggie’s Wake lead you into the heart of the season with their Spirit of the Season Concert.\nFeaturing songs from their Holiday EP, Close to Home, the show trades tinsel for togetherness and celeb",
+      "url": "https://www.showpass.com/maggies-wake-spirit-of-the-season/"
+    },
+    {
+      "source": "redbird",
+      "title": "OttaWassail",
+      "date": "2026-12-19",
+      "rawDate": "2026-12-19",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "OttaWassail! A celebration of the season.\nIan Robb, Ann Downey and Shelley Posen are joined by Ian’s JIIG bandmates, James Stephens, Ian Clark and Greg Brown, for an evening of traditional carols and ",
+      "url": "https://www.showpass.com/ottawassail-9/"
+    },
+    {
+      "source": "redbird",
+      "title": "OttaWassail",
+      "date": "2026-12-20",
+      "rawDate": "2026-12-20",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "OttaWassail! A celebration of the season.\nIan Robb, Ann Downey and Shelley Posen are joined by Ian’s JIIG bandmates, James Stephens, Ian Clark and Greg Brown, for an evening of traditional carols and ",
+      "url": "https://www.showpass.com/ottawassail-10/"
+    },
+    {
+      "source": "redbird",
+      "title": "OttaWassail",
+      "date": "2026-12-21",
+      "rawDate": "2026-12-21",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "OttaWassail! A celebration of the season.\nIan Robb, Ann Downey and Shelley Posen are joined by Ian’s JIIG bandmates, James Stephens, Ian Clark and Greg Brown, for an evening of traditional carols and ",
+      "url": "https://www.showpass.com/ottawassail-11/"
+    },
+    {
+      "source": "redbird",
+      "title": "Hey Buster!",
+      "date": "2026-12-27",
+      "rawDate": "2026-12-27",
+      "time": "4:00 p.m.",
+      "venue": "Red Bird Live",
+      "description": "Hey Buster is a Kindie band led by Singer-Songwriter Dads from Ottawa ( Slo' Tom and Sherwood Lumsden)  that features a larger-than-life Raccoon puppet called Buster. They perform original songs from ",
+      "url": "https://www.showpass.com/hey-buster-3/"
+    },
+    {
+      "source": "redbird",
+      "title": "Hey Buster!",
+      "date": "2026-12-27",
+      "rawDate": "2026-12-27",
+      "time": "7:00 p.m.",
+      "venue": "Red Bird Live",
+      "description": "Hey Buster is a Kindie band led by Singer-Songwriter Dads from Ottawa ( Slo' Tom and Sherwood Lumsden)  that features a larger-than-life Raccoon puppet called Buster. They perform original songs from ",
+      "url": "https://www.showpass.com/hey-buster-4/"
+    },
+    {
+      "source": "redbird",
+      "title": "Jeremy Fisher's Holiday Fam Jam",
+      "date": "2026-12-30",
+      "rawDate": "2026-12-30",
+      "time": "4:00 p.m.",
+      "venue": "Red Bird Live",
+      "description": "\nCelebrate the season with JUNO-nominated singer-songwriter Jeremy Fisher at a special Holiday Fam Jam at Red Bird!\nOne of Canada’s most engaging songwriters and performers, Jeremy has spent more than",
+      "url": "https://www.showpass.com/jeremy-fishers-holiday-fam-jam/"
     },
     {
       "source": "irenes",
@@ -2865,6 +2989,16 @@
     },
     {
       "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Leslie Rohonczy",
+      "date": "2026-09-17",
+      "rawDate": "Sep 17",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-4hlze"
+    },
+    {
+      "source": "irenes",
       "title": "Trivia Tuesday",
       "date": "2026-09-15",
       "rawDate": "Sep 15",
@@ -3152,16 +3286,6 @@
       "venue": "Irene's Pub",
       "description": "Jesse Greene Jay Bleus Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/jesse-greene-with-special-guest-jay-bleus"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Gerri Trimble",
-      "date": "2026-08-13",
-      "rawDate": "Aug 13",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-h8l26"
     },
     {
       "source": "gctc",
