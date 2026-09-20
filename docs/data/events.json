@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-19T10:35:50.751Z",
-  "totalEvents": 513,
+  "scrapedAt": "2026-09-20T10:59:23.294Z",
+  "totalEvents": 509,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "True Mountain Laurel: Haley Blais & Sam Lynch",
-      "subtitle": "with Lia Pappas-Kemps",
-      "date": "2026-09-19",
-      "rawDate": "2026-09-19",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "with Lia Pappas-Kemps",
-      "url": "https://nac-cna.ca/en/event/41853"
-    },
     {
       "source": "nac",
       "title": "David Suzuki’s Playlist",
@@ -2289,26 +2278,6 @@
     },
     {
       "source": "irenes",
-      "title": "Loch Nisse Monster with S/G Gasper & Austin Camp",
-      "date": "2026-09-18",
-      "rawDate": "Sep 18",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Loch Nisse Monster Gasper Austin Camp Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admissio",
-      "url": "https://irenespub.ca/events/loch-nisse-monster-gasper-austin-camp"
-    },
-    {
-      "source": "irenes",
-      "title": "Funk Nite with Smelloship",
-      "date": "2026-09-19",
-      "rawDate": "Sep 19",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Smelloship Smelloship is a 6-piece instromonstrosity from Ottawa and Gatineau, Canada. Channeling 70s funk, soul, and southern rock, Smelloship rides a starfield where vintage tone and second-line swa",
-      "url": "https://irenespub.ca/events/smelloship-2"
-    },
-    {
-      "source": "irenes",
       "title": "I Spell It Nature with S/G Modern Dinosaurs - Matinée",
       "date": "2026-09-20",
       "rawDate": "Sep 20",
@@ -2989,6 +2958,26 @@
     },
     {
       "source": "irenes",
+      "title": "Funk Nite with Smelloship",
+      "date": "2026-09-19",
+      "rawDate": "Sep 19",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Smelloship Smelloship is a 6-piece instromonstrosity from Ottawa and Gatineau, Canada. Channeling 70s funk, soul, and southern rock, Smelloship rides a starfield where vintage tone and second-line swa",
+      "url": "https://irenespub.ca/events/smelloship-2"
+    },
+    {
+      "source": "irenes",
+      "title": "Loch Nisse Monster with S/G Gasper & Austin Camp",
+      "date": "2026-09-18",
+      "rawDate": "Sep 18",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Loch Nisse Monster Gasper Austin Camp Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admissio",
+      "url": "https://irenespub.ca/events/loch-nisse-monster-gasper-austin-camp"
+    },
+    {
+      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Leslie Rohonczy",
       "date": "2026-09-17",
       "rawDate": "Sep 17",
@@ -3266,26 +3255,6 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-87aw7"
-    },
-    {
-      "source": "irenes",
-      "title": "Lives Like Skyscrapers with Special Guests Third Rail Transmission & Paul Anthony",
-      "date": "2026-08-15",
-      "rawDate": "Aug 15",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Lives Like Skyscrapers Third Rail Transmission Paul Anthony Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/third-rail-transmission"
-    },
-    {
-      "source": "irenes",
-      "title": "Greene & Bleus - Jesse Greene and Jay Bleus",
-      "date": "2026-08-14",
-      "rawDate": "Aug 14",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Jesse Greene Jay Bleus Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/jesse-greene-with-special-guest-jay-bleus"
     },
     {
       "source": "gctc",
@@ -5255,7 +5224,7 @@
     },
     {
       "source": "bronson",
-      "title": "Arkells",
+      "title": "Arkells – SOLD OUT",
       "date": "2026-11-26",
       "rawDate": "Thursday, Nov 26, Doors: 7pm",
       "time": "19:00",
@@ -5415,23 +5384,13 @@
     },
     {
       "source": "motelchelsea",
-      "title": "Lazarettes & Ron Hawkins",
-      "date": "2027-09-11",
-      "rawDate": "SEPTEMBER 11",
-      "time": "20:00",
+      "title": "Vancamp & Vicki Brittle",
+      "date": "2026-09-27",
+      "rawDate": "SEPTEMBER 27",
+      "time": "04:30",
       "venue": "Motel Chelsea",
       "description": null,
-      "url": "https://www.motelchelsea.com/post/friday-september-11-lazarettes-ron-hawkins-8-00pm"
-    },
-    {
-      "source": "motelchelsea",
-      "title": "Arthur Coates & Kerran Cotterell",
-      "date": "2027-09-13",
-      "rawDate": "SEPTEMBER 13",
-      "time": "16:30",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/sunday-september-13-arthur-coates-kerran-cotterell-4-30pm"
+      "url": "https://www.motelchelsea.com/post/sunday-sept-27-vancamp-vicki-brittle-4-30-pm"
     }
   ]
 }
