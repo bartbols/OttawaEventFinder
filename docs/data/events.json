@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-22T11:16:11.116Z",
-  "totalEvents": 510,
+  "scrapedAt": "2026-09-23T11:08:24.850Z",
+  "totalEvents": 533,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "David Suzuki’s Playlist",
-      "subtitle": "With the NAC Orchestra, in association with Why Not Theatre",
-      "date": "2026-09-22",
-      "rawDate": "2026-09-22",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "With the NAC Orchestra, in association with Why Not Theatre",
-      "url": "https://nac-cna.ca/en/event/40397"
-    },
     {
       "source": "nac",
       "title": "Dreamcatcher Workshop",
@@ -648,6 +637,28 @@
     },
     {
       "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-10-05",
+      "rawDate": "2026-10-05",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42155"
+    },
+    {
+      "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-10-06",
+      "rawDate": "2026-10-06",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42163"
+    },
+    {
+      "source": "nac",
       "title": "Beaded Vamp and Moccasin Workshop",
       "subtitle": "with Colleen Nolan",
       "date": "2026-10-06",
@@ -956,6 +967,17 @@
     },
     {
       "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-10-13",
+      "rawDate": "2026-10-13",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42164"
+    },
+    {
+      "source": "nac",
       "title": "Powwow Life-Drawing",
       "subtitle": null,
       "date": "2026-10-13",
@@ -1011,6 +1033,28 @@
     },
     {
       "source": "nac",
+      "title": "Best of Bharatanatyam",
+      "subtitle": "ArohaFest Diwali Dhamaka",
+      "date": "2026-10-15",
+      "rawDate": "2026-10-15",
+      "time": "18:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "ArohaFest Diwali Dhamaka",
+      "url": "https://nac-cna.ca/en/event/42076"
+    },
+    {
+      "source": "nac",
+      "title": "Dancing Diyas: India's Folk Soul",
+      "subtitle": "ArohaFest Diwali Dhamaka",
+      "date": "2026-10-16",
+      "rawDate": "2026-10-16",
+      "time": "18:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "ArohaFest Diwali Dhamaka",
+      "url": "https://nac-cna.ca/en/event/42078"
+    },
+    {
+      "source": "nac",
       "title": "Bruce Cockburn",
       "subtitle": null,
       "date": "2026-10-16",
@@ -1030,6 +1074,17 @@
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Goldberg Variations",
       "url": "https://nac-cna.ca/en/event/41584"
+    },
+    {
+      "source": "nac",
+      "title": "Community celebration",
+      "subtitle": "ArohaFest Diwali Dhamaka",
+      "date": "2026-10-17",
+      "rawDate": "2026-10-17",
+      "time": "13:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "ArohaFest Diwali Dhamaka",
+      "url": "https://nac-cna.ca/en/event/42079"
     },
     {
       "source": "nac",
@@ -1066,6 +1121,17 @@
     },
     {
       "source": "nac",
+      "title": "Melodies of Krishna",
+      "subtitle": "ArohaFest Diwali Dhamaka",
+      "date": "2026-10-18",
+      "rawDate": "2026-10-18",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "ArohaFest Diwali Dhamaka",
+      "url": "https://nac-cna.ca/en/event/42082"
+    },
+    {
+      "source": "nac",
       "title": "Ray Chen in recital",
       "subtitle": "Great Performers Series",
       "date": "2026-10-18",
@@ -1077,6 +1143,17 @@
     },
     {
       "source": "nac",
+      "title": "Les lundis des tout-petits",
+      "subtitle": "French story time with Luana",
+      "date": "2026-10-19",
+      "rawDate": "2026-10-19",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "French story time with Luana",
+      "url": "https://nac-cna.ca/en/event/42171"
+    },
+    {
+      "source": "nac",
       "title": "Ottawa Citizen Best Restaurants 2026",
       "subtitle": "In partnership with NAC",
       "date": "2026-10-19",
@@ -1085,6 +1162,28 @@
       "venue": "Canal Lobby Foyer du canal",
       "description": "In partnership with NAC",
       "url": "https://nac-cna.ca/en/event/41904"
+    },
+    {
+      "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-10-19",
+      "rawDate": "2026-10-19",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42156"
+    },
+    {
+      "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42165"
     },
     {
       "source": "nac",
@@ -1220,6 +1319,39 @@
     },
     {
       "source": "nac",
+      "title": "Les lundis des tout-petits",
+      "subtitle": "French story time with Luana",
+      "date": "2026-10-26",
+      "rawDate": "2026-10-26",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "French story time with Luana",
+      "url": "https://nac-cna.ca/en/event/42172"
+    },
+    {
+      "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-10-26",
+      "rawDate": "2026-10-26",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42157"
+    },
+    {
+      "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-10-27",
+      "rawDate": "2026-10-27",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42166"
+    },
+    {
+      "source": "nac",
       "title": "Pre-Show Chat: Stravinsky Stories",
       "subtitle": "With Christopher Stowell and Ming Luke",
       "date": "2026-10-29",
@@ -1349,6 +1481,39 @@
       "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/42028"
+    },
+    {
+      "source": "nac",
+      "title": "Les lundis des tout-petits",
+      "subtitle": "French story time with Luana",
+      "date": "2026-11-02",
+      "rawDate": "2026-11-02",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "French story time with Luana",
+      "url": "https://nac-cna.ca/en/event/42196"
+    },
+    {
+      "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-11-02",
+      "rawDate": "2026-11-02",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42158"
+    },
+    {
+      "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-11-03",
+      "rawDate": "2026-11-03",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42167"
     },
     {
       "source": "nac",
@@ -1503,6 +1668,39 @@
       "venue": "Babs Asper Babs Asper",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41146"
+    },
+    {
+      "source": "nac",
+      "title": "Les lundis des tout-petits",
+      "subtitle": "French story time with Luana",
+      "date": "2026-11-09",
+      "rawDate": "2026-11-09",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "French story time with Luana",
+      "url": "https://nac-cna.ca/en/event/42190"
+    },
+    {
+      "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-11-09",
+      "rawDate": "2026-11-09",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42159"
+    },
+    {
+      "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-11-10",
+      "rawDate": "2026-11-10",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42168"
     },
     {
       "source": "nac",
@@ -1693,6 +1891,39 @@
     },
     {
       "source": "nac",
+      "title": "Les lundis des tout-petits",
+      "subtitle": "French story time with Luana",
+      "date": "2026-11-16",
+      "rawDate": "2026-11-16",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "French story time with Luana",
+      "url": "https://nac-cna.ca/en/event/42198"
+    },
+    {
+      "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-11-16",
+      "rawDate": "2026-11-16",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42160"
+    },
+    {
+      "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-11-17",
+      "rawDate": "2026-11-17",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42169"
+    },
+    {
+      "source": "nac",
       "title": "Brahms X Radiohead",
       "subtitle": "with the NAC Orchestra",
       "date": "2026-11-17",
@@ -1780,16 +2011,6 @@
     },
     {
       "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-09-23",
-      "rawDate": "2026-09-23",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
-      "url": "https://www.showpass.com/open-stage-7-26-09-22-20-6850/"
-    },
-    {
-      "source": "redbird",
       "title": "Celtic Celebration Featuring Nerea the Fiddler",
       "date": "2026-09-24",
       "rawDate": "2026-09-24",
@@ -1837,6 +2058,16 @@
       "venue": "Red Bird Live",
       "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
       "url": "https://www.showpass.com/open-stage-7-26-09-29-20-1000/"
+    },
+    {
+      "source": "redbird",
+      "title": "Themed Open Stage - Dolly Parton",
+      "date": "2026-09-30",
+      "rawDate": "2026-09-30",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": " \nThis month’s theme — Dolly Parton!!\nJoin us for this month’s themed open mic as we celebrate the songs, stories, and magic of Dolly Parton — and there’s a whole lot more to Dolly than the hits you a",
+      "url": "https://www.showpass.com/themed-open-stage-dolly-parton/"
     },
     {
       "source": "redbird",
@@ -1937,6 +2168,16 @@
       "venue": "Red Bird Live",
       "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
       "url": "https://www.showpass.com/open-stage-7-26-10-13-20-8497/"
+    },
+    {
+      "source": "redbird",
+      "title": "Bronwyn's Big Bad Beautiful Choir",
+      "date": "2026-10-15",
+      "rawDate": "2026-10-15",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nWelcome to Bronwyn's Big Bad Beautiful Choir!\nA monthly drop-in choir for everyone who loves to sing. No auditions. No commitment. And no, you don’t have to be any good!\nOnce a month, Bronwyn will le",
+      "url": "https://www.showpass.com/bronwyns-big-bad-beautiful-choir-2/"
     },
     {
       "source": "redbird",
@@ -2180,16 +2421,6 @@
     },
     {
       "source": "redbird",
-      "title": "Boreal",
-      "date": "2026-12-04",
-      "rawDate": "2026-12-04",
-      "time": "1:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nBoreal  is a powerhouse trio of Canadian singer-songwriters Katherine Wheatley, Tannis Slimmon and Angie Nussey. Their new album, “Winterbirds” (March 2025), has earned them Canadian Folk Music Award",
-      "url": "https://www.showpass.com/boreal-5/"
-    },
-    {
-      "source": "redbird",
       "title": "Boreal - Songs for the Snowy Season",
       "date": "2026-12-04",
       "rawDate": "2026-12-04",
@@ -2390,7 +2621,7 @@
     },
     {
       "source": "irenes",
-      "title": "Small Fish - A Comedy & Variety Show",
+      "title": "Small Fish - A Comedy & Variety Show - postponed",
       "date": "2026-09-30",
       "rawDate": "Sep 30",
       "time": "20:00",
@@ -4926,16 +5157,6 @@
     },
     {
       "source": "bronson",
-      "title": "ERRA",
-      "date": "2026-09-22",
-      "rawDate": "Tuesday, Sep 22, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/erra/"
-    },
-    {
-      "source": "bronson",
       "title": "Hannibal Buress",
       "date": "2026-09-24",
       "rawDate": "Thursday, Sep 24, Doors: 12am",
@@ -4978,8 +5199,8 @@
       "source": "bronson",
       "title": "Danny Bhoy – Night 3",
       "date": "2026-10-06",
-      "rawDate": "Tuesday, Oct 6, Doors: 7:30pm",
-      "time": "19:30",
+      "rawDate": "Tuesday, Oct 6, Doors: 6:30pm",
+      "time": "18:30",
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-3/"
@@ -4988,8 +5209,8 @@
       "source": "bronson",
       "title": "Danny Bhoy – Night 1",
       "date": "2026-10-07",
-      "rawDate": "Wednesday, Oct 7, Doors: 7:30pm",
-      "time": "19:30",
+      "rawDate": "Wednesday, Oct 7, Doors: 6:30pm",
+      "time": "18:30",
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-1/"
@@ -4998,8 +5219,8 @@
       "source": "bronson",
       "title": "Danny Bhoy – Night 2",
       "date": "2026-10-08",
-      "rawDate": "Thursday, Oct 8, Doors: 7:30pm",
-      "time": "19:30",
+      "rawDate": "Thursday, Oct 8, Doors: 6:30pm",
+      "time": "18:30",
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-2/"
@@ -5256,6 +5477,26 @@
     },
     {
       "source": "bronson",
+      "title": "A Basia Bulat Holiday Bouquet Show",
+      "date": "2026-12-03",
+      "rawDate": "Thursday, Dec 3, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/a-basia-bulat-holiday-bouquet-show/"
+    },
+    {
+      "source": "bronson",
+      "title": "Spoons, Rough Trade, Images In Vogue, Hosted by Comedian Carla Collins",
+      "date": "2026-12-04",
+      "rawDate": "Friday, Dec 4, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/spoons-rough-trade-images-in-vogue-hosted-by-comedian-carla-collins/"
+    },
+    {
+      "source": "bronson",
       "title": "A Skydiggers Christmas",
       "date": "2026-12-05",
       "rawDate": "Saturday, Dec 5, Doors: 7pm",
@@ -5293,6 +5534,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
+    },
+    {
+      "source": "bronson",
+      "title": "DEATH FROM ABOVE 1979",
+      "date": "2027-02-27",
+      "rawDate": "Saturday, Feb 27, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/death-from-above-1979/"
     },
     {
       "source": "bronson",
