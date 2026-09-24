@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-23T11:08:24.850Z",
-  "totalEvents": 533,
+  "scrapedAt": "2026-09-24T11:24:56.069Z",
+  "totalEvents": 531,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Dreamcatcher Workshop",
-      "subtitle": "with Bougie Birch",
-      "date": "2026-09-23",
-      "rawDate": "2026-09-23",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Bougie Birch",
-      "url": "https://nac-cna.ca/en/event/41874"
-    },
     {
       "source": "nac",
       "title": "Céleste Lévis",
@@ -560,17 +549,6 @@
     },
     {
       "source": "nac",
-      "title": "Symphony in Your Neighbourhood - Shenkman Arts Centre",
-      "subtitle": "$10 Tickets. World Class Music.",
-      "date": "2026-10-01",
-      "rawDate": "2026-10-01",
-      "time": "19:00",
-      "venue": "Shenkman Arts Centre Centre des arts Shenkman",
-      "description": "$10 Tickets. World Class Music.",
-      "url": "https://nac-cna.ca/en/event/41999"
-    },
-    {
-      "source": "nac",
       "title": "Rheostatics",
       "subtitle": null,
       "date": "2026-10-01",
@@ -843,6 +821,17 @@
       "venue": "Southam Hall Salle Southam",
       "description": "With the NAC Orchestra",
       "url": "https://nac-cna.ca/en/event/40404"
+    },
+    {
+      "source": "nac",
+      "title": "LIGHTBAHN x RASC Ottawa: Guided night sky observation",
+      "subtitle": null,
+      "date": "2026-10-07",
+      "rawDate": "2026-10-07",
+      "time": "20:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42197"
     },
     {
       "source": "nac",
@@ -2000,6 +1989,17 @@
       "url": "https://nac-cna.ca/en/event/41531"
     },
     {
+      "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-11-23",
+      "rawDate": "2026-11-23",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42161"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -2008,16 +2008,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36647-Joep-Beving"
-    },
-    {
-      "source": "redbird",
-      "title": "Celtic Celebration Featuring Nerea the Fiddler",
-      "date": "2026-09-24",
-      "rawDate": "2026-09-24",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Join us for an evening  of Celtic Music played by some of the best in the region. There will be a concert from 8pm to 10pm, with a jam to follow, so bring your instruments and get in on the fun. \n \n\nN",
-      "url": "https://www.showpass.com/celtic-celebration-featuring-nerea-the-fiddler/"
     },
     {
       "source": "redbird",
@@ -2048,16 +2038,6 @@
       "venue": "Red Bird Live",
       "description": "Garrett Mason has been preaching the blues for over two decades. Considered by many to be the greatest guitar player in Canada, Garrett’s unique blend of blues, soul, funk, country, rock n roll, and p",
       "url": "https://www.showpass.com/garrett-mason-3/"
-    },
-    {
-      "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-09-30",
-      "rawDate": "2026-09-30",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
-      "url": "https://www.showpass.com/open-stage-7-26-09-29-20-1000/"
     },
     {
       "source": "redbird",
@@ -2530,24 +2510,14 @@
       "url": "https://www.showpass.com/jeremy-fishers-holiday-fam-jam/"
     },
     {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-09-22",
-      "rawDate": "Sep 22",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-nzbpc"
-    },
-    {
-      "source": "irenes",
-      "title": "Tipsy Scholars",
-      "date": "2026-09-23",
-      "rawDate": "Sep 23",
-      "time": "18:00",
-      "venue": "Irene's Pub",
-      "description": "Tipsy Scholars Sold Out Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is ",
-      "url": "https://irenespub.ca/events/tipsy-scholars"
+      "source": "redbird",
+      "title": "Jeremy Fisher's Holiday Fam Jam",
+      "date": "2026-12-30",
+      "rawDate": "2026-12-30",
+      "time": "7:00 p.m.",
+      "venue": "Red Bird Live",
+      "description": "Celebrate the season with JUNO-nominated singer-songwriter Jeremy Fisher at a special Holiday Fam Jam at Red Bird!\nOne of Canada’s most engaging songwriters and performers, Jeremy has spent more than ",
+      "url": "https://www.showpass.com/jeremy-fishers-holiday-fam-jam-2/"
     },
     {
       "source": "irenes",
@@ -2601,12 +2571,12 @@
     },
     {
       "source": "irenes",
-      "title": "The Sunday Night Revue with Special Guest Alexander Gallant",
+      "title": "The Sunday Night Revue",
       "date": "2026-09-27",
       "rawDate": "Sep 27",
       "time": "20:30",
       "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue Alexander Gallant",
+      "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-95ry4"
     },
     {
@@ -3201,6 +3171,26 @@
     },
     {
       "source": "irenes",
+      "title": "Tipsy Scholars",
+      "date": "2026-09-23",
+      "rawDate": "Sep 23",
+      "time": "18:00",
+      "venue": "Irene's Pub",
+      "description": "Tipsy Scholars Sold Out Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is ",
+      "url": "https://irenespub.ca/events/tipsy-scholars"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-09-22",
+      "rawDate": "Sep 22",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-nzbpc"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue with Special Guests The Summoning Circle",
       "date": "2026-09-20",
       "rawDate": "Sep 20",
@@ -3478,26 +3468,6 @@
       "venue": "Irene's Pub",
       "description": "The Start CIBC Run for a Cure Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/the-start-2"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Lucas Haneman",
-      "date": "2026-08-20",
-      "rawDate": "Aug 20",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-9sfz2"
-    },
-    {
-      "source": "irenes",
-      "title": "Fruit Cake - A Gay Ass Variety",
-      "date": "2026-08-19",
-      "rawDate": "Aug 19",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Fruit Cake Tickets",
-      "url": "https://irenespub.ca/events/fruit-cake-1"
     },
     {
       "source": "gctc",
@@ -5454,6 +5424,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/akaash-singh/"
+    },
+    {
+      "source": "bronson",
+      "title": "Liberace & Liza: A Tribute",
+      "date": "2026-11-22",
+      "rawDate": "Sunday, Nov 22, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/liberace-liza/"
     },
     {
       "source": "bronson",
