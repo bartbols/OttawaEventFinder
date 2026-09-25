@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-24T11:24:56.069Z",
-  "totalEvents": 531,
+  "scrapedAt": "2026-09-25T11:31:09.447Z",
+  "totalEvents": 530,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,61 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Céleste Lévis",
-      "subtitle": "Si elle",
-      "date": "2026-09-24",
-      "rawDate": "2026-09-24",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "Si elle",
-      "url": "https://nac-cna.ca/en/event/41582"
-    },
-    {
-      "source": "nac",
-      "title": "Odāwā Tomorrow: Odāwā Wàbang",
-      "subtitle": null,
-      "date": "2026-09-24",
-      "rawDate": "2026-09-24",
-      "time": "20:00",
-      "venue": "Kipnes Lantern Lanterne Kipnes",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42022"
-    },
-    {
-      "source": "nac",
-      "title": "Odāwā Tomorrow: Odāwā Wàbang",
-      "subtitle": null,
-      "date": "2026-09-25",
-      "rawDate": "2026-09-25",
-      "time": "20:00",
-      "venue": "Kipnes Lantern Lanterne Kipnes",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42022"
-    },
-    {
-      "source": "nac",
-      "title": "Odāwā Tomorrow: Odāwā Wàbang",
-      "subtitle": null,
-      "date": "2026-09-26",
-      "rawDate": "2026-09-26",
-      "time": "20:00",
-      "venue": "Kipnes Lantern Lanterne Kipnes",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42022"
-    },
-    {
-      "source": "nac",
-      "title": "Odāwā Tomorrow: Odāwā Wàbang",
-      "subtitle": null,
-      "date": "2026-09-27",
-      "rawDate": "2026-09-27",
-      "time": "20:00",
-      "venue": "Kipnes Lantern Lanterne Kipnes",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42022"
-    },
     {
       "source": "nac",
       "title": "Ottawa 200 Biodiversity Tree",
@@ -582,6 +527,17 @@
     },
     {
       "source": "nac",
+      "title": "Story Behind the Song: A Women in Music Songwriter’s Circle",
+      "subtitle": "hosted by Bif Naked",
+      "date": "2026-10-03",
+      "rawDate": "2026-10-03",
+      "time": "17:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "hosted by Bif Naked",
+      "url": "https://nac-cna.ca/en/event/42205"
+    },
+    {
+      "source": "nac",
       "title": "Kleztory",
       "subtitle": null,
       "date": "2026-10-03",
@@ -594,12 +550,12 @@
     {
       "source": "nac",
       "title": "Logan Staats",
-      "subtitle": null,
+      "subtitle": "with Miles From Nowhere",
       "date": "2026-10-03",
       "rawDate": "2026-10-03",
       "time": "20:00",
       "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
+      "description": "with Miles From Nowhere",
       "url": "https://nac-cna.ca/en/event/41653"
     },
     {
@@ -924,12 +880,12 @@
     {
       "source": "nac",
       "title": "summersets",
-      "subtitle": null,
+      "subtitle": "with Augustine May",
       "date": "2026-10-10",
       "rawDate": "2026-10-10",
       "time": "20:00",
       "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
+      "description": "with Augustine May",
       "url": "https://nac-cna.ca/en/event/41583"
     },
     {
@@ -2000,6 +1956,28 @@
       "url": "https://nac-cna.ca/en/event/42161"
     },
     {
+      "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-11-24",
+      "rawDate": "2026-11-24",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42170"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Earring Workshop",
+      "subtitle": "with Stephanie Peltier",
+      "date": "2026-11-24",
+      "rawDate": "2026-11-24",
+      "time": "18:00",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Stephanie Peltier",
+      "url": "https://nac-cna.ca/en/event/41880"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -2010,14 +1988,14 @@
       "url": "https://program.ottawajazzfestival.com/item/36647-Joep-Beving"
     },
     {
-      "source": "redbird",
-      "title": "The Friends of Fiddlers Green",
-      "date": "2026-09-25",
-      "rawDate": "2026-09-25",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "The Toronto-based \"Friends\" boast six versatile musicians, four fine singers, three songwriters, a brilliant joke teller, one Order of Canada, one Queen's Diamond Jubilee Medal and one of the longest ",
-      "url": "https://www.showpass.com/the-friends-of-fiddlers-green-2/"
+      "source": "jazz",
+      "title": "Harvest Harmonies ft. Rebecca Noelle",
+      "date": "2026-11-14",
+      "rawDate": "Sat, Nov 14, 7:00 p.m.",
+      "time": "19:00",
+      "venue": "Ottawa Jazz Festival",
+      "description": null,
+      "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
     },
     {
       "source": "redbird",
@@ -2521,26 +2499,6 @@
     },
     {
       "source": "irenes",
-      "title": "Carleton University’s Faculty of Public and Global Affairs Presents Author Meets Readers - The Record Keepers: Digging for Stories in Canada’s Record Stores",
-      "date": "2026-09-24",
-      "rawDate": "Sep 24",
-      "time": "17:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/author-meets-readers-1"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Tyler Habib",
-      "date": "2026-09-24",
-      "rawDate": "Sep 24",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9"
-    },
-    {
-      "source": "irenes",
       "title": "Bill Withers Tribute Performed by Mecca of Stank",
       "date": "2026-09-25",
       "rawDate": "Sep 25",
@@ -2981,6 +2939,16 @@
     },
     {
       "source": "irenes",
+      "title": "Songwriters Unite Series with Stephen Volger, Jeff Bonner and Special Guests - Matinée",
+      "date": "2026-11-08",
+      "rawDate": "Nov 8",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "Songwriters Unite Series Stephen Volger Jeff Bonner",
+      "url": "https://irenespub.ca/events/songwriters-unite-series-with-stephen-volger-jeff-bonner-and-special-guests"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-11-08",
       "rawDate": "Nov 8",
@@ -3041,6 +3009,16 @@
     },
     {
       "source": "irenes",
+      "title": "Ball & Chain and the Wreckers with S/G The Vanier Playboys - Matinée",
+      "date": "2026-11-15",
+      "rawDate": "Nov 15",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "Ball & Chain and the Wreckers The Vanier Playboys",
+      "url": "https://irenespub.ca/events/ball-chain-and-the-wreckers-with-sg-the-vanier-playboys"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-11-15",
       "rawDate": "Nov 15",
@@ -3091,13 +3069,23 @@
     },
     {
       "source": "irenes",
-      "title": "The Big Train Wreck with S/G KJ & The Strayways",
+      "title": "The Big Train Wreck with S/G",
       "date": "2026-11-21",
       "rawDate": "Nov 21",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Big Train Wreck KJ & The Strayways Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good s",
+      "description": "The Big Train Wreck Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ ",
       "url": "https://irenespub.ca/events/the-big-train-wreck-with-sg-kj-the-strayways"
+    },
+    {
+      "source": "irenes",
+      "title": "Riley Taylor Memorial Scholarship Fundraiser - Matinée",
+      "date": "2026-11-22",
+      "rawDate": "Nov 22",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/invfavv18r7v90rbem5ydt9y88j12n"
     },
     {
       "source": "irenes",
@@ -3161,6 +3149,16 @@
     },
     {
       "source": "irenes",
+      "title": "CLEAR - Matinée",
+      "date": "2026-11-29",
+      "rawDate": "Nov 29",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "CLEAR",
+      "url": "https://irenespub.ca/events/clear-matine"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-11-29",
       "rawDate": "Nov 29",
@@ -3168,6 +3166,26 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Tyler Habib",
+      "date": "2026-09-24",
+      "rawDate": "Sep 24",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9"
+    },
+    {
+      "source": "irenes",
+      "title": "Carleton University’s Faculty of Public and Global Affairs Presents Author Meets Readers - The Record Keepers: Digging for Stories in Canada’s Record Stores",
+      "date": "2026-09-24",
+      "rawDate": "Sep 24",
+      "time": "17:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/author-meets-readers-1"
     },
     {
       "source": "irenes",
@@ -3448,26 +3466,6 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-hclp3"
-    },
-    {
-      "source": "irenes",
-      "title": "Sam Salmon & the Grand Manan Bandits with Special Guests Jack & The Backburners",
-      "date": "2026-08-22",
-      "rawDate": "Aug 22",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Sam Salmon & the Grand Manan Bandits Jack & The Backburners Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/sam-salmon-the-manan-bandits"
-    },
-    {
-      "source": "irenes",
-      "title": "Music for a Cure with The Start - A Benefit for Breast Cancer Research",
-      "date": "2026-08-21",
-      "rawDate": "Aug 21",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "The Start CIBC Run for a Cure Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/the-start-2"
     },
     {
       "source": "gctc",
@@ -5124,16 +5122,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "Hannibal Buress",
-      "date": "2026-09-24",
-      "rawDate": "Thursday, Sep 24, Doors: 12am",
-      "time": "00:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/hannibal-buress/"
     },
     {
       "source": "bronson",
