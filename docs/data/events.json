@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-26T11:06:32.498Z",
-  "totalEvents": 500,
+  "scrapedAt": "2026-09-27T11:44:05.586Z",
+  "totalEvents": 509,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,50 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Dance for All",
-      "subtitle": "With Teaċ Daṁsa's Rachel Poirier",
-      "date": "2026-09-26",
-      "rawDate": "2026-09-26",
-      "time": "12:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "With Teaċ Daṁsa's Rachel Poirier",
-      "url": "https://nac-cna.ca/en/event/42038"
-    },
-    {
-      "source": "nac",
-      "title": "Ottawa Latin Jazz Conference",
-      "subtitle": "Oná Ensemble, João Lenhari, and Adis Rodriguez",
-      "date": "2026-09-26",
-      "rawDate": "2026-09-26",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "Oná Ensemble, João Lenhari, and Adis Rodriguez",
-      "url": "https://nac-cna.ca/en/event/41964"
-    },
-    {
-      "source": "nac",
-      "title": "Rise Ashen and Iron Cabaret",
-      "subtitle": null,
-      "date": "2026-09-26",
-      "rawDate": "2026-09-26",
-      "time": "21:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42150"
-    },
-    {
-      "source": "nac",
-      "title": "Rise Ashen and Iron Cabaret",
-      "subtitle": null,
-      "date": "2026-09-27",
-      "rawDate": "2026-09-27",
-      "time": "21:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42150"
-    },
     {
       "source": "nac",
       "title": "Ottawa Latin Jazz Conference",
@@ -1626,6 +1582,182 @@
       "url": "https://nac-cna.ca/en/event/41922"
     },
     {
+      "source": "nac",
+      "title": "The Nutcracker",
+      "subtitle": "Les Grands Ballets Canadiens",
+      "date": "2026-11-26",
+      "rawDate": "2026-11-26",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Les Grands Ballets Canadiens",
+      "url": "https://nac-cna.ca/en/event/40367"
+    },
+    {
+      "source": "nac",
+      "title": "The Nutcracker",
+      "subtitle": "Les Grands Ballets Canadiens",
+      "date": "2026-11-27",
+      "rawDate": "2026-11-27",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Les Grands Ballets Canadiens",
+      "url": "https://nac-cna.ca/en/event/40367"
+    },
+    {
+      "source": "nac",
+      "title": "The Nutcracker",
+      "subtitle": "Les Grands Ballets Canadiens",
+      "date": "2026-11-28",
+      "rawDate": "2026-11-28",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Les Grands Ballets Canadiens",
+      "url": "https://nac-cna.ca/en/event/40367"
+    },
+    {
+      "source": "nac",
+      "title": "The Nutcracker",
+      "subtitle": "Les Grands Ballets Canadiens",
+      "date": "2026-11-29",
+      "rawDate": "2026-11-29",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Les Grands Ballets Canadiens",
+      "url": "https://nac-cna.ca/en/event/40367"
+    },
+    {
+      "source": "nac",
+      "title": "The Comeback",
+      "subtitle": "By Trish Cooper and Sam Vint",
+      "date": "2026-11-26",
+      "rawDate": "2026-11-26",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "By Trish Cooper and Sam Vint",
+      "url": "https://nac-cna.ca/en/event/40386"
+    },
+    {
+      "source": "nac",
+      "title": "The Comeback",
+      "subtitle": "By Trish Cooper and Sam Vint",
+      "date": "2026-11-27",
+      "rawDate": "2026-11-27",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "By Trish Cooper and Sam Vint",
+      "url": "https://nac-cna.ca/en/event/40386"
+    },
+    {
+      "source": "nac",
+      "title": "The Comeback",
+      "subtitle": "By Trish Cooper and Sam Vint",
+      "date": "2026-11-28",
+      "rawDate": "2026-11-28",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "By Trish Cooper and Sam Vint",
+      "url": "https://nac-cna.ca/en/event/40386"
+    },
+    {
+      "source": "nac",
+      "title": "The Comeback",
+      "subtitle": "By Trish Cooper and Sam Vint",
+      "date": "2026-11-29",
+      "rawDate": "2026-11-29",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "By Trish Cooper and Sam Vint",
+      "url": "https://nac-cna.ca/en/event/40386"
+    },
+    {
+      "source": "nac",
+      "title": "The Comeback",
+      "subtitle": "By Trish Cooper and Sam Vint",
+      "date": "2026-11-30",
+      "rawDate": "2026-11-30",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "By Trish Cooper and Sam Vint",
+      "url": "https://nac-cna.ca/en/event/40386"
+    },
+    {
+      "source": "nac",
+      "title": "The Comeback",
+      "subtitle": "By Trish Cooper and Sam Vint",
+      "date": "2026-12-01",
+      "rawDate": "2026-12-01",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "By Trish Cooper and Sam Vint",
+      "url": "https://nac-cna.ca/en/event/40386"
+    },
+    {
+      "source": "nac",
+      "title": "The Comeback",
+      "subtitle": "By Trish Cooper and Sam Vint",
+      "date": "2026-12-02",
+      "rawDate": "2026-12-02",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "By Trish Cooper and Sam Vint",
+      "url": "https://nac-cna.ca/en/event/40386"
+    },
+    {
+      "source": "nac",
+      "title": "The Comeback",
+      "subtitle": "By Trish Cooper and Sam Vint",
+      "date": "2026-12-03",
+      "rawDate": "2026-12-03",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "By Trish Cooper and Sam Vint",
+      "url": "https://nac-cna.ca/en/event/40386"
+    },
+    {
+      "source": "nac",
+      "title": "The Comeback",
+      "subtitle": "By Trish Cooper and Sam Vint",
+      "date": "2026-12-04",
+      "rawDate": "2026-12-04",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "By Trish Cooper and Sam Vint",
+      "url": "https://nac-cna.ca/en/event/40386"
+    },
+    {
+      "source": "nac",
+      "title": "The Comeback",
+      "subtitle": "By Trish Cooper and Sam Vint",
+      "date": "2026-12-05",
+      "rawDate": "2026-12-05",
+      "time": "19:30",
+      "venue": "Babs Asper Babs Asper",
+      "description": "By Trish Cooper and Sam Vint",
+      "url": "https://nac-cna.ca/en/event/40386"
+    },
+    {
+      "source": "nac",
+      "title": "Laura Niquay",
+      "subtitle": "Nir Wactenama",
+      "date": "2026-11-26",
+      "rawDate": "2026-11-26",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Nir Wactenama",
+      "url": "https://nac-cna.ca/en/event/41619"
+    },
+    {
+      "source": "nac",
+      "title": "Marianne Trudel",
+      "subtitle": "plays Antônio Carlos Jobim",
+      "date": "2026-11-26",
+      "rawDate": "2026-11-26",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "plays Antônio Carlos Jobim",
+      "url": "https://nac-cna.ca/en/event/41623"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -1644,16 +1776,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "Clever Hopes + Rebekah Hawker + Matthew Barber",
-      "date": "2026-09-27",
-      "rawDate": "2026-09-27",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "The Even Gooder Than Tomorrow Clever Hopes Album Release Tour \nClever Hopes + Rebekah Hawker + Matthew Barber\nSolo sets from both Rebekah and Matthew before they join Andrew for the Clever Hopes set\n ",
-      "url": "https://www.showpass.com/clever-hopes-rebekah-hawker-matthew-barber/"
     },
     {
       "source": "redbird",
@@ -2147,17 +2269,7 @@
     },
     {
       "source": "irenes",
-      "title": "Liam Lloyd and Michel Delage",
-      "date": "2026-09-26",
-      "rawDate": "Sep 26",
-      "time": "18:00",
-      "venue": "Irene's Pub",
-      "description": "Liam Lloyd Michel Delage Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is",
-      "url": "https://irenespub.ca/events/liam-lloyd"
-    },
-    {
-      "source": "irenes",
-      "title": "The Great Glebe Quiz - A Fundraiser in support Abbotsford Community Programs",
+      "title": "The Great Glebe Quiz - A Fundraiser in support of Abbotsford Community Programs",
       "date": "2026-09-27",
       "rawDate": "Sep 27",
       "time": "14:00",
@@ -2184,16 +2296,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy"
-    },
-    {
-      "source": "irenes",
-      "title": "Small Fish - A Comedy & Variety Show - postponed",
-      "date": "2026-09-30",
-      "rawDate": "Sep 30",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Small Fish Show Tickets Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is ",
-      "url": "https://irenespub.ca/events/gm573gxgs3lxmgj47dxakg6nkjc5rd"
     },
     {
       "source": "irenes",
@@ -2697,12 +2799,12 @@
     },
     {
       "source": "irenes",
-      "title": "Gizmo with Special Guests",
+      "title": "Gabriel Comba & the Barn Cats with Special Guests Austin Camp & Tristan Walking",
       "date": "2026-11-20",
       "rawDate": "Nov 20",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Gizmo Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ after 9 PM",
+      "description": "Gabriel Comba & the Barn Cats Austin Camp Tristan Walking ‍ ‍Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come",
       "url": "https://irenespub.ca/events/gizmo-with-special-guests"
     },
     {
@@ -2717,12 +2819,12 @@
     },
     {
       "source": "irenes",
-      "title": "Riley Taylor Memorial Scholarship Fundraiser - Matinée",
+      "title": "Riley Taylor Memorial Scholarship Fundraiser - Matinée with Black Pearl the Mavericks tribute and The Vanier Playboys",
       "date": "2026-11-22",
       "rawDate": "Nov 22",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Black Pearl The Vanier Playboys Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/invfavv18r7v90rbem5ydt9y88j12n"
     },
     {
@@ -2787,12 +2889,12 @@
     },
     {
       "source": "irenes",
-      "title": "CLEAR - Matinée",
+      "title": "CLEAR with Special Guest Alise Marlane - Matinée",
       "date": "2026-11-29",
       "rawDate": "Nov 29",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "CLEAR",
+      "description": "CLEAR Alise Marlane Click here to buy ticketsSell tickets online with Ticket Tailor",
       "url": "https://irenespub.ca/events/clear-matine"
     },
     {
@@ -2804,6 +2906,16 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga"
+    },
+    {
+      "source": "irenes",
+      "title": "Liam Lloyd and Michel Delage",
+      "date": "2026-09-26",
+      "rawDate": "Sep 26",
+      "time": "18:00",
+      "venue": "Irene's Pub",
+      "description": "Liam Lloyd Michel Delage Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is",
+      "url": "https://irenespub.ca/events/liam-lloyd"
     },
     {
       "source": "irenes",
@@ -3094,16 +3206,6 @@
       "venue": "Irene's Pub",
       "description": "Small Fish Tickets Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/shbeyp4snb7exh5hjldshrxynxndgj"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-08-25",
-      "rawDate": "Aug 25",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd"
     },
     {
       "source": "gctc",
