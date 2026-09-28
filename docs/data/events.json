@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-27T11:44:05.586Z",
-  "totalEvents": 509,
+  "scrapedAt": "2026-09-28T13:22:49.570Z",
+  "totalEvents": 504,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,28 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Ottawa Latin Jazz Conference",
-      "subtitle": "Joy Lapps Project and Hilario Duran & Jorge Luis Papiosco",
-      "date": "2026-09-27",
-      "rawDate": "2026-09-27",
-      "time": "18:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "Joy Lapps Project and Hilario Duran & Jorge Luis Papiosco",
-      "url": "https://nac-cna.ca/en/event/41965"
-    },
-    {
-      "source": "nac",
-      "title": "An Evening with David Sedaris",
-      "subtitle": "Bestselling Author & Humourist",
-      "date": "2026-09-27",
-      "rawDate": "2026-09-27",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "Bestselling Author & Humourist",
-      "url": "https://nac-cna.ca/en/event/40918"
-    },
     {
       "source": "nac",
       "title": "Beaded Orange Shirt Pin Workshop",
@@ -1758,6 +1736,17 @@
       "url": "https://nac-cna.ca/en/event/41623"
     },
     {
+      "source": "nac",
+      "title": "Mia Kelly",
+      "subtitle": "with Basset",
+      "date": "2026-11-27",
+      "rawDate": "2026-11-27",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "with Basset",
+      "url": "https://nac-cna.ca/en/event/41536"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -1776,16 +1765,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "Garrett Mason",
-      "date": "2026-09-28",
-      "rawDate": "2026-09-28",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Garrett Mason has been preaching the blues for over two decades. Considered by many to be the greatest guitar player in Canada, Garrett’s unique blend of blues, soul, funk, country, rock n roll, and p",
-      "url": "https://www.showpass.com/garrett-mason-3/"
     },
     {
       "source": "redbird",
@@ -2266,26 +2245,6 @@
       "venue": "Red Bird Live",
       "description": "Celebrate the season with JUNO-nominated singer-songwriter Jeremy Fisher at a special Holiday Fam Jam at Red Bird!\nOne of Canada’s most engaging songwriters and performers, Jeremy has spent more than ",
       "url": "https://www.showpass.com/jeremy-fishers-holiday-fam-jam-2/"
-    },
-    {
-      "source": "irenes",
-      "title": "The Great Glebe Quiz - A Fundraiser in support of Abbotsford Community Programs",
-      "date": "2026-09-27",
-      "rawDate": "Sep 27",
-      "time": "14:00",
-      "venue": "Irene's Pub",
-      "description": "Tickets Learn more",
-      "url": "https://irenespub.ca/events/glebe-centre-trivia-fundrasier"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-09-27",
-      "rawDate": "Sep 27",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-95ry4"
     },
     {
       "source": "irenes",
@@ -2909,6 +2868,26 @@
     },
     {
       "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-09-27",
+      "rawDate": "Sep 27",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-95ry4"
+    },
+    {
+      "source": "irenes",
+      "title": "The Great Glebe Quiz - A Fundraiser in support of Abbotsford Community Programs",
+      "date": "2026-09-27",
+      "rawDate": "Sep 27",
+      "time": "14:00",
+      "venue": "Irene's Pub",
+      "description": "Tickets Learn more",
+      "url": "https://irenespub.ca/events/glebe-centre-trivia-fundrasier"
+    },
+    {
+      "source": "irenes",
       "title": "Liam Lloyd and Michel Delage",
       "date": "2026-09-26",
       "rawDate": "Sep 26",
@@ -3186,26 +3165,6 @@
       "venue": "Irene's Pub",
       "description": "Thomas Duxbury & The New Mother Nature The Berns Out By Lucy Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
       "url": "https://irenespub.ca/events/the-bern-with-special-guests"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Jeff Rixx Graham",
-      "date": "2026-08-27",
-      "rawDate": "Aug 27",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f"
-    },
-    {
-      "source": "irenes",
-      "title": "Small Fish - A Comedy & Variety Show",
-      "date": "2026-08-26",
-      "rawDate": "Aug 26",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Small Fish Tickets Ticket price subject to change at the door",
-      "url": "https://irenespub.ca/events/shbeyp4snb7exh5hjldshrxynxndgj"
     },
     {
       "source": "gctc",
@@ -4865,16 +4824,6 @@
     },
     {
       "source": "bronson",
-      "title": "Daniel Lanois",
-      "date": "2026-09-27",
-      "rawDate": "Sunday, Sep 27, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/daniel-lanois-deux-voix-une-capitale/"
-    },
-    {
-      "source": "bronson",
       "title": "Ya Levis",
       "date": "2026-10-02",
       "rawDate": "Friday, Oct 2, Doors: 7pm",
@@ -5386,7 +5335,7 @@
     {
       "source": "motelchelsea",
       "title": "Vancamp & Vicki Brittle",
-      "date": "2026-09-27",
+      "date": "2027-09-27",
       "rawDate": "SEPTEMBER 27",
       "time": "04:30",
       "venue": "Motel Chelsea",
