@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-28T13:22:49.570Z",
-  "totalEvents": 504,
+  "scrapedAt": "2026-09-29T12:27:52.972Z",
+  "totalEvents": 508,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Beaded Orange Shirt Pin Workshop",
-      "subtitle": "with Stephanie Peltier",
-      "date": "2026-09-28",
-      "rawDate": "2026-09-28",
-      "time": "18:00",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Stephanie Peltier",
-      "url": "https://nac-cna.ca/en/event/41876"
-    },
     {
       "source": "nac",
       "title": "Beaded Strawberry Earring Workshop",
@@ -1747,6 +1736,28 @@
       "url": "https://nac-cna.ca/en/event/41536"
     },
     {
+      "source": "nac",
+      "title": "Philippe B",
+      "subtitle": null,
+      "date": "2026-11-28",
+      "rawDate": "2026-11-28",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41222"
+    },
+    {
+      "source": "nac",
+      "title": "Lennie Gallant",
+      "subtitle": "The Innkeeper's Christmas",
+      "date": "2026-11-28",
+      "rawDate": "2026-11-28",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "The Innkeeper's Christmas",
+      "url": "https://nac-cna.ca/en/event/41632"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -1998,6 +2009,16 @@
     },
     {
       "source": "redbird",
+      "title": "Celtic Celebration Ft Ruckustodian",
+      "date": "2026-10-29",
+      "rawDate": "2026-10-29",
+      "time": "12:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Join us for an evening  of Celtic Music played by some of the best in the region. There will be a concert from 8pm to 10pm, with a jam to follow, so bring your instruments and get in on the fun.\nThis ",
+      "url": "https://www.showpass.com/celtic-celebration-ft-ruckustodian/"
+    },
+    {
+      "source": "redbird",
       "title": "Gentlemen of the Woods",
       "date": "2026-10-31",
       "rawDate": "2026-10-31",
@@ -2245,6 +2266,16 @@
       "venue": "Red Bird Live",
       "description": "Celebrate the season with JUNO-nominated singer-songwriter Jeremy Fisher at a special Holiday Fam Jam at Red Bird!\nOne of Canada’s most engaging songwriters and performers, Jeremy has spent more than ",
       "url": "https://www.showpass.com/jeremy-fishers-holiday-fam-jam-2/"
+    },
+    {
+      "source": "redbird",
+      "title": "Julian Taylor",
+      "date": "2027-02-06",
+      "rawDate": "2027-02-06",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "With a soulful voice and captivating stage presence, Julian's unique blend of blues, roots, and folk music has earned him a growing fanbase and critical acclaim not only in Canada but also in Europe a",
+      "url": "https://www.showpass.com/julian-taylor-4/"
     },
     {
       "source": "irenes",
@@ -2763,7 +2794,7 @@
       "rawDate": "Nov 20",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Gabriel Comba & the Barn Cats Austin Camp Tristan Walking ‍ ‍Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come",
+      "description": "Gabriel Comba & the Barn Cats Austin Camp Tristan Walking Click here to buy ticketsSell tickets online with Ticket Tailor ‍ ‍Ticket price at the door may be higher than advanced ticket price.All ticke",
       "url": "https://irenespub.ca/events/gizmo-with-special-guests"
     },
     {
@@ -5241,6 +5272,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/the-mary-wallopers/"
+    },
+    {
+      "source": "bronson",
+      "title": "FOIL ARMS and HOG",
+      "date": "2027-03-21",
+      "rawDate": "Sunday, Mar 21, Doors: 6:30pm",
+      "time": "18:30",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/foil-arms-and-hog-2/"
     },
     {
       "source": "chamberfest",
