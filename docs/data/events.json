@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-29T12:27:52.972Z",
-  "totalEvents": 508,
+  "scrapedAt": "2026-09-30T12:13:05.968Z",
+  "totalEvents": 505,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,28 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Beaded Strawberry Earring Workshop",
-      "subtitle": "with Kaylee Smoke",
-      "date": "2026-09-29",
-      "rawDate": "2026-09-29",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Kaylee Smoke",
-      "url": "https://nac-cna.ca/en/event/41877"
-    },
-    {
-      "source": "nac",
-      "title": "Symphony in Your Neighbourhood - Carleton Dominion Chalmers Centre",
-      "subtitle": "$10 Tickets. World Class Music.",
-      "date": "2026-09-29",
-      "rawDate": "2026-09-29",
-      "time": "19:00",
-      "venue": "Carleton Dominion-Chalmers Centre Centre Carleton Dominion-Chalmers",
-      "description": "$10 Tickets. World Class Music.",
-      "url": "https://nac-cna.ca/en/event/42001"
-    },
     {
       "source": "nac",
       "title": "Women, Truth & Reconciliation",
@@ -106,17 +84,6 @@
       "venue": "Fourth Stage Quatrième Salle",
       "description": "with Miles From Nowhere and Aiyana",
       "url": "https://nac-cna.ca/en/event/41653"
-    },
-    {
-      "source": "nac",
-      "title": "Classic Albums Live: Billy Joel",
-      "subtitle": "The Stranger",
-      "date": "2026-10-03",
-      "rawDate": "2026-10-03",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "The Stranger",
-      "url": "https://nac-cna.ca/en/event/41891"
     },
     {
       "source": "nac",
@@ -587,7 +554,7 @@
       "date": "2026-10-17",
       "rawDate": "2026-10-17",
       "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
+      "venue": "Babs Asper Babs Asper",
       "description": "Bestselling author of White Teeth and On Beauty",
       "url": "https://nac-cna.ca/en/event/40919"
     },
@@ -1779,16 +1746,6 @@
     },
     {
       "source": "redbird",
-      "title": "Themed Open Stage - Dolly Parton",
-      "date": "2026-09-30",
-      "rawDate": "2026-09-30",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": " \nThis month’s theme — Dolly Parton!!\nJoin us for this month’s themed open mic as we celebrate the songs, stories, and magic of Dolly Parton — and there’s a whole lot more to Dolly than the hits you a",
-      "url": "https://www.showpass.com/themed-open-stage-dolly-parton/"
-    },
-    {
-      "source": "redbird",
       "title": "Catherine MacLellan",
       "date": "2026-10-02",
       "rawDate": "2026-10-02",
@@ -2276,16 +2233,6 @@
       "venue": "Red Bird Live",
       "description": "With a soulful voice and captivating stage presence, Julian's unique blend of blues, roots, and folk music has earned him a growing fanbase and critical acclaim not only in Canada but also in Europe a",
       "url": "https://www.showpass.com/julian-taylor-4/"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-09-29",
-      "rawDate": "Sep 29",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy"
     },
     {
       "source": "irenes",
@@ -2899,6 +2846,16 @@
     },
     {
       "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-09-29",
+      "rawDate": "Sep 29",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-09-27",
       "rawDate": "Sep 27",
@@ -3188,16 +3145,6 @@
       "url": "https://irenespub.ca/events/august-john-with-special-guests"
     },
     {
-      "source": "irenes",
-      "title": "Thomas Duxbury & the New Mother Nature with Special Guests The Berns & Out By Lucy",
-      "date": "2026-08-28",
-      "rawDate": "Aug 28",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Thomas Duxbury & The New Mother Nature The Berns Out By Lucy Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
-      "url": "https://irenespub.ca/events/the-bern-with-special-guests"
-    },
-    {
       "source": "gctc",
       "title": "Rogers v. Rogers (Oct 20 - Nov 1, 2026)",
       "date": "2026-10-20",
@@ -3259,6 +3206,16 @@
     },
     {
       "source": "gctc",
+      "title": "Baz Luhrmann’s Romeo + Juliet: Live in Concert",
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
+      "time": "20:00",
+      "venue": "GCTC",
+      "description": "Celebrate the 30th anniversary of the iconic soundtrack, performed live for one night only at Great Canadian Theatre Company. Featuring Sarah Segal-Lazar & The Butcher Hearts with special guests.",
+      "url": "https://greatcanadiantheatrecompany.squarespace.com/events/baz-lurhmann-rj"
+    },
+    {
+      "source": "gctc",
       "title": "Oct\n          20",
       "date": "2026-10-20",
       "rawDate": "2026-10-20",
@@ -3266,6 +3223,16 @@
       "venue": "GCTC",
       "description": "  Rogers v. Rogers   A Crow’s Theatre Production  Adapted for the stage by  Michael Healey , based on Rogers v. Rogers: The Battle for Control of Canada’s Telecom Empire by Alexandra Posadzki  Directe",
       "url": "https://www.gctc.ca/shows/rogers-v-rogers"
+    },
+    {
+      "source": "gctc",
+      "title": "Nov\n          6",
+      "date": "2026-10-20",
+      "rawDate": "2026-10-20",
+      "time": "20:00",
+      "venue": "GCTC",
+      "description": "Celebrate the 30th anniversary of the iconic soundtrack, performed live for one night only at Great Canadian Theatre Company. Featuring Sarah Segal-Lazar & The Butcher Hearts with special guests.",
+      "url": "https://www.gctc.ca/events/baz-lurhmann-rj"
     },
     {
       "source": "ottawapops",
