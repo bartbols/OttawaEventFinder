@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-30T12:13:05.968Z",
-  "totalEvents": 505,
+  "scrapedAt": "2026-10-01T12:47:16.347Z",
+  "totalEvents": 522,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Women, Truth & Reconciliation",
-      "subtitle": "With Rose LeMay and Tanya Talaga",
-      "date": "2026-09-30",
-      "rawDate": "2026-09-30",
-      "time": "17:30",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "With Rose LeMay and Tanya Talaga",
-      "url": "https://nac-cna.ca/en/event/41478"
-    },
     {
       "source": "nac",
       "title": "Rheostatics",
@@ -1725,6 +1714,193 @@
       "url": "https://nac-cna.ca/en/event/41632"
     },
     {
+      "source": "nac",
+      "title": "Les lundis des tout-petits",
+      "subtitle": "French story time with Luana",
+      "date": "2026-11-30",
+      "rawDate": "2026-11-30",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "French story time with Luana",
+      "url": "https://nac-cna.ca/en/event/42199"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-11-30",
+      "rawDate": "2026-11-30",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-01",
+      "rawDate": "2026-12-01",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-02",
+      "rawDate": "2026-12-02",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-03",
+      "rawDate": "2026-12-03",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-04",
+      "rawDate": "2026-12-04",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-05",
+      "rawDate": "2026-12-05",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-06",
+      "rawDate": "2026-12-06",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-07",
+      "rawDate": "2026-12-07",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-08",
+      "rawDate": "2026-12-08",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-09",
+      "rawDate": "2026-12-09",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-10",
+      "rawDate": "2026-12-10",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-11",
+      "rawDate": "2026-12-11",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-12",
+      "rawDate": "2026-12-12",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-13",
+      "rawDate": "2026-12-13",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "Beaded Gauntlet Mitten Workshop",
+      "subtitle": "with Collen Nolan",
+      "date": "2026-12-14",
+      "rawDate": "2026-12-14",
+      "time": "17:30",
+      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
+      "description": "with Collen Nolan",
+      "url": "https://nac-cna.ca/en/event/41886"
+    },
+    {
+      "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-11-30",
+      "rawDate": "2026-11-30",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42162"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -2226,13 +2402,23 @@
     },
     {
       "source": "redbird",
+      "title": "An Evening with Daniel Greaves",
+      "date": "2027-01-23",
+      "rawDate": "2027-01-23",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Red Bird is proud to present An Evening with Daniel Greaves.\n\nDaniel Greaves, best known as the frontman of Canadian alt-rock band The Watchmen, has carved out a compelling solo career that showcases ",
+      "url": "https://www.showpass.com/an-evening-with-daniel-greaves/"
+    },
+    {
+      "source": "redbird",
       "title": "Julian Taylor",
       "date": "2027-02-06",
       "rawDate": "2027-02-06",
       "time": "1:00 a.m.",
       "venue": "Red Bird Live",
-      "description": "With a soulful voice and captivating stage presence, Julian's unique blend of blues, roots, and folk music has earned him a growing fanbase and critical acclaim not only in Canada but also in Europe a",
-      "url": "https://www.showpass.com/julian-taylor-4/"
+      "description": "\nThere are so many stars in the music world that shine only for a moment. And there are stars that rise and fall, but the heat of some stars can’t be contained and must rise again. Toronto based singe",
+      "url": "https://www.showpass.com/julian-taylor-5/"
     },
     {
       "source": "irenes",
@@ -3241,7 +3427,7 @@
       "rawDate": "2026-10-23T23:30:00.919Z",
       "time": "23:30",
       "venue": "Ottawa Pops Orchestra",
-      "description": "The Symphony in Your Living Room \n              \n\n              \n                A nostalgic celebration of the music behind generations of animated classics.&nbsp;\n              \n\n              \n\n   ",
+      "description": "The Symphony in Your Living Room \n        \n\n        \n          A nostalgic celebration of the music behind generations of animated classics.&nbsp;\n        \n\n        \n\n      \n    \n\n    \n\n\n  \n\n  \n\n\n  \n\n",
       "url": "https://www.ottawapopsorchestra.ca/events/saturday-morning-cartoons"
     },
     {
@@ -3251,7 +3437,7 @@
       "rawDate": "2027-02-27T00:30:00.919Z",
       "time": "00:30",
       "venue": "Ottawa Pops Orchestra",
-      "description": "Concert Celebration of the Music of John Williams&nbsp;\n              \n\n              \n                The unforgettable music behind cinema's greatest adventures.\n              \n\n              \n\n    ",
+      "description": "Concert Celebration of the Music of John Williams&nbsp;\n        \n\n        \n          The unforgettable music behind cinema's greatest adventures.\n        \n\n        \n\n      \n    \n\n    \n\n\n  \n\n  \n\n\n  \n\n\n",
       "url": "https://www.ottawapopsorchestra.ca/events/the-music-of-john-williams"
     },
     {
@@ -3261,7 +3447,7 @@
       "rawDate": "2027-04-09T23:30:00.919Z",
       "time": "23:30",
       "venue": "Ottawa Pops Orchestra",
-      "description": "A symphonic celebration of the music of Studio Ghibli.\n              \n\n              \n                The music of Joe Hisaishi returns in the third chapter of our celebrated series.\n              \n\n ",
+      "description": "A symphonic celebration of the music of Studio Ghibli.\n        \n\n        \n          The music of Joe Hisaishi returns in the third chapter of our celebrated series.\n        \n\n        \n\n      \n    \n\n  ",
       "url": "https://www.ottawapopsorchestra.ca/events/ghibli-symphony-part-iii"
     },
     {
@@ -3271,7 +3457,7 @@
       "rawDate": "2027-06-10T23:30:00.919Z",
       "time": "23:30",
       "venue": "Ottawa Pops Orchestra",
-      "description": "Semi-Staged Concert Production\n              \n\n              \n                Leonard Bernstein's original Broadway orchestration performed live.\n              \n\n              \n\n            \n         ",
+      "description": "Semi-Staged Concert Production\n        \n\n        \n          Leonard Bernstein's original Broadway orchestration performed live.\n        \n\n        \n\n      \n    \n\n    \n\n\n  \n\n  \n\n\n  \n\n\n  \n    \n.opo-accor",
       "url": "https://www.ottawapopsorchestra.ca/events/west-side-story-in-concert"
     },
     {
