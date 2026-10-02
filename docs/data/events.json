@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-01T12:47:16.347Z",
-  "totalEvents": 522,
+  "scrapedAt": "2026-10-02T12:11:11.865Z",
+  "totalEvents": 520,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,28 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Rheostatics",
-      "subtitle": null,
-      "date": "2026-10-01",
-      "rawDate": "2026-10-01",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41187"
-    },
-    {
-      "source": "nac",
-      "title": "Les Charbonniers de l'enfer",
-      "subtitle": "The F-I FI, N-I NI show",
-      "date": "2026-10-01",
-      "rawDate": "2026-10-01",
-      "time": "20:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "The F-I FI, N-I NI show",
-      "url": "https://nac-cna.ca/en/event/41048"
-    },
     {
       "source": "nac",
       "title": "k.d. lang: has always been",
@@ -894,7 +872,7 @@
       "subtitle": "Explosive, immersive stage experience you can dive straight into",
       "date": "2026-10-31",
       "rawDate": "2026-10-31",
-      "time": "11:00",
+      "time": "15:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "Explosive, immersive stage experience you can dive straight into",
       "url": "https://nac-cna.ca/en/event/40431"
@@ -905,7 +883,7 @@
       "subtitle": "Explosive, immersive stage experience you can dive straight into",
       "date": "2026-11-01",
       "rawDate": "2026-11-01",
-      "time": "11:00",
+      "time": "15:00",
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "Explosive, immersive stage experience you can dive straight into",
       "url": "https://nac-cna.ca/en/event/40431"
@@ -1151,6 +1129,17 @@
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": null,
       "url": "https://nac-cna.ca/en/event/42168"
+    },
+    {
+      "source": "nac",
+      "title": "Robert Thomas and the sessionmen In Concert, with special guest Pat Moore",
+      "subtitle": "Songs and stories of the road from one of Canada's finest songwriters",
+      "date": "2026-11-10",
+      "rawDate": "2026-11-10",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Songs and stories of the road from one of Canada's finest songwriters",
+      "url": "https://nac-cna.ca/en/event/42185"
     },
     {
       "source": "nac",
@@ -1901,6 +1890,17 @@
       "url": "https://nac-cna.ca/en/event/42162"
     },
     {
+      "source": "nac",
+      "title": "Powwow Life-Drawing",
+      "subtitle": null,
+      "date": "2026-12-01",
+      "rawDate": "2026-12-01",
+      "time": "18:00",
+      "venue": "Rossy Pavilion Pavillon Rossy",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41795"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -1919,16 +1919,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "Catherine MacLellan",
-      "date": "2026-10-02",
-      "rawDate": "2026-10-02",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Catherine MacLellan has been captivating audiences around the world with her music for over two decades. Born and raised in the idyllic province of Prince Edward Island, Catherine's songs reflect her ",
-      "url": "https://www.showpass.com/catherine-maclellan-6/"
     },
     {
       "source": "redbird",
@@ -2422,16 +2412,6 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Rusty McCarthy",
-      "date": "2026-10-01",
-      "rawDate": "Oct 1",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-bhhzs"
-    },
-    {
-      "source": "irenes",
       "title": "Run Coyote with Special Guests The Berns & Leeny Jones",
       "date": "2026-10-02",
       "rawDate": "Oct 2",
@@ -2692,12 +2672,12 @@
     },
     {
       "source": "irenes",
-      "title": "Meet Market - A Dating & Variety Show",
+      "title": "Talking Heads - A Talk Show about Death, Witches, Grief, and Ghosts Hosted by Maggie May Harder",
       "date": "2026-10-28",
       "rawDate": "Oct 28",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": "Meat Market Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ after 9 ",
+      "description": "Maggie May Harder TICKETS Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s i",
       "url": "https://irenespub.ca/events/cdgjrrox6zcphnahcf6ct55ik4gk6j"
     },
     {
@@ -2722,7 +2702,7 @@
     },
     {
       "source": "irenes",
-      "title": "Revenant Dan & the Murder Crows",
+      "title": "Revenant Dan & the Murder Crows ft.The Mountain Gems",
       "date": "2026-10-30",
       "rawDate": "Oct 30",
       "time": "21:00",
@@ -2997,7 +2977,7 @@
       "rawDate": "Nov 27",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Red Light Run Graven All funds raised go towards Movember and The Chris Olson Scholarship Fund Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seat",
+      "description": "Red Light Run Graven All funds raised go towards Movember and The Chris Olson Scholarship FundTicket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seati",
       "url": "https://irenespub.ca/events/movember-fundraiser"
     },
     {
@@ -3029,6 +3009,16 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Rusty McCarthy",
+      "date": "2026-10-01",
+      "rawDate": "Oct 1",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-bhhzs"
     },
     {
       "source": "irenes",
@@ -3319,16 +3309,6 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp"
-    },
-    {
-      "source": "irenes",
-      "title": "August John with Special Guests Supersum & The Louies",
-      "date": "2026-08-29",
-      "rawDate": "Aug 29",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "August John Supersum The Louies Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price subject to change at the door",
-      "url": "https://irenespub.ca/events/august-john-with-special-guests"
     },
     {
       "source": "gctc",
