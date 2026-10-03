@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-02T12:11:11.865Z",
-  "totalEvents": 520,
+  "scrapedAt": "2026-10-03T11:21:34.621Z",
+  "totalEvents": 519,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "k.d. lang: has always been",
-      "subtitle": "An Evening Celebrating a Musical Legacy",
-      "date": "2026-10-02",
-      "rawDate": "2026-10-02",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "An Evening Celebrating a Musical Legacy",
-      "url": "https://nac-cna.ca/en/event/40498"
-    },
     {
       "source": "nac",
       "title": "Story Behind the Song: A Women in Music Songwriter’s Circle",
@@ -846,6 +835,17 @@
     },
     {
       "source": "nac",
+      "title": "Day of the Dead Celebrations",
+      "subtitle": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
+      "date": "2026-10-30",
+      "rawDate": "2026-10-30",
+      "time": "18:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
+      "url": "https://nac-cna.ca/en/event/42240"
+    },
+    {
+      "source": "nac",
       "title": "Afro-Andean Funk",
       "subtitle": "Todo Migra Tour",
       "date": "2026-10-30",
@@ -865,6 +865,28 @@
       "venue": "Fourth Stage Quatrième Salle",
       "description": "Performed by the Ballet Mexicain du Montreal",
       "url": "https://nac-cna.ca/en/event/42151"
+    },
+    {
+      "source": "nac",
+      "title": "Day of the Dead Altar",
+      "subtitle": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
+      "date": "2026-10-31",
+      "rawDate": "2026-10-31",
+      "time": "00:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
+      "url": "https://nac-cna.ca/en/event/42241"
+    },
+    {
+      "source": "nac",
+      "title": "Day of the Dead Altar",
+      "subtitle": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
+      "date": "2026-11-01",
+      "rawDate": "2026-11-01",
+      "time": "00:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
+      "url": "https://nac-cna.ca/en/event/42241"
     },
     {
       "source": "nac",
@@ -1451,6 +1473,17 @@
     },
     {
       "source": "nac",
+      "title": "HoliYay Craft Market",
+      "subtitle": null,
+      "date": "2026-11-22",
+      "rawDate": "2026-11-22",
+      "time": "11:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42230"
+    },
+    {
+      "source": "nac",
       "title": "SoulRhythms",
       "subtitle": null,
       "date": "2026-11-23",
@@ -1922,16 +1955,6 @@
     },
     {
       "source": "redbird",
-      "title": "Catherine MacLellan",
-      "date": "2026-10-03",
-      "rawDate": "2026-10-03",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Catherine MacLellan has been captivating audiences around the world with her music for over two decades. Born and raised in the idyllic province of Prince Edward Island, Catherine's songs reflect her ",
-      "url": "https://www.showpass.com/catherine-maclellan-7/"
-    },
-    {
-      "source": "redbird",
       "title": "Dala",
       "date": "2026-10-04",
       "rawDate": "2026-10-04",
@@ -2043,19 +2066,9 @@
     {
       "source": "redbird",
       "title": "The Paul Weber Band",
-      "date": "2026-10-17",
-      "rawDate": "2026-10-17",
-      "time": "11:00 p.m.",
-      "venue": "Red Bird Live",
-      "description": "Paul Weber and his band (Ode to Gerry Barber, Ghost Beer Train) are putting on a one-time show to celebrate 200 years of Bytown/Ottawa history. The show will be bilingual, in English and in French, an",
-      "url": "https://www.showpass.com/the-paul-weber-band-2/"
-    },
-    {
-      "source": "redbird",
-      "title": "The Paul Weber Band",
       "date": "2026-10-18",
       "rawDate": "2026-10-18",
-      "time": "11:00 p.m.",
+      "time": "12:00 a.m.",
       "venue": "Red Bird Live",
       "description": "Paul Weber and his band (Ode to Gerry Barber, Ghost Beer Train) are putting on a one-time show to celebrate 200 years of Bytown/Ottawa history. The show will be bilingual, in English and in French, an",
       "url": "https://www.showpass.com/the-paul-weber-band-2/"
@@ -2409,16 +2422,6 @@
       "venue": "Red Bird Live",
       "description": "\nThere are so many stars in the music world that shine only for a moment. And there are stars that rise and fall, but the heat of some stars can’t be contained and must rise again. Toronto based singe",
       "url": "https://www.showpass.com/julian-taylor-5/"
-    },
-    {
-      "source": "irenes",
-      "title": "Run Coyote with Special Guests The Berns & Leeny Jones",
-      "date": "2026-10-02",
-      "rawDate": "Oct 2",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Se",
-      "url": "https://irenespub.ca/events/run-coyote-with-special-guests-the-berns-leeny-jones"
     },
     {
       "source": "irenes",
@@ -3012,6 +3015,16 @@
     },
     {
       "source": "irenes",
+      "title": "Run Coyote with Special Guests The Berns & Leeny Jones",
+      "date": "2026-10-02",
+      "rawDate": "Oct 2",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Se",
+      "url": "https://irenespub.ca/events/run-coyote-with-special-guests-the-berns-leeny-jones"
+    },
+    {
+      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Rusty McCarthy",
       "date": "2026-10-01",
       "rawDate": "Oct 1",
@@ -3299,16 +3312,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-cnh7b"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-08-30",
-      "rawDate": "Aug 30",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp"
     },
     {
       "source": "gctc",
@@ -4985,16 +4988,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "Ya Levis",
-      "date": "2026-10-02",
-      "rawDate": "Friday, Oct 2, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/ya-levis/"
     },
     {
       "source": "bronson",
