@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-04T12:02:52.446Z",
+  "scrapedAt": "2026-10-05T14:06:07.608Z",
   "totalEvents": 519,
   "errors": [
     {
@@ -1967,6 +1967,17 @@
       "url": "https://nac-cna.ca/en/event/40836"
     },
     {
+      "source": "nac",
+      "title": "Basset",
+      "subtitle": null,
+      "date": "2026-12-04",
+      "rawDate": "2026-12-04",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41633"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -2445,26 +2456,6 @@
       "venue": "Red Bird Live",
       "description": "\nThere are so many stars in the music world that shine only for a moment. And there are stars that rise and fall, but the heat of some stars can’t be contained and must rise again. Toronto based singe",
       "url": "https://www.showpass.com/julian-taylor-5/"
-    },
-    {
-      "source": "irenes",
-      "title": "Bec & Rusty - Matinée",
-      "date": "2026-10-04",
-      "rawDate": "Oct 4",
-      "time": "15:00",
-      "venue": "Irene's Pub",
-      "description": "Rebecca Campbell Russell Levia Click here to buy ticketsSell tickets online with Ticket Tailor ‍ ‍Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. S",
-      "url": "https://irenespub.ca/events/bec-rusty"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue with Special Guest Talise",
-      "date": "2026-10-04",
-      "rawDate": "Oct 4",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue Talise",
-      "url": "https://irenespub.ca/events/2mbrb49k55mn8x6"
     },
     {
       "source": "irenes",
@@ -3028,6 +3019,26 @@
     },
     {
       "source": "irenes",
+      "title": "The Sunday Night Revue with Special Guest Talise",
+      "date": "2026-10-04",
+      "rawDate": "Oct 4",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue Talise",
+      "url": "https://irenespub.ca/events/2mbrb49k55mn8x6"
+    },
+    {
+      "source": "irenes",
+      "title": "Bec & Rusty - Matinée",
+      "date": "2026-10-04",
+      "rawDate": "Oct 4",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "Rebecca Campbell Russell Levia Click here to buy ticketsSell tickets online with Ticket Tailor ‍ ‍Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. S",
+      "url": "https://irenespub.ca/events/bec-rusty"
+    },
+    {
+      "source": "irenes",
       "title": "Kaiday with Special Guests Isaac Baronikian and Eduardo Labbé Trio",
       "date": "2026-10-03",
       "rawDate": "Oct 3",
@@ -3305,26 +3316,6 @@
       "venue": "Irene's Pub",
       "description": "Chantal Celine Jai Vinyl Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/4xtiw2klwt64el51rv28dfkq5z9kdy"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Tracey K.",
-      "date": "2026-09-03",
-      "rawDate": "Sep 3",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye"
-    },
-    {
-      "source": "irenes",
-      "title": "The Prime Rib Big Band",
-      "date": "2026-09-02",
-      "rawDate": "Sep 2",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor",
-      "url": "https://irenespub.ca/events/x8r53ksa6fjdhn28nnwlpgb386m3r2"
     },
     {
       "source": "gctc",
@@ -5334,6 +5325,16 @@
     },
     {
       "source": "bronson",
+      "title": "Jonathan Roy",
+      "date": "2026-12-11",
+      "rawDate": "Friday, Dec 11, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jonathan-roy-2/"
+    },
+    {
+      "source": "bronson",
       "title": "DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS ~ NEW DATE ~",
       "date": "2026-12-12",
       "rawDate": "Saturday, Dec 12, Doors: 8pm",
@@ -5495,7 +5496,7 @@
     {
       "source": "motelchelsea",
       "title": "Skye Consort & Emma Björling",
-      "date": "2026-10-04",
+      "date": "2027-10-04",
       "rawDate": "OCTOBER 04",
       "time": "16:30",
       "venue": "Motel Chelsea",
