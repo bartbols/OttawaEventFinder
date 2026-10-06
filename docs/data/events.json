@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-05T14:06:07.608Z",
-  "totalEvents": 519,
+  "scrapedAt": "2026-10-06T13:04:25.468Z",
+  "totalEvents": 520,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "SoulRhythms",
-      "subtitle": null,
-      "date": "2026-10-05",
-      "rawDate": "2026-10-05",
-      "time": "19:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42155"
-    },
     {
       "source": "nac",
       "title": "Toddler Tuesdays",
@@ -825,12 +814,12 @@
     {
       "source": "nac",
       "title": "The Cabaret of Death",
-      "subtitle": "Performed by the Ballet Mexicain du Montreal",
+      "subtitle": "Performed by the Ballet Mexicain de Montreal",
       "date": "2026-10-30",
       "rawDate": "2026-10-30",
       "time": "20:00",
       "venue": "Fourth Stage Quatrième Salle",
-      "description": "Performed by the Ballet Mexicain du Montreal",
+      "description": "Performed by the Ballet Mexicain de Montreal",
       "url": "https://nac-cna.ca/en/event/42151"
     },
     {
@@ -975,6 +964,17 @@
       "venue": "Southam Hall Salle Southam",
       "description": "and Élisabeth Pion's Debut",
       "url": "https://nac-cna.ca/en/event/40423"
+    },
+    {
+      "source": "nac",
+      "title": "Paolo Fresu",
+      "subtitle": "Improvvisi",
+      "date": "2026-11-04",
+      "rawDate": "2026-11-04",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Improvvisi",
+      "url": "https://nac-cna.ca/en/event/42251"
     },
     {
       "source": "nac",
@@ -1437,6 +1437,17 @@
       "venue": "Southam Hall Salle Southam",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41531"
+    },
+    {
+      "source": "nac",
+      "title": "Hildá Länsman & Tuomas Norvio",
+      "subtitle": null,
+      "date": "2026-11-21",
+      "rawDate": "2026-11-21",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42250"
     },
     {
       "source": "nac",
@@ -1978,6 +1989,28 @@
       "url": "https://nac-cna.ca/en/event/41633"
     },
     {
+      "source": "nac",
+      "title": "Mikhail Laxton",
+      "subtitle": null,
+      "date": "2026-12-05",
+      "rawDate": "2026-12-05",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/41635"
+    },
+    {
+      "source": "nac",
+      "title": "Jann Arden Christmas Concert",
+      "subtitle": "with the NAC Orchestra",
+      "date": "2026-12-05",
+      "rawDate": "2026-12-05",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/42026"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -2344,7 +2377,7 @@
       "rawDate": "2026-12-06",
       "time": "1:00 a.m.",
       "venue": "Red Bird Live",
-      "description": "David Francey is a Scottish-born Canadian carpenter-turned-songwriter, who has become known as “one of Canada’s most revered folk poets and singers” (Toronto Star). Born in Ayrshire, Scotland to paren",
+      "description": "A Christmas Gathering. Songs of Christmas, and Francey fan favorites from over the years.\n \nDavid Francey is a Scottish-born Canadian carpenter-turned-songwriter, who has become known as “one of Canad",
       "url": "https://www.showpass.com/david-francey-6/"
     },
     {
@@ -2459,16 +2492,6 @@
     },
     {
       "source": "irenes",
-      "title": "Capital Music Week Presents Community Songwriting & Lyric Workshop with Kalle Mattson",
-      "date": "2026-10-05",
-      "rawDate": "Oct 5",
-      "time": "19:30",
-      "venue": "Irene's Pub",
-      "description": "Capital Music Week Kalle Mattson Tickets FREE with RSVP",
-      "url": "https://irenespub.ca/events/capital-music-week-presents-community-songwriting-lyric-workshop-with-kalle-mattson"
-    },
-    {
-      "source": "irenes",
       "title": "Trivia Tuesday",
       "date": "2026-10-06",
       "rawDate": "Oct 6",
@@ -2489,7 +2512,7 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Scott Amey",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Murray Kinsley",
       "date": "2026-10-08",
       "rawDate": "Oct 8",
       "time": "20:00",
@@ -2619,7 +2642,7 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Murray Kinsley",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Scott Amey",
       "date": "2026-10-22",
       "rawDate": "Oct 22",
       "time": "20:00",
@@ -2794,7 +2817,7 @@
       "rawDate": "Nov 8",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Songwriters Unite Series Stephen Volger Jeff Bonner",
+      "description": "Songwriters Unite Series Stephen Volger Jeff Bonner Click here to buy ticketsSell tickets online with Ticket Tailor Songwriters Unite presented by TractorgreaseSongwriters Unite shares the muse, the s",
       "url": "https://irenespub.ca/events/songwriters-unite-series-with-stephen-volger-jeff-bonner-and-special-guests"
     },
     {
@@ -3016,6 +3039,16 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga"
+    },
+    {
+      "source": "irenes",
+      "title": "Capital Music Week Presents Community Songwriting & Lyric Workshop with Kalle Mattson",
+      "date": "2026-10-05",
+      "rawDate": "Oct 5",
+      "time": "19:30",
+      "venue": "Irene's Pub",
+      "description": "Capital Music Week Kalle Mattson Tickets FREE with RSVP",
+      "url": "https://irenespub.ca/events/capital-music-week-presents-community-songwriting-lyric-workshop-with-kalle-mattson"
     },
     {
       "source": "irenes",
@@ -3306,16 +3339,6 @@
       "venue": "Irene's Pub",
       "description": "Joshua Isaac Bitterhalf Adam Fortais Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/no-quiet-endings-with-joshua-isaac-bitterhalf-adam-fortais"
-    },
-    {
-      "source": "irenes",
-      "title": "Nostalgia Baby! A Celebration of Y2K Hits with Chantal Celine & Jai Vinyl",
-      "date": "2026-09-04",
-      "rawDate": "Sep 4",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Chantal Celine Jai Vinyl Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
-      "url": "https://irenespub.ca/events/4xtiw2klwt64el51rv28dfkq5z9kdy"
     },
     {
       "source": "gctc",
@@ -5325,16 +5348,6 @@
     },
     {
       "source": "bronson",
-      "title": "Jonathan Roy",
-      "date": "2026-12-11",
-      "rawDate": "Friday, Dec 11, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/jonathan-roy-2/"
-    },
-    {
-      "source": "bronson",
       "title": "DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS ~ NEW DATE ~",
       "date": "2026-12-12",
       "rawDate": "Saturday, Dec 12, Doors: 8pm",
@@ -5495,16 +5508,6 @@
     },
     {
       "source": "motelchelsea",
-      "title": "Skye Consort & Emma Björling",
-      "date": "2027-10-04",
-      "rawDate": "OCTOBER 04",
-      "time": "16:30",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/sunday-october-4-skye-consort-emma-björling-4-30pm"
-    },
-    {
-      "source": "motelchelsea",
       "title": "Ray Bonneville",
       "date": "2026-10-09",
       "rawDate": "OCTOBER 09",
@@ -5512,6 +5515,16 @@
       "venue": "Motel Chelsea",
       "description": null,
       "url": "https://www.motelchelsea.com/post/friday-october-9-ray-bonneville-8-00pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "The Montvales",
+      "date": "2026-10-11",
+      "rawDate": "OCTOBER 11",
+      "time": "16:30",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/sunday-october-11-the-montvales-4-30pm"
     }
   ]
 }
