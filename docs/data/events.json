@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-06T13:04:25.468Z",
-  "totalEvents": 520,
+  "scrapedAt": "2026-10-07T12:58:18.834Z",
+  "totalEvents": 504,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,182 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Toddler Tuesdays",
-      "subtitle": null,
-      "date": "2026-10-06",
-      "rawDate": "2026-10-06",
-      "time": "10:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42163"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-06",
-      "rawDate": "2026-10-06",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-07",
-      "rawDate": "2026-10-07",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-08",
-      "rawDate": "2026-10-08",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-09",
-      "rawDate": "2026-10-09",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-10",
-      "rawDate": "2026-10-10",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-11",
-      "rawDate": "2026-10-11",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-12",
-      "rawDate": "2026-10-12",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-13",
-      "rawDate": "2026-10-13",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-14",
-      "rawDate": "2026-10-14",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-15",
-      "rawDate": "2026-10-15",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-16",
-      "rawDate": "2026-10-16",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-17",
-      "rawDate": "2026-10-17",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-18",
-      "rawDate": "2026-10-18",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-19",
-      "rawDate": "2026-10-19",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
-    {
-      "source": "nac",
-      "title": "Beaded Vamp and Moccasin Workshop",
-      "subtitle": "with Colleen Nolan",
-      "date": "2026-10-20",
-      "rawDate": "2026-10-20",
-      "time": "17:30",
-      "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
-      "description": "with Colleen Nolan",
-      "url": "https://nac-cna.ca/en/event/41878"
-    },
     {
       "source": "nac",
       "title": "Beethoven & Kerson Leong",
@@ -2032,16 +1856,6 @@
     },
     {
       "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-10-07",
-      "rawDate": "2026-10-07",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
-      "url": "https://www.showpass.com/open-stage-7-26-10-06-20-9398/"
-    },
-    {
-      "source": "redbird",
       "title": "Bluegrass Wednesdays ft.County Road 44",
       "date": "2026-10-07",
       "rawDate": "2026-10-07",
@@ -2492,16 +2306,6 @@
     },
     {
       "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-10-06",
-      "rawDate": "Oct 6",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-7lepl"
-    },
-    {
-      "source": "irenes",
       "title": "The Prime Rib Big Band",
       "date": "2026-10-07",
       "rawDate": "Oct 7",
@@ -2528,7 +2332,7 @@
       "time": "21:00",
       "venue": "Irene's Pub",
       "description": "The Haylofters Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guara",
-      "url": "https://irenespub.ca/events/tba-4"
+      "url": "https://irenespub.ca/events/the-haylofters-andrew-jones"
     },
     {
       "source": "irenes",
@@ -3042,6 +2846,16 @@
     },
     {
       "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-10-06",
+      "rawDate": "Oct 6",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-7lepl"
+    },
+    {
+      "source": "irenes",
       "title": "Capital Music Week Presents Community Songwriting & Lyric Workshop with Kalle Mattson",
       "date": "2026-10-05",
       "rawDate": "Oct 5",
@@ -3329,16 +3143,6 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-mzlly"
-    },
-    {
-      "source": "irenes",
-      "title": "No Quiet Endings with Joshua Isaac, Bitterhalf & Adam Fortais",
-      "date": "2026-09-05",
-      "rawDate": "Sep 5",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Joshua Isaac Bitterhalf Adam Fortais Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
-      "url": "https://irenespub.ca/events/no-quiet-endings-with-joshua-isaac-bitterhalf-adam-fortais"
     },
     {
       "source": "gctc",
@@ -5018,16 +4822,6 @@
     },
     {
       "source": "bronson",
-      "title": "Danny Bhoy – Night 3",
-      "date": "2026-10-06",
-      "rawDate": "Tuesday, Oct 6, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-3/"
-    },
-    {
-      "source": "bronson",
       "title": "Danny Bhoy – Night 1",
       "date": "2026-10-07",
       "rawDate": "Wednesday, Oct 7, Doors: 6:30pm",
@@ -5348,6 +5142,26 @@
     },
     {
       "source": "bronson",
+      "title": "Scott Helman",
+      "date": "2026-12-09",
+      "rawDate": "Wednesday, Dec 9, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/scott-helman-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "Jonathan Roy",
+      "date": "2026-12-11",
+      "rawDate": "Friday, Dec 11, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jonathan-roy-2/"
+    },
+    {
+      "source": "bronson",
       "title": "DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS ~ NEW DATE ~",
       "date": "2026-12-12",
       "rawDate": "Saturday, Dec 12, Doors: 8pm",
@@ -5455,6 +5269,16 @@
       "venue": "Chamberfest",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/an-evening-with-janina-fialkowska-a-historic-farewell/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Adaptive Concert Showcase at “La Nuit des Idées”",
+      "date": "2026-10-22",
+      "rawDate": "Oct 22 2026",
+      "time": "16:00",
+      "venue": "National Gallery of Canada",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/adaptive-concert-showcase-la-nuit-des-idees/"
     },
     {
       "source": "chamberfest",
