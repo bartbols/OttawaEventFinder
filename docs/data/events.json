@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-07T12:58:18.834Z",
-  "totalEvents": 504,
+  "scrapedAt": "2026-10-08T13:07:01.266Z",
+  "totalEvents": 499,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,39 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Beethoven & Kerson Leong",
-      "subtitle": "With the NAC Orchestra",
-      "date": "2026-10-07",
-      "rawDate": "2026-10-07",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "With the NAC Orchestra",
-      "url": "https://nac-cna.ca/en/event/40404"
-    },
-    {
-      "source": "nac",
-      "title": "Beethoven & Kerson Leong",
-      "subtitle": "With the NAC Orchestra",
-      "date": "2026-10-08",
-      "rawDate": "2026-10-08",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "With the NAC Orchestra",
-      "url": "https://nac-cna.ca/en/event/40404"
-    },
-    {
-      "source": "nac",
-      "title": "LIGHTBAHN x RASC Ottawa: Guided night sky observation",
-      "subtitle": null,
-      "date": "2026-10-07",
-      "rawDate": "2026-10-07",
-      "time": "20:30",
-      "venue": "Wood Terrace Terrasse en bois",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42197"
-    },
     {
       "source": "nac",
       "title": "Begonia",
@@ -84,6 +51,17 @@
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "Autofiction between here and Africa",
       "url": "https://nac-cna.ca/en/event/40441"
+    },
+    {
+      "source": "nac",
+      "title": "LIGHTBAHN x RASC Ottawa: Guided night sky observation",
+      "subtitle": null,
+      "date": "2026-10-08",
+      "rawDate": "2026-10-08",
+      "time": "20:30",
+      "venue": "Wood Terrace Terrasse en bois",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42197"
     },
     {
       "source": "nac",
@@ -1814,6 +1792,28 @@
     },
     {
       "source": "nac",
+      "title": "Adàwàning: Indigenous Women’s Art Market",
+      "subtitle": null,
+      "date": "2026-12-05",
+      "rawDate": "2026-12-05",
+      "time": "10:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42253"
+    },
+    {
+      "source": "nac",
+      "title": "Adàwàning: Indigenous Women’s Art Market",
+      "subtitle": null,
+      "date": "2026-12-06",
+      "rawDate": "2026-12-06",
+      "time": "10:00",
+      "venue": "Atrium O’Brien Atrium O’Brien",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42253"
+    },
+    {
+      "source": "nac",
       "title": "Mikhail Laxton",
       "subtitle": null,
       "date": "2026-12-05",
@@ -1853,26 +1853,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "Bluegrass Wednesdays ft.County Road 44",
-      "date": "2026-10-07",
-      "rawDate": "2026-10-07",
-      "time": "11:30 p.m.",
-      "venue": "Red Bird Live",
-      "description": "Each month Bluegrass Wednesdays begins with a 2 hour concert followed by a jam session.\nAlways a good time - always a good crowd!\n \n \nIt's been a while, but we're pleased to announce that our featured",
-      "url": "https://www.showpass.com/bluegrass-wednesdays-ftcounty-road-44/"
-    },
-    {
-      "source": "redbird",
-      "title": "Bluegrass Wednesdays ft.County Road 44",
-      "date": "2026-10-08",
-      "rawDate": "2026-10-08",
-      "time": "11:30 p.m.",
-      "venue": "Red Bird Live",
-      "description": "Each month Bluegrass Wednesdays begins with a 2 hour concert followed by a jam session.\nAlways a good time - always a good crowd!\n \n \nIt's been a while, but we're pleased to announce that our featured",
-      "url": "https://www.showpass.com/bluegrass-wednesdays-ftcounty-road-44/"
     },
     {
       "source": "redbird",
@@ -2306,16 +2286,6 @@
     },
     {
       "source": "irenes",
-      "title": "The Prime Rib Big Band",
-      "date": "2026-10-07",
-      "rawDate": "Oct 7",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is n",
-      "url": "https://irenespub.ca/events/dwyaz5e8e73gagray63ad6zwkcnc6h"
-    },
-    {
-      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Murray Kinsley",
       "date": "2026-10-08",
       "rawDate": "Oct 8",
@@ -2609,7 +2579,7 @@
       "title": "Tony D Band",
       "date": "2026-11-07",
       "rawDate": "Nov 7",
-      "time": "21:00",
+      "time": "20:00",
       "venue": "Irene's Pub",
       "description": "Tony D Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. P",
       "url": "https://irenespub.ca/events/tony-d-band"
@@ -2843,6 +2813,16 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga"
+    },
+    {
+      "source": "irenes",
+      "title": "The Prime Rib Big Band",
+      "date": "2026-10-07",
+      "rawDate": "Oct 7",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Prime Rib Big Band Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is n",
+      "url": "https://irenespub.ca/events/dwyaz5e8e73gagray63ad6zwkcnc6h"
     },
     {
       "source": "irenes",
@@ -3135,16 +3115,6 @@
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-93xjy"
     },
     {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-09-06",
-      "rawDate": "Sep 6",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-mzlly"
-    },
-    {
       "source": "gctc",
       "title": "Rogers v. Rogers (Oct 20 - Nov 1, 2026)",
       "date": "2026-10-20",
@@ -3193,16 +3163,6 @@
       "venue": "GCTC",
       "description": "  Waiting for Godot - Inuktitut   A 662 OVA (Nunavut) and Volcano (Toronto) creative collaboration, produced in association with Great Canadian Theatre Company, NAC Indigenous Theatre and the NAC’s Na",
       "url": "https://www.gctc.ca/shows/waiting-for-godot-inuktitut"
-    },
-    {
-      "source": "gctc",
-      "title": "Jagged Little Pill (Tototoo Theatre)",
-      "date": "2026-10-20",
-      "rawDate": "2026-10-20",
-      "time": "19:30",
-      "venue": "GCTC",
-      "description": "  TotoToo Theatre is proud to present Jagged Little Pill, the electrifying Tony Award-winning musical inspired by the groundbreaking music of Alanis Morissette.  ",
-      "url": "https://www.gctc.ca/events/jagged-little-pill"
     },
     {
       "source": "gctc",
@@ -4819,16 +4779,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "Danny Bhoy – Night 1",
-      "date": "2026-10-07",
-      "rawDate": "Wednesday, Oct 7, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-1/"
     },
     {
       "source": "bronson",
