@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-08T13:07:01.266Z",
-  "totalEvents": 499,
+  "scrapedAt": "2026-10-09T12:53:11.030Z",
+  "totalEvents": 495,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,61 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Begonia",
-      "subtitle": "The Fantasy Life Tour with Cartel Madras",
-      "date": "2026-10-08",
-      "rawDate": "2026-10-08",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "The Fantasy Life Tour with Cartel Madras",
-      "url": "https://nac-cna.ca/en/event/40783"
-    },
-    {
-      "source": "nac",
-      "title": "Neige sur Abidjan",
-      "subtitle": "Autofiction between here and Africa",
-      "date": "2026-10-08",
-      "rawDate": "2026-10-08",
-      "time": "20:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "Autofiction between here and Africa",
-      "url": "https://nac-cna.ca/en/event/40441"
-    },
-    {
-      "source": "nac",
-      "title": "Neige sur Abidjan",
-      "subtitle": "Autofiction between here and Africa",
-      "date": "2026-10-09",
-      "rawDate": "2026-10-09",
-      "time": "20:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "Autofiction between here and Africa",
-      "url": "https://nac-cna.ca/en/event/40441"
-    },
-    {
-      "source": "nac",
-      "title": "Neige sur Abidjan",
-      "subtitle": "Autofiction between here and Africa",
-      "date": "2026-10-10",
-      "rawDate": "2026-10-10",
-      "time": "20:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "Autofiction between here and Africa",
-      "url": "https://nac-cna.ca/en/event/40441"
-    },
-    {
-      "source": "nac",
-      "title": "LIGHTBAHN x RASC Ottawa: Guided night sky observation",
-      "subtitle": null,
-      "date": "2026-10-08",
-      "rawDate": "2026-10-08",
-      "time": "20:30",
-      "venue": "Wood Terrace Terrasse en bois",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42197"
-    },
     {
       "source": "nac",
       "title": "John Cleese and the Holy Grail at 50",
@@ -256,7 +201,7 @@
       "subtitle": "ArohaFest Diwali Dhamaka",
       "date": "2026-10-17",
       "rawDate": "2026-10-17",
-      "time": "13:00",
+      "time": "12:00",
       "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
       "description": "ArohaFest Diwali Dhamaka",
       "url": "https://nac-cna.ca/en/event/42079"
@@ -429,12 +374,12 @@
     {
       "source": "nac",
       "title": "Dana Sipos",
-      "subtitle": null,
+      "subtitle": "with Sal",
       "date": "2026-10-22",
       "rawDate": "2026-10-22",
       "time": "20:00",
       "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
+      "description": "with Sal",
       "url": "https://nac-cna.ca/en/event/41654"
     },
     {
@@ -880,12 +825,12 @@
     {
       "source": "nac",
       "title": "The East Pointers",
-      "subtitle": null,
+      "subtitle": "with Emilea May",
       "date": "2026-11-08",
       "rawDate": "2026-11-08",
       "time": "19:30",
       "venue": "Babs Asper Babs Asper",
-      "description": null,
+      "description": "with Emilea May",
       "url": "https://nac-cna.ca/en/event/41146"
     },
     {
@@ -1835,6 +1780,17 @@
       "url": "https://nac-cna.ca/en/event/42026"
     },
     {
+      "source": "nac",
+      "title": "The Tenors",
+      "subtitle": "Season of Hope Tour",
+      "date": "2026-12-08",
+      "rawDate": "2026-12-08",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Season of Hope Tour",
+      "url": "https://nac-cna.ca/en/event/41728"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -1853,16 +1809,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "Ray Bonneville",
-      "date": "2026-10-09",
-      "rawDate": "2026-10-09",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Acclaimed raconteur Ray Bonneville strips his bluesy Americana to its essentials and steeps it inthe humid grooves of the South, creating a compelling poetry of hard living and deep feeling. Hisninth ",
-      "url": "https://www.showpass.com/ray-bonneville-4/"
     },
     {
       "source": "redbird",
@@ -2143,6 +2089,16 @@
       "venue": "Red Bird Live",
       "description": "HORSEBATH are a Canadian Americana and folk-rock band with shades of psychedelia, rich harmonies and the loose, instinctive interplay of a band that has spent a lot of time playing together. Since rel",
       "url": "https://www.showpass.com/horsebath/"
+    },
+    {
+      "source": "redbird",
+      "title": "Jeff Meleras and the Bokonons with Jacob Meleras",
+      "date": "2026-11-28",
+      "rawDate": "2026-11-28",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Jeff Meleras and the Bokonons are very psyched to announce that they will be back at the Red Bird on Nov 27for the third launch of their fourth album, \"Desert Songs\", at this iconic venue.  This will ",
+      "url": "https://www.showpass.com/jeff-meleras-and-the-bokonons-with-ja/"
     },
     {
       "source": "redbird",
@@ -2636,13 +2592,13 @@
     },
     {
       "source": "irenes",
-      "title": "TBA",
+      "title": "The Commotions",
       "date": "2026-11-13",
       "rawDate": "Nov 13",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": null,
-      "url": "https://irenespub.ca/events/5j38bps53ed8n8ml9bdy4lp3n5jty8"
+      "description": "The Commotions Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "url": "https://irenespub.ca/events/the-commotions"
     },
     {
       "source": "irenes",
@@ -4782,16 +4738,6 @@
     },
     {
       "source": "bronson",
-      "title": "Danny Bhoy – Night 2",
-      "date": "2026-10-08",
-      "rawDate": "Thursday, Oct 8, Doors: 6:30pm",
-      "time": "18:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/danny-bhoy-night-2/"
-    },
-    {
-      "source": "bronson",
       "title": "DESPISED ICON",
       "date": "2026-10-10",
       "rawDate": "Saturday, Oct 10, Doors: 5:30pm",
@@ -5299,6 +5245,16 @@
       "venue": "Motel Chelsea",
       "description": null,
       "url": "https://www.motelchelsea.com/post/sunday-october-11-the-montvales-4-30pm"
+    },
+    {
+      "source": "motelchelsea",
+      "title": "Basia Bulat",
+      "date": "2026-10-16",
+      "rawDate": "OCTOBER 16",
+      "time": "20:00",
+      "venue": "Motel Chelsea",
+      "description": null,
+      "url": "https://www.motelchelsea.com/post/friday-october-16-basia-bulat-8-00pm"
     }
   ]
 }
