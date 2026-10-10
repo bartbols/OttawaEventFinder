@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-09T12:53:11.030Z",
-  "totalEvents": 495,
+  "scrapedAt": "2026-10-10T12:12:06.776Z",
+  "totalEvents": 491,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,39 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "John Cleese and the Holy Grail at 50",
-      "subtitle": "Not dead yet!",
-      "date": "2026-10-09",
-      "rawDate": "2026-10-09",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "Not dead yet!",
-      "url": "https://nac-cna.ca/en/event/40850"
-    },
-    {
-      "source": "nac",
-      "title": "John Cleese and the Holy Grail at 50",
-      "subtitle": "Not dead yet!",
-      "date": "2026-10-10",
-      "rawDate": "2026-10-10",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "Not dead yet!",
-      "url": "https://nac-cna.ca/en/event/40850"
-    },
-    {
-      "source": "nac",
-      "title": "Capital Music Awards",
-      "subtitle": "Ottawa Music Industry Coalition",
-      "date": "2026-10-09",
-      "rawDate": "2026-10-09",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "Ottawa Music Industry Coalition",
-      "url": "https://nac-cna.ca/en/event/41535"
-    },
     {
       "source": "nac",
       "title": "BON Chat: Between Two Worlds",
@@ -337,6 +304,17 @@
       "venue": "Babs Asper Babs Asper",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41197"
+    },
+    {
+      "source": "nac",
+      "title": "Connecting for Caring",
+      "subtitle": "An evening of stories, music and conversation",
+      "date": "2026-10-22",
+      "rawDate": "2026-10-22",
+      "time": "18:30",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "An evening of stories, music and conversation",
+      "url": "https://nac-cna.ca/en/event/42297"
     },
     {
       "source": "nac",
@@ -2097,7 +2075,7 @@
       "rawDate": "2026-11-28",
       "time": "1:00 a.m.",
       "venue": "Red Bird Live",
-      "description": "Jeff Meleras and the Bokonons are very psyched to announce that they will be back at the Red Bird on Nov 27for the third launch of their fourth album, \"Desert Songs\", at this iconic venue.  This will ",
+      "description": "Jeff Meleras and the Bokonons are very psyched to announce that they will be back at the Red Bird on Nov 27 for the third launch of their fourth album, \"Desert Songs\", at this iconic venue.  This will",
       "url": "https://www.showpass.com/jeff-meleras-and-the-bokonons-with-ja/"
     },
     {
@@ -2239,26 +2217,6 @@
       "venue": "Red Bird Live",
       "description": "\nThere are so many stars in the music world that shine only for a moment. And there are stars that rise and fall, but the heat of some stars can’t be contained and must rise again. Toronto based singe",
       "url": "https://www.showpass.com/julian-taylor-5/"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Murray Kinsley",
-      "date": "2026-10-08",
-      "rawDate": "Oct 8",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-p2zma"
-    },
-    {
-      "source": "irenes",
-      "title": "The Haylofters with Special Guest Andrew Jones",
-      "date": "2026-10-09",
-      "rawDate": "Oct 9",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "The Haylofters Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guara",
-      "url": "https://irenespub.ca/events/the-haylofters-andrew-jones"
     },
     {
       "source": "irenes",
@@ -2772,6 +2730,26 @@
     },
     {
       "source": "irenes",
+      "title": "The Haylofters with Special Guest Andrew Jones",
+      "date": "2026-10-09",
+      "rawDate": "Oct 9",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Haylofters Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guara",
+      "url": "https://irenespub.ca/events/the-haylofters-andrew-jones"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Murray Kinsley",
+      "date": "2026-10-08",
+      "rawDate": "Oct 8",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-p2zma"
+    },
+    {
+      "source": "irenes",
       "title": "The Prime Rib Big Band",
       "date": "2026-10-07",
       "rawDate": "Oct 7",
@@ -3049,26 +3027,6 @@
       "venue": "Irene's Pub",
       "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-kg326"
-    },
-    {
-      "source": "irenes",
-      "title": "Jazz Jam with The Beeched Wailers",
-      "date": "2026-09-09",
-      "rawDate": "Sep 9",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Beeched Wailers",
-      "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-5-dl78w-77rwg"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-09-08",
-      "rawDate": "Sep 8",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-93xjy"
     },
     {
       "source": "gctc",
@@ -5070,8 +5028,8 @@
       "source": "bronson",
       "title": "The Nutcracker: A Canadian Tradition",
       "date": "2026-12-14",
-      "rawDate": "Monday, Dec 14, Doors: 7pm",
-      "time": "19:00",
+      "rawDate": "Monday, Dec 14, Doors: 6pm",
+      "time": "18:00",
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/the-nutcracker-a-canadian-tradition/"
@@ -5080,8 +5038,8 @@
       "source": "bronson",
       "title": "The Nutcracker: A Canadian Tradition ~ Early Show",
       "date": "2026-12-15",
-      "rawDate": "Tuesday, Dec 15, Doors: 4pm",
-      "time": "16:00",
+      "rawDate": "Tuesday, Dec 15, Doors: 3pm",
+      "time": "15:00",
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/the-nutcracker-a-canadian-tradition-early-show/"
@@ -5090,8 +5048,8 @@
       "source": "bronson",
       "title": "The Nutcracker: A Canadian Tradition ~ Late Show",
       "date": "2026-12-15",
-      "rawDate": "Tuesday, Dec 15, Doors: 7:30pm",
-      "time": "19:30",
+      "rawDate": "Tuesday, Dec 15, Doors: 6:30pm",
+      "time": "18:30",
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/the-nutcracker-a-canadian-tradition-late-show/"
@@ -5229,7 +5187,7 @@
     {
       "source": "motelchelsea",
       "title": "Ray Bonneville",
-      "date": "2026-10-09",
+      "date": "2027-10-09",
       "rawDate": "OCTOBER 09",
       "time": "20:00",
       "venue": "Motel Chelsea",
