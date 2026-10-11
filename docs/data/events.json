@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-10T12:12:06.776Z",
-  "totalEvents": 491,
+  "scrapedAt": "2026-10-11T12:24:53.493Z",
+  "totalEvents": 489,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,50 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "BON Chat: Between Two Worlds",
-      "subtitle": "A free pre-show conversation exploring migration, identity, and belonging (in French)",
-      "date": "2026-10-10",
-      "rawDate": "2026-10-10",
-      "time": "18:00",
-      "venue": "Salon Salon",
-      "description": "A free pre-show conversation exploring migration, identity, and belonging (in French)",
-      "url": "https://nac-cna.ca/en/event/41928"
-    },
-    {
-      "source": "nac",
-      "title": "summersets",
-      "subtitle": "with Augustine May",
-      "date": "2026-10-10",
-      "rawDate": "2026-10-10",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "with Augustine May",
-      "url": "https://nac-cna.ca/en/event/41583"
-    },
-    {
-      "source": "nac",
-      "title": "Black Out Night (BON): Neige sur Abidjan",
-      "subtitle": null,
-      "date": "2026-10-10",
-      "rawDate": "2026-10-10",
-      "time": "20:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41930"
-    },
-    {
-      "source": "nac",
-      "title": "Heritage in Motion",
-      "subtitle": "Created and Presented by the Ishaka Cultural Group",
-      "date": "2026-10-10",
-      "rawDate": "2026-10-10",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "Created and Presented by the Ishaka Cultural Group",
-      "url": "https://nac-cna.ca/en/event/42086"
-    },
     {
       "source": "nac",
       "title": "Toddler Tuesdays",
@@ -1769,6 +1725,61 @@
       "url": "https://nac-cna.ca/en/event/41728"
     },
     {
+      "source": "nac",
+      "title": "Disney Tim Burton’s The Nightmare Before Christmas in Concert",
+      "subtitle": "with the NAC Orchestra",
+      "date": "2026-12-10",
+      "rawDate": "2026-12-10",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40427"
+    },
+    {
+      "source": "nac",
+      "title": "Disney Tim Burton’s The Nightmare Before Christmas in Concert",
+      "subtitle": "with the NAC Orchestra",
+      "date": "2026-12-11",
+      "rawDate": "2026-12-11",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40427"
+    },
+    {
+      "source": "nac",
+      "title": "Disney Tim Burton’s The Nightmare Before Christmas in Concert",
+      "subtitle": "with the NAC Orchestra",
+      "date": "2026-12-12",
+      "rawDate": "2026-12-12",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "with the NAC Orchestra",
+      "url": "https://nac-cna.ca/en/event/40427"
+    },
+    {
+      "source": "nac",
+      "title": "Kellylee Evans",
+      "subtitle": "Winter Song",
+      "date": "2026-12-10",
+      "rawDate": "2026-12-10",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Winter Song",
+      "url": "https://nac-cna.ca/en/event/41636"
+    },
+    {
+      "source": "nac",
+      "title": "Kellylee Evans",
+      "subtitle": "Winter Song",
+      "date": "2026-12-11",
+      "rawDate": "2026-12-11",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Winter Song",
+      "url": "https://nac-cna.ca/en/event/41636"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -1787,16 +1798,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "sheila&lucile",
-      "date": "2026-10-11",
-      "rawDate": "2026-10-11",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "sheila&amp;lucile are delighted to celebrate the release of their new album, Wavelength.\nA mix of celtic and contemporary music from Canada, Scotland and Ireland - including a new piece written for th",
-      "url": "https://www.showpass.com/sheilalucile/"
     },
     {
       "source": "redbird",
@@ -2217,16 +2218,6 @@
       "venue": "Red Bird Live",
       "description": "\nThere are so many stars in the music world that shine only for a moment. And there are stars that rise and fall, but the heat of some stars can’t be contained and must rise again. Toronto based singe",
       "url": "https://www.showpass.com/julian-taylor-5/"
-    },
-    {
-      "source": "irenes",
-      "title": "Afterglow ft. Mama Mush with Talia Aoude",
-      "date": "2026-10-10",
-      "rawDate": "Oct 10",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Mama Mush Talia Aoude Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is no",
-      "url": "https://irenespub.ca/events/mama-mush-with-special-guests"
     },
     {
       "source": "irenes",
@@ -2730,6 +2721,16 @@
     },
     {
       "source": "irenes",
+      "title": "Afterglow ft. Mama Mush with Talia Aoude",
+      "date": "2026-10-10",
+      "rawDate": "Oct 10",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Mama Mush Talia Aoude Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is no",
+      "url": "https://irenespub.ca/events/mama-mush-with-special-guests"
+    },
+    {
+      "source": "irenes",
       "title": "The Haylofters with Special Guest Andrew Jones",
       "date": "2026-10-09",
       "rawDate": "Oct 9",
@@ -3017,16 +3018,6 @@
       "venue": "Irene's Pub",
       "description": "Sun Dried Flies Bella Donna Dom Doyon Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price. Dom Doyon is a singer-songwrite",
       "url": "https://irenespub.ca/events/sundried-flies-with-special-guests"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Chris Breitner",
-      "date": "2026-09-10",
-      "rawDate": "Sep 10",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-kg326"
     },
     {
       "source": "gctc",
@@ -4693,16 +4684,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "DESPISED ICON",
-      "date": "2026-10-10",
-      "rawDate": "Saturday, Oct 10, Doors: 5:30pm",
-      "time": "17:30",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/despised-icon-2/"
     },
     {
       "source": "bronson",
