@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-12T14:54:11.194Z",
-  "totalEvents": 489,
+  "scrapedAt": "2026-10-13T13:53:04.642Z",
+  "totalEvents": 490,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -1780,6 +1780,17 @@
       "url": "https://nac-cna.ca/en/event/41636"
     },
     {
+      "source": "nac",
+      "title": "Montreal Guitar Trio",
+      "subtitle": "Christmas Around the World",
+      "date": "2026-12-12",
+      "rawDate": "2026-12-12",
+      "time": "20:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "Christmas Around the World",
+      "url": "https://nac-cna.ca/en/event/41637"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -2191,6 +2202,16 @@
     },
     {
       "source": "redbird",
+      "title": "Dave Gunning",
+      "date": "2027-01-17",
+      "rawDate": "2027-01-17",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nWith over two decades on the road and fifteen albums to his credit, Nova Scotia’s Dave Gunning has earned a reputation as one of Canada’s most engaging and respected folk singer-songwriters. A multip",
+      "url": "https://www.showpass.com/dave-gunning-7/"
+    },
+    {
+      "source": "redbird",
       "title": "An Evening with Daniel Greaves",
       "date": "2027-01-23",
       "rawDate": "2027-01-23",
@@ -2201,6 +2222,16 @@
     },
     {
       "source": "redbird",
+      "title": "An Evening with Daniel Greaves",
+      "date": "2027-01-24",
+      "rawDate": "2027-01-24",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Red Bird is proud to present An Evening with Daniel Greaves.\n\nDaniel Greaves, best known as the frontman of Canadian alt-rock band The Watchmen, has carved out a compelling solo career that showcases ",
+      "url": "https://www.showpass.com/an-evening-with-daniel-greaves-2/"
+    },
+    {
+      "source": "redbird",
       "title": "Julian Taylor",
       "date": "2027-02-06",
       "rawDate": "2027-02-06",
@@ -2208,16 +2239,6 @@
       "venue": "Red Bird Live",
       "description": "\nThere are so many stars in the music world that shine only for a moment. And there are stars that rise and fall, but the heat of some stars can’t be contained and must rise again. Toronto based singe",
       "url": "https://www.showpass.com/julian-taylor-5/"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-10-11",
-      "rawDate": "Oct 11",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/ezxj459cgel5w32"
     },
     {
       "source": "irenes",
@@ -2711,6 +2732,16 @@
     },
     {
       "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-10-11",
+      "rawDate": "Oct 11",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/ezxj459cgel5w32"
+    },
+    {
+      "source": "irenes",
       "title": "Afterglow ft. Mama Mush with Talia Aoude",
       "date": "2026-10-10",
       "rawDate": "Oct 10",
@@ -2998,16 +3029,6 @@
       "venue": "Irene's Pub",
       "description": "GRFN The Extensions Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/willy-nilly-with-special-guests"
-    },
-    {
-      "source": "irenes",
-      "title": "Sun Dried Flies with Special Guests Bella Donna & Dom Doyon",
-      "date": "2026-09-11",
-      "rawDate": "Sep 11",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Sun Dried Flies Bella Donna Dom Doyon Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price. Dom Doyon is a singer-songwrite",
-      "url": "https://irenespub.ca/events/sundried-flies-with-special-guests"
     },
     {
       "source": "gctc",
@@ -4674,16 +4695,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "Buffalo Traffic Jam – SOLD OUT",
-      "date": "2026-10-12",
-      "rawDate": "Monday, Oct 12, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/buffalo-traffic-jam/"
     },
     {
       "source": "bronson",
