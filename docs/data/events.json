@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-13T13:53:04.642Z",
-  "totalEvents": 490,
+  "scrapedAt": "2026-10-14T11:30:05.618Z",
+  "totalEvents": 485,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,28 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Toddler Tuesdays",
-      "subtitle": null,
-      "date": "2026-10-13",
-      "rawDate": "2026-10-13",
-      "time": "10:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42164"
-    },
-    {
-      "source": "nac",
-      "title": "Powwow Life-Drawing",
-      "subtitle": null,
-      "date": "2026-10-13",
-      "rawDate": "2026-10-13",
-      "time": "18:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41793"
-    },
     {
       "source": "nac",
       "title": "danses vagabondes",
@@ -337,6 +315,17 @@
       "venue": "Azrieli Studio Studio Azrieli",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41695"
+    },
+    {
+      "source": "nac",
+      "title": "BON Presents: Beyond the Baton with Damon Gupton",
+      "subtitle": "Black Out Night",
+      "date": "2026-10-24",
+      "rawDate": "2026-10-24",
+      "time": "17:00",
+      "venue": "Salon Salon",
+      "description": "Black Out Night",
+      "url": "https://nac-cna.ca/en/event/42317"
     },
     {
       "source": "nac",
@@ -1812,16 +1801,6 @@
     },
     {
       "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-10-14",
-      "rawDate": "2026-10-14",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
-      "url": "https://www.showpass.com/open-stage-7-26-10-13-20-8497/"
-    },
-    {
-      "source": "redbird",
       "title": "Bronwyn's Big Bad Beautiful Choir",
       "date": "2026-10-15",
       "rawDate": "2026-10-15",
@@ -2241,14 +2220,14 @@
       "url": "https://www.showpass.com/julian-taylor-5/"
     },
     {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-10-13",
-      "rawDate": "Oct 13",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-3ybrt"
+      "source": "redbird",
+      "title": "Jenn Grant",
+      "date": "2027-03-01",
+      "rawDate": "2027-03-01",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "Jenn Grant is a three-time Juno-nominated singer, songwriter, and internationally acclaimed recording artist whose music has been described as “the aural equivalent of a warm embrace” (Pop Matters), “",
+      "url": "https://www.showpass.com/jenn-grant-2/"
     },
     {
       "source": "irenes",
@@ -2472,7 +2451,7 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "title": "Irene's Thursday Blues Sessions with Guest Host John Yemensky",
       "date": "2026-11-05",
       "rawDate": "Nov 5",
       "time": "20:00",
@@ -2542,7 +2521,7 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Elyssa Mahoney",
       "date": "2026-11-12",
       "rawDate": "Nov 12",
       "time": "20:00",
@@ -2612,7 +2591,7 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "title": "Irene's Thursday Blues Sessions with Guest Hosts Ben Griggs & Maria Hawkins",
       "date": "2026-11-19",
       "rawDate": "Nov 19",
       "time": "20:00",
@@ -2632,12 +2611,12 @@
     },
     {
       "source": "irenes",
-      "title": "The Big Train Wreck with S/G",
+      "title": "The Big Train Wreck with S/G KJ & the Strayways",
       "date": "2026-11-21",
       "rawDate": "Nov 21",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Big Train Wreck Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ ",
+      "description": "The Big Train Wreck KJ & the Strayways Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admissi",
       "url": "https://irenespub.ca/events/the-big-train-wreck-with-sg-kj-the-strayways"
     },
     {
@@ -2682,7 +2661,7 @@
     },
     {
       "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Marc Seguin",
       "date": "2026-11-26",
       "rawDate": "Nov 26",
       "time": "20:00",
@@ -2729,6 +2708,16 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-10-13",
+      "rawDate": "Oct 13",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-3ybrt"
     },
     {
       "source": "irenes",
@@ -3019,16 +3008,6 @@
       "venue": "Irene's Pub",
       "description": "Ottawa Dog Rescue Tickets Ticket price at the door may be higher than advanced ticket price.",
       "url": "https://irenespub.ca/events/trivia-fundraiser-for-ottawa-dog-rescue"
-    },
-    {
-      "source": "irenes",
-      "title": "GRFN with Special Guests The Extensions",
-      "date": "2026-09-12",
-      "rawDate": "Sep 12",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "GRFN The Extensions Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.",
-      "url": "https://irenespub.ca/events/willy-nilly-with-special-guests"
     },
     {
       "source": "gctc",
@@ -5088,16 +5067,6 @@
     },
     {
       "source": "chamberfest",
-      "title": "Janina Fialkowska Celebrates 75",
-      "date": "2026-10-13",
-      "rawDate": "Oct 13 2026",
-      "time": "19:00",
-      "venue": "Carleton Dominion-Chalmers Centre",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/janina-fialkowska-celebrates-75/"
-    },
-    {
-      "source": "chamberfest",
       "title": "Masterclass: Janina Fialkowska",
       "date": "2026-10-14",
       "rawDate": "Oct 14 2026",
@@ -5148,7 +5117,7 @@
     },
     {
       "source": "chamberfest",
-      "title": "Gala Noël: All Is Bright",
+      "title": "Gala Noël 2026",
       "date": "2026-12-01",
       "rawDate": "Dec 1 2026",
       "time": "19:00",
@@ -5175,26 +5144,6 @@
       "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/kronos-quartet/"
-    },
-    {
-      "source": "motelchelsea",
-      "title": "Ray Bonneville",
-      "date": "2027-10-09",
-      "rawDate": "OCTOBER 09",
-      "time": "20:00",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/friday-october-9-ray-bonneville-8-00pm"
-    },
-    {
-      "source": "motelchelsea",
-      "title": "The Montvales",
-      "date": "2027-10-11",
-      "rawDate": "OCTOBER 11",
-      "time": "16:30",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/sunday-october-11-the-montvales-4-30pm"
     },
     {
       "source": "motelchelsea",
