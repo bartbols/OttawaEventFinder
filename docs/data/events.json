@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-14T11:30:05.618Z",
-  "totalEvents": 485,
+  "scrapedAt": "2026-10-15T11:06:38.141Z",
+  "totalEvents": 498,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,50 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "danses vagabondes",
-      "subtitle": "Louise Lecavalier │Fou Glorieux",
-      "date": "2026-10-14",
-      "rawDate": "2026-10-14",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "Louise Lecavalier │Fou Glorieux",
-      "url": "https://nac-cna.ca/en/event/40368"
-    },
-    {
-      "source": "nac",
-      "title": "danses vagabondes",
-      "subtitle": "Louise Lecavalier │Fou Glorieux",
-      "date": "2026-10-15",
-      "rawDate": "2026-10-15",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "Louise Lecavalier │Fou Glorieux",
-      "url": "https://nac-cna.ca/en/event/40368"
-    },
-    {
-      "source": "nac",
-      "title": "Toni Morrison Songs & Mendelssohn’s “Scottish” Symphony",
-      "subtitle": "feat. Jacqueline Echols, Roderick Cox, and the NAC Orchestra",
-      "date": "2026-10-14",
-      "rawDate": "2026-10-14",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "feat. Jacqueline Echols, Roderick Cox, and the NAC Orchestra",
-      "url": "https://nac-cna.ca/en/event/40396"
-    },
-    {
-      "source": "nac",
-      "title": "Toni Morrison Songs & Mendelssohn’s “Scottish” Symphony",
-      "subtitle": "feat. Jacqueline Echols, Roderick Cox, and the NAC Orchestra",
-      "date": "2026-10-15",
-      "rawDate": "2026-10-15",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "feat. Jacqueline Echols, Roderick Cox, and the NAC Orchestra",
-      "url": "https://nac-cna.ca/en/event/40396"
-    },
     {
       "source": "nac",
       "title": "Best of Bharatanatyam",
@@ -308,23 +264,23 @@
     {
       "source": "nac",
       "title": "Charlotte Cornfield",
-      "subtitle": null,
+      "subtitle": "with Orchidae",
       "date": "2026-10-23",
       "rawDate": "2026-10-23",
       "time": "20:00",
       "venue": "Azrieli Studio Studio Azrieli",
-      "description": null,
+      "description": "with Orchidae",
       "url": "https://nac-cna.ca/en/event/41695"
     },
     {
       "source": "nac",
       "title": "BON Presents: Beyond the Baton with Damon Gupton",
-      "subtitle": "Black Out Night",
+      "subtitle": "An intimate evening with Damon Gupton",
       "date": "2026-10-24",
       "rawDate": "2026-10-24",
       "time": "17:00",
       "venue": "Salon Salon",
-      "description": "Black Out Night",
+      "description": "An intimate evening with Damon Gupton",
       "url": "https://nac-cna.ca/en/event/42317"
     },
     {
@@ -1583,6 +1539,17 @@
     },
     {
       "source": "nac",
+      "title": "Charles Dickens performs A Christmas Carol",
+      "subtitle": "By John D. Huston",
+      "date": "2026-12-02",
+      "rawDate": "2026-12-02",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "By John D. Huston",
+      "url": "https://nac-cna.ca/en/event/42275"
+    },
+    {
+      "source": "nac",
       "title": "Je comprends. Respect.",
       "subtitle": "A theatrical hip-hop battle",
       "date": "2026-12-03",
@@ -1780,6 +1747,193 @@
       "url": "https://nac-cna.ca/en/event/41637"
     },
     {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-14",
+      "rawDate": "2026-12-14",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-15",
+      "rawDate": "2026-12-15",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-16",
+      "rawDate": "2026-12-16",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-17",
+      "rawDate": "2026-12-17",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-18",
+      "rawDate": "2026-12-18",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-19",
+      "rawDate": "2026-12-19",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-20",
+      "rawDate": "2026-12-20",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-21",
+      "rawDate": "2026-12-21",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-22",
+      "rawDate": "2026-12-22",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-23",
+      "rawDate": "2026-12-23",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-24",
+      "rawDate": "2026-12-24",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-25",
+      "rawDate": "2026-12-25",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-26",
+      "rawDate": "2026-12-26",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-27",
+      "rawDate": "2026-12-27",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-28",
+      "rawDate": "2026-12-28",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-29",
+      "rawDate": "2026-12-29",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
+      "source": "nac",
+      "title": "The Vinyl Cafe Christmas Musical",
+      "subtitle": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "date": "2026-12-30",
+      "rawDate": "2026-12-30",
+      "time": "19:00",
+      "venue": "Babs Asper Babs Asper",
+      "description": "Based on The Vinyl Cafe stories by Stuart McLean",
+      "url": "https://nac-cna.ca/en/event/40379"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2026-10-17",
@@ -1798,16 +1952,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "Bronwyn's Big Bad Beautiful Choir",
-      "date": "2026-10-15",
-      "rawDate": "2026-10-15",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nWelcome to Bronwyn's Big Bad Beautiful Choir!\nA monthly drop-in choir for everyone who loves to sing. No auditions. No commitment. And no, you don’t have to be any good!\nOnce a month, Bronwyn will le",
-      "url": "https://www.showpass.com/bronwyns-big-bad-beautiful-choir-2/"
     },
     {
       "source": "redbird",
@@ -1998,6 +2142,16 @@
       "venue": "Red Bird Live",
       "description": "While regularly drawing comparisons to Lucinda Williams and Gillian Welch, Lynne Hanson proudly bears her own title as “Canada’s own Queen of Americana.” Hanson’s distinctive voice and poetic lyrics s",
       "url": "https://www.showpass.com/lynne-hanson-4/"
+    },
+    {
+      "source": "redbird",
+      "title": "Adam Baldwin",
+      "date": "2026-11-14",
+      "rawDate": "2026-11-14",
+      "time": "1:00 a.m.",
+      "venue": "Red Bird Live",
+      "description": "\nAdam Baldwin\nSinger-songwriter Adam Baldwin has been a mainstay of the Atlantic Canada music scene for over a decade. With his sophomore full-length, Concertos &amp; Serenades, Adam Baldwin—born and ",
+      "url": "https://www.showpass.com/adam-baldwin-3/"
     },
     {
       "source": "redbird",
@@ -2611,7 +2765,7 @@
     },
     {
       "source": "irenes",
-      "title": "The Big Train Wreck with S/G KJ & the Strayways",
+      "title": "The Big Train Wreck with S/G KJ & the Strayways and Joel Hayward",
       "date": "2026-11-21",
       "rawDate": "Nov 21",
       "time": "21:00",
@@ -4787,6 +4941,16 @@
     },
     {
       "source": "bronson",
+      "title": "Pitbull Halloween Ottawa",
+      "date": "2026-10-31",
+      "rawDate": "Saturday, Oct 31, Doors: 10pm",
+      "time": "22:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/pitbull-halloween-ottawa/"
+    },
+    {
+      "source": "bronson",
       "title": "The Wrecks",
       "date": "2026-11-01",
       "rawDate": "Sunday, Nov 1, Doors: 7pm",
@@ -5064,26 +5228,6 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/gianmarco-soresi/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Masterclass: Janina Fialkowska",
-      "date": "2026-10-14",
-      "rawDate": "Oct 14 2026",
-      "time": "13:00",
-      "venue": "Freiman Hall, UOttawa",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/masterclass-janina-fialkowska/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "An Evening with Janina Fialkowska – A Historic Farewell",
-      "date": "2026-10-14",
-      "rawDate": "Oct 14 2026",
-      "time": "18:30",
-      "venue": "Chamberfest",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/an-evening-with-janina-fialkowska-a-historic-farewell/"
     },
     {
       "source": "chamberfest",
