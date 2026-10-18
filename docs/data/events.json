@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-17T10:24:29.207Z",
-  "totalEvents": 499,
+  "scrapedAt": "2026-10-18T10:41:24.929Z",
+  "totalEvents": 493,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,39 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Community celebration",
-      "subtitle": "ArohaFest Diwali Dhamaka",
-      "date": "2026-10-17",
-      "rawDate": "2026-10-17",
-      "time": "12:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "ArohaFest Diwali Dhamaka",
-      "url": "https://nac-cna.ca/en/event/42079"
-    },
-    {
-      "source": "nac",
-      "title": "An Evening with Zadie Smith",
-      "subtitle": "Bestselling author of White Teeth and On Beauty",
-      "date": "2026-10-17",
-      "rawDate": "2026-10-17",
-      "time": "20:00",
-      "venue": "Babs Asper Babs Asper",
-      "description": "Bestselling author of White Teeth and On Beauty",
-      "url": "https://nac-cna.ca/en/event/40919"
-    },
-    {
-      "source": "nac",
-      "title": "Toronto Comedy All Stars",
-      "subtitle": "Celebrating 12 years of sold out shows",
-      "date": "2026-10-17",
-      "rawDate": "2026-10-17",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "Celebrating 12 years of sold out shows",
-      "url": "https://nac-cna.ca/en/event/41916"
-    },
     {
       "source": "nac",
       "title": "Spooky Symphony",
@@ -1980,7 +1947,7 @@
     {
       "source": "jazz",
       "title": "Joep Beving",
-      "date": "2026-10-17",
+      "date": "2027-10-17",
       "rawDate": "Sat, Oct 17, 7:00 p.m.",
       "time": "19:00",
       "venue": "Ottawa Jazz Festival",
@@ -1996,16 +1963,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "The Paul Weber Band",
-      "date": "2026-10-18",
-      "rawDate": "2026-10-18",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Paul Weber and his band (Ode to Gerry Barber, Ghost Beer Train) are putting on a one-time show to celebrate 200 years of Bytown/Ottawa history. The show will be bilingual, in English and in French, an",
-      "url": "https://www.showpass.com/the-paul-weber-band-2/"
     },
     {
       "source": "redbird",
@@ -2416,16 +2373,6 @@
       "venue": "Red Bird Live",
       "description": "Jenn Grant is a three-time Juno-nominated singer, songwriter, and internationally acclaimed recording artist whose music has been described as “the aural equivalent of a warm embrace” (Pop Matters), “",
       "url": "https://www.showpass.com/jenn-grant-2/"
-    },
-    {
-      "source": "irenes",
-      "title": "Ottawa Blues Harmonica Revue - An Evening of Blues Harmonica Featuring: Luke Ambridge, Niel Barrington, Marc Seguin, Catriona Sturton and Rod Williams",
-      "date": "2026-10-17",
-      "rawDate": "Oct 17",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please c",
-      "url": "https://irenespub.ca/events/blues-harmonica-showcase"
     },
     {
       "source": "irenes",
@@ -2869,6 +2816,16 @@
     },
     {
       "source": "irenes",
+      "title": "Ottawa Blues Harmonica Revue - An Evening of Blues Harmonica Featuring: Luke Ambridge, Niel Barrington, Marc Seguin, Catriona Sturton and Rod Williams",
+      "date": "2026-10-17",
+      "rawDate": "Oct 17",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please c",
+      "url": "https://irenespub.ca/events/blues-harmonica-showcase"
+    },
+    {
+      "source": "irenes",
       "title": "The Social Distance with Special Guests Apollo Envy",
       "date": "2026-10-16",
       "rawDate": "Oct 16",
@@ -3156,16 +3113,6 @@
       "venue": "Irene's Pub",
       "description": "Loch Nisse Monster Gasper Austin Camp Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admissio",
       "url": "https://irenespub.ca/events/loch-nisse-monster-gasper-austin-camp"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Leslie Rohonczy",
-      "date": "2026-09-17",
-      "rawDate": "Sep 17",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-4hlze"
     },
     {
       "source": "gctc",
@@ -4862,16 +4809,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "Joep Beving",
-      "date": "2026-10-17",
-      "rawDate": "Saturday, Oct 17, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/joep-beving/"
     },
     {
       "source": "bronson",
