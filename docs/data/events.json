@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-18T10:41:24.929Z",
-  "totalEvents": 493,
+  "scrapedAt": "2026-10-19T12:38:23.448Z",
+  "totalEvents": 490,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,39 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Spooky Symphony",
-      "subtitle": "NAC Orchestra Family Adventures",
-      "date": "2026-10-18",
-      "rawDate": "2026-10-18",
-      "time": "15:30",
-      "venue": "Southam Hall Salle Southam",
-      "description": "NAC Orchestra Family Adventures",
-      "url": "https://nac-cna.ca/en/event/40421"
-    },
-    {
-      "source": "nac",
-      "title": "Melodies of Krishna",
-      "subtitle": "ArohaFest Diwali Dhamaka",
-      "date": "2026-10-18",
-      "rawDate": "2026-10-18",
-      "time": "19:30",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "ArohaFest Diwali Dhamaka",
-      "url": "https://nac-cna.ca/en/event/42082"
-    },
-    {
-      "source": "nac",
-      "title": "Ray Chen in recital",
-      "subtitle": "Great Performers Series",
-      "date": "2026-10-18",
-      "rawDate": "2026-10-18",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "Great Performers Series",
-      "url": "https://nac-cna.ca/en/event/40677"
-    },
     {
       "source": "nac",
       "title": "Les lundis des tout-petits",
@@ -1945,6 +1912,28 @@
       "url": "https://nac-cna.ca/en/event/42152"
     },
     {
+      "source": "nac",
+      "title": "Good Lovelies",
+      "subtitle": "20th Anniversary Christmas Concert",
+      "date": "2026-12-18",
+      "rawDate": "2026-12-18",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "20th Anniversary Christmas Concert",
+      "url": "https://nac-cna.ca/en/event/41638"
+    },
+    {
+      "source": "nac",
+      "title": "Céleste Lévis",
+      "subtitle": "Chante Noël",
+      "date": "2026-12-18",
+      "rawDate": "2026-12-18",
+      "time": "20:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Chante Noël",
+      "url": "https://nac-cna.ca/en/event/42208"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2027-10-17",
@@ -2376,26 +2365,6 @@
     },
     {
       "source": "irenes",
-      "title": "Keith Glass Band CD Release Party - Matinée",
-      "date": "2026-10-18",
-      "rawDate": "Oct 18",
-      "time": "15:00",
-      "venue": "Irene's Pub",
-      "description": "Keith Glass Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarante",
-      "url": "https://irenespub.ca/events/keith-glass-band-matine"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue with Special Guest Benj Rowland",
-      "date": "2026-10-18",
-      "rawDate": "Oct 18",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue Benj Rowland",
-      "url": "https://irenespub.ca/events/rm8a7td9b58z9ba"
-    },
-    {
-      "source": "irenes",
       "title": "Trivia Tuesday",
       "date": "2026-10-20",
       "rawDate": "Oct 20",
@@ -2816,6 +2785,26 @@
     },
     {
       "source": "irenes",
+      "title": "The Sunday Night Revue with Special Guest Benj Rowland",
+      "date": "2026-10-18",
+      "rawDate": "Oct 18",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue Benj Rowland",
+      "url": "https://irenespub.ca/events/rm8a7td9b58z9ba"
+    },
+    {
+      "source": "irenes",
+      "title": "Keith Glass Band CD Release Party - Matinée",
+      "date": "2026-10-18",
+      "rawDate": "Oct 18",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "Keith Glass Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarante",
+      "url": "https://irenespub.ca/events/keith-glass-band-matine"
+    },
+    {
+      "source": "irenes",
       "title": "Ottawa Blues Harmonica Revue - An Evening of Blues Harmonica Featuring: Luke Ambridge, Niel Barrington, Marc Seguin, Catriona Sturton and Rod Williams",
       "date": "2026-10-17",
       "rawDate": "Oct 17",
@@ -3093,26 +3082,6 @@
       "venue": "Irene's Pub",
       "description": "I Spell It Nature Modern Dinosaurs Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. ",
       "url": "https://irenespub.ca/events/i-spell-it-nature-with-sg"
-    },
-    {
-      "source": "irenes",
-      "title": "Funk Nite with Smelloship",
-      "date": "2026-09-19",
-      "rawDate": "Sep 19",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Smelloship Smelloship is a 6-piece instromonstrosity from Ottawa and Gatineau, Canada. Channeling 70s funk, soul, and southern rock, Smelloship rides a starfield where vintage tone and second-line swa",
-      "url": "https://irenespub.ca/events/smelloship-2"
-    },
-    {
-      "source": "irenes",
-      "title": "Loch Nisse Monster with S/G Gasper & Austin Camp",
-      "date": "2026-09-18",
-      "rawDate": "Sep 18",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Loch Nisse Monster Gasper Austin Camp Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admissio",
-      "url": "https://irenespub.ca/events/loch-nisse-monster-gasper-austin-camp"
     },
     {
       "source": "gctc",
