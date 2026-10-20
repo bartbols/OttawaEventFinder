@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-19T12:38:23.448Z",
-  "totalEvents": 490,
+  "scrapedAt": "2026-10-20T11:11:28.334Z",
+  "totalEvents": 491,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,39 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Les lundis des tout-petits",
-      "subtitle": "French story time with Luana",
-      "date": "2026-10-19",
-      "rawDate": "2026-10-19",
-      "time": "10:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "French story time with Luana",
-      "url": "https://nac-cna.ca/en/event/42171"
-    },
-    {
-      "source": "nac",
-      "title": "Ottawa Citizen Best Restaurants 2026",
-      "subtitle": "In partnership with NAC",
-      "date": "2026-10-19",
-      "rawDate": "2026-10-19",
-      "time": "18:00",
-      "venue": "Canal Lobby Foyer du canal",
-      "description": "In partnership with NAC",
-      "url": "https://nac-cna.ca/en/event/41904"
-    },
-    {
-      "source": "nac",
-      "title": "SoulRhythms",
-      "subtitle": null,
-      "date": "2026-10-19",
-      "rawDate": "2026-10-19",
-      "time": "19:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42156"
-    },
     {
       "source": "nac",
       "title": "Toddler Tuesdays",
@@ -70,7 +37,7 @@
       "date": "2026-10-20",
       "rawDate": "2026-10-20",
       "time": "20:00",
-      "venue": "Azrieli Studio Studio Azrieli",
+      "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41694"
     },
@@ -81,7 +48,7 @@
       "date": "2026-10-21",
       "rawDate": "2026-10-21",
       "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
+      "venue": "Fourth Stage Quatrième Salle",
       "description": null,
       "url": "https://nac-cna.ca/en/event/41197"
     },
@@ -1934,6 +1901,50 @@
       "url": "https://nac-cna.ca/en/event/42208"
     },
     {
+      "source": "nac",
+      "title": "Je suis William",
+      "subtitle": "An unruly Elizabethan musical theatre piece",
+      "date": "2026-12-19",
+      "rawDate": "2026-12-19",
+      "time": "15:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "An unruly Elizabethan musical theatre piece",
+      "url": "https://nac-cna.ca/en/event/40437"
+    },
+    {
+      "source": "nac",
+      "title": "Je suis William",
+      "subtitle": "An unruly Elizabethan musical theatre piece",
+      "date": "2026-12-20",
+      "rawDate": "2026-12-20",
+      "time": "15:00",
+      "venue": "Azrieli Studio Studio Azrieli",
+      "description": "An unruly Elizabethan musical theatre piece",
+      "url": "https://nac-cna.ca/en/event/40437"
+    },
+    {
+      "source": "nac",
+      "title": "Ottawa Jazz Orchestra",
+      "subtitle": "Nutcracker Double",
+      "date": "2026-12-19",
+      "rawDate": "2026-12-19",
+      "time": "16:00",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": "Nutcracker Double",
+      "url": "https://nac-cna.ca/en/event/41710"
+    },
+    {
+      "source": "nac",
+      "title": "Natalie MacMaster & Donnell Leahy",
+      "subtitle": "A Celtic Family Christmas with Mary Frances",
+      "date": "2026-12-19",
+      "rawDate": "2026-12-19",
+      "time": "20:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "A Celtic Family Christmas with Mary Frances",
+      "url": "https://nac-cna.ca/en/event/41225"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2027-10-17",
@@ -3170,7 +3181,7 @@
       "rawDate": "2026-10-23T23:30:00.919Z",
       "time": "23:30",
       "venue": "Ottawa Pops Orchestra",
-      "description": "The Symphony in Your Living Room \n        \n\n        \n          A nostalgic celebration of the music behind generations of animated classics.&nbsp;\n        \n\n        \n\n      \n    \n\n    \n\n\n  \n\n  \n\n\n  \n\n",
+      "description": "A Symphony Pyjama Party!\n        \n\n        \n          A nostalgic celebration of the music behind generations of animated classics.&nbsp;\n        \n\n        \n\n      \n    \n\n    \n\n\n  \n\n  \n\n\n  \n\n\n  \n    \n",
       "url": "https://www.ottawapopsorchestra.ca/events/saturday-morning-cartoons"
     },
     {
@@ -4803,8 +4814,8 @@
       "source": "bronson",
       "title": "BOOTS ‘N BEATS",
       "date": "2026-10-24",
-      "rawDate": "Saturday, Oct 24, Doors: 8pm",
-      "time": "20:00",
+      "rawDate": "Saturday, Oct 24, Doors: 7pm",
+      "time": "19:00",
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/boots-n-beats/"
@@ -5164,7 +5175,7 @@
       "title": "The Phantom of the Opera: Silent Film with Live Soundtrack",
       "date": "2026-10-25",
       "rawDate": "Oct 25 2026",
-      "time": null,
+      "time": "15:00",
       "venue": "Ottawa Art Gallery",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/the-phantom-of-the-opera-silent-film-with-live-soundtrack/"
