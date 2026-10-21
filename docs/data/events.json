@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-20T11:11:28.334Z",
-  "totalEvents": 491,
+  "scrapedAt": "2026-10-21T11:26:49.958Z",
+  "totalEvents": 488,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,39 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Toddler Tuesdays",
-      "subtitle": null,
-      "date": "2026-10-20",
-      "rawDate": "2026-10-20",
-      "time": "10:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42165"
-    },
-    {
-      "source": "nac",
-      "title": "Loreena McKennitt",
-      "subtitle": "The Mask and Mirror: 30th Anniversary Tour",
-      "date": "2026-10-20",
-      "rawDate": "2026-10-20",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "The Mask and Mirror: 30th Anniversary Tour",
-      "url": "https://nac-cna.ca/en/event/40239"
-    },
-    {
-      "source": "nac",
-      "title": "Sara Curruchich",
-      "subtitle": null,
-      "date": "2026-10-20",
-      "rawDate": "2026-10-20",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41694"
-    },
     {
       "source": "nac",
       "title": "Danças Ocultas",
@@ -169,7 +136,7 @@
       "date": "2026-10-25",
       "rawDate": "2026-10-25",
       "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
+      "venue": "Babs Asper Babs Asper",
       "description": "with AHI",
       "url": "https://nac-cna.ca/en/event/41399"
     },
@@ -1945,6 +1912,17 @@
       "url": "https://nac-cna.ca/en/event/41225"
     },
     {
+      "source": "nac",
+      "title": "Choir! Choir! Choir!",
+      "subtitle": "Un-Silent Night",
+      "date": "2026-12-20",
+      "rawDate": "2026-12-20",
+      "time": "14:00",
+      "venue": "Southam Hall Salle Southam",
+      "description": "Un-Silent Night",
+      "url": "https://nac-cna.ca/en/event/41224"
+    },
+    {
       "source": "jazz",
       "title": "Joep Beving",
       "date": "2027-10-17",
@@ -1963,16 +1941,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-10-21",
-      "rawDate": "2026-10-21",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
-      "url": "https://www.showpass.com/open-stage-7-26-10-20-20-4237/"
     },
     {
       "source": "redbird",
@@ -2373,16 +2341,6 @@
       "venue": "Red Bird Live",
       "description": "Jenn Grant is a three-time Juno-nominated singer, songwriter, and internationally acclaimed recording artist whose music has been described as “the aural equivalent of a warm embrace” (Pop Matters), “",
       "url": "https://www.showpass.com/jenn-grant-2/"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-10-20",
-      "rawDate": "Oct 20",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-a6522"
     },
     {
       "source": "irenes",
@@ -2796,6 +2754,16 @@
     },
     {
       "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-10-20",
+      "rawDate": "Oct 20",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-a6522"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue with Special Guest Benj Rowland",
       "date": "2026-10-18",
       "rawDate": "Oct 18",
@@ -3083,16 +3051,6 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue The Summoning Circle",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-lph38"
-    },
-    {
-      "source": "irenes",
-      "title": "I Spell It Nature with S/G Modern Dinosaurs - Matinée",
-      "date": "2026-09-20",
-      "rawDate": "Sep 20",
-      "time": "15:00",
-      "venue": "Irene's Pub",
-      "description": "I Spell It Nature Modern Dinosaurs Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. ",
-      "url": "https://irenespub.ca/events/i-spell-it-nature-with-sg"
     },
     {
       "source": "gctc",
@@ -5042,6 +5000,16 @@
     },
     {
       "source": "bronson",
+      "title": "MOBB DEEP",
+      "date": "2026-12-08",
+      "rawDate": "Tuesday, Dec 8, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/mobb-deep/"
+    },
+    {
+      "source": "bronson",
       "title": "Scott Helman",
       "date": "2026-12-09",
       "rawDate": "Wednesday, Dec 9, Doors: 7pm",
@@ -5049,6 +5017,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/scott-helman-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "Delaney Jane",
+      "date": "2026-12-10",
+      "rawDate": "Thursday, Dec 10, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/delaney-jane/"
     },
     {
       "source": "bronson",
@@ -5219,16 +5197,6 @@
       "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/kronos-quartet/"
-    },
-    {
-      "source": "motelchelsea",
-      "title": "Basia Bulat",
-      "date": "2027-10-16",
-      "rawDate": "OCTOBER 16",
-      "time": "20:00",
-      "venue": "Motel Chelsea",
-      "description": null,
-      "url": "https://www.motelchelsea.com/post/friday-october-16-basia-bulat-8-00pm"
     }
   ]
 }
