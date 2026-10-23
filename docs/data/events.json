@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-22T11:26:31.107Z",
-  "totalEvents": 314,
+  "scrapedAt": "2026-10-23T11:16:28.746Z",
+  "totalEvents": 311,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -27,16 +27,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "Tina Dico",
-      "date": "2026-10-23",
-      "rawDate": "2026-10-23",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Danish star, Tina Dico, makes her highly anticipated debut in Ottawa for a rare, intimate performance at Red Bird, to launch her new album Balancing Small Things On Sharp Edges, that is set for releas",
-      "url": "https://www.showpass.com/tina-dico/"
     },
     {
       "source": "redbird",
@@ -430,16 +420,6 @@
     },
     {
       "source": "irenes",
-      "title": "Ian Tamblyn",
-      "date": "2026-10-21",
-      "rawDate": "Oct 21",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Ian Tamblyn Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarante",
-      "url": "https://irenespub.ca/events/ian-tamblyn-1"
-    },
-    {
-      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Scott Amey",
       "date": "2026-10-22",
       "rawDate": "Oct 22",
@@ -560,6 +540,16 @@
     },
     {
       "source": "irenes",
+      "title": "DIFTG  7th Anniversary Exhibition DEVELOPMENT Finissage",
+      "date": "2026-11-02",
+      "rawDate": "Nov 2",
+      "time": "18:00",
+      "venue": "Irene's Pub",
+      "description": "DIFTG",
+      "url": "https://irenespub.ca/events/development-finissage-of-the-7th-anniversary-exhibition"
+    },
+    {
+      "source": "irenes",
       "title": "Trivia Tuesday",
       "date": "2026-11-03",
       "rawDate": "Nov 3",
@@ -665,7 +655,7 @@
       "rawDate": "Nov 13",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "The Commotions Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "The Commotions Click here to buy ticketsSell tickets online with Ticket Tailor Teresa is having a birthday! (It's a big one). She wants to dance, so The Commotions will be playing. A landmark Ottawa b",
       "url": "https://irenespub.ca/events/the-commotions"
     },
     {
@@ -837,6 +827,16 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga"
+    },
+    {
+      "source": "irenes",
+      "title": "Ian Tamblyn",
+      "date": "2026-10-21",
+      "rawDate": "Oct 21",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Ian Tamblyn Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarante",
+      "url": "https://irenespub.ca/events/ian-tamblyn-1"
     },
     {
       "source": "irenes",
@@ -1127,16 +1127,6 @@
       "venue": "Irene's Pub",
       "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
       "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-nzbpc"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue with Special Guests The Summoning Circle",
-      "date": "2026-09-20",
-      "rawDate": "Sep 20",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue The Summoning Circle",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-lph38"
     },
     {
       "source": "gctc",
@@ -2836,16 +2826,6 @@
     },
     {
       "source": "bronson",
-      "title": "Jonathan Van Ness",
-      "date": "2026-10-22",
-      "rawDate": "Thursday, Oct 22, Doors: 6pm",
-      "time": "18:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/jonathan-van-ness/"
-    },
-    {
-      "source": "bronson",
       "title": "The Mahones",
       "date": "2026-10-23",
       "rawDate": "Friday, Oct 23, Doors: 7pm",
@@ -3223,16 +3203,6 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/gianmarco-soresi/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "Adaptive Concert Showcase at “La Nuit des Idées”",
-      "date": "2026-10-22",
-      "rawDate": "Oct 22 2026",
-      "time": "16:00",
-      "venue": "National Gallery of Canada",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/adaptive-concert-showcase-la-nuit-des-idees/"
     },
     {
       "source": "chamberfest",
