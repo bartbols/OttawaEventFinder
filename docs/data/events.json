@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-25T11:00:41.358Z",
-  "totalEvents": 466,
+  "scrapedAt": "2026-10-26T12:33:09.030Z",
+  "totalEvents": 462,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,17 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Allison Russell",
-      "subtitle": "with AHI",
-      "date": "2026-10-25",
-      "rawDate": "2026-10-25",
-      "time": "20:00",
-      "venue": "Babs Asper Babs Asper",
-      "description": "with AHI",
-      "url": "https://nac-cna.ca/en/event/41399"
-    },
     {
       "source": "nac",
       "title": "Les lundis des tout-petits",
@@ -2193,26 +2182,6 @@
     },
     {
       "source": "irenes",
-      "title": "Capital Kingdom Presents All Ages Drag Brunch - Halloween Edition",
-      "date": "2026-10-25",
-      "rawDate": "Oct 25",
-      "time": "12:00",
-      "venue": "Irene's Pub",
-      "description": "Capital Kingdom Tickets ‍ ‍ Ticket price at the door may be higher than advanced ticket price. Capital Kingdom presents All Ages Drag King Brunch : Halloween Edition Trick or treat, smell my feet, giv",
-      "url": "https://irenespub.ca/events/capital-kingdom-drag-brunch-3"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-10-25",
-      "rawDate": "Oct 25",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd"
-    },
-    {
-      "source": "irenes",
       "title": "Trivia Tuesday",
       "date": "2026-10-27",
       "rawDate": "Oct 27",
@@ -2573,6 +2542,26 @@
     },
     {
       "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-10-25",
+      "rawDate": "Oct 25",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd"
+    },
+    {
+      "source": "irenes",
+      "title": "Capital Kingdom Presents All Ages Drag Brunch - Halloween Edition",
+      "date": "2026-10-25",
+      "rawDate": "Oct 25",
+      "time": "12:00",
+      "venue": "Irene's Pub",
+      "description": "Capital Kingdom Tickets ‍ ‍ Ticket price at the door may be higher than advanced ticket price. Capital Kingdom presents All Ages Drag King Brunch : Halloween Edition Trick or treat, smell my feet, giv",
+      "url": "https://irenespub.ca/events/capital-kingdom-drag-brunch-3"
+    },
+    {
+      "source": "irenes",
       "title": "Renée Landry & The Cool Presents Back to Black - A Tribute to Amy Winehouse",
       "date": "2026-10-24",
       "rawDate": "Oct 24",
@@ -2850,26 +2839,6 @@
       "venue": "Irene's Pub",
       "description": "Liam Lloyd Michel Delage Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is",
       "url": "https://irenespub.ca/events/liam-lloyd"
-    },
-    {
-      "source": "irenes",
-      "title": "Bill Withers Tribute Performed by Mecca of Stank",
-      "date": "2026-09-25",
-      "rawDate": "Sep 25",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Mecca of Stank Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guara",
-      "url": "https://irenespub.ca/events/mecca-of-stank-with-sg"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Tyler Habib",
-      "date": "2026-09-24",
-      "rawDate": "Sep 24",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9"
     },
     {
       "source": "gctc",
@@ -4916,16 +4885,6 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/gianmarco-soresi/"
-    },
-    {
-      "source": "chamberfest",
-      "title": "The Phantom of the Opera: Silent Film with Live Soundtrack",
-      "date": "2026-10-25",
-      "rawDate": "Oct 25 2026",
-      "time": "15:00",
-      "venue": "Ottawa Art Gallery",
-      "description": null,
-      "url": "https://www.chamberfest.com/event/2026/the-phantom-of-the-opera-silent-film-with-live-soundtrack/"
     },
     {
       "source": "chamberfest",
