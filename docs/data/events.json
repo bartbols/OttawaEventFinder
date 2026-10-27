@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-26T12:33:09.030Z",
-  "totalEvents": 462,
+  "scrapedAt": "2026-10-27T11:51:12.931Z",
+  "totalEvents": 459,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,28 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Les lundis des tout-petits",
-      "subtitle": "French story time with Luana",
-      "date": "2026-10-26",
-      "rawDate": "2026-10-26",
-      "time": "10:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "French story time with Luana",
-      "url": "https://nac-cna.ca/en/event/42172"
-    },
-    {
-      "source": "nac",
-      "title": "SoulRhythms",
-      "subtitle": null,
-      "date": "2026-10-26",
-      "rawDate": "2026-10-26",
-      "time": "19:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42157"
-    },
     {
       "source": "nac",
       "title": "Toddler Tuesdays",
@@ -2417,7 +2395,7 @@
       "rawDate": "Nov 18",
       "time": "18:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Tickets Tipsy Scholars",
       "url": "https://irenespub.ca/events/tipsy-scholars-1"
     },
     {
@@ -4525,16 +4503,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "Waylon Wyatt",
-      "date": "2026-10-26",
-      "rawDate": "Monday, Oct 26, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/waylon-wyatt/"
     },
     {
       "source": "bronson",
