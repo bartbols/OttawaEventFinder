@@ -1,24 +1,13 @@
 {
-  "scrapedAt": "2026-10-27T11:51:12.931Z",
-  "totalEvents": 459,
+  "scrapedAt": "2026-10-28T12:26:13.346Z",
+  "totalEvents": 454,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
-      "error": "HTTP 403 for https://ottawagigs.ca/"
+      "error": "request to https://ottawagigs.ca/ failed, reason: "
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Toddler Tuesdays",
-      "subtitle": null,
-      "date": "2026-10-27",
-      "rawDate": "2026-10-27",
-      "time": "10:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42166"
-    },
     {
       "source": "nac",
       "title": "Pre-Show Chat: Stravinsky Stories",
@@ -626,17 +615,6 @@
     },
     {
       "source": "nac",
-      "title": "Joyce Carol Oates",
-      "subtitle": "Novelist, Poet, Playwright & Essayist",
-      "date": "2026-11-14",
-      "rawDate": "2026-11-14",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "Novelist, Poet, Playwright & Essayist",
-      "url": "https://nac-cna.ca/en/event/41888"
-    },
-    {
-      "source": "nac",
       "title": "Les lundis des tout-petits",
       "subtitle": "French story time with Luana",
       "date": "2026-11-16",
@@ -839,7 +817,7 @@
       "subtitle": "Les Grands Ballets Canadiens",
       "date": "2026-11-26",
       "rawDate": "2026-11-26",
-      "time": "19:30",
+      "time": "19:00",
       "venue": "Southam Hall Salle Southam",
       "description": "Les Grands Ballets Canadiens",
       "url": "https://nac-cna.ca/en/event/40367"
@@ -850,7 +828,7 @@
       "subtitle": "Les Grands Ballets Canadiens",
       "date": "2026-11-27",
       "rawDate": "2026-11-27",
-      "time": "19:30",
+      "time": "19:00",
       "venue": "Southam Hall Salle Southam",
       "description": "Les Grands Ballets Canadiens",
       "url": "https://nac-cna.ca/en/event/40367"
@@ -861,7 +839,7 @@
       "subtitle": "Les Grands Ballets Canadiens",
       "date": "2026-11-28",
       "rawDate": "2026-11-28",
-      "time": "19:30",
+      "time": "19:00",
       "venue": "Southam Hall Salle Southam",
       "description": "Les Grands Ballets Canadiens",
       "url": "https://nac-cna.ca/en/event/40367"
@@ -872,7 +850,7 @@
       "subtitle": "Les Grands Ballets Canadiens",
       "date": "2026-11-29",
       "rawDate": "2026-11-29",
-      "time": "19:30",
+      "time": "19:00",
       "venue": "Southam Hall Salle Southam",
       "description": "Les Grands Ballets Canadiens",
       "url": "https://nac-cna.ca/en/event/40367"
@@ -1790,26 +1768,6 @@
     },
     {
       "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-10-28",
-      "rawDate": "2026-10-28",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
-      "url": "https://www.showpass.com/open-stage-7-26-10-27-20-8969/"
-    },
-    {
-      "source": "redbird",
-      "title": "Themed Open Stage",
-      "date": "2026-10-28",
-      "rawDate": "2026-10-28",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\n\n\nThings are getting a little spooky at Red Bird this Halloween, and we're calling on you to bring your creepiest songs and a frightening friend or two to perform them with!\nWhether it's a haunting o",
-      "url": "https://www.showpass.com/themed-open-stage-2/"
-    },
-    {
-      "source": "redbird",
       "title": "Celtic Celebration Ft Ruckustodian",
       "date": "2026-10-29",
       "rawDate": "2026-10-29",
@@ -2160,16 +2118,6 @@
     },
     {
       "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-10-27",
-      "rawDate": "Oct 27",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk"
-    },
-    {
-      "source": "irenes",
       "title": "Talking Heads - A Talk Show about Death, Witches, Grief, and Ghosts Hosted by Maggie May Harder",
       "date": "2026-10-28",
       "rawDate": "Oct 28",
@@ -2290,12 +2238,12 @@
     },
     {
       "source": "irenes",
-      "title": "Songwriters Unite Series with Stephen Volger, Jeff Bonner and Special Guest Shawn Tavenier - Matinée",
+      "title": "Songwriters Unite Series with Stephen Vogler, Jeff Bonner and Special Guest Shawn Tavenier - Matinée",
       "date": "2026-11-08",
       "rawDate": "Nov 8",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Songwriters Unite Series Stephen Volger Jeff Bonner Shawn Tavenier Click here to buy ticketsSell tickets online with Ticket Tailor Songwriters Unite – Sunday, November 8, 3-5:30PMFeaturing Jeff Bonner",
+      "description": "Songwriters Unite Series Stephen Vogler Jeff Bonner Shawn Tavenier Click here to buy ticketsSell tickets online with Ticket Tailor Songwriters Unite – Sunday, November 8, 3-5:30PMFeaturing Jeff Bonner",
       "url": "https://irenespub.ca/events/songwriters-unite-series-with-stephen-volger-jeff-bonner-and-special-guests"
     },
     {
@@ -2365,7 +2313,7 @@
       "rawDate": "Nov 15",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Ball & Chain and the Wreckers The Vanier Playboys Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Ball & Chain and the Wreckers The Vanier Playboys Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are Gene",
       "url": "https://irenespub.ca/events/ball-chain-and-the-wreckers-with-sg-the-vanier-playboys"
     },
     {
@@ -2430,12 +2378,12 @@
     },
     {
       "source": "irenes",
-      "title": "Riley Taylor Memorial Scholarship Fundraiser - Matinée with Black Pearl the Mavericks tribute and The Vanier Playboys",
+      "title": "Riley Taylor Memorial Scholarship Fundraiser - Matinée with Black Pearl - A Tribute to The Mavericks with The Vanier Playboys",
       "date": "2026-11-22",
       "rawDate": "Nov 22",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "Black Pearl The Vanier Playboys Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "Black Pearl The Vanier Playboys Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Sea",
       "url": "https://irenespub.ca/events/invfavv18r7v90rbem5ydt9y88j12n"
     },
     {
@@ -2465,7 +2413,7 @@
       "rawDate": "Nov 25",
       "time": "20:00",
       "venue": "Irene's Pub",
-      "description": null,
+      "description": "Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ after 9 PM",
       "url": "https://irenespub.ca/events/hzt7l99dx9c7t4msj26gbc2yz6x7zy"
     },
     {
@@ -2485,7 +2433,7 @@
       "rawDate": "Nov 27",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Red Light Run Graven All funds raised go towards Movember and The Chris Olson Scholarship FundTicket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seati",
+      "description": "Red Light Run Graven All funds raised go towards Movember and The Chris Olson Scholarship Fund Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher th",
       "url": "https://irenespub.ca/events/movember-fundraiser"
     },
     {
@@ -2505,7 +2453,7 @@
       "rawDate": "Nov 29",
       "time": "15:00",
       "venue": "Irene's Pub",
-      "description": "CLEAR Alise Marlane Click here to buy ticketsSell tickets online with Ticket Tailor",
+      "description": "CLEAR Alise Marlane Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not ",
       "url": "https://irenespub.ca/events/clear-matine"
     },
     {
@@ -2517,6 +2465,16 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-10-27",
+      "rawDate": "Oct 27",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk"
     },
     {
       "source": "irenes",
@@ -2807,16 +2765,6 @@
       "venue": "Irene's Pub",
       "description": "Tickets Learn more",
       "url": "https://irenespub.ca/events/glebe-centre-trivia-fundrasier"
-    },
-    {
-      "source": "irenes",
-      "title": "Liam Lloyd and Michel Delage",
-      "date": "2026-09-26",
-      "rawDate": "Sep 26",
-      "time": "18:00",
-      "venue": "Irene's Pub",
-      "description": "Liam Lloyd Michel Delage Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is",
-      "url": "https://irenespub.ca/events/liam-lloyd"
     },
     {
       "source": "gctc",
@@ -4507,16 +4455,6 @@
     {
       "source": "bronson",
       "title": "CBC Radio’s The Debaters",
-      "date": "2026-10-27",
-      "rawDate": "Tuesday, Oct 27, Doors: 6pm",
-      "time": "18:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/cbc-radios-the-debaters/"
-    },
-    {
-      "source": "bronson",
-      "title": "CBC Radio’s The Debaters",
       "date": "2026-10-28",
       "rawDate": "Wednesday, Oct 28, Doors: 6pm",
       "time": "18:00",
@@ -4843,6 +4781,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/foil-arms-and-hog-2/"
+    },
+    {
+      "source": "bronson",
+      "title": "Scott Bradlee’s Postmodern Jukebox",
+      "date": "2027-04-16",
+      "rawDate": "Friday, Apr 16, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/scott-bradlees-postmodern-jukebox/"
     },
     {
       "source": "bronson",
