@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-10-28T12:26:13.346Z",
-  "totalEvents": 454,
+  "scrapedAt": "2026-10-29T12:35:23.737Z",
+  "totalEvents": 481,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
-      "error": "request to https://ottawagigs.ca/ failed, reason: "
+      "error": "HTTP 403 for https://ottawagigs.ca/"
     }
   ],
   "events": [
@@ -788,6 +788,17 @@
       "venue": "Atelier Shenkman Smith Atelier Shenkman Smith",
       "description": "with Stephanie Peltier",
       "url": "https://nac-cna.ca/en/event/41880"
+    },
+    {
+      "source": "nac",
+      "title": "uOttawa at the NAC",
+      "subtitle": null,
+      "date": "2026-11-24",
+      "rawDate": "2026-11-24",
+      "time": "19:30",
+      "venue": "Fourth Stage Quatrième Salle",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42430"
     },
     {
       "source": "nac",
@@ -1768,16 +1779,6 @@
     },
     {
       "source": "redbird",
-      "title": "Celtic Celebration Ft Ruckustodian",
-      "date": "2026-10-29",
-      "rawDate": "2026-10-29",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "Join us for an evening  of Celtic Music played by some of the best in the region. There will be a concert from 8pm to 10pm, with a jam to follow, so bring your instruments and get in on the fun.\nThis ",
-      "url": "https://www.showpass.com/celtic-celebration-ft-ruckustodian/"
-    },
-    {
-      "source": "redbird",
       "title": "Gentlemen of the Woods",
       "date": "2026-10-31",
       "rawDate": "2026-10-31",
@@ -2118,16 +2119,6 @@
     },
     {
       "source": "irenes",
-      "title": "Talking Heads - A Talk Show about Death, Witches, Grief, and Ghosts Hosted by Maggie May Harder",
-      "date": "2026-10-28",
-      "rawDate": "Oct 28",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Maggie May Harder TICKETS Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s i",
-      "url": "https://irenespub.ca/events/cdgjrrox6zcphnahcf6ct55ik4gk6j"
-    },
-    {
-      "source": "irenes",
       "title": "Carleton University’s Faculty of Public and Global Affairs Presents Author Meets Readers",
       "date": "2026-10-29",
       "rawDate": "Oct 29",
@@ -2154,7 +2145,7 @@
       "time": "21:00",
       "venue": "Irene's Pub",
       "description": "Revenant Dan Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarant",
-      "url": "https://irenespub.ca/events/revenant-dan-the-murder-crowa"
+      "url": "https://irenespub.ca/events/revenant-dan-the-murder-crows-with-the-mountain-gems"
     },
     {
       "source": "irenes",
@@ -2469,6 +2460,296 @@
     {
       "source": "irenes",
       "title": "Trivia Tuesday",
+      "date": "2026-12-01",
+      "rawDate": "Dec 1",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-279px-kdygg"
+    },
+    {
+      "source": "irenes",
+      "title": "The Prime Rib Big Band",
+      "date": "2026-12-02",
+      "rawDate": "Dec 2",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "Click here to buy ticketsSell tickets online with Ticket Tailor The Prime Rib Big Band Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is n",
+      "url": "https://irenespub.ca/events/dwyaz5e8e73gagray63ad6zwkcnc6h-29ybw-tjthz"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Terry Owen",
+      "date": "2026-12-03",
+      "rawDate": "Dec 3",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw-9ns6w-fly36-gzl27"
+    },
+    {
+      "source": "irenes",
+      "title": "The Lockmasters Xmas Party with Special Guests",
+      "date": "2026-12-04",
+      "rawDate": "Dec 4",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Lockmasters Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ afte",
+      "url": "https://irenespub.ca/events/the-lockmasters-xmas-party-with-special-guests"
+    },
+    {
+      "source": "irenes",
+      "title": "The Convertibles",
+      "date": "2026-12-05",
+      "rawDate": "Dec 5",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Convertibles Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not gua",
+      "url": "https://irenespub.ca/events/the-convertibles"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-12-06",
+      "rawDate": "Dec 6",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga-nr4bf"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-12-08",
+      "rawDate": "Dec 8",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-279px-83efp"
+    },
+    {
+      "source": "irenes",
+      "title": "Jazz Jam with The Beeched Wailers",
+      "date": "2026-12-09",
+      "rawDate": "Dec 9",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "The Beeched Wailers",
+      "url": "https://irenespub.ca/events/jazz-jam-with-the-beeched-wailers-5-dl78w-77rwg-kp2g5-9t652-kazs4"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Matthew Chaffey",
+      "date": "2026-12-10",
+      "rawDate": "Dec 10",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw-9ns6w-fly36-hbaz2"
+    },
+    {
+      "source": "irenes",
+      "title": "Faux Confessions - Bad Times CD Release",
+      "date": "2026-12-11",
+      "rawDate": "Dec 11",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Faux Confessions Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not gua",
+      "url": "https://irenespub.ca/events/faux-confessions"
+    },
+    {
+      "source": "irenes",
+      "title": "Drifting Bird with Special Guest Orchidae",
+      "date": "2026-12-12",
+      "rawDate": "Dec 12",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Drifting Bird Orchidae Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 1",
+      "url": "https://irenespub.ca/events/chas-guay-drifting-bird-with-special-guest-orchidae"
+    },
+    {
+      "source": "irenes",
+      "title": "613 Merch XMAS Market",
+      "date": "2026-12-13",
+      "rawDate": "Dec 13",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "613 Merch",
+      "url": "https://irenespub.ca/events/613-merch-xmas-market-1"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-12-13",
+      "rawDate": "Dec 13",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga-px3sr"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-12-15",
+      "rawDate": "Dec 15",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-279px-85yta"
+    },
+    {
+      "source": "irenes",
+      "title": "Customer Appreciation Party",
+      "date": "2026-12-16",
+      "rawDate": "Dec 16",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/customer-appreciation-party-2"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Vince Halfhide",
+      "date": "2026-12-17",
+      "rawDate": "Dec 17",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw-9ns6w-fly36-gahc5"
+    },
+    {
+      "source": "irenes",
+      "title": "Jim's Plumbing & Electrical with Special Guests",
+      "date": "2026-12-18",
+      "rawDate": "Dec 18",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Jim's Plumbing & Electrical Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s",
+      "url": "https://irenespub.ca/events/jims-plumbing-electrical"
+    },
+    {
+      "source": "irenes",
+      "title": "The Rambles with Loch Nisse Monster and Liam S. Russell & band",
+      "date": "2026-12-19",
+      "rawDate": "Dec 19",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Rambles Loch Nisse Monster Liam S. Russell Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General",
+      "url": "https://irenespub.ca/events/the-rambles-with-loch-nisse-monster-and-liam-s-russell-band"
+    },
+    {
+      "source": "irenes",
+      "title": "Joe Ray McDonald - Matinée",
+      "date": "2026-12-20",
+      "rawDate": "Dec 20",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": "Joe Ray McDonald Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ aft",
+      "url": "https://irenespub.ca/events/joe-ray-mcdonald-matine"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-12-20",
+      "rawDate": "Dec 20",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga-w6zln"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-12-22",
+      "rawDate": "Dec 22",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-279px-7jn8e"
+    },
+    {
+      "source": "irenes",
+      "title": "Christmas Eve - Open til 5 PM",
+      "date": "2026-12-24",
+      "rawDate": "Dec 24",
+      "time": "12:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/christmas-eve-closed-at-5-pm-1"
+    },
+    {
+      "source": "irenes",
+      "title": "Christmas Day - Closed",
+      "date": "2026-12-25",
+      "rawDate": "Dec 25",
+      "time": "12:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/christmas-day-closed-2"
+    },
+    {
+      "source": "irenes",
+      "title": "Von Rex",
+      "date": "2026-12-26",
+      "rawDate": "Dec 26",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Von Rex Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ after 9 PM",
+      "url": "https://irenespub.ca/events/von-rex"
+    },
+    {
+      "source": "irenes",
+      "title": "The Sunday Night Revue",
+      "date": "2026-12-27",
+      "rawDate": "Dec 27",
+      "time": "20:30",
+      "venue": "Irene's Pub",
+      "description": "The Sunday Night Revue",
+      "url": "https://irenespub.ca/events/82yhhe8bwd5njjd-xlfga-6gj9z"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-12-29",
+      "rawDate": "Dec 29",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-279px-7jn8e-9h5mt"
+    },
+    {
+      "source": "irenes",
+      "title": "TBA",
+      "date": "2026-12-30",
+      "rawDate": "Dec 30",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 19+ after 9 PM",
+      "url": "https://irenespub.ca/events/tba-4"
+    },
+    {
+      "source": "irenes",
+      "title": "New Year's Eve",
+      "date": "2026-12-31",
+      "rawDate": "Dec 31",
+      "time": "12:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/new-years-eve"
+    },
+    {
+      "source": "irenes",
+      "title": "Talking Heads - A Talk Show about Death, Witches, Grief, and Ghosts Hosted by Maggie May Harder",
+      "date": "2026-10-28",
+      "rawDate": "Oct 28",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Maggie May Harder TICKETS Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s i",
+      "url": "https://irenespub.ca/events/cdgjrrox6zcphnahcf6ct55ik4gk6j"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
       "date": "2026-10-27",
       "rawDate": "Oct 27",
       "time": "19:00",
@@ -2755,16 +3036,6 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue",
       "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-95ry4"
-    },
-    {
-      "source": "irenes",
-      "title": "The Great Glebe Quiz - A Fundraiser in support of Abbotsford Community Programs",
-      "date": "2026-09-27",
-      "rawDate": "Sep 27",
-      "time": "14:00",
-      "venue": "Irene's Pub",
-      "description": "Tickets Learn more",
-      "url": "https://irenespub.ca/events/glebe-centre-trivia-fundrasier"
     },
     {
       "source": "gctc",
@@ -4454,16 +4725,6 @@
     },
     {
       "source": "bronson",
-      "title": "CBC Radio’s The Debaters",
-      "date": "2026-10-28",
-      "rawDate": "Wednesday, Oct 28, Doors: 6pm",
-      "time": "18:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/cbc-radios-the-debaters-2/"
-    },
-    {
-      "source": "bronson",
       "title": "Tyler Braden",
       "date": "2026-10-30",
       "rawDate": "Friday, Oct 30, Doors: 7pm",
@@ -4511,16 +4772,6 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/econoline-crush/"
-    },
-    {
-      "source": "bronson",
-      "title": "DZIDZIO",
-      "date": "2026-11-12",
-      "rawDate": "Thursday, Nov 12, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/dzidzio/"
     },
     {
       "source": "bronson",
@@ -4591,6 +4842,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/liberace-liza/"
+    },
+    {
+      "source": "bronson",
+      "title": "Minoshkite Indigenous Music & Arts Festival",
+      "date": "2026-11-23",
+      "rawDate": "Monday, Nov 23, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/minoshkite-indigenous-music-arts-festival/"
     },
     {
       "source": "bronson",
@@ -4751,6 +5012,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/troyboi/"
+    },
+    {
+      "source": "bronson",
+      "title": "Christmas by Candlelight",
+      "date": "2026-12-19",
+      "rawDate": "Saturday, Dec 19, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/christmas-by-candlelight/"
     },
     {
       "source": "bronson",
