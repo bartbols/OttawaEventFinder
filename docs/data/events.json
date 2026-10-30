@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-29T12:35:23.737Z",
-  "totalEvents": 481,
+  "scrapedAt": "2026-10-30T12:26:27.892Z",
+  "totalEvents": 480,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,72 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Pre-Show Chat: Stravinsky Stories",
-      "subtitle": "With Christopher Stowell and Ming Luke",
-      "date": "2026-10-29",
-      "rawDate": "2026-10-29",
-      "time": "19:00",
-      "venue": "Glass Thorsteinson Staircase Escalier Glass Thorsteinson",
-      "description": "With Christopher Stowell and Ming Luke",
-      "url": "https://nac-cna.ca/en/event/41809"
-    },
-    {
-      "source": "nac",
-      "title": "CBC Massey Lectures 2026",
-      "subtitle": "Housing Inc.: A Global Takeover and Our Fight for Home",
-      "date": "2026-10-29",
-      "rawDate": "2026-10-29",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "Housing Inc.: A Global Takeover and Our Fight for Home",
-      "url": "https://nac-cna.ca/en/event/41745"
-    },
-    {
-      "source": "nac",
-      "title": "Stravinsky Stories",
-      "subtitle": "Canada’s Royal Winnipeg Ballet",
-      "date": "2026-10-29",
-      "rawDate": "2026-10-29",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "Canada’s Royal Winnipeg Ballet",
-      "url": "https://nac-cna.ca/en/event/40371"
-    },
-    {
-      "source": "nac",
-      "title": "Stravinsky Stories",
-      "subtitle": "Canada’s Royal Winnipeg Ballet",
-      "date": "2026-10-30",
-      "rawDate": "2026-10-30",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "Canada’s Royal Winnipeg Ballet",
-      "url": "https://nac-cna.ca/en/event/40371"
-    },
-    {
-      "source": "nac",
-      "title": "Stravinsky Stories",
-      "subtitle": "Canada’s Royal Winnipeg Ballet",
-      "date": "2026-10-31",
-      "rawDate": "2026-10-31",
-      "time": "20:00",
-      "venue": "Southam Hall Salle Southam",
-      "description": "Canada’s Royal Winnipeg Ballet",
-      "url": "https://nac-cna.ca/en/event/40371"
-    },
-    {
-      "source": "nac",
-      "title": "Passarim",
-      "subtitle": null,
-      "date": "2026-10-29",
-      "rawDate": "2026-10-29",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41963"
-    },
     {
       "source": "nac",
       "title": "Day of the Dead Celebrations",
@@ -1758,14 +1692,70 @@
       "url": "https://nac-cna.ca/en/event/41224"
     },
     {
-      "source": "jazz",
-      "title": "Joep Beving",
-      "date": "2027-10-17",
-      "rawDate": "Sat, Oct 17, 7:00 p.m.",
-      "time": "19:00",
-      "venue": "Ottawa Jazz Festival",
+      "source": "nac",
+      "title": "The Sound of Music",
+      "subtitle": null,
+      "date": "2026-12-29",
+      "rawDate": "2026-12-29",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
       "description": null,
-      "url": "https://program.ottawajazzfestival.com/item/36647-Joep-Beving"
+      "url": "https://nac-cna.ca/en/event/40617"
+    },
+    {
+      "source": "nac",
+      "title": "The Sound of Music",
+      "subtitle": null,
+      "date": "2026-12-30",
+      "rawDate": "2026-12-30",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40617"
+    },
+    {
+      "source": "nac",
+      "title": "The Sound of Music",
+      "subtitle": null,
+      "date": "2026-12-31",
+      "rawDate": "2026-12-31",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40617"
+    },
+    {
+      "source": "nac",
+      "title": "The Sound of Music",
+      "subtitle": null,
+      "date": "2027-01-01",
+      "rawDate": "2027-01-01",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40617"
+    },
+    {
+      "source": "nac",
+      "title": "The Sound of Music",
+      "subtitle": null,
+      "date": "2027-01-02",
+      "rawDate": "2027-01-02",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40617"
+    },
+    {
+      "source": "nac",
+      "title": "The Sound of Music",
+      "subtitle": null,
+      "date": "2027-01-03",
+      "rawDate": "2027-01-03",
+      "time": "19:30",
+      "venue": "Southam Hall Salle Southam",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/40617"
     },
     {
       "source": "jazz",
@@ -2105,7 +2095,7 @@
       "time": "12:30 a.m.",
       "venue": "Red Bird Live",
       "description": "Join Graham Lindsey and his friends Maddy O’Regan and Alanna Jenish for an engaging concert built around Graham’s original instrumental music, performed by three musicians with deep roots in the Canad",
-      "url": "https://www.showpass.com/httpswwwshowpasscomgraham-lindsey-2027/"
+      "url": "https://www.showpass.com/graham-lindsey-2027/"
     },
     {
       "source": "redbird",
@@ -2116,26 +2106,6 @@
       "venue": "Red Bird Live",
       "description": "Jenn Grant is a three-time Juno-nominated singer, songwriter, and internationally acclaimed recording artist whose music has been described as “the aural equivalent of a warm embrace” (Pop Matters), “",
       "url": "https://www.showpass.com/jenn-grant-2/"
-    },
-    {
-      "source": "irenes",
-      "title": "Carleton University’s Faculty of Public and Global Affairs Presents Author Meets Readers",
-      "date": "2026-10-29",
-      "rawDate": "Oct 29",
-      "time": "17:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/x8pwykpofqpmcvjnafwh4pjw9f8dp5"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Mark Wessenger",
-      "date": "2026-10-29",
-      "rawDate": "Oct 29",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw-6nazf"
     },
     {
       "source": "irenes",
@@ -2409,6 +2379,16 @@
     },
     {
       "source": "irenes",
+      "title": "Author Meets Readers | Canada in the Global Refugee Regime",
+      "date": "2026-11-26",
+      "rawDate": "Nov 26",
+      "time": "17:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/author-meets-readers-canada-in-the-global-refugee-regime"
+    },
+    {
+      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Marc Seguin",
       "date": "2026-11-26",
       "rawDate": "Nov 26",
@@ -2539,6 +2519,16 @@
     },
     {
       "source": "irenes",
+      "title": "Author Meets Readers | Oxford Encyclopedia of Islam in North America",
+      "date": "2026-12-10",
+      "rawDate": "Dec 10",
+      "time": "17:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/author-meets-readers-oxford-encyclopedia-of-islam-in-north-america"
+    },
+    {
+      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Matthew Chaffey",
       "date": "2026-12-10",
       "rawDate": "Dec 10",
@@ -2564,7 +2554,7 @@
       "rawDate": "Dec 12",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Drifting Bird Orchidae Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s is 1",
+      "description": "Drifting Bird Orchidae Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is n",
       "url": "https://irenespub.ca/events/chas-guay-drifting-bird-with-special-guest-orchidae"
     },
     {
@@ -2659,16 +2649,6 @@
     },
     {
       "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-12-22",
-      "rawDate": "Dec 22",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-279px-7jn8e"
-    },
-    {
-      "source": "irenes",
       "title": "Christmas Eve - Open til 5 PM",
       "date": "2026-12-24",
       "rawDate": "Dec 24",
@@ -2699,6 +2679,16 @@
     },
     {
       "source": "irenes",
+      "title": "Country Music Appreciation Club with Matthew and Curtis Chaffey - Matinée",
+      "date": "2026-12-27",
+      "rawDate": "Dec 27",
+      "time": "15:00",
+      "venue": "Irene's Pub",
+      "description": null,
+      "url": "https://irenespub.ca/events/country-music-appreciation-club-with-matthew-and-curtis-chaffey"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-12-27",
       "rawDate": "Dec 27",
@@ -2709,13 +2699,13 @@
     },
     {
       "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-12-29",
-      "rawDate": "Dec 29",
+      "title": "Private Party",
+      "date": "2026-12-28",
+      "rawDate": "Dec 28",
       "time": "19:00",
       "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-279px-7jn8e-9h5mt"
+      "description": null,
+      "url": "https://irenespub.ca/events/private-party-1"
     },
     {
       "source": "irenes",
@@ -2736,6 +2726,26 @@
       "venue": "Irene's Pub",
       "description": null,
       "url": "https://irenespub.ca/events/new-years-eve"
+    },
+    {
+      "source": "irenes",
+      "title": "Irene's Thursday Blues Sessions with Guest Host Mark Wessenger",
+      "date": "2026-10-29",
+      "rawDate": "Oct 29",
+      "time": "20:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-k9baw-6nazf"
+    },
+    {
+      "source": "irenes",
+      "title": "Carleton University’s Faculty of Public and Global Affairs Presents Author Meets Readers",
+      "date": "2026-10-29",
+      "rawDate": "Oct 29",
+      "time": "17:00",
+      "venue": "Irene's Pub",
+      "description": "Learn more",
+      "url": "https://irenespub.ca/events/x8pwykpofqpmcvjnafwh4pjw9f8dp5"
     },
     {
       "source": "irenes",
@@ -3016,26 +3026,6 @@
       "venue": "Irene's Pub",
       "description": "Learn more",
       "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-bhhzs"
-    },
-    {
-      "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-09-29",
-      "rawDate": "Sep 29",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue",
-      "date": "2026-09-27",
-      "rawDate": "Sep 27",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue",
-      "url": "https://irenespub.ca/events/the-sunday-night-revue-march-31-ewdbp-c43dm-lbx8p-br9h8-cr3ja-lp28s-a4s2z-ebxnd-68xg9-46m9j-l6w65-3bdbx-phbgg-5t5t2-7r3s5-pztdm-2emba-y4ynn-s8pk7-nahhl-l4n5p-sy2kr-gd6kt-ynwjp-a94b5-jw8wg-jgfwp-95ry4"
     },
     {
       "source": "gctc",
@@ -4995,7 +4985,7 @@
     },
     {
       "source": "bronson",
-      "title": "Guylaine Tanguay Spectacle De Noël",
+      "title": "Guylaine Tanguay ~ Spectacle De Noël",
       "date": "2026-12-16",
       "rawDate": "Wednesday, Dec 16, Doors: 7pm",
       "time": "19:00",
