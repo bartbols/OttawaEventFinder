@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-30T12:26:27.892Z",
-  "totalEvents": 480,
+  "scrapedAt": "2026-10-31T11:56:25.633Z",
+  "totalEvents": 484,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,39 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Day of the Dead Celebrations",
-      "subtitle": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
-      "date": "2026-10-30",
-      "rawDate": "2026-10-30",
-      "time": "18:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
-      "url": "https://nac-cna.ca/en/event/42240"
-    },
-    {
-      "source": "nac",
-      "title": "Afro-Andean Funk",
-      "subtitle": "Todo Migra Tour",
-      "date": "2026-10-30",
-      "rawDate": "2026-10-30",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "Todo Migra Tour",
-      "url": "https://nac-cna.ca/en/event/41185"
-    },
-    {
-      "source": "nac",
-      "title": "The Cabaret of Death",
-      "subtitle": "Performed by the Ballet Mexicain de Montreal",
-      "date": "2026-10-30",
-      "rawDate": "2026-10-30",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": "Performed by the Ballet Mexicain de Montreal",
-      "url": "https://nac-cna.ca/en/event/42151"
-    },
     {
       "source": "nac",
       "title": "Day of the Dead Altar",
@@ -1176,6 +1143,17 @@
     },
     {
       "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-12-01",
+      "rawDate": "2026-12-01",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42282"
+    },
+    {
+      "source": "nac",
       "title": "Powwow Life-Drawing",
       "subtitle": null,
       "date": "2026-12-01",
@@ -1319,6 +1297,39 @@
     },
     {
       "source": "nac",
+      "title": "Les lundis des tout-petits",
+      "subtitle": "French story time with Luana",
+      "date": "2026-12-07",
+      "rawDate": "2026-12-07",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "French story time with Luana",
+      "url": "https://nac-cna.ca/en/event/42274"
+    },
+    {
+      "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-12-07",
+      "rawDate": "2026-12-07",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42279"
+    },
+    {
+      "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-12-08",
+      "rawDate": "2026-12-08",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42283"
+    },
+    {
+      "source": "nac",
       "title": "The Tenors",
       "subtitle": "Season of Hope Tour",
       "date": "2026-12-08",
@@ -1393,6 +1404,17 @@
       "venue": "Azrieli Studio Studio Azrieli",
       "description": "Christmas Around the World",
       "url": "https://nac-cna.ca/en/event/41637"
+    },
+    {
+      "source": "nac",
+      "title": "Les lundis des tout-petits",
+      "subtitle": "French story time with Luana",
+      "date": "2026-12-14",
+      "rawDate": "2026-12-14",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "French story time with Luana",
+      "url": "https://nac-cna.ca/en/event/42276"
     },
     {
       "source": "nac",
@@ -1583,6 +1605,28 @@
     },
     {
       "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-12-14",
+      "rawDate": "2026-12-14",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42280"
+    },
+    {
+      "source": "nac",
+      "title": "Toddler Tuesdays",
+      "subtitle": null,
+      "date": "2026-12-15",
+      "rawDate": "2026-12-15",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42284"
+    },
+    {
+      "source": "nac",
       "title": "Handel's Messiah",
       "subtitle": null,
       "date": "2026-12-15",
@@ -1693,6 +1737,28 @@
     },
     {
       "source": "nac",
+      "title": "Les lundis des tout-petits",
+      "subtitle": "French story time with Luana",
+      "date": "2026-12-21",
+      "rawDate": "2026-12-21",
+      "time": "10:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": "French story time with Luana",
+      "url": "https://nac-cna.ca/en/event/42278"
+    },
+    {
+      "source": "nac",
+      "title": "SoulRhythms",
+      "subtitle": null,
+      "date": "2026-12-21",
+      "rawDate": "2026-12-21",
+      "time": "19:00",
+      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
+      "description": null,
+      "url": "https://nac-cna.ca/en/event/42281"
+    },
+    {
+      "source": "nac",
       "title": "The Sound of Music",
       "subtitle": null,
       "date": "2026-12-29",
@@ -1766,16 +1832,6 @@
       "venue": "Ottawa Jazz Festival",
       "description": null,
       "url": "https://program.ottawajazzfestival.com/item/36738-Harvest-Harmonies-ft-Rebecca-Noelle"
-    },
-    {
-      "source": "redbird",
-      "title": "Gentlemen of the Woods",
-      "date": "2026-10-31",
-      "rawDate": "2026-10-31",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nThe Gentlemen of the Woods began nearly a decade ago as a long-simmering idea among friends ready to refocus their creative energy and see what would happen if they fully committed to making music. W",
-      "url": "https://www.showpass.com/gentlemen-of-the-woods-3/"
     },
     {
       "source": "redbird",
@@ -2106,16 +2162,6 @@
       "venue": "Red Bird Live",
       "description": "Jenn Grant is a three-time Juno-nominated singer, songwriter, and internationally acclaimed recording artist whose music has been described as “the aural equivalent of a warm embrace” (Pop Matters), “",
       "url": "https://www.showpass.com/jenn-grant-2/"
-    },
-    {
-      "source": "irenes",
-      "title": "Revenant Dan & the Murder Crows ft.The Mountain Gems",
-      "date": "2026-10-30",
-      "rawDate": "Oct 30",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Revenant Dan Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarant",
-      "url": "https://irenespub.ca/events/revenant-dan-the-murder-crows-with-the-mountain-gems"
     },
     {
       "source": "irenes",
@@ -2729,6 +2775,16 @@
     },
     {
       "source": "irenes",
+      "title": "Revenant Dan & the Murder Crows ft.The Mountain Gems",
+      "date": "2026-10-30",
+      "rawDate": "Oct 30",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "Revenant Dan Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guarant",
+      "url": "https://irenespub.ca/events/revenant-dan-the-murder-crows-with-the-mountain-gems"
+    },
+    {
+      "source": "irenes",
       "title": "Irene's Thursday Blues Sessions with Guest Host Mark Wessenger",
       "date": "2026-10-29",
       "rawDate": "Oct 29",
@@ -3016,16 +3072,6 @@
       "venue": "Irene's Pub",
       "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Se",
       "url": "https://irenespub.ca/events/run-coyote-with-special-guests-the-berns-leeny-jones"
-    },
-    {
-      "source": "irenes",
-      "title": "Irene's Thursday Blues Sessions with Guest Host Rusty McCarthy",
-      "date": "2026-10-01",
-      "rawDate": "Oct 1",
-      "time": "20:00",
-      "venue": "Irene's Pub",
-      "description": "Learn more",
-      "url": "https://irenespub.ca/events/irenes-thursday-blues-sessions-with-guest-host-6666-w4b2f-3elye-9sgz9-bhhzs"
     },
     {
       "source": "gctc",
@@ -4715,16 +4761,6 @@
     },
     {
       "source": "bronson",
-      "title": "Tyler Braden",
-      "date": "2026-10-30",
-      "rawDate": "Friday, Oct 30, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/tyler-braden/"
-    },
-    {
-      "source": "bronson",
       "title": "Pitbull Halloween Ottawa",
       "date": "2026-10-31",
       "rawDate": "Saturday, Oct 31, Doors: 10pm",
@@ -5072,6 +5108,16 @@
       "venue": "Carleton Dominion-Chalmers Centre",
       "description": null,
       "url": "https://www.chamberfest.com/event/2026/many-faces-of-orlando-ema-nikolovska-sean-shibe/"
+    },
+    {
+      "source": "chamberfest",
+      "title": "Adaptive Concert: Trio Cecilia",
+      "date": "2026-11-22",
+      "rawDate": "Nov 22 2026",
+      "time": "11:00",
+      "venue": "Beechwood Sacred Space",
+      "description": null,
+      "url": "https://www.chamberfest.com/event/2026/adaptive-concert-trio-cecilia/"
     },
     {
       "source": "chamberfest",
