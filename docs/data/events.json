@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-31T11:56:25.633Z",
-  "totalEvents": 484,
+  "scrapedAt": "2026-11-01T12:56:16.989Z",
+  "totalEvents": 475,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,72 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Day of the Dead Altar",
-      "subtitle": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
-      "date": "2026-10-31",
-      "rawDate": "2026-10-31",
-      "time": "00:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
-      "url": "https://nac-cna.ca/en/event/42241"
-    },
-    {
-      "source": "nac",
-      "title": "Day of the Dead Altar",
-      "subtitle": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
-      "date": "2026-11-01",
-      "rawDate": "2026-11-01",
-      "time": "00:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "Presented by Embassy of Mexico in Canada, in collaboration with UNAM-Canadá and the Modern American School of Mexico City",
-      "url": "https://nac-cna.ca/en/event/42241"
-    },
-    {
-      "source": "nac",
-      "title": "À poils",
-      "subtitle": "Explosive, immersive stage experience you can dive straight into",
-      "date": "2026-10-31",
-      "rawDate": "2026-10-31",
-      "time": "15:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "Explosive, immersive stage experience you can dive straight into",
-      "url": "https://nac-cna.ca/en/event/40431"
-    },
-    {
-      "source": "nac",
-      "title": "À poils",
-      "subtitle": "Explosive, immersive stage experience you can dive straight into",
-      "date": "2026-11-01",
-      "rawDate": "2026-11-01",
-      "time": "15:00",
-      "venue": "Azrieli Studio Studio Azrieli",
-      "description": "Explosive, immersive stage experience you can dive straight into",
-      "url": "https://nac-cna.ca/en/event/40431"
-    },
-    {
-      "source": "nac",
-      "title": "The Irish Descendants",
-      "subtitle": "Tribute to Stan Rogers",
-      "date": "2026-10-31",
-      "rawDate": "2026-10-31",
-      "time": "19:30",
-      "venue": "Babs Asper Babs Asper",
-      "description": "Tribute to Stan Rogers",
-      "url": "https://nac-cna.ca/en/event/41599"
-    },
-    {
-      "source": "nac",
-      "title": "Miguel de Armas and Friends",
-      "subtitle": null,
-      "date": "2026-10-31",
-      "rawDate": "2026-10-31",
-      "time": "20:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42028"
-    },
     {
       "source": "nac",
       "title": "Les lundis des tout-petits",
@@ -1835,16 +1769,6 @@
     },
     {
       "source": "redbird",
-      "title": "Gentlemen of the Woods",
-      "date": "2026-11-01",
-      "rawDate": "2026-11-01",
-      "time": "12:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nThe Gentlemen of the Woods began nearly a decade ago as a long-simmering idea among friends ready to refocus their creative energy and see what would happen if they fully committed to making music. W",
-      "url": "https://www.showpass.com/gentlemen-of-the-woods-4/"
-    },
-    {
-      "source": "redbird",
       "title": "Open Stage",
       "date": "2026-11-04",
       "rawDate": "2026-11-04",
@@ -2162,16 +2086,6 @@
       "venue": "Red Bird Live",
       "description": "Jenn Grant is a three-time Juno-nominated singer, songwriter, and internationally acclaimed recording artist whose music has been described as “the aural equivalent of a warm embrace” (Pop Matters), “",
       "url": "https://www.showpass.com/jenn-grant-2/"
-    },
-    {
-      "source": "irenes",
-      "title": "Halloween Disco Night with The Electric Co.",
-      "date": "2026-10-31",
-      "rawDate": "Oct 31",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "The Electric Co. Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not gua",
-      "url": "https://irenespub.ca/events/the-electric-co-halloween-party"
     },
     {
       "source": "irenes",
@@ -2775,6 +2689,16 @@
     },
     {
       "source": "irenes",
+      "title": "Halloween Disco Night with The Electric Co.",
+      "date": "2026-10-31",
+      "rawDate": "Oct 31",
+      "time": "21:00",
+      "venue": "Irene's Pub",
+      "description": "The Electric Co. Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not gua",
+      "url": "https://irenespub.ca/events/the-electric-co-halloween-party"
+    },
+    {
+      "source": "irenes",
       "title": "Revenant Dan & the Murder Crows ft.The Mountain Gems",
       "date": "2026-10-30",
       "rawDate": "Oct 30",
@@ -3062,16 +2986,6 @@
       "venue": "Irene's Pub",
       "description": "Kaiday Isaac Baronikian Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is ",
       "url": "https://irenespub.ca/events/kaede-ep-release-with-special-guests"
-    },
-    {
-      "source": "irenes",
-      "title": "Run Coyote with Special Guests The Berns & Leeny Jones",
-      "date": "2026-10-02",
-      "rawDate": "Oct 2",
-      "time": "21:00",
-      "venue": "Irene's Pub",
-      "description": "Run Coyote The Berns Leeny Jones Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Se",
-      "url": "https://irenespub.ca/events/run-coyote-with-special-guests-the-berns-leeny-jones"
     },
     {
       "source": "gctc",
@@ -4758,16 +4672,6 @@
       "description": "Ottawa Bluesfest 2026",
       "category": "music",
       "url": "https://ottawabluesfest.ca/schedule/#/event/324"
-    },
-    {
-      "source": "bronson",
-      "title": "Pitbull Halloween Ottawa",
-      "date": "2026-10-31",
-      "rawDate": "Saturday, Oct 31, Doors: 10pm",
-      "time": "22:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/pitbull-halloween-ottawa/"
     },
     {
       "source": "bronson",
