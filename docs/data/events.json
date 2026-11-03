@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-11-02T15:12:06.175Z",
-  "totalEvents": 472,
+  "scrapedAt": "2026-11-03T13:53:33.037Z",
+  "totalEvents": 471,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,28 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Les lundis des tout-petits",
-      "subtitle": "French story time with Luana",
-      "date": "2026-11-02",
-      "rawDate": "2026-11-02",
-      "time": "10:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": "French story time with Luana",
-      "url": "https://nac-cna.ca/en/event/42196"
-    },
-    {
-      "source": "nac",
-      "title": "SoulRhythms",
-      "subtitle": null,
-      "date": "2026-11-02",
-      "rawDate": "2026-11-02",
-      "time": "19:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42158"
-    },
     {
       "source": "nac",
       "title": "Toddler Tuesdays",
@@ -2089,16 +2067,6 @@
     },
     {
       "source": "irenes",
-      "title": "DIFTG  7th Anniversary Exhibition DEVELOPMENT Finissage",
-      "date": "2026-11-02",
-      "rawDate": "Nov 2",
-      "time": "18:00",
-      "venue": "Irene's Pub",
-      "description": "DIFTG",
-      "url": "https://irenespub.ca/events/development-finissage-of-the-7th-anniversary-exhibition"
-    },
-    {
-      "source": "irenes",
       "title": "Trivia Tuesday",
       "date": "2026-11-03",
       "rawDate": "Nov 3",
@@ -2679,6 +2647,16 @@
     },
     {
       "source": "irenes",
+      "title": "DIFTG  7th Anniversary Exhibition DEVELOPMENT Finissage",
+      "date": "2026-11-02",
+      "rawDate": "Nov 2",
+      "time": "18:00",
+      "venue": "Irene's Pub",
+      "description": "DIFTG",
+      "url": "https://irenespub.ca/events/development-finissage-of-the-7th-anniversary-exhibition"
+    },
+    {
+      "source": "irenes",
       "title": "The Sunday Night Revue",
       "date": "2026-11-01",
       "rawDate": "Nov 1",
@@ -2966,16 +2944,6 @@
       "venue": "Irene's Pub",
       "description": "The Sunday Night Revue Talise",
       "url": "https://irenespub.ca/events/2mbrb49k55mn8x6"
-    },
-    {
-      "source": "irenes",
-      "title": "Bec & Rusty - Matinée",
-      "date": "2026-10-04",
-      "rawDate": "Oct 4",
-      "time": "15:00",
-      "venue": "Irene's Pub",
-      "description": "Rebecca Campbell Russell Levia Click here to buy ticketsSell tickets online with Ticket Tailor ‍ ‍Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. S",
-      "url": "https://irenespub.ca/events/bec-rusty"
     },
     {
       "source": "gctc",
@@ -4915,6 +4883,16 @@
     },
     {
       "source": "bronson",
+      "title": "Bytown Sea Shanty Collective 2026 Holiday Fundraiser",
+      "date": "2026-12-18",
+      "rawDate": "Friday, Dec 18, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/bytown-sea-shanty-collective-2026-holiday-fundraiser/"
+    },
+    {
+      "source": "bronson",
       "title": "Christmas by Candlelight",
       "date": "2026-12-19",
       "rawDate": "Saturday, Dec 19, Doors: 7pm",
@@ -4972,6 +4950,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/gianmarco-soresi/"
+    },
+    {
+      "source": "bronson",
+      "title": "Jonah Kagen",
+      "date": "2027-05-15",
+      "rawDate": "Saturday, May 15, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jonah-kagen/"
     },
     {
       "source": "chamberfest",
