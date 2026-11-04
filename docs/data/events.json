@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-11-03T13:53:33.037Z",
-  "totalEvents": 471,
+  "scrapedAt": "2026-11-04T14:01:35.865Z",
+  "totalEvents": 467,
   "errors": [
     {
       "scraper": "scrapeOttawaGigs",
@@ -8,28 +8,6 @@
     }
   ],
   "events": [
-    {
-      "source": "nac",
-      "title": "Toddler Tuesdays",
-      "subtitle": null,
-      "date": "2026-11-03",
-      "rawDate": "2026-11-03",
-      "time": "10:00",
-      "venue": "Peter A. Herrndorf Place Place Peter A. Herrndorf",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/42167"
-    },
-    {
-      "source": "nac",
-      "title": "Powwow Life-Drawing",
-      "subtitle": null,
-      "date": "2026-11-03",
-      "rawDate": "2026-11-03",
-      "time": "18:00",
-      "venue": "Fourth Stage Quatrième Salle",
-      "description": null,
-      "url": "https://nac-cna.ca/en/event/41794"
-    },
     {
       "source": "nac",
       "title": "Dreamcatcher Workshop",
@@ -186,7 +164,7 @@
     },
     {
       "source": "nac",
-      "title": "Music for a Sunday Afternoon: Fall Edition (Free Livestream)",
+      "title": "Music for a Sunday Afternoon: Fall edition (Free livestream)",
       "subtitle": "with John Storgårds and members of the NAC Orchestra",
       "date": "2026-11-08",
       "rawDate": "2026-11-08",
@@ -1747,16 +1725,6 @@
     },
     {
       "source": "redbird",
-      "title": "Open Stage",
-      "date": "2026-11-04",
-      "rawDate": "2026-11-04",
-      "time": "1:00 a.m.",
-      "venue": "Red Bird Live",
-      "description": "\nAwesome Hosts\nDedicated Sound Tech\nAttentive and Supportive Audience\nsign up/put your name in the hat between 7pm and 7:45pm\ntwo songs, up to 10 minutes of stage time per performer\n4/16 spots reserve",
-      "url": "https://www.showpass.com/open-stage-7-26-11-03-20-9542/"
-    },
-    {
-      "source": "redbird",
       "title": "Bluegrass Wednesdays ft. Maple Hill",
       "date": "2026-11-05",
       "rawDate": "2026-11-05",
@@ -2067,16 +2035,6 @@
     },
     {
       "source": "irenes",
-      "title": "Trivia Tuesday",
-      "date": "2026-11-03",
-      "rawDate": "Nov 3",
-      "time": "19:00",
-      "venue": "Irene's Pub",
-      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
-      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-9d5bg"
-    },
-    {
-      "source": "irenes",
       "title": "The Prime Rib Big Band",
       "date": "2026-11-04",
       "rawDate": "Nov 4",
@@ -2287,7 +2245,7 @@
     },
     {
       "source": "irenes",
-      "title": "TBA",
+      "title": "Autumn Rayne's Fun House: The show that messed with its performers",
       "date": "2026-11-25",
       "rawDate": "Nov 25",
       "time": "20:00",
@@ -2527,12 +2485,12 @@
     },
     {
       "source": "irenes",
-      "title": "Jim's Plumbing & Electrical with Special Guests",
+      "title": "Jim's Plumbing and Electrical & friends",
       "date": "2026-12-18",
       "rawDate": "Dec 18",
       "time": "21:00",
       "venue": "Irene's Pub",
-      "description": "Jim's Plumbing & Electrical Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating is not guaranteed. Please come early to get a good seat.Irene’s",
+      "description": "Jim's Plumbing & Electrical Click here to buy ticketsSell tickets online with Ticket Tailor Ticket price at the door may be higher than advanced ticket price.All tickets are General Admission. Seating",
       "url": "https://irenespub.ca/events/jims-plumbing-electrical"
     },
     {
@@ -2644,6 +2602,16 @@
       "venue": "Irene's Pub",
       "description": null,
       "url": "https://irenespub.ca/events/new-years-eve"
+    },
+    {
+      "source": "irenes",
+      "title": "Trivia Tuesday",
+      "date": "2026-11-03",
+      "rawDate": "Nov 3",
+      "time": "19:00",
+      "venue": "Irene's Pub",
+      "description": "Trivia Hall of Fame Trivia is first come first serve.We do not take Reservations.Please come early to get a good seat.",
+      "url": "https://irenespub.ca/events/irenes-triviatuesday6-prmya-t9hxh-2pcc5-t2lz8-fb5sj-kny2w-4mtef-x6g9y-9dedm-b95ns-t97d4-s9ea4-4crdg-9kj72-y4ngm-9ja2w-taegd-6xddy-rggrk-9d5bg"
     },
     {
       "source": "irenes",
@@ -2934,16 +2902,6 @@
       "venue": "Irene's Pub",
       "description": "Capital Music Week Kalle Mattson Tickets FREE with RSVP",
       "url": "https://irenespub.ca/events/capital-music-week-presents-community-songwriting-lyric-workshop-with-kalle-mattson"
-    },
-    {
-      "source": "irenes",
-      "title": "The Sunday Night Revue with Special Guest Talise",
-      "date": "2026-10-04",
-      "rawDate": "Oct 4",
-      "time": "20:30",
-      "venue": "Irene's Pub",
-      "description": "The Sunday Night Revue Talise",
-      "url": "https://irenespub.ca/events/2mbrb49k55mn8x6"
     },
     {
       "source": "gctc",
@@ -4623,16 +4581,6 @@
     },
     {
       "source": "bronson",
-      "title": "AMBLE – SOLD OUT",
-      "date": "2026-11-03",
-      "rawDate": "Tuesday, Nov 3, Doors: 7pm",
-      "time": "19:00",
-      "venue": "The Bronson",
-      "description": null,
-      "url": "https://bronsoncentremusictheatre.com/events/event/amble/"
-    },
-    {
-      "source": "bronson",
       "title": "Econoline Crush",
       "date": "2026-11-06",
       "rawDate": "Friday, Nov 6, Doors: 7pm",
@@ -4823,7 +4771,7 @@
     },
     {
       "source": "bronson",
-      "title": "DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS ~ NEW DATE ~",
+      "title": "DAAAM! THIS IS HIP HOP! – LIVE IN CONCERT – featuring Tha Alkaholiks",
       "date": "2026-12-12",
       "rawDate": "Saturday, Dec 12, Doors: 8pm",
       "time": "20:00",
@@ -4910,6 +4858,16 @@
       "venue": "The Bronson",
       "description": null,
       "url": "https://bronsoncentremusictheatre.com/events/event/death-from-above-1979/"
+    },
+    {
+      "source": "bronson",
+      "title": "Jeff Martin (of The Tea Party)",
+      "date": "2027-03-06",
+      "rawDate": "Saturday, Mar 6, Doors: 7pm",
+      "time": "19:00",
+      "venue": "The Bronson",
+      "description": null,
+      "url": "https://bronsoncentremusictheatre.com/events/event/jeff-martin-of-the-tea-party/"
     },
     {
       "source": "bronson",
